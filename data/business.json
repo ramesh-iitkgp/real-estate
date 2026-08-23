@@ -1,0 +1,111 @@
+{
+  "business_name": "Apex Premier Realty & Luxury Estates",
+  "canonical_name": "Apex Premier Realty",
+  "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+  "category": "Real Estate Agency",
+  "industry": "real_estate",
+  "city": "Miami",
+  "country": "United States",
+  "currency_symbol": "$",
+  "currency_code": "USD",
+  "phone": "+1 (305) 842-7900",
+  "whatsapp": "+13058427900",
+  "email": "inquiries@apexpremier-realty.com",
+  "address": "1100 Brickell Bay Dr, Suite 2400, Miami, FL 33131",
+  "opening_hours": "Mon - Sat: 8:30 AM - 7:30 PM | Sun: By Private Appointment",
+  "hero_image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1920&q=85",
+  "rating": 4.9,
+  "review_count": 142,
+  "stats": {
+    "volume_sold": "$185M+",
+    "list_to_sale_ratio": "99.4%",
+    "avg_days_on_market": "16 Days",
+    "happy_clients": "450+"
+  },
+  "featured_properties": [
+    {
+      "id": "prop-1",
+      "title": "The Grand Bayfront Villa",
+      "location": "Brickell Waterfront, Miami",
+      "price": "$4,850,000",
+      "price_raw": 4850000,
+      "tag": "Featured Exclusive",
+      "type": "villa",
+      "beds": 5,
+      "baths": 6,
+      "sqft": "6,400 sq ft",
+      "image": "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+      "features": ["Private Marina Dock", "Infinity Pool", "Smart Home Automation", "Wine Cellar"]
+    },
+    {
+      "id": "prop-2",
+      "title": "Skyline Panorama Penthouse",
+      "location": "Downtown High-Rise, Miami",
+      "price": "$2,950,000",
+      "price_raw": 2950000,
+      "tag": "Just Listed",
+      "type": "penthouse",
+      "beds": 3,
+      "baths": 3.5,
+      "sqft": "3,850 sq ft",
+      "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "features": ["360° Ocean Views", "Private Elevator", "Wraparound Terrace", "Valet Concierge"]
+    },
+    {
+      "id": "prop-3",
+      "title": "Modernist Tropical Sanctuary",
+      "location": "Coconut Grove, Miami",
+      "price": "$3,400,000",
+      "price_raw": 3400000,
+      "tag": "Price Reduced",
+      "type": "family_home",
+      "beds": 4,
+      "baths": 4.5,
+      "sqft": "4,950 sq ft",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "features": ["Lush Botanical Courtyard", "Chef's Kitchen", "Solar Powered", "Gated Security"]
+    },
+    {
+      "id": "prop-4",
+      "title": "Prime Biscayne Retail & Office Hub",
+      "location": "Biscayne Boulevard, Miami",
+      "price": "$6,200,000",
+      "price_raw": 6200000,
+      "tag": "Investment",
+      "type": "commercial",
+      "beds": 0,
+      "baths": 4,
+      "sqft": "9,800 sq ft",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+      "features": ["100% Leased Triple Net", "High Footfall Zone", "45 Dedicated Parking", "7.8% Cap Rate"]
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Marcus & Elena Vance",
+      "role": "Sold $4.2M Waterfront Residence",
+      "rating": 5,
+      "text": "Apex Premier managed the listing of our luxury property with incredible discretion and speed. They brought 4 qualified private buyers in 8 days and negotiated $120k above asking. Unrivaled professionalism.",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&q=80"
+    },
+    {
+      "author": "Dr. Julian Thorne",
+      "role": "Purchased Skyline Penthouse",
+      "rating": 5,
+      "text": "As an out-of-state investor, their local market insights and rapid video walkthroughs saved me dozens of hours. The private viewing to closing process was completely flawless.",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80"
+    },
+    {
+      "author": "Sophia Rossi",
+      "role": "Commercial Portfolio Acquisition",
+      "rating": 5,
+      "text": "Their financial modeling, cap-rate verification, and zoning expertise make them our go-to brokerage for all prime commercial acquisitions.",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&q=80"
+    }
+  ],
+  "social": {
+    "instagram": "https://instagram.com",
+    "facebook": "https://facebook.com",
+    "linkedin": "https://linkedin.com"
+  }
+}
