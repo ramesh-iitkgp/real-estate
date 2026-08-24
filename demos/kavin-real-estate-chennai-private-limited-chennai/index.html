@@ -12,7 +12,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,800;1,400;1,600&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
   
-  <link rel="stylesheet" href="./style.css" />
+  <link rel="stylesheet" href="./style.css?v=3.0" />
 </head>
 <body>
 
@@ -162,7 +162,212 @@
 
         <!-- Property Grid Container -->
         <div class="listings-grid" id="properties-grid-container">
-          <!-- Populated dynamically by script.js -->
+          <!-- Card 1: Villa -->
+          <div class="property-card">
+            <div class="property-img-wrap">
+              <img src="https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80" alt="Royal Palm Luxury Villa & Private Lawn" class="property-img" loading="lazy" />
+              <span class="property-badge-tag">Featured Exclusive</span>
+              <span class="property-price-tag">₹4.75 Cr</span>
+            </div>
+            <div class="property-body">
+              <h3 class="property-title">Royal Palm Luxury Villa &amp; Private Lawn</h3>
+              <div class="property-location">
+                <span>📍</span>
+                <span>Prime Coastal Corridor, <span data-bind="city">Chennai</span></span>
+              </div>
+              <div class="property-specs">
+                <span>🛏️ <strong>4</strong> Beds</span>
+                <span>🚿 <strong>5</strong> Baths</span>
+                <span>📐 <strong>4,850 sq ft</strong></span>
+              </div>
+              <div class="property-features-row">
+                <span class="prop-feature-pill">Private Garden</span>
+                <span class="prop-feature-pill">Infinity Pool</span>
+                <span class="prop-feature-pill">Gated Security</span>
+                <span class="prop-feature-pill">Vastu Compliant</span>
+              </div>
+              <div style="display: grid; grid-template-columns: 1fr auto; gap: 8px; margin-top: 14px;">
+                <a href="#contact" class="property-cta-btn" onclick="prefillPropertyInquiry('Royal Palm Luxury Villa', '₹4.75 Cr')">
+                  <span>Book Site Visit &rarr;</span>
+                </a>
+                <a href="#contact" class="hero-btn-whatsapp" style="padding: 10px 14px; border-radius: var(--radius-sm); font-size: 0.82rem; font-weight: 700; gap: 4px;" title="Inquire on WhatsApp">
+                  <span>💬 Chat</span>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Card 2: Penthouse -->
+          <div class="property-card">
+            <div class="property-img-wrap">
+              <img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80" alt="Grand Horizon Skyline Penthouse" class="property-img" loading="lazy" />
+              <span class="property-badge-tag">Ready to Move</span>
+              <span class="property-price-tag">₹2.90 Cr</span>
+            </div>
+            <div class="property-body">
+              <h3 class="property-title">Grand Horizon Skyline Penthouse</h3>
+              <div class="property-location">
+                <span>📍</span>
+                <span>CBD Central Boulevard, <span data-bind="city">Chennai</span></span>
+              </div>
+              <div class="property-specs">
+                <span>🛏️ <strong>3</strong> Beds</span>
+                <span>🚿 <strong>3.5</strong> Baths</span>
+                <span>📐 <strong>3,200 sq ft</strong></span>
+              </div>
+              <div class="property-features-row">
+                <span class="prop-feature-pill">Panoramic City Views</span>
+                <span class="prop-feature-pill">Private Lift</span>
+                <span class="prop-feature-pill">Clubhouse &amp; Gym</span>
+                <span class="prop-feature-pill">2 Covered Car Parks</span>
+              </div>
+              <div style="display: grid; grid-template-columns: 1fr auto; gap: 8px; margin-top: 14px;">
+                <a href="#contact" class="property-cta-btn" onclick="prefillPropertyInquiry('Grand Horizon Skyline Penthouse', '₹2.90 Cr')">
+                  <span>Book Site Visit &rarr;</span>
+                </a>
+                <a href="#contact" class="hero-btn-whatsapp" style="padding: 10px 14px; border-radius: var(--radius-sm); font-size: 0.82rem; font-weight: 700; gap: 4px;" title="Inquire on WhatsApp">
+                  <span>💬 Chat</span>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Card 3: Family Residence -->
+          <div class="property-card">
+            <div class="property-img-wrap">
+              <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80" alt="Modern Premium 3 & 4 BHK Family Residences" class="property-img" loading="lazy" />
+              <span class="property-badge-tag">New Launch</span>
+              <span class="property-price-tag">₹1.45 Cr</span>
+            </div>
+            <div class="property-body">
+              <h3 class="property-title">Modern Premium 3 &amp; 4 BHK Family Residences</h3>
+              <div class="property-location">
+                <span>📍</span>
+                <span>Greenwood Enclave, <span data-bind="city">Chennai</span></span>
+              </div>
+              <div class="property-specs">
+                <span>🛏️ <strong>3</strong> Beds</span>
+                <span>🚿 <strong>3</strong> Baths</span>
+                <span>📐 <strong>2,150 sq ft</strong></span>
+              </div>
+              <div class="property-features-row">
+                <span class="prop-feature-pill">Kids Play Area</span>
+                <span class="prop-feature-pill">Power Backup</span>
+                <span class="prop-feature-pill">RERA Approved</span>
+                <span class="prop-feature-pill">24/7 CCTV</span>
+              </div>
+              <div style="display: grid; grid-template-columns: 1fr auto; gap: 8px; margin-top: 14px;">
+                <a href="#contact" class="property-cta-btn" onclick="prefillPropertyInquiry('Modern Premium 3 & 4 BHK Family Residences', '₹1.45 Cr')">
+                  <span>Book Site Visit &rarr;</span>
+                </a>
+                <a href="#contact" class="hero-btn-whatsapp" style="padding: 10px 14px; border-radius: var(--radius-sm); font-size: 0.82rem; font-weight: 700; gap: 4px;" title="Inquire on WhatsApp">
+                  <span>💬 Chat</span>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Card 4: Commercial Space -->
+          <div class="property-card">
+            <div class="property-img-wrap">
+              <img src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80" alt="Prime Commercial Retail & Corporate Suites" class="property-img" loading="lazy" />
+              <span class="property-badge-tag">High ROI Investment</span>
+              <span class="property-price-tag">₹6.80 Cr</span>
+            </div>
+            <div class="property-body">
+              <h3 class="property-title">Prime Commercial Retail &amp; Corporate Suites</h3>
+              <div class="property-location">
+                <span>📍</span>
+                <span>Main Arterial Expressway, <span data-bind="city">Chennai</span></span>
+              </div>
+              <div class="property-specs">
+                <span>🚿 <strong>4</strong> Restrooms</span>
+                <span>📐 <strong>8,500 sq ft</strong></span>
+              </div>
+              <div class="property-features-row">
+                <span class="prop-feature-pill">100% Occupancy</span>
+                <span class="prop-feature-pill">High Footfall Corridor</span>
+                <span class="prop-feature-pill">Grade-A Glass Facade</span>
+                <span class="prop-feature-pill">Ample Visitor Parking</span>
+              </div>
+              <div style="display: grid; grid-template-columns: 1fr auto; gap: 8px; margin-top: 14px;">
+                <a href="#contact" class="property-cta-btn" onclick="prefillPropertyInquiry('Prime Commercial Retail Hub', '₹6.80 Cr')">
+                  <span>Book Site Visit &rarr;</span>
+                </a>
+                <a href="#contact" class="hero-btn-whatsapp" style="padding: 10px 14px; border-radius: var(--radius-sm); font-size: 0.82rem; font-weight: 700; gap: 4px;" title="Inquire on WhatsApp">
+                  <span>💬 Chat</span>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Card 5: Gated Plots -->
+          <div class="property-card">
+            <div class="property-img-wrap">
+              <img src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80" alt="Luxury Gated Community Villa Plots" class="property-img" loading="lazy" />
+              <span class="property-badge-tag">Clear Title</span>
+              <span class="property-price-tag">₹85 Lakhs</span>
+            </div>
+            <div class="property-body">
+              <h3 class="property-title">Luxury Gated Community Villa Plots</h3>
+              <div class="property-location">
+                <span>📍</span>
+                <span>South Extension Corridor, <span data-bind="city">Chennai</span></span>
+              </div>
+              <div class="property-specs">
+                <span>📐 <strong>2,400 sq ft Plot</strong></span>
+              </div>
+              <div class="property-features-row">
+                <span class="prop-feature-pill">Blacktop Roads</span>
+                <span class="prop-feature-pill">Underground Cabling</span>
+                <span class="prop-feature-pill">Immediate Registration</span>
+                <span class="prop-feature-pill">Bank Approved</span>
+              </div>
+              <div style="display: grid; grid-template-columns: 1fr auto; gap: 8px; margin-top: 14px;">
+                <a href="#contact" class="property-cta-btn" onclick="prefillPropertyInquiry('Luxury Gated Community Villa Plots', '₹85 Lakhs')">
+                  <span>Book Site Visit &rarr;</span>
+                </a>
+                <a href="#contact" class="hero-btn-whatsapp" style="padding: 10px 14px; border-radius: var(--radius-sm); font-size: 0.82rem; font-weight: 700; gap: 4px;" title="Inquire on WhatsApp">
+                  <span>💬 Chat</span>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Card 6: Duplex -->
+          <div class="property-card">
+            <div class="property-img-wrap">
+              <img src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80" alt="Contemporary Lakeview Duplex Residence" class="property-img" loading="lazy" />
+              <span class="property-badge-tag">Spotlight Deal</span>
+              <span class="property-price-tag">₹3.20 Cr</span>
+            </div>
+            <div class="property-body">
+              <h3 class="property-title">Contemporary Lakeview Duplex Residence</h3>
+              <div class="property-location">
+                <span>📍</span>
+                <span>Lakeview Promenade, <span data-bind="city">Chennai</span></span>
+              </div>
+              <div class="property-specs">
+                <span>🛏️ <strong>4</strong> Beds</span>
+                <span>🚿 <strong>4</strong> Baths</span>
+                <span>📐 <strong>3,650 sq ft</strong></span>
+              </div>
+              <div class="property-features-row">
+                <span class="prop-feature-pill">Double Height Living</span>
+                <span class="prop-feature-pill">Private Terrace</span>
+                <span class="prop-feature-pill">Solar Grid</span>
+                <span class="prop-feature-pill">Designer Modular Kitchen</span>
+              </div>
+              <div style="display: grid; grid-template-columns: 1fr auto; gap: 8px; margin-top: 14px;">
+                <a href="#contact" class="property-cta-btn" onclick="prefillPropertyInquiry('Contemporary Lakeview Duplex', '₹3.20 Cr')">
+                  <span>Book Site Visit &rarr;</span>
+                </a>
+                <a href="#contact" class="hero-btn-whatsapp" style="padding: 10px 14px; border-radius: var(--radius-sm); font-size: 0.82rem; font-weight: 700; gap: 4px;" title="Inquire on WhatsApp">
+                  <span>💬 Chat</span>
+                </a>
+              </div>
+            </div>
+          </div>
         </div>
 
       </div>
@@ -441,6 +646,6 @@
   </nav>
 
   <!-- Script -->
-  <script src="./script.js"></script>
+  <script src="./script.js?v=3.0"></script>
 </body>
 </html>
