@@ -1,0 +1,50 @@
+{
+    "business_name": "Which Floor Realty Pvt Ltd",
+    "source_business_name": "Which Floor Realty Pvt Ltd",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919039572226",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://whichfloor.in/",
+    "address": "\n512 Apollo Premier, Vijay Nagar Square, Indore, Madhya Pradesh 452010",
+    "city": "Downtown indore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Which+Floor+Realty+Pvt+Ltd/data=!4m7!3m6!1s0x3962fd17f91289f5:0x1bbc2517871ee916!8m2!3d22.7500502!4d75.8965888!16s%2Fg%2F11mv2py5ly!19sChIJ9YkS-Rf9YjkRFukehxclvBs?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown indore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
