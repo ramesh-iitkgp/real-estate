@@ -1,0 +1,50 @@
+{
+    "business_name": "Brij Properties Sachin Walia",
+    "source_business_name": "Brij Properties Sachin Walia",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919056111777",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nFirst Floor, Cabin No. 102, S.C.O. 144-145, Sector 34B, Sector 34, Chandigarh, 160022",
+    "city": "Chandigarh",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "103",
+    "google_maps_url": "https://www.google.com/maps/place/Brij+Properties+Sachin+Walia/data=!4m7!3m6!1s0x390fedd9927678eb:0x7993da6c86f46c94!8m2!3d30.7199167!4d76.7687655!16s%2Fg%2F11tjg9rp8t!19sChIJ63h2ktntDzkRlGz0hmzak3k?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Chandigarh"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

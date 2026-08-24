@@ -1,0 +1,50 @@
+{
+    "business_name": "Ccs Real Estate Private Limited",
+    "source_business_name": "Ccs Real Estate Private Limited",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918558806719",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.ccsrealestates.com/",
+    "address": "\nB210, 2nd floor, &, Elante Mall Office Complex, Business Park, Industrial Area Phase I, Chandigarh, 160002",
+    "city": "Chandigarh",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "375",
+    "google_maps_url": "https://www.google.com/maps/place/CCS+Real+Estate+Private+Limited/data=!4m7!3m6!1s0x390fed499446937d:0x481d90ff3431b9d!8m2!3d30.7042206!4d76.8016876!16s%2Fg%2F11fslhr82c!19sChIJfZNGlEntDzkRnRtD8w_ZgQQ?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Chandigarh"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

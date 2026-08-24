@@ -1,0 +1,50 @@
+{
+    "business_name": "Shrinath Estate",
+    "source_business_name": "Shrinath Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919041062555",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.shrinathestate.in/",
+    "address": "\nSecond Floor, Sector 44D, SCO 371, Sector 44D, Sector 44, Chandigarh, 160047",
+    "city": "South Chandigarh",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "21",
+    "google_maps_url": "https://www.google.com/maps/place/Shrinath+Estate/data=!4m7!3m6!1s0x390fec34474dbb13:0x8c7cfe1904259ef2!8m2!3d30.713659!4d76.7502416!16s%2Fg%2F11s7rls_mx!19sChIJE7tNRzTsDzkR8p4lBBn-fIw?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Chandigarh"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

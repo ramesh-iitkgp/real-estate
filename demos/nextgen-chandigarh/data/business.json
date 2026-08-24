@@ -1,0 +1,50 @@
+{
+    "business_name": "Nextgen",
+    "source_business_name": "Nextgen",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917090044000",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nPhase 9, Sahibzada Ajit Singh Nagar, Punjab 160062",
+    "city": "Chandigarh",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "634",
+    "google_maps_url": "https://www.google.com/maps/place/NEXTGEN/data=!4m7!3m6!1s0x390fefcae6aaaaab:0xecc47adc819d7ef7!8m2!3d30.6931392!4d76.7347597!16s%2Fg%2F11hcdssj1f!19sChIJq6qq5srvDzkR936dgdx6xOw?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Chandigarh"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Mirador Realty - Real Estate Agent & Property Dealer In Mohali",
+    "source_business_name": "Mirador Realty - Real Estate Agent & Property Dealer In Mohali",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919609000042",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://miradorrealty.com/",
+    "address": "\nThird floor, Jubilee Junction, SCO 28, Airport Road, opposite INDIAN SCHOOL OF BUSINESS, Sector 66, Sahibzada Ajit Singh Nagar, Punjab 160062",
+    "city": "Chandigarh",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "205",
+    "google_maps_url": "https://www.google.com/maps/place/Mirador+Realty+-+Real+Estate+Agent+%26+Property+Dealer+in+Mohali/data=!4m7!3m6!1s0x390fefeb5d061985:0xfc42ea8927b311da!8m2!3d30.6719646!4d76.7279492!16s%2Fg%2F11w9fh4779!19sChIJhRkGXevvDzkR2hGzJ4nqQvw?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Chandigarh"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
