@@ -1,0 +1,50 @@
+{
+    "business_name": "Namma Veedu Housing & Real Estate Company-Estate Agents",
+    "source_business_name": "Namma Veedu Housing & Real Estate Company-Estate Agents",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917845671995",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nShop No. 183, PANCHAYAT UNION OFFICE, GNT Rd, behind PUZHAL, Kavankarai, Puzhal, Chennai, Greater Chennai, Tamil Nadu 600066",
+    "city": "Chennai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Namma+veedu+Housing+%26+Real+Estate+Company-Estate+Agents+Chennai/data=!4m7!3m6!1s0x3a527d6402368a07:0xf7b0cdcb610c1144!8m2!3d13.1675788!4d80.2012041!16s%2Fg%2F11g0qdbbbl!19sChIJB4o2AmR9UjoRRBEMYcvNsPc?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Chennai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

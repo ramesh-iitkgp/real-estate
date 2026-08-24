@@ -1,0 +1,50 @@
+{
+    "business_name": "Subhiksham Realty & Propert Management",
+    "source_business_name": "Subhiksham Realty & Propert Management",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919381703334",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nW6XQ+RR8, 200 Feet Radial Rd, Seevaram, Thoraipakkam, Chennai, Tamil Nadu 600097",
+    "city": "North Chennai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "13",
+    "google_maps_url": "https://www.google.com/maps/place/Subhiksham+Realty+%26+Propert+Management/data=!4m7!3m6!1s0x3a525e69366bd3e7:0xc81c8499ff7b55b7!8m2!3d12.949546!4d80.2395935!16s%2Fg%2F11bw1wcc9r!19sChIJ59NrNmleUjoRt1V7_5mEHMg?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Chennai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

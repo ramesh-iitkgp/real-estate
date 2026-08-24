@@ -1,0 +1,50 @@
+{
+    "business_name": "Srinivasa Real Estate",
+    "source_business_name": "Srinivasa Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919941187202",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.srinivasarealestate.com/",
+    "address": "\n45/7A, 200 Feet Radial Rd, Thuraipakkam, Vinayaganagar, MCN Nagar Extension, Thoraipakkam, Greater Chennai, Tamil Nadu 600097",
+    "city": "North Chennai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "47",
+    "google_maps_url": "https://www.google.com/maps/place/Srinivasa+real+estate/data=!4m7!3m6!1s0x3a525d038571596f:0x9f91401af2275e92!8m2!3d12.9494641!4d80.2346747!16s%2Fg%2F1q5bmkfbb!19sChIJb1lxhQNdUjoRkl4n8hpAkZ8?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Chennai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
