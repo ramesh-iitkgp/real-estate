@@ -1,0 +1,50 @@
+{
+    "business_name": "Aangan Associates",
+    "source_business_name": "Aangan Associates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919111031143",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nNear Palasia Square, New Palasia, Indore, Madhya Pradesh 452001",
+    "city": "West Indore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/AANGAN+ASSOCIATES/data=!4m7!3m6!1s0x3962fd1c097d3bb3:0x86e5ab7071c948d8!8m2!3d22.7240563!4d75.8865066!16s%2Fg%2F11w441qf_x!19sChIJszt9CRz9YjkR2EjJcXCr5YY?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Indore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

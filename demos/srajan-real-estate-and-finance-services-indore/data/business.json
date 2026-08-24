@@ -1,0 +1,50 @@
+{
+    "business_name": "Srajan Real Estate And Finance Services",
+    "source_business_name": "Srajan Real Estate And Finance Services",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919977923456",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n598, MR-6, RR Avenue, Tulsi Nagar, Mahalaxmi Nagar, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Srajan+Real+Estate+and+Finance+Services/data=!4m7!3m6!1s0x39631dcf887daf97:0x2c434326729ba8b3!8m2!3d22.762502!4d75.9149973!16s%2Fg%2F11yl4fh5vm!19sChIJl699iM8dYzkRs6ibciZDQyw?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Indore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Adcon Realty Private Limited",
+    "source_business_name": "Adcon Realty Private Limited",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919907514400",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.adconrealty.com/",
+    "address": "\nSkye Corporate Park, 316, AB Rd, opposite Shalimar Township, Sector B, Slice 5, Aranya Nagar, Scheme 78, Vijay Nagar, Indore, Madhya Pradesh 452010",
+    "city": "Downtown Indore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Adcon+Realty+Private+Limited/data=!4m7!3m6!1s0x3962fde27f0be125:0x2ac8a1bb72b380fe!8m2!3d22.7640247!4d75.8988262!16s%2Fg%2F11mvzvc9h5!19sChIJJeELf-L9YjkR_oCzcruhyCo?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Indore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Property Square",
+    "source_business_name": "Property Square",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919522229283",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nGopur Square, Gopur Colony, Indore, Madhya Pradesh 452009",
+    "city": "Indore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Property+Square+Indore/data=!4m7!3m6!1s0x3962fdb01b471d6f:0x12ee43a0ea240cac!8m2!3d22.6838333!4d75.8292959!16s%2Fg%2F11n104_v28!19sChIJbx1HG7D9YjkRrAwk6qBD7hI?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Indore"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/property_square_indore/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

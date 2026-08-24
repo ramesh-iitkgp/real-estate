@@ -1,0 +1,50 @@
+{
+    "business_name": "Indore Property And Real Estate Destination",
+    "source_business_name": "Indore Property And Real Estate Destination",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919755574120",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nSector E, Sudama Nagar, Indore, Madhya Pradesh 452009",
+    "city": "Indore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Indore+Property+and+Real+Estate+Destination/data=!4m7!3m6!1s0x3962fdf9b553cb0d:0x7ccbba179e32398!8m2!3d22.691656!4d75.8278604!16s%2Fg%2F11tfxp12bf!19sChIJDctTtfn9YjkRmCPjeaG7zAc?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Indore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Asmat Realities",
+    "source_business_name": "Asmat Realities",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919522584484",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://theasmatgroup.com/real-estate/",
+    "address": "\nShop No. 6, Plot No. 855, Bhagya Laxmi Building, Omaxe City 1, Mayakhedi, Indore, Madhya Pradesh 452016",
+    "city": "East Indore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Asmat+Realities/data=!4m7!3m6!1s0x39631dfc1fa0d1dd:0x35b1ec92deff0d7d!8m2!3d22.7757669!4d75.9442096!16s%2Fg%2F11svms8hdm!19sChIJ3dGgH_wdYzkRfQ3_3pLssTU?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Indore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Bhawan Real Estate",
+    "source_business_name": "Bhawan Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919303359622",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.bhawanrealestate.com/",
+    "address": "\n267, AM, Scheme No 140, Indore, Madhya Pradesh 452016",
+    "city": "Indore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Bhawan+Real+Estate+Indore/data=!4m7!3m6!1s0x3962e3a83fafd3e3:0x45322d880c41174e!8m2!3d22.7102344!4d75.9112066!16s%2Fg%2F11r_ny6jhv!19sChIJ49OvP6jjYjkRThdBDIgtMkU?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Indore"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/bhavani_real_estate_indore_/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

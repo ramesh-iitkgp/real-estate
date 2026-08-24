@@ -1,0 +1,50 @@
+{
+    "business_name": "Floorestate",
+    "source_business_name": "Floorestate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919109122725",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://floor.estate/",
+    "address": "\nShail go arcade, 3, Main Rd, near ICICI Bank, Mahalaxmi Nagar, Indore, Madhya Pradesh 452010",
+    "city": "South Indore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/floor.estate/data=!4m7!3m6!1s0x39631d9bfa3b2769:0xb27e09e81a41a54d!8m2!3d22.7528387!4d75.9171632!16s%2Fg%2F11ys5vnlj7!19sChIJaSc7-psdYzkRTaVBGugJfrI?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Indore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

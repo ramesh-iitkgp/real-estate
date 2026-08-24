@@ -1,0 +1,50 @@
+{
+    "business_name": "Prime Properties - Real Estate Agency",
+    "source_business_name": "Prime Properties - Real Estate Agency",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919977611113",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://primepropertiesindore.in/",
+    "address": "\n07, Panwar Market, AB Rd, opposite Essar Pump, Dewas Naka, Lasudia Mori, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Prime+Properties+-+Real+Estate+Agency+Indore/data=!4m7!3m6!1s0x39631d004db3d7b7:0x656c434cf1227e83!8m2!3d22.784302!4d75.9057971!16s%2Fg%2F11vrftndh3!19sChIJt9ezTQAdYzkRg34i8UxDbGU?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Indore"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/prime_property_indore_/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

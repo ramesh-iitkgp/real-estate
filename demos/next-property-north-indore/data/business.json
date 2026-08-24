@@ -1,0 +1,50 @@
+{
+    "business_name": "Next Property",
+    "source_business_name": "Next Property",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919685242511",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nOffice No 16 Lower Ground, Orbit Mall, AB Rd, Opposite Raghunath Prasad Petrol Pump, Vijay Nagar, Scheme 54 PU4, Indore, Madhya Pradesh 452010",
+    "city": "North Indore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Next+Property/data=!4m7!3m6!1s0x3962fdeeede2e1ed:0x9c80e22292050b27!8m2!3d22.7453459!4d75.8941613!16s%2Fg%2F11y5z82pmf!19sChIJ7eHi7e79YjkRJwsFkiLigJw?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Indore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

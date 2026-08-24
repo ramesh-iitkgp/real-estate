@@ -1,0 +1,50 @@
+{
+    "business_name": "Dhaneshwar Real Estate Dre By Manav",
+    "source_business_name": "Dhaneshwar Real Estate Dre By Manav",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919993039517",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nGold vista, plot no 4, Indore, Madhya Pradesh 452012",
+    "city": "North Indore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/dhaneshwar+real+estate+D.R.E+by+Manav/data=!4m7!3m6!1s0x3962fd5280a5a8e5:0x16a64ef99046d2fa!8m2!3d22.6713042!4d75.8448436!16s%2Fg%2F11wp0c1mxq!19sChIJ5ailgFL9YjkR-tJGkPlOphY?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Indore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
