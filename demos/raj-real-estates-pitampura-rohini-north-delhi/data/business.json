@@ -1,0 +1,50 @@
+{
+    "business_name": "Raj Real Estates Pitampura & Rohini",
+    "source_business_name": "Raj Real Estates Pitampura & Rohini",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919899596243",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nF-U/10, Block FU, Ranikhet, Pitampura, New Delhi, Delhi, 110034",
+    "city": "North Delhi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Raj+Real+Estates+Pitampura+%26+Rohini/data=!4m7!3m6!1s0x390d0340b4f012a5:0xb9fcbf3cdd36bfa8!8m2!3d28.7130348!4d77.1409083!16s%2Fg%2F11jz1lkq__!19sChIJpRLwtEADDTkRqL823Ty__Lk?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Delhi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Yashika Real Estate",
+    "source_business_name": "Yashika Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919891575737",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://yashikarealestate.com/",
+    "address": "\nSite-4 , 61 ground, Apartment, Budella, Vikaspuri, Delhi, 110018",
+    "city": "West Delhi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Yashika+Real+Estate/data=!4m7!3m6!1s0x390d04e90895090d:0x963c4da8449df18d!8m2!3d28.6357225!4d77.0717261!16s%2Fg%2F11bw7b1h7_!19sChIJDQmVCOkEDTkRjfGdRKhNPJY?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Delhi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

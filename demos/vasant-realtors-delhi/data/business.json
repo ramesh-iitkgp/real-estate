@@ -1,0 +1,50 @@
+{
+    "business_name": "Vasant Realtors",
+    "source_business_name": "Vasant Realtors",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919910221188",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n540, Kaveri Block, 6, D6, Sector D, Vasant Kunj, New Delhi, Delhi 110070",
+    "city": "Delhi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.7",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Vasant+Realtors./data=!4m7!3m6!1s0x390d1e7fe816917b:0xa07e05909ac31305!8m2!3d28.5253173!4d77.1525993!16s%2Fg%2F11g6px9vjm!19sChIJe5EW6H8eDTkRBRPDmpAFfqA?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Delhi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

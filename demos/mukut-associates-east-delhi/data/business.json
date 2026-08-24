@@ -1,0 +1,50 @@
+{
+    "business_name": "Mukut Associates",
+    "source_business_name": "Mukut Associates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919718529052",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nD-8,Gali Number -1,Near sai Baba Mandir, Laxmi nagar, Delhi, 110092",
+    "city": "East Delhi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Mukut+Associates/data=!4m7!3m6!1s0x390cfcac5be914f9:0x4e60ec3642171bf!8m2!3d28.632505!4d77.278873!16s%2Fg%2F11c57cn66d!19sChIJ-RTpW6z8DDkRv3EhZMMO5gQ?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Delhi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

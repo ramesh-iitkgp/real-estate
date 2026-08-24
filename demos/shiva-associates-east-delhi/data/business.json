@@ -1,0 +1,50 @@
+{
+    "business_name": "Shiva Associates",
+    "source_business_name": "Shiva Associates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918800238116",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://shiva-associates-preet.grexa.site/",
+    "address": "\nGuru Nanak Pura Near V3S Mall Laxmi Nagar, Nirman Vihar, Preet Vihar, Delhi, 110092",
+    "city": "East Delhi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Shiva+Associates/data=!4m7!3m6!1s0x390cfda1293d2417:0x9b82602b74aeeeff!8m2!3d28.6331097!4d77.2805551!16s%2Fg%2F11fmwprb15!19sChIJFyQ9KaH9DDkR_-6udCtggps?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Delhi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

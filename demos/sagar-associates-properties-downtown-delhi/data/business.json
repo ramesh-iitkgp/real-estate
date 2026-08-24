@@ -1,0 +1,50 @@
+{
+    "business_name": "Sagar Associates Properties",
+    "source_business_name": "Sagar Associates Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919810150507",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://sagar-associates.grexa.site/",
+    "address": "\n2 Block 24, 24, Block 24, West Patel Nagar, Patel Nagar, New Delhi, Delhi 110008",
+    "city": "Downtown Delhi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Sagar+Associates+Properties/data=!4m7!3m6!1s0x390d02ec3c3411ed:0x34a8259440f987ef!8m2!3d28.6521502!4d77.1671007!16s%2Fg%2F11gf21rlxv!19sChIJ7RE0POwCDTkR74f5QJQlqDQ?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Delhi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

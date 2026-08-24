@@ -1,0 +1,50 @@
+{
+    "business_name": "Ultra Realty Estates",
+    "source_business_name": "Ultra Realty Estates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919811986111",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nS514, S Swaran Singh Bhandari Marg, Greater Kailash-1, Block S, Greater Kailash I, Greater Kailash, New Delhi, Delhi 110048",
+    "city": "Delhi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Ultra+Realty+Estates/data=!4m7!3m6!1s0x390ce3918236ea29:0xde9e61b93f50ad84!8m2!3d28.548819!4d77.2323831!16s%2Fg%2F11g0g6328q!19sChIJKeo2gpHjDDkRhK1QP7lhnt4?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Delhi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

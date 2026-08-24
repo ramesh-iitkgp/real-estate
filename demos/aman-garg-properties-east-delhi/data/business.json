@@ -1,0 +1,50 @@
+{
+    "business_name": "Aman Garg Properties",
+    "source_business_name": "Aman Garg Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919810446688",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nRajdhani Plaza, Local shopping centre, 6, Vikash Marg Rd, New Rajdhani Enclave, Preet Vihar, Delhi, 110092",
+    "city": "East Delhi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Aman+Garg+Properties/data=!4m7!3m6!1s0x390cfb507ceaaaab:0xb98ee457addca094!8m2!3d28.6428328!4d77.2962909!16s%2Fg%2F11bycg0q6c!19sChIJq6rqfFD7DDkRlKDcrVfkjrk?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Delhi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

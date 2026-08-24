@@ -1,0 +1,50 @@
+{
+    "business_name": "East Delhi Homes",
+    "source_business_name": "East Delhi Homes",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918860032181",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\ngate no.1, 2,Vigyan Vihar,Ground floor adjacent to ujjivan finance bank nearest to, Vigyan Vihar, Surajmal Vihar, Delhi, 110092",
+    "city": "East Delhi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/East+Delhi+Homes/data=!4m7!3m6!1s0x390cfbb0aa13263b:0xb743e2eb7c7c9134!8m2!3d28.6600202!4d77.3127314!16s%2Fg%2F11vf0pbdgn!19sChIJOyYTqrD7DDkRNJF8fOviQ7c?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Delhi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

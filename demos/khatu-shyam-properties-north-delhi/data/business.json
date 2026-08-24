@@ -1,0 +1,50 @@
+{
+    "business_name": "Khatu Shyam Properties",
+    "source_business_name": "Khatu Shyam Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917400150555",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nSHOP NO 2, S MART, DC CHOWK, near petrol pump, Rajapur, Sector 9, Rohini, Delhi, 110085",
+    "city": "North Delhi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+KHATU+SHYAM+PROPERTIES/data=!4m7!3m6!1s0x390d016c91b6fe61:0xb685cbb189412b63!8m2!3d28.718203!4d77.1266431!16s%2Fg%2F11xp9m_w6f!19sChIJYf62kWwBDTkRYytBibHLhbY?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Delhi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

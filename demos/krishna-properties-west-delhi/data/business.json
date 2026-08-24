@@ -1,0 +1,50 @@
+{
+    "business_name": "Krishna Properties",
+    "source_business_name": "Krishna Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918920573645",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nShop 12 Arya samaj Mandir, Subhash Nagar, New Delhi, Delhi 110064",
+    "city": "West Delhi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Krishna+Properties/data=!4m7!3m6!1s0x390d03a98dd5695d:0x1c23a1aa69b30c7!8m2!3d28.6369071!4d77.1119541!16s%2Fg%2F11tbzxynbp!19sChIJXWnVjakDDTkRxzCbpho6wgE?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Delhi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

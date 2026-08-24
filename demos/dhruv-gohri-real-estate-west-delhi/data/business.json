@@ -1,0 +1,50 @@
+{
+    "business_name": "Dhruv Gohri Real Estate",
+    "source_business_name": "Dhruv Gohri Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918851764077",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nE386, opp. NDPL OFFICE, Block E, Ramesh Nagar, New Delhi, Delhi, 110015",
+    "city": "West Delhi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Dhruv+Gohri+Real+Estate/data=!4m7!3m6!1s0x390d03028e2f2113:0xdf528279b93de1b!8m2!3d28.6500036!4d77.1302168!16s%2Fg%2F11k1lbyvj3!19sChIJEyEvjgIDDTkRG96Tmyco9Q0?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Delhi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

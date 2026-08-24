@@ -1,0 +1,50 @@
+{
+    "business_name": "Js Properties",
+    "source_business_name": "Js Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919810076366",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://js-properties.grexa.site/",
+    "address": "\nD-102, opposite Geeta Bhavan Mandir, Kamla Nagar, Delhi, 110007",
+    "city": "Downtown Delhi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/JS+PROPERTIES/data=!4m7!3m6!1s0x390d023e64a967db:0xaf0724297c4c71b9!8m2!3d28.6827173!4d77.2015385!16s%2Fg%2F11b7lc3cxn!19sChIJ22epZD4CDTkRuXFMfCkkB68?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Delhi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

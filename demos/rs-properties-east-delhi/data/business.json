@@ -1,0 +1,50 @@
+{
+    "business_name": "Rs Properties",
+    "source_business_name": "Rs Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918587922400",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://rs-properties.grexa.site/",
+    "address": "\n71, Street Number 3, near Realince fresh, Chandra Nagar, Shastri Park, Krishna Nagar, Delhi, 110051",
+    "city": "East Delhi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/RS+Properties/data=!4m7!3m6!1s0x390cfdb5c9622ea5:0xee3bbbf12b5bd859!8m2!3d28.6541954!4d77.2820593!16s%2Fg%2F11vppnx2lc!19sChIJpS5iybX9DDkRWdhbK_G7O-4?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Delhi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

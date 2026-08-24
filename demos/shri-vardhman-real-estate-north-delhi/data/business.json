@@ -1,0 +1,50 @@
+{
+    "business_name": "Shri Vardhman Real Estate",
+    "source_business_name": "Shri Vardhman Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919811196190",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nD, 6, Sector 6 Rd, Pocket 6, Sector 6D, Rohini, Delhi, 110085",
+    "city": "North Delhi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Shri+Vardhman+Real+Estate/data=!4m7!3m6!1s0x390d01917f660fed:0x75245caaa0bbda29!8m2!3d28.7118319!4d77.1080599!16s%2Fg%2F11kqnb7ss5!19sChIJ7Q9mf5EBDTkRKdq7oKpcJHU?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Delhi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

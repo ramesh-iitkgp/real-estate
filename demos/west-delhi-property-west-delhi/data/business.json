@@ -1,0 +1,50 @@
+{
+    "business_name": "West Delhi Property",
+    "source_business_name": "West Delhi Property",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917042233988",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nG1, 148, Block A 3, Uttam Nagar, New Delhi, Delhi, 110059",
+    "city": "West Delhi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/West+Delhi+Property/data=!4m7!3m6!1s0x390d05230720ce9d:0x3eb4ac9ad2e3f4e6!8m2!3d28.6236972!4d77.0582017!16s%2Fg%2F11s0jl5scv!19sChIJnc4gByMFDTkR5vTj0pqstD4?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Delhi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

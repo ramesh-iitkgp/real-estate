@@ -1,0 +1,50 @@
+{
+    "business_name": "Lakshay Estate",
+    "source_business_name": "Lakshay Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919953538007",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nNumber 16, Block A, Gujran Wala Town, Gujranwala Town Part 1, Delhi - 9, Delhi 110033",
+    "city": "North Delhi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Lakshay+Estate/data=!4m7!3m6!1s0x390d03c596451925:0x68f49fbf6da538e7!8m2!3d28.6984614!4d77.1879914!16s%2Fg%2F11glvk4lnl!19sChIJJRlFlsUDDTkR5zilbb-f9Gg?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Delhi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

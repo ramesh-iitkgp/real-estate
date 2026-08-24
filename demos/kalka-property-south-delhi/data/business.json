@@ -1,0 +1,50 @@
+{
+    "business_name": "Kalka Property",
+    "source_business_name": "Kalka Property",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918826865546",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nLila Ram Market, South Extension II, Block K, New Delhi, Delhi 110049",
+    "city": "South Delhi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/KALKA+PROPERTY/data=!4m7!3m6!1s0x390ce3b4d198af53:0xbf1115b35198ddd3!8m2!3d28.5635603!4d77.2178913!16s%2Fg%2F11fmstc66l!19sChIJU6-Y0bTjDDkR092YUbMVEb8?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Delhi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

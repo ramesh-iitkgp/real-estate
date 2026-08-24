@@ -1,0 +1,50 @@
+{
+    "business_name": "Ssdn Properties",
+    "source_business_name": "Ssdn Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919999797502",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.99acres.com/",
+    "address": "\ngate no 4, metro station, LGF -08, Indra Prakash Building, 21, above Barakhamba Road, Connaught Place, New Delhi, Delhi 110001",
+    "city": "Downtown Delhi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/SSDN+Properties/data=!4m7!3m6!1s0x390cfd315f716291:0x450c7a76ac928538!8m2!3d28.6296845!4d77.2245223!16s%2Fg%2F11gh384tqt!19sChIJkWJxXzH9DDkROIWSrHZ6DEU?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Delhi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Jss Real Estate",
+    "source_business_name": "Jss Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919354396132",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://jssrealestate.odoo.com/",
+    "address": "\nFlat no 715, Indraparkash building, 21, Barakhamba Rd, Connaught Place, New Delhi, Delhi 110001",
+    "city": "Downtown Delhi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.7",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jss+Real+Estate/data=!4m7!3m6!1s0x390cfd1c18d1a1b3:0xc3c7828b9497c166!8m2!3d28.6292824!4d77.2244294!16s%2Fg%2F11lkd2_kcd!19sChIJs6HRGBz9DDkRZsGXlIuCx8M?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Delhi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

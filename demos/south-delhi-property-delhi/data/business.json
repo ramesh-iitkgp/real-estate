@@ -1,0 +1,50 @@
+{
+    "business_name": "South Delhi Property",
+    "source_business_name": "South Delhi Property",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919911100620",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.southdelhiproperty.com/",
+    "address": "\nB, 2, N Block, Greater Kailash I, New Delhi, Delhi 110048",
+    "city": "Delhi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/South+Delhi+Property/data=!4m7!3m6!1s0x390ce2338658e495:0xa936cccce461c79!8m2!3d28.5584708!4d77.2330385!16s%2Fg%2F11fxf_d17z!19sChIJleRYhjPiDDkReRxGzsxskwo?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Delhi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

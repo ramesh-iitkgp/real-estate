@@ -1,0 +1,50 @@
+{
+    "business_name": "Maa Laxmi Property",
+    "source_business_name": "Maa Laxmi Property",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919315469308",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nGali no 2, E- 58, Supershine Chowk, Block D, Vinod Nagar East, New Delhi, Delhi, 110091",
+    "city": "East Delhi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Maa+Laxmi+Property/data=!4m7!3m6!1s0x390ce5036ee3d149:0x6e6129d2cd4e21b5!8m2!3d28.6216174!4d77.3085102!16s%2Fg%2F11yrn4fwcs!19sChIJSdHjbgPlDDkRtSFOzdIpYW4?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Delhi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

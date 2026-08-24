@@ -1,0 +1,50 @@
+{
+    "business_name": "Bhargava Estates",
+    "source_business_name": "Bhargava Estates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919319262299",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\ngopal das building, Barakhamba Rd, Connaught Lane, Connaught Place, New Delhi, Delhi 110001",
+    "city": "Downtown Delhi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Bhargava+estates/data=!4m7!3m6!1s0x390cfdba0b1333a5:0xaa860b8cff607e4b!8m2!3d28.6312599!4d77.2230841!16s%2Fg%2F11fq_bhrnv!19sChIJpTMTC7r9DDkRS35g_4wLhqo?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Delhi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

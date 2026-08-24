@@ -1,0 +1,50 @@
+{
+    "business_name": "Best Homes Real Estate",
+    "source_business_name": "Best Homes Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919711198537",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://besthomes.co.in/",
+    "address": "\nF-14/16, Model Town 3rd Main Rd, opposite to Burger King, opposite to Gujranwala Town, Model Town Phase 2, Model Town Phase I, Model Town, New Delhi, Delhi, 110009",
+    "city": "North Delhi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Best+Homes+Real+Estate/data=!4m7!3m6!1s0x390d037ecb1b91f9:0x82ecd4ce89ae2406!8m2!3d28.7060035!4d77.1905171!16s%2Fg%2F11lnst74b_!19sChIJ-ZEby34DDTkRBiSuic7U7II?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Delhi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

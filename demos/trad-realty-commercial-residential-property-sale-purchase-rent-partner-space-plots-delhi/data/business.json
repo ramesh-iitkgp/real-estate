@@ -1,0 +1,50 @@
+{
+    "business_name": "Trad Realty - Commercial & Residential Property Sale Purchase Rent Partner Space & Plots",
+    "source_business_name": "Trad Realty - Commercial & Residential Property Sale Purchase Rent Partner Space & Plots",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919899906959",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.tradrealty.in/",
+    "address": "\nShop No 1, Munshi Ram Colony, Bhai Parmanand Colony, Mukherjee Nagar, Delhi, 110009",
+    "city": "Delhi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Trad+Realty+-+Commercial+%26+Residential+Property+%7C+Sale+Purchase+Rent+Partner+%7C+Space+%26+Plots/data=!4m7!3m6!1s0x390cfdabe015da73:0xfab569cdbd430fce!8m2!3d28.7132127!4d77.2101616!16s%2Fg%2F11z93q6swp!19sChIJc9oV4Kv9DDkRzg9Dvc1ptfo?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Delhi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

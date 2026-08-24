@@ -1,0 +1,50 @@
+{
+    "business_name": "Kushwaha Property",
+    "source_business_name": "Kushwaha Property",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919899226354",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nOffice No-9, Ground Floor, A-27, Street Number 2, Madhu Vihar, I.P.Extension, Patparganj, Delhi, 110092",
+    "city": "East Delhi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Kushwaha+Property/data=!4m7!3m6!1s0x390cfb9924425cf3:0xeeb25b2731c8d9df!8m2!3d28.6363318!4d77.3050349!16s%2Fg%2F11svchj_qh!19sChIJ81xCJJn7DDkR39nIMSdbsu4?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Delhi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
