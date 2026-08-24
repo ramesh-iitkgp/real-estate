@@ -1,0 +1,50 @@
+{
+    "business_name": "Hotkore Realty",
+    "source_business_name": "Hotkore Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917977103725",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nGround Floor, Hill Rd, behind Elco Restaurant, Bandra West, Mumbai, Maharashtra 400050",
+    "city": "Downtown Mumbai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/HotKore+Realty/data=!4m7!3m6!1s0x3be7c93dd06bffff:0xb9460fedf475657a!8m2!3d19.0558081!4d72.8330994!16s%2Fg%2F11gbtlgx78!19sChIJ__9r0D3J5zsRemV19O0PRrk?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Mumbai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

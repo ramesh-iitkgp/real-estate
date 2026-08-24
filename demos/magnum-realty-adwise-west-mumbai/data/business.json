@@ -1,0 +1,50 @@
+{
+    "business_name": "Magnum Realty Adwise",
+    "source_business_name": "Magnum Realty Adwise",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919892647689",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://magnumrealtyadwise.com/?utm_source=gmb&utm_medium=referral",
+    "address": "\nsri krishna building, main, New Link Rd, Veera Desai Industrial Estate, Andheri West, Mumbai, Maharashtra 400053",
+    "city": "West Mumbai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/MAGNUM+REALTY+ADWISE/data=!4m7!3m6!1s0x3be7b7240cc75877:0xc21b729391c477bd!8m2!3d19.1353055!4d72.8324815!16s%2Fg%2F11ry3nv2m2!19sChIJd1jHDCS35zsRvXfEkZNyG8I?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Mumbai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

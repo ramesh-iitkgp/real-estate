@@ -1,0 +1,50 @@
+{
+    "business_name": "K Hemandas Real Estate Consultant",
+    "source_business_name": "K Hemandas Real Estate Consultant",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919768132786",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://k-hemandas.in/",
+    "address": "\nGround Floor, Amol CHS, Shop No. 4, Bhagoji Keer Marg, behind Johnson and Johnson, Bethany Co-Operative Housing Society, Mahim West, Mahim, Mumbai, Maharashtra 400016",
+    "city": "Mumbai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/K.+Hemandas+Real+Estate+Consultant/data=!4m7!3m6!1s0x3be7c92b5e02c219:0x5ee540feb5eb4920!8m2!3d19.037403!4d72.8469984!16s%2Fg%2F1pp2xb7df!19sChIJGcICXivJ5zsRIEnrtf5A5V4?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mumbai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

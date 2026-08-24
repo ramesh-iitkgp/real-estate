@@ -1,0 +1,50 @@
+{
+    "business_name": "Santoshi Estate Agency",
+    "source_business_name": "Santoshi Estate Agency",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919930860499",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nShop No 16, Mahakali Caves Rd, opposite Canossa High School, Subhash Nagar, Andheri East, Mumbai, Maharashtra 400093",
+    "city": "East Mumbai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "26",
+    "google_maps_url": "https://www.google.com/maps/place/Santoshi+Estate+Agency/data=!4m7!3m6!1s0x3be7c92396233537:0x618d651ab35b82b7!8m2!3d19.1248709!4d72.8650563!16s%2Fg%2F11vrcp2s26!19sChIJNzUjliPJ5zsRt4JbsxpljWE?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Mumbai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

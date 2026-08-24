@@ -1,0 +1,50 @@
+{
+    "business_name": "Manju Estates",
+    "source_business_name": "Manju Estates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917993153555",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.manjuestates.in/",
+    "address": "\nShop No 4, Ground Floor, Plot No 55A/556B, Lak Lakhpati bhavan Chsl, Mahalaxmi, Dr Elijah Moses Rd, Jacob Circle, RLY Stn, Mumbai, Maharashtra 400011",
+    "city": "North Mumbai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Manju+Estates/data=!4m7!3m6!1s0x3be7cff6e46fa745:0xb19d05a786405f5d!8m2!3d18.9819594!4d72.8260553!16s%2Fg%2F11y3dgh0qg!19sChIJRadv5PbP5zsRXV9AhqcFnbE?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Mumbai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

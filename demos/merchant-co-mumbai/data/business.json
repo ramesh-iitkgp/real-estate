@@ -1,0 +1,50 @@
+{
+    "business_name": "Merchant & Co",
+    "source_business_name": "Merchant & Co",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919821694987",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.merchantandco.in/",
+    "address": "\nFront side of the compound, Office No. 15 A- Wing Ground Floor New Sai Niketan, Society, 345, Mount Rd, Mazgaon, Mumbai, Maharashtra 400010",
+    "city": "Mumbai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Merchant+%26+Co./data=!4m7!3m6!1s0x3be7cf9a48515d83:0x2643f5ece54490e!8m2!3d18.9701051!4d72.8407503!16s%2Fg%2F11h6tmx_xf!19sChIJg11RSJrP5zsRDklUzl4_ZAI?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mumbai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

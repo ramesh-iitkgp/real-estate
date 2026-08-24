@@ -1,0 +1,50 @@
+{
+    "business_name": "Bombay Nest Realties",
+    "source_business_name": "Bombay Nest Realties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919892000580",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://bombay-nest-realties.grexa.site/",
+    "address": "\nUnit no 115, T.V Industrial Estate, Hind Cycle Marg, Gopal Nagar, Worli, Mumbai, Maharashtra 400030",
+    "city": "North Mumbai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Bombay+Nest+Realties/data=!4m7!3m6!1s0x3be7cf43c631652f:0x28ffdebdc803b47c!8m2!3d19.0071313!4d72.8236853!16s%2Fg%2F11n3qb9xzv!19sChIJL2UxxkPP5zsRfLQDyL3e_yg?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Mumbai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

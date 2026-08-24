@@ -1,0 +1,50 @@
+{
+    "business_name": "Riya Estate Consultants",
+    "source_business_name": "Riya Estate Consultants",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919869181555",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nShop no 1 ,Tejmanjul Building Junction of Tejpal road, and, Hanuman Rd, Vile Parle East, Mumbai, Maharashtra 400057",
+    "city": "Mumbai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Riya+Estate+Consultants/data=!4m7!3m6!1s0x3be7c9b6b1b6e61f:0xfa4ec746a0ad562a!8m2!3d19.1029025!4d72.8448119!16s%2Fg%2F1yg4lwjg1!19sChIJH-a2sbbJ5zsRKlatoEbHTvo?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mumbai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/riya_in_realestate/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

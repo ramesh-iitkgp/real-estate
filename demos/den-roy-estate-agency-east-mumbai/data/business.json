@@ -1,0 +1,50 @@
+{
+    "business_name": "Den-Roy Estate Agency",
+    "source_business_name": "Den-Roy Estate Agency",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919930669607",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.denroyproperties.com/",
+    "address": "\nShop No 19, Zenith CHS Ltd, Plot No.18, Marol Maroshi Rd, Bhawani Nagar, Marol, Andheri East, Mumbai, Maharashtra 400059",
+    "city": "East Mumbai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "10",
+    "google_maps_url": "https://www.google.com/maps/place/DEN-ROY+ESTATE+AGENCY/data=!4m7!3m6!1s0x3be7c817463e4f1b:0xe77b6536c958ea87!8m2!3d19.118893!4d72.8804025!16s%2Fg%2F1pp2tx7x9!19sChIJG08-RhfI5zsRh-pYyTZle-c?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Mumbai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

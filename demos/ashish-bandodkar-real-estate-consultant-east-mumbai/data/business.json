@@ -1,0 +1,50 @@
+{
+    "business_name": "Ashish Bandodkar Real Estate Consultant",
+    "source_business_name": "Ashish Bandodkar Real Estate Consultant",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917039447088",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nShop no 8/A, Ashirvad chs, Shantidham Society, Poonam Nagar, Andheri East, Mumbai, Maharashtra 400093",
+    "city": "East Mumbai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "89",
+    "google_maps_url": "https://www.google.com/maps/place/Ashish+Bandodkar+real+estate+consultant/data=!4m7!3m6!1s0x3be7b74f37119b0f:0xd9c8c0708843bda7!8m2!3d19.1348571!4d72.8682419!16s%2Fg%2F11j8t32nk5!19sChIJD5sRN0-35zsRp71DiHDAyNk?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Mumbai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

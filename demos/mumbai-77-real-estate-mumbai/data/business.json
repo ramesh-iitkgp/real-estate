@@ -1,0 +1,50 @@
+{
+    "business_name": "Mumbai 77 Real Estate",
+    "source_business_name": "Mumbai 77 Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919699949966",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nShop No.1 Neeta, Surya House, Chittranjan Nagar, Vidya Vihar East, Ghatkopar East, Mumbai, Maharashtra 400077",
+    "city": "Mumbai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Mumbai+77+Real+Estate/data=!4m7!3m6!1s0x3be7c934e3c0e3cd:0x6625e880d207f3f5!8m2!3d19.0774457!4d72.8986915!16s%2Fg%2F11n495bppk!19sChIJzePA4zTJ5zsR9fMH0oDoJWY?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mumbai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/mumbairealestate_/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

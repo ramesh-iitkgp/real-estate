@@ -1,0 +1,50 @@
+{
+    "business_name": "Hillsboro Realty",
+    "source_business_name": "Hillsboro Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919223456755",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://hillsboro.in/",
+    "address": "\nLok Sarita, D207, Military Rd, Bhavani Nagar, Marol, Andheri East, Mumbai, Maharashtra 400059",
+    "city": "East Mumbai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "34",
+    "google_maps_url": "https://www.google.com/maps/place/Hillsboro+Realty/data=!4m7!3m6!1s0x3be7c918a738e895:0xf9db2e5081ad44b4!8m2!3d19.1209535!4d72.8845844!16s%2Fg%2F11f5_7_7rd!19sChIJleg4pxjJ5zsRtEStgVAu2_k?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Mumbai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

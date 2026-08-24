@@ -1,0 +1,50 @@
+{
+    "business_name": "Tirupati Estate Agency",
+    "source_business_name": "Tirupati Estate Agency",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919867156524",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nShop Number 2, Ashish Apartments, Shrinivas Bagadka Marg, Akal Society, Andheri (E, J B Nagar, Andheri East, Mumbai, Maharashtra 400059",
+    "city": "East Mumbai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "13",
+    "google_maps_url": "https://www.google.com/maps/place/Tirupati+Estate+Agency/data=!4m7!3m6!1s0x3be7c8396a368961:0x53d499bbeb79d64d!8m2!3d19.1082072!4d72.8647251!16s%2Fg%2F1v299h2j!19sChIJYYk2ajnI5zsRTdZ567uZ1FM?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Mumbai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

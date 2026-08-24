@@ -1,0 +1,50 @@
+{
+    "business_name": "Propertism The Estate Agency In Powai",
+    "source_business_name": "Propertism The Estate Agency In Powai",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919321848567",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://propertism-the-estate.grexa.site/",
+    "address": "\nGalleria Shopping Mall, 185, Hiranandani Gardens, Powai, Mumbai, Maharashtra 400076",
+    "city": "North Mumbai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Propertism+%7C+The+Estate+Agency+in+Powai/data=!4m7!3m6!1s0x3be7c7f1547190f5:0x3576084659c64767!8m2!3d19.1195785!4d72.9120994!16s%2Fg%2F11rq9cgymb!19sChIJ9ZBxVPHH5zsRZ0fGWUYIdjU?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Mumbai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

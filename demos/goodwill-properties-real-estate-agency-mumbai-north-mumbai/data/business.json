@@ -1,0 +1,50 @@
+{
+    "business_name": "Goodwill Properties Real Estate Agency",
+    "source_business_name": "Goodwill Properties Real Estate Agency",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919221035080",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nPlot No, 33/T/ 11, Road No.5, Govandi Slums, Govandi West, Baiganwadi, Shivaji Nagar, Mumbai, Maharashtra 400043",
+    "city": "North Mumbai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Goodwill+Properties+%7C+Real+Estate+Agency+%7C+Mumbai/data=!4m7!3m6!1s0x3be7c614ca5b3cf1:0x39126279675e25c1!8m2!3d19.0619007!4d72.9250054!16s%2Fg%2F11clt71z1d!19sChIJ8TxbyhTG5zsRwSVeZ3liEjk?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Mumbai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

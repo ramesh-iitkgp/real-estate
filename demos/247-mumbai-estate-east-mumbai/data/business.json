@@ -1,0 +1,50 @@
+{
+    "business_name": "247 Mumbai Estate",
+    "source_business_name": "247 Mumbai Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919820128906",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://24x7mumbaiestate.com/",
+    "address": "\nShop no 5(A, Akal CHS, JB Nagar Rd, Akal Society, Ekta Nagar, J B Nagar, Andheri(E, Mumbai, Maharashtra 400099",
+    "city": "East Mumbai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "9",
+    "google_maps_url": "https://www.google.com/maps/place/24%C3%977+Mumbai+Estate/data=!4m7!3m6!1s0x3be7c9cd4705050b:0x456cc6cd2baa0d6!8m2!3d19.1078706!4d72.8634376!16s%2Fg%2F1tgwl4kt!19sChIJCwUFR83J5zsR1qC60mzMVgQ?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Mumbai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

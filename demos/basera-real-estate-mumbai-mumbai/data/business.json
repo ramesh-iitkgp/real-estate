@@ -1,0 +1,50 @@
+{
+    "business_name": "Basera Real Estate",
+    "source_business_name": "Basera Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918879249406",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nTambawala Building (Bori Chawl) 18/18A IInd Floor, Room, No.50, Arab Ln, Mumbai, Maharashtra 400008",
+    "city": "Mumbai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Basera+Real+Estate+Mumbai/data=!4m7!3m6!1s0x3be7cfe4cc313c91:0x3e24cb5d43bbbc54!8m2!3d18.9629331!4d72.823403!16s%2Fg%2F11rcsrmfyd!19sChIJkTwxzOTP5zsRVLy7Q13LJD4?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mumbai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

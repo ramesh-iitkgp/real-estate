@@ -1,0 +1,651 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<base href="/real-estate/demos/reliance-estate-consultants-west-mumbai/">
+
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+  <title data-title>Apex Premier Realty | Exclusive Luxury Homes & Prime Estates</title>
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,800;1,400;1,600&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="./style.css?v=3.0" />
+</head>
+<body>
+
+  <!-- Navigation Header -->
+  <header class="navbar" id="main-navbar">
+    <div class="container navbar-inner">
+      
+      <!-- Brand Logo / Business Name -->
+      <a href="#" class="brand-identity" id="nav-brand-link" aria-label="Home">
+        <div class="brand-badge">🏛️</div>
+        <span class="brand-name" data-bind="business_name">Apex Premier Realty</span>
+      </a>
+
+      <!-- Desktop Navigation Links -->
+      <nav aria-label="Primary Navigation">
+        <ul class="nav-links">
+          <li><a href="#overview" class="nav-link">Overview</a></li>
+          <li><a href="#listings" class="nav-link">Properties</a></li>
+          <li><a href="#valuation" class="nav-link">Home Worth</a></li>
+          <li><a href="#mortgage" class="nav-link">Mortgage Calc</a></li>
+          <li><a href="#track-record" class="nav-link">Track Record</a></li>
+          <li><a href="#reviews" class="nav-link">Reviews</a></li>
+          <li><a href="#contact" class="nav-link">Inquire</a></li>
+        </ul>
+      </nav>
+
+      <!-- Header Actions -->
+      <div class="nav-actions">
+        <a href="tel:" data-phone class="nav-phone-pill" aria-label="Call Brokerage" title="Call Us">
+          <span>📞</span>
+          <span class="nav-phone-text" data-phone-display>+1 (305) 842-7900</span>
+        </a>
+
+        <a href="#contact" class="btn-vip-tour" aria-label="Book Private Tour" title="Book Private Tour">
+          <span>✨</span>
+          <span class="btn-vip-tour-text">Private VIP Tour</span>
+        </a>
+      </div>
+
+    </div>
+  </header>
+
+  <!-- Sticky Section Tabs Bar (Option A: Tabbed App Interface) -->
+  <div class="section-tabs-bar" id="section-tabs-bar">
+    <div class="container section-tabs-inner">
+      <a href="#overview" class="re-tab active" data-tab="overview">
+        <span>✨ Overview</span>
+      </a>
+      <a href="#listings" class="re-tab" data-tab="listings">
+        <span>🏡 Featured Properties</span>
+      </a>
+      <a href="#valuation" class="re-tab" data-tab="valuation">
+        <span>💰 Home Valuation</span>
+      </a>
+      <a href="#mortgage" class="re-tab" data-tab="mortgage">
+        <span>🧮 Mortgage Calculator</span>
+      </a>
+      <a href="#track-record" class="re-tab" data-tab="track-record">
+        <span>📊 Track Record</span>
+      </a>
+      <a href="#reviews" class="re-tab" data-tab="reviews">
+        <span>⭐ Reviews</span>
+      </a>
+      <a href="#contact" class="re-tab" data-tab="contact">
+        <span>💬 VIP Inquiry</span>
+      </a>
+    </div>
+  </div>
+
+  <main>
+    <!-- Hero Section -->
+    <section class="hero-section" id="overview">
+      <div class="hero-backdrop" id="hero-backdrop-img" style="background-image: url('https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1920&q=85');"></div>
+      <div class="hero-gradient"></div>
+
+      <div class="container hero-content">
+        <div class="hero-badge-pill">
+          <span>🏆</span>
+          <span>Verified Property &amp; Real Estate Advisory • <span data-bind="city">Chennai</span> &amp; Surrounds</span>
+        </div>
+
+        <h1 class="hero-title">
+          Premier Properties.<br>
+          <span>Trusted Deals &amp; Advice.</span>
+        </h1>
+
+        <p class="hero-tagline" data-bind="tagline">
+          Your trusted local property consultants for buying, selling, and investing in verified residential homes, luxury villas, commercial spaces, and high-yield plots.
+        </p>
+
+        <div class="hero-quick-ctas">
+          <a href="#listings" class="hero-btn-primary">
+            <span>🏡 Explore Featured Properties</span>
+          </a>
+          <a href="#" id="hero-whatsapp-btn" class="hero-btn-whatsapp" target="_blank" rel="noopener">
+            <span>💬 Chat on WhatsApp</span>
+          </a>
+          <a href="#valuation" class="hero-btn-secondary">
+            <span>📊 Free Property Valuation</span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Stats & Track Record Strip -->
+    <section class="stats-strip" id="track-record">
+      <div class="container stats-grid">
+        <div class="stat-card">
+          <div class="stat-value" id="stat-volume">$185M+</div>
+          <div class="stat-label">Total Volume Sold</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value" id="stat-ratio">99.4%</div>
+          <div class="stat-label">List-to-Sale Ratio</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value" id="stat-days">16 Days</div>
+          <div class="stat-label">Avg. Days to Contract</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value" id="stat-rating">4.9 ★</div>
+          <div class="stat-label"><span id="stat-review-count">142+</span> Verified Reviews</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Featured Properties Section -->
+    <section class="section-padding" id="listings">
+      <div class="container">
+        
+        <div class="section-header">
+          <div class="section-subtitle">Curated Portfolio</div>
+          <h2 class="section-title">Featured Luxury Properties</h2>
+          <p style="color: var(--color-text-muted); font-size: 0.95rem;">
+            Explore our handpicked selection of architectural masterpieces, prime penthouses, and high-performing real estate.
+          </p>
+        </div>
+
+        <!-- Property Category Filters -->
+        <div class="property-filters">
+          <button class="prop-filter-btn active" data-filter="all">All Properties</button>
+          <button class="prop-filter-btn" data-filter="villa">Luxury Villas</button>
+          <button class="prop-filter-btn" data-filter="penthouse">Penthouses</button>
+          <button class="prop-filter-btn" data-filter="family_home">Family Estates</button>
+          <button class="prop-filter-btn" data-filter="commercial">Commercial Hubs</button>
+        </div>
+
+        <!-- Property Grid Container -->
+        <div class="listings-grid" id="properties-grid-container">
+          <!-- Card 1: Villa -->
+          <div class="property-card">
+            <div class="property-img-wrap">
+              <img src="https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80" alt="Royal Palm Luxury Villa & Private Lawn" class="property-img" loading="lazy" />
+              <span class="property-badge-tag">Featured Exclusive</span>
+              <span class="property-price-tag">₹4.75 Cr</span>
+            </div>
+            <div class="property-body">
+              <h3 class="property-title">Royal Palm Luxury Villa &amp; Private Lawn</h3>
+              <div class="property-location">
+                <span>📍</span>
+                <span>Prime Coastal Corridor, <span data-bind="city">Chennai</span></span>
+              </div>
+              <div class="property-specs">
+                <span>🛏️ <strong>4</strong> Beds</span>
+                <span>🚿 <strong>5</strong> Baths</span>
+                <span>📐 <strong>4,850 sq ft</strong></span>
+              </div>
+              <div class="property-features-row">
+                <span class="prop-feature-pill">Private Garden</span>
+                <span class="prop-feature-pill">Infinity Pool</span>
+                <span class="prop-feature-pill">Gated Security</span>
+                <span class="prop-feature-pill">Vastu Compliant</span>
+              </div>
+              <div style="display: grid; grid-template-columns: 1fr auto; gap: 8px; margin-top: 14px;">
+                <a href="#contact" class="property-cta-btn" onclick="prefillPropertyInquiry('Royal Palm Luxury Villa', '₹4.75 Cr')">
+                  <span>Book Site Visit &rarr;</span>
+                </a>
+                <a href="#contact" class="hero-btn-whatsapp" style="padding: 10px 14px; border-radius: var(--radius-sm); font-size: 0.82rem; font-weight: 700; gap: 4px;" title="Inquire on WhatsApp">
+                  <span>💬 Chat</span>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Card 2: Penthouse -->
+          <div class="property-card">
+            <div class="property-img-wrap">
+              <img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80" alt="Grand Horizon Skyline Penthouse" class="property-img" loading="lazy" />
+              <span class="property-badge-tag">Ready to Move</span>
+              <span class="property-price-tag">₹2.90 Cr</span>
+            </div>
+            <div class="property-body">
+              <h3 class="property-title">Grand Horizon Skyline Penthouse</h3>
+              <div class="property-location">
+                <span>📍</span>
+                <span>CBD Central Boulevard, <span data-bind="city">Chennai</span></span>
+              </div>
+              <div class="property-specs">
+                <span>🛏️ <strong>3</strong> Beds</span>
+                <span>🚿 <strong>3.5</strong> Baths</span>
+                <span>📐 <strong>3,200 sq ft</strong></span>
+              </div>
+              <div class="property-features-row">
+                <span class="prop-feature-pill">Panoramic City Views</span>
+                <span class="prop-feature-pill">Private Lift</span>
+                <span class="prop-feature-pill">Clubhouse &amp; Gym</span>
+                <span class="prop-feature-pill">2 Covered Car Parks</span>
+              </div>
+              <div style="display: grid; grid-template-columns: 1fr auto; gap: 8px; margin-top: 14px;">
+                <a href="#contact" class="property-cta-btn" onclick="prefillPropertyInquiry('Grand Horizon Skyline Penthouse', '₹2.90 Cr')">
+                  <span>Book Site Visit &rarr;</span>
+                </a>
+                <a href="#contact" class="hero-btn-whatsapp" style="padding: 10px 14px; border-radius: var(--radius-sm); font-size: 0.82rem; font-weight: 700; gap: 4px;" title="Inquire on WhatsApp">
+                  <span>💬 Chat</span>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Card 3: Family Residence -->
+          <div class="property-card">
+            <div class="property-img-wrap">
+              <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80" alt="Modern Premium 3 & 4 BHK Family Residences" class="property-img" loading="lazy" />
+              <span class="property-badge-tag">New Launch</span>
+              <span class="property-price-tag">₹1.45 Cr</span>
+            </div>
+            <div class="property-body">
+              <h3 class="property-title">Modern Premium 3 &amp; 4 BHK Family Residences</h3>
+              <div class="property-location">
+                <span>📍</span>
+                <span>Greenwood Enclave, <span data-bind="city">Chennai</span></span>
+              </div>
+              <div class="property-specs">
+                <span>🛏️ <strong>3</strong> Beds</span>
+                <span>🚿 <strong>3</strong> Baths</span>
+                <span>📐 <strong>2,150 sq ft</strong></span>
+              </div>
+              <div class="property-features-row">
+                <span class="prop-feature-pill">Kids Play Area</span>
+                <span class="prop-feature-pill">Power Backup</span>
+                <span class="prop-feature-pill">RERA Approved</span>
+                <span class="prop-feature-pill">24/7 CCTV</span>
+              </div>
+              <div style="display: grid; grid-template-columns: 1fr auto; gap: 8px; margin-top: 14px;">
+                <a href="#contact" class="property-cta-btn" onclick="prefillPropertyInquiry('Modern Premium 3 & 4 BHK Family Residences', '₹1.45 Cr')">
+                  <span>Book Site Visit &rarr;</span>
+                </a>
+                <a href="#contact" class="hero-btn-whatsapp" style="padding: 10px 14px; border-radius: var(--radius-sm); font-size: 0.82rem; font-weight: 700; gap: 4px;" title="Inquire on WhatsApp">
+                  <span>💬 Chat</span>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Card 4: Commercial Space -->
+          <div class="property-card">
+            <div class="property-img-wrap">
+              <img src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80" alt="Prime Commercial Retail & Corporate Suites" class="property-img" loading="lazy" />
+              <span class="property-badge-tag">High ROI Investment</span>
+              <span class="property-price-tag">₹6.80 Cr</span>
+            </div>
+            <div class="property-body">
+              <h3 class="property-title">Prime Commercial Retail &amp; Corporate Suites</h3>
+              <div class="property-location">
+                <span>📍</span>
+                <span>Main Arterial Expressway, <span data-bind="city">Chennai</span></span>
+              </div>
+              <div class="property-specs">
+                <span>🚿 <strong>4</strong> Restrooms</span>
+                <span>📐 <strong>8,500 sq ft</strong></span>
+              </div>
+              <div class="property-features-row">
+                <span class="prop-feature-pill">100% Occupancy</span>
+                <span class="prop-feature-pill">High Footfall Corridor</span>
+                <span class="prop-feature-pill">Grade-A Glass Facade</span>
+                <span class="prop-feature-pill">Ample Visitor Parking</span>
+              </div>
+              <div style="display: grid; grid-template-columns: 1fr auto; gap: 8px; margin-top: 14px;">
+                <a href="#contact" class="property-cta-btn" onclick="prefillPropertyInquiry('Prime Commercial Retail Hub', '₹6.80 Cr')">
+                  <span>Book Site Visit &rarr;</span>
+                </a>
+                <a href="#contact" class="hero-btn-whatsapp" style="padding: 10px 14px; border-radius: var(--radius-sm); font-size: 0.82rem; font-weight: 700; gap: 4px;" title="Inquire on WhatsApp">
+                  <span>💬 Chat</span>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Card 5: Gated Plots -->
+          <div class="property-card">
+            <div class="property-img-wrap">
+              <img src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80" alt="Luxury Gated Community Villa Plots" class="property-img" loading="lazy" />
+              <span class="property-badge-tag">Clear Title</span>
+              <span class="property-price-tag">₹85 Lakhs</span>
+            </div>
+            <div class="property-body">
+              <h3 class="property-title">Luxury Gated Community Villa Plots</h3>
+              <div class="property-location">
+                <span>📍</span>
+                <span>South Extension Corridor, <span data-bind="city">Chennai</span></span>
+              </div>
+              <div class="property-specs">
+                <span>📐 <strong>2,400 sq ft Plot</strong></span>
+              </div>
+              <div class="property-features-row">
+                <span class="prop-feature-pill">Blacktop Roads</span>
+                <span class="prop-feature-pill">Underground Cabling</span>
+                <span class="prop-feature-pill">Immediate Registration</span>
+                <span class="prop-feature-pill">Bank Approved</span>
+              </div>
+              <div style="display: grid; grid-template-columns: 1fr auto; gap: 8px; margin-top: 14px;">
+                <a href="#contact" class="property-cta-btn" onclick="prefillPropertyInquiry('Luxury Gated Community Villa Plots', '₹85 Lakhs')">
+                  <span>Book Site Visit &rarr;</span>
+                </a>
+                <a href="#contact" class="hero-btn-whatsapp" style="padding: 10px 14px; border-radius: var(--radius-sm); font-size: 0.82rem; font-weight: 700; gap: 4px;" title="Inquire on WhatsApp">
+                  <span>💬 Chat</span>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Card 6: Duplex -->
+          <div class="property-card">
+            <div class="property-img-wrap">
+              <img src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80" alt="Contemporary Lakeview Duplex Residence" class="property-img" loading="lazy" />
+              <span class="property-badge-tag">Spotlight Deal</span>
+              <span class="property-price-tag">₹3.20 Cr</span>
+            </div>
+            <div class="property-body">
+              <h3 class="property-title">Contemporary Lakeview Duplex Residence</h3>
+              <div class="property-location">
+                <span>📍</span>
+                <span>Lakeview Promenade, <span data-bind="city">Chennai</span></span>
+              </div>
+              <div class="property-specs">
+                <span>🛏️ <strong>4</strong> Beds</span>
+                <span>🚿 <strong>4</strong> Baths</span>
+                <span>📐 <strong>3,650 sq ft</strong></span>
+              </div>
+              <div class="property-features-row">
+                <span class="prop-feature-pill">Double Height Living</span>
+                <span class="prop-feature-pill">Private Terrace</span>
+                <span class="prop-feature-pill">Solar Grid</span>
+                <span class="prop-feature-pill">Designer Modular Kitchen</span>
+              </div>
+              <div style="display: grid; grid-template-columns: 1fr auto; gap: 8px; margin-top: 14px;">
+                <a href="#contact" class="property-cta-btn" onclick="prefillPropertyInquiry('Contemporary Lakeview Duplex', '₹3.20 Cr')">
+                  <span>Book Site Visit &rarr;</span>
+                </a>
+                <a href="#contact" class="hero-btn-whatsapp" style="padding: 10px 14px; border-radius: var(--radius-sm); font-size: 0.82rem; font-weight: 700; gap: 4px;" title="Inquire on WhatsApp">
+                  <span>💬 Chat</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- Interactive Instant Home Valuation Tool -->
+    <section class="section-padding" id="valuation" style="background: rgba(17, 26, 54, 0.6);">
+      <div class="container">
+        
+        <div class="section-header">
+          <div class="section-subtitle">For Property Owners &amp; Sellers</div>
+          <h2 class="section-title">Instant Home Worth Estimator</h2>
+          <p style="color: var(--color-text-muted); font-size: 0.95rem;">
+            Discover your property's current market value based on live neighborhood transactions and demand trends.
+          </p>
+        </div>
+
+        <div class="valuation-card">
+          <div class="calc-grid">
+            
+            <!-- Valuation Inputs Form -->
+            <div>
+              <div class="calc-form-group">
+                <label class="calc-label">Property Type</label>
+                <select class="calc-select" id="val-prop-type">
+                  <option value="luxury_villa">Luxury Single Family / Villa</option>
+                  <option value="penthouse">High-Rise Penthouse / Condo</option>
+                  <option value="townhouse">Modern Townhome</option>
+                  <option value="commercial">Commercial Real Estate</option>
+                </select>
+              </div>
+
+              <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 14px;">
+                <div class="calc-form-group">
+                  <label class="calc-label">Bedrooms</label>
+                  <select class="calc-select" id="val-beds">
+                    <option value="2">2 Bedrooms</option>
+                    <option value="3">3 Bedrooms</option>
+                    <option value="4" selected>4 Bedrooms</option>
+                    <option value="5">5+ Bedrooms</option>
+                  </select>
+                </div>
+                <div class="calc-form-group">
+                  <label class="calc-label">Estimated Living Area (Sq Ft)</label>
+                  <input type="number" class="calc-input" id="val-sqft" value="3800" min="500" max="25000" step="100" />
+                </div>
+              </div>
+
+              <div class="calc-form-group">
+                <label class="calc-label">Interior Finish / Condition</label>
+                <select class="calc-select" id="val-condition">
+                  <option value="ultra_luxury" selected>Ultra-Luxury Modern / Fully Remodeled</option>
+                  <option value="excellent">Excellent / Well-Maintained</option>
+                  <option value="standard">Standard / Move-In Ready</option>
+                </select>
+              </div>
+            </div>
+
+            <!-- Instant Valuation Result -->
+            <div class="calc-result-box">
+              <span style="font-size: 0.8rem; font-weight: 700; color: var(--color-accent); text-transform: uppercase; letter-spacing: 0.08em;">
+                Estimated Market Value Range
+              </span>
+              
+              <div class="calc-result-val" id="val-estimated-price">
+                $3.2M – $3.6M
+              </div>
+
+              <p style="font-size: 0.82rem; color: var(--color-text-muted); margin-bottom: 20px;">
+                Based on <span data-bind="city">Miami</span> premium sales benchmarks and buyer activity this quarter.
+              </p>
+
+              <a href="#contact" class="btn-vip-tour" id="val-book-consult-btn" style="width: 100%; justify-content: center; padding: 12px;">
+                <span>Request Detailed CMA Report &rarr;</span>
+              </a>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- Interactive Mortgage & Monthly Payment Calculator -->
+    <section class="section-padding" id="mortgage">
+      <div class="container">
+        
+        <div class="section-header">
+          <div class="section-subtitle">Financial Planning</div>
+          <h2 class="section-title">Mortgage &amp; EMI Estimator</h2>
+          <p style="color: var(--color-text-muted); font-size: 0.95rem;">
+            Plan your investment with precision. Adjust property price, down payment, and loan tenure.
+          </p>
+        </div>
+
+        <div class="valuation-card" style="background: var(--color-bg-card);">
+          <div class="calc-grid">
+            
+            <div>
+              <!-- Property Price Slider -->
+              <div class="calc-form-group">
+                <div style="display: flex; justify-content: space-between; font-size: 0.85rem; font-weight: 600;">
+                  <span style="color: var(--color-text-muted);">Home Price</span>
+                  <span id="mortgage-price-display" style="color: var(--color-accent); font-weight: 700;">$2,500,000</span>
+                </div>
+                <input type="range" class="range-slider" id="mortgage-price" min="300000" max="10000000" step="50000" value="2500000" />
+              </div>
+
+              <!-- Down Payment Slider -->
+              <div class="calc-form-group">
+                <div style="display: flex; justify-content: space-between; font-size: 0.85rem; font-weight: 600;">
+                  <span style="color: var(--color-text-muted);">Down Payment (<span id="mortgage-down-percent">20</span>%)</span>
+                  <span id="mortgage-down-display" style="color: var(--color-accent); font-weight: 700;">$500,000</span>
+                </div>
+                <input type="range" class="range-slider" id="mortgage-down" min="5" max="50" step="5" value="20" />
+              </div>
+
+              <!-- Loan Term & Interest Rate -->
+              <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 14px;">
+                <div class="calc-form-group">
+                  <label class="calc-label">Loan Term</label>
+                  <select class="calc-select" id="mortgage-term">
+                    <option value="30" selected>30 Years Fixed</option>
+                    <option value="20">20 Years Fixed</option>
+                    <option value="15">15 Years Fixed</option>
+                  </select>
+                </div>
+                <div class="calc-form-group">
+                  <label class="calc-label">Interest Rate (%)</label>
+                  <input type="number" class="calc-input" id="mortgage-rate" value="6.5" min="2.0" max="15.0" step="0.1" />
+                </div>
+              </div>
+            </div>
+
+            <!-- Monthly Calculation Output -->
+            <div class="calc-result-box" style="background: rgba(11, 19, 43, 0.9);">
+              <span style="font-size: 0.8rem; font-weight: 700; color: var(--color-accent); text-transform: uppercase;">
+                Estimated Monthly Payment
+              </span>
+              
+              <div class="calc-result-val" id="mortgage-monthly-payment">
+                $12,641 / mo
+              </div>
+
+              <div style="font-size: 0.82rem; color: var(--color-text-muted); margin: 12px 0 20px; text-align: left; background: var(--color-bg-input); padding: 12px 16px; border-radius: var(--radius-sm);">
+                <div style="display: flex; justify-content: space-between; margin-bottom: 4px;">
+                  <span>Principal &amp; Interest:</span>
+                  <strong id="mortgage-principal-breakdown" style="color: var(--color-text-main);">$12,641</strong>
+                </div>
+                <div style="display: flex; justify-content: space-between;">
+                  <span>Total Loan Amount:</span>
+                  <strong id="mortgage-loan-total" style="color: var(--color-text-main);">$2,000,000</strong>
+                </div>
+              </div>
+
+              <a href="#contact" class="btn-vip-tour" style="width: 100%; justify-content: center; padding: 12px;">
+                <span>Speak with a Private Banker &rarr;</span>
+              </a>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- Client Reviews Section -->
+    <section class="section-padding" id="reviews" style="background: rgba(17, 26, 54, 0.4);">
+      <div class="container">
+        
+        <div class="section-header">
+          <div class="section-subtitle">Client Testimonials</div>
+          <h2 class="section-title">Trusted by Discerning Buyers &amp; Sellers</h2>
+        </div>
+
+        <div class="listings-grid" id="reviews-grid-container" style="grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));">
+          <!-- Populated dynamically by script.js -->
+        </div>
+
+      </div>
+    </section>
+
+    <!-- VIP Inquiry & Private Tour Contact Section -->
+    <section class="section-padding" id="contact">
+      <div class="container" style="max-width: 900px;">
+        
+        <div class="valuation-card" style="border-color: var(--color-border-accent);">
+          <div class="section-header" style="margin-bottom: 24px;">
+            <div class="section-subtitle">Confidential Advisory</div>
+            <h2 class="section-title" style="font-size: 2rem;">Schedule a Private Consultation</h2>
+            <p style="color: var(--color-text-muted); font-size: 0.9rem;">
+              Whether acquiring a trophy asset or listing an exclusive residence, our senior partners are at your service.
+            </p>
+          </div>
+
+          <form id="vip-contact-form">
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-bottom: 14px;">
+              <div>
+                <label class="calc-label">Full Name</label>
+                <input type="text" class="calc-input" placeholder="e.g. Lord Alexander Wright" required />
+              </div>
+              <div>
+                <label class="calc-label">Direct Phone / WhatsApp</label>
+                <input type="tel" class="calc-input" placeholder="+1 (305) 000-0000" required />
+              </div>
+            </div>
+
+            <div class="calc-form-group">
+              <label class="calc-label">Inquiry Interest</label>
+              <select class="calc-select" id="contact-interest-type">
+                <option>Acquiring a Luxury Property ($2M - $10M+)</option>
+                <option>Listing &amp; Selling My Residence</option>
+                <option>Commercial Portfolio Investment</option>
+                <option>Schedule a Private Viewing</option>
+              </select>
+            </div>
+
+            <div class="calc-form-group">
+              <label class="calc-label">Message / Specific Property</label>
+              <textarea class="calc-input" rows="3" placeholder="Tell us your timeline, preferred neighborhoods, or specific property reference..."></textarea>
+            </div>
+
+            <div style="display: flex; gap: 12px; flex-wrap: wrap;">
+              <button type="submit" class="btn-vip-tour" style="flex: 1 1 200px; justify-content: center; padding: 14px; font-size: 0.95rem;">
+                <span>Submit Confidential Request</span>
+              </button>
+              <a href="#" id="contact-whatsapp-btn" target="_blank" rel="noopener noreferrer" class="nav-phone-pill" style="flex: 1 1 160px; justify-content: center; padding: 14px; background: rgba(16, 185, 129, 0.2); color: #10B981; border-color: rgba(16, 185, 129, 0.4);">
+                <span>💬 Chat on WhatsApp</span>
+              </a>
+            </div>
+          </form>
+        </div>
+
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer style="border-top: 1px solid var(--color-border); padding: 50px 0 90px; background: rgba(11, 19, 43, 0.95); font-size: 0.85rem; color: var(--color-text-muted);">
+    <div class="container" style="display: flex; flex-direction: column; gap: 20px; align-items: center; text-align: center;">
+      <div class="brand-identity">
+        <div class="brand-badge">🏛️</div>
+        <span class="brand-name" data-bind="business_name">Apex Premier Realty</span>
+      </div>
+      <p style="max-width: 550px;" data-bind="address">
+        1100 Brickell Bay Dr, Suite 2400, Miami, FL 33131
+      </p>
+      <div>
+        &copy; <span id="year">2026</span> <span data-bind="business_name">Apex Premier Realty</span>. All rights reserved. • Powered by <strong>WebKartX</strong>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Fixed Mobile App Bottom Navigation Bar -->
+  <nav class="mobile-app-bottom-nav" id="mobile-app-bottom-nav">
+    <a href="#overview" class="mobile-app-tab active" data-tab="overview">
+      <span style="font-size: 1.1rem;">✨</span>
+      <span>Home</span>
+    </a>
+    <a href="#listings" class="mobile-app-tab" data-tab="listings">
+      <span style="font-size: 1.1rem;">🏡</span>
+      <span>Homes</span>
+    </a>
+    <a href="#valuation" class="mobile-app-tab" data-tab="valuation">
+      <span style="font-size: 1.1rem;">💰</span>
+      <span>Valuation</span>
+    </a>
+    <a href="#mortgage" class="mobile-app-tab" data-tab="mortgage">
+      <span style="font-size: 1.1rem;">🧮</span>
+      <span>Mortgage</span>
+    </a>
+    <a href="#" id="mobile-wa-bottom-btn" target="_blank" rel="noopener noreferrer" class="mobile-app-tab mobile-app-tab-wa">
+      <span style="font-size: 1.1rem;">💬</span>
+      <span>WhatsApp</span>
+    </a>
+  </nav>
+
+  <!-- Script -->
+  <script src="./script.js?v=3.0"></script>
+</body>
+</html>

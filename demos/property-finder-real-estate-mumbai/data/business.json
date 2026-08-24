@@ -1,0 +1,50 @@
+{
+    "business_name": "Property Finder Real Estate",
+    "source_business_name": "Property Finder Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919326990050",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nShop No. 9, Ground Floor, C Wing, Building No. 3 Deepanjali Co-operative Housing Society Limited Baf-Hira Nagar, Lower Kharodi, off Marve Road, Malad West, Mumbai, Maharashtra 400095",
+    "city": "Mumbai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Property+Finder+Real+Estate/data=!4m7!3m6!1s0x3be7b734b85db253:0x6c44f47cdd8aa6d7!8m2!3d19.1968529!4d72.820893!16s%2Fg%2F11g3yzj76v!19sChIJU7JduDS35zsR16aK3Xz0RGw?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mumbai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/property__finder_mumbai/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

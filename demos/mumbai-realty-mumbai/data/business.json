@@ -1,0 +1,50 @@
+{
+    "business_name": "Mumbai Realty",
+    "source_business_name": "Mumbai Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918850973915",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://themumbairealty.com/",
+    "address": "\n343, 423 Kaliandas Udyog Bhavan, near Birla, Century Bazaar, Prabhadevi, Mumbai, Maharashtra 400025",
+    "city": "Mumbai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Mumbai+Realty/data=!4m7!3m6!1s0x3be7cffe52061bff:0xcd3fa1c285bd0f2f!8m2!3d19.0114869!4d72.8243144!16s%2Fg%2F11q30z8gsr!19sChIJ_xsGUv7P5zsRLw-9hcKhP80?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mumbai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/mumbairealestate_/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

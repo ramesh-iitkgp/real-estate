@@ -1,0 +1,50 @@
+{
+    "business_name": "Shashi Sasane Corporate Realtor",
+    "source_business_name": "Shashi Sasane Corporate Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917506326030",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nNew Link Rd, Veera Desai Industrial Estate, Andheri West, Mumbai, Maharashtra 400053",
+    "city": "West Mumbai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Shashi+sasane+Corporate+Realtor/data=!4m7!3m6!1s0x3be7b7c5917d09bb:0x9b5bf7e4e4e85ff8!8m2!3d19.1365792!4d72.8323015!16s%2Fg%2F11hf82ml2x!19sChIJuwl9kcW35zsR-F_o5OT3W5s?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Mumbai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

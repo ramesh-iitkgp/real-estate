@@ -1,0 +1,50 @@
+{
+    "business_name": "Fs Real Estate",
+    "source_business_name": "Fs Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919152947571",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nFS Real Estate, Okaz Shopping Centre, A/31, Millat Nagar Rd, Milat Nagar, Andheri West, Mumbai, Maharashtra 400053",
+    "city": "Mumbai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/FS+Real+Estate/data=!4m7!3m6!1s0x3be7b63f5a6ea7b1:0xd7f22b7d329df620!8m2!3d19.150996!4d72.8267866!16s%2Fg%2F1ptyjvxlg!19sChIJsaduWj-25zsRIPadMn0r8tc?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mumbai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

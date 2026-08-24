@@ -1,0 +1,50 @@
+{
+    "business_name": "Plexus Realtors",
+    "source_business_name": "Plexus Realtors",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918422086433",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.plexusrealtors.com/",
+    "address": "\nB-1 Shop No. 10&11, Gokuldham CHS Shanti Nagar, Mahakali Caves Rd, near Marol Depot, behind PINNACLE BUSINESS PARK, MIDC, Andheri East, Mumbai, Maharashtra 400093",
+    "city": "East Mumbai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "112",
+    "google_maps_url": "https://www.google.com/maps/place/Plexus+Realtors/data=!4m7!3m6!1s0x3be7c825409cdf9b:0x696d153a30ed258b!8m2!3d19.1196168!4d72.86488!16s%2Fg%2F11g7_g0hc1!19sChIJm9-cQCXI5zsRiyXtMDoVbWk?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Mumbai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

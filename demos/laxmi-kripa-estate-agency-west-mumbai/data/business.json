@@ -1,0 +1,50 @@
+{
+    "business_name": "Laxmi Kripa Estate Agency",
+    "source_business_name": "Laxmi Kripa Estate Agency",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919833090440",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://laxmikripaestateagency.in/",
+    "address": "\nShop no 46, Laxmi Plaza, New Link Rd, Andheri, Laxmi Industrial Estate, Suresh Nagar, Andheri West, Mumbai, Maharashtra 400053",
+    "city": "West Mumbai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Laxmi+Kripa+Estate+Agency/data=!4m7!3m6!1s0x3be7b7f4d38a3e5f:0xa7cd1fbe6ce10b9c!8m2!3d19.1360545!4d72.8292998!16s%2Fg%2F11qv6wf45x!19sChIJXz6K0_S35zsRnAvhbL4fzac?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Mumbai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

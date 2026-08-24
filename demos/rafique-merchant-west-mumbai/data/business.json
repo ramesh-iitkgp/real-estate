@@ -1,0 +1,50 @@
+{
+    "business_name": "Rafique Merchant",
+    "source_business_name": "Rafique Merchant",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919892232060",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nSpaces, INSPIRE HUB, 1st FLOOR, ADANI WESTERN HEIGHTS, Andheri West, Mumbai, Maharashtra 400053",
+    "city": "West Mumbai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/RAFIQUE+MERCHANT/data=!4m7!3m6!1s0x3be7b77c053914cf:0xfe652187f18ab034!8m2!3d19.1294654!4d72.8279946!16s%2Fg%2F11h4cydqhx!19sChIJzxQ5BXy35zsRNLCK8YchZf4?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Mumbai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

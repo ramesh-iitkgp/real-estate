@@ -1,0 +1,50 @@
+{
+    "business_name": "Kenny Propertiez",
+    "source_business_name": "Kenny Propertiez",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918433896724",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nMarol, Andheri East, Mumbai, Maharashtra 400059",
+    "city": "East Mumbai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "23",
+    "google_maps_url": "https://www.google.com/maps/place/Kenny+Propertiez/data=!4m7!3m6!1s0x3be7c992bbf6d557:0x2c050cf203060b60!8m2!3d19.1143193!4d72.8839765!16s%2Fg%2F11hj4wpdtp!19sChIJV9X2u5LJ5zsRYAsGA_IMBSw?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Mumbai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
