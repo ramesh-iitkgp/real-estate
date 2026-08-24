@@ -15,17 +15,127 @@ document.addEventListener("DOMContentLoaded", async () => {
   setupContactForm();
 });
 
+function getDefaultProperties(city = "Chennai", currency = "₹") {
+  const isINR = currency === "₹" || currency === "Rs" || currency === "INR";
+  
+  return [
+    {
+      id: "prop-1",
+      title: "Royal Palm Luxury Villa & Private Lawn",
+      location: `Prime Coastal Corridor, ${city}`,
+      price: isINR ? "₹4.75 Cr" : "$3,850,000",
+      tag: "Featured Exclusive",
+      type: "villa",
+      beds: 4,
+      baths: 5,
+      sqft: "4,850 sq ft",
+      image: "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+      features: ["Private Garden", "Infinity Pool", "Gated Security", "Vastu Compliant"]
+    },
+    {
+      id: "prop-2",
+      title: "Grand Horizon Skyline Penthouse",
+      location: `CBD Central Boulevard, ${city}`,
+      price: isINR ? "₹2.90 Cr" : "$2,450,000",
+      tag: "Ready to Move",
+      type: "penthouse",
+      beds: 3,
+      baths: 3.5,
+      sqft: "3,200 sq ft",
+      image: "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      features: ["Panoramic City Views", "Private Lift", "Clubhouse & Gym", "2 Covered Car Parks"]
+    },
+    {
+      id: "prop-3",
+      title: "Modern Premium 3 & 4 BHK Family Residences",
+      location: `Greenwood Enclave, ${city}`,
+      price: isINR ? "₹1.45 Cr" : "$1,250,000",
+      tag: "New Launch",
+      type: "family_home",
+      beds: 3,
+      baths: 3,
+      sqft: "2,150 sq ft",
+      image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      features: ["Kids Play Area", "Power Backup", "RERA Approved", "24/7 CCTV"]
+    },
+    {
+      id: "prop-4",
+      title: "Prime Commercial Retail & Corporate Suites",
+      location: `Main Arterial Expressway, ${city}`,
+      price: isINR ? "₹6.80 Cr" : "$4,900,000",
+      tag: "High ROI Investment",
+      type: "commercial",
+      beds: 0,
+      baths: 4,
+      sqft: "8,500 sq ft",
+      image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+      features: ["100% Occupancy", "High Footfall Corridor", "Grade-A Glass Facade", "Ample Visitor Parking"]
+    },
+    {
+      id: "prop-5",
+      title: "Luxury Gated Community Villa Plots",
+      location: `South Extension Corridor, ${city}`,
+      price: isINR ? "₹85 Lakhs" : "$680,000",
+      tag: "Clear Title",
+      type: "villa",
+      beds: 0,
+      baths: 0,
+      sqft: "2,400 sq ft Plot",
+      image: "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      features: ["Blacktop Roads", "Underground Cabling", "Immediate Registration", "Bank Approved"]
+    },
+    {
+      id: "prop-6",
+      title: "Contemporary Lakeview Duplex Residence",
+      location: `Lakeview Promenade, ${city}`,
+      price: isINR ? "₹3.20 Cr" : "$2,100,000",
+      tag: "Spotlight Deal",
+      type: "family_home",
+      beds: 4,
+      baths: 4,
+      sqft: "3,650 sq ft",
+      image: "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      features: ["Double Height Living", "Private Terrace", "Solar Grid", "Designer Modular Kitchen"]
+    }
+  ];
+}
+
+function getDefaultReviews(city = "Chennai", bName = "Apex Premier Realty") {
+  return [
+    {
+      author: "Rajesh & Priya Sundaram",
+      role: `Bought Luxury 4 BHK Villa in ${city}`,
+      rating: 5,
+      text: `${bName} made our home buying process seamless and stress-free. Clear title verification, transparent pricing, and excellent local area knowledge. Highly recommended!`,
+      avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&q=80"
+    },
+    {
+      author: "K. Venkatesh",
+      role: `Commercial Space Investor, ${city}`,
+      rating: 5,
+      text: "Outstanding market insight. They identified an off-market high-yield rental commercial floor for me and negotiated favorable terms with the developer. Top tier brokerage.",
+      avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80"
+    },
+    {
+      author: "Ananya Deshmukh",
+      role: `Sold Gated Community Plot in 14 Days`,
+      rating: 5,
+      text: "Extremely professional and prompt service. They brought genuine, verified buyers within a week and handled all registration paperwork effortlessly.",
+      avatar: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&q=80"
+    }
+  ];
+}
+
 async function loadRealEstateData() {
   try {
     const res = await fetch("./data/business.json");
     if (!res.ok) throw new Error("Could not load data/business.json");
     realEstateData = await res.json();
-    currentCurrency = realEstateData.currency_symbol || "$";
+    currentCurrency = realEstateData.currency_symbol || (realEstateData.country === "India" ? "₹" : "$");
     applyDataToDOM(realEstateData);
   } catch (err) {
     console.warn("Using fallback real estate state:", err);
-    updateValuationDisplay();
-    updateMortgageDisplay();
+    applyDataToDOM({});
   }
 }
 
@@ -42,15 +152,16 @@ function cleanBusinessName(raw, city = "") {
 }
 
 function applyDataToDOM(data) {
-  if (!data) return;
-
-  const bName = cleanBusinessName(data.business_name || "Apex Premier Realty", data.city);
-  document.title = `${bName} | Exclusive Luxury Homes & Prime Estates`;
+  const city = data.city || "Chennai";
+  const bName = cleanBusinessName(data.business_name || "Apex Premier Realty", city);
+  document.title = `${bName} | Verified Properties & Real Estate Advisory`;
 
   document.querySelectorAll("[data-bind='business_name']").forEach(el => el.textContent = bName);
-  document.querySelectorAll("[data-bind='tagline']").forEach(el => el.textContent = data.tagline || "");
-  document.querySelectorAll("[data-bind='city']").forEach(el => el.textContent = data.city || "Miami");
-  document.querySelectorAll("[data-bind='address']").forEach(el => el.textContent = data.address || "");
+  
+  const defaultTagline = `Your trusted local property consultants for buying, selling, and investing in verified residential homes, luxury villas, commercial spaces, and plots across ${city}.`;
+  document.querySelectorAll("[data-bind='tagline']").forEach(el => el.textContent = data.tagline || defaultTagline);
+  document.querySelectorAll("[data-bind='city']").forEach(el => el.textContent = city);
+  document.querySelectorAll("[data-bind='address']").forEach(el => el.textContent = data.address || `${city}, Tamil Nadu, India`);
 
   if (data.phone) {
     document.querySelectorAll("[data-phone]").forEach(el => el.href = `tel:${data.phone.replace(/\s+/g, '')}`);
@@ -63,10 +174,15 @@ function applyDataToDOM(data) {
   }
 
   // Stats
-  if (data.stats) {
-    if (data.stats.volume_sold) document.getElementById("stat-volume").textContent = data.stats.volume_sold;
-    if (data.stats.list_to_sale_ratio) document.getElementById("stat-ratio").textContent = data.stats.list_to_sale_ratio;
-    if (data.stats.avg_days_on_market) document.getElementById("stat-days").textContent = data.stats.avg_days_on_market;
+  const statVolumeEl = document.getElementById("stat-volume");
+  if (statVolumeEl) {
+    statVolumeEl.textContent = data.stats?.volume_sold || (currentCurrency === "₹" ? "₹185 Cr+" : "$185M+");
+  }
+  if (data.stats?.list_to_sale_ratio) {
+    document.getElementById("stat-ratio").textContent = data.stats.list_to_sale_ratio;
+  }
+  if (data.stats?.avg_days_on_market) {
+    document.getElementById("stat-days").textContent = data.stats.avg_days_on_market;
   }
   if (data.rating) {
     document.getElementById("stat-rating").textContent = `${data.rating} ★`;
@@ -75,15 +191,29 @@ function applyDataToDOM(data) {
     document.getElementById("stat-review-count").textContent = `${data.review_count}+`;
   }
 
-  // Render Properties & Reviews
-  renderProperties(data.featured_properties || []);
-  renderReviews(data.reviews || []);
+  // Properties: use provided or full visual defaults
+  const properties = (data.featured_properties && data.featured_properties.length > 0)
+    ? data.featured_properties
+    : getDefaultProperties(city, currentCurrency);
+  
+  if (!data.featured_properties || !data.featured_properties.length) {
+    data.featured_properties = properties;
+  }
+
+  const reviews = (data.reviews && data.reviews.length > 0)
+    ? data.reviews
+    : getDefaultReviews(city, bName);
+
+  renderProperties(properties);
+  renderReviews(reviews);
 
   // Format WhatsApp Links
   const waNum = (data.whatsapp || data.phone || "").replace(/\D/g, "");
-  const waMsg = `Hi ${bName}! 👋 I'm interested in viewing your featured luxury properties in ${data.city || 'the area'}. Could we schedule a private consultation?`;
-  const waUrl = waNum ? `https://wa.me/${waNum}?text=${encodeURIComponent(waMsg)}` : `mailto:${data.email || 'info@realty.com'}`;
+  const waMsg = `Hi ${bName}! 👋 I came across your property listing in ${city}. I'm interested in exploring your available properties. Could you share more details?`;
+  const waUrl = waNum ? `https://wa.me/${waNum}?text=${encodeURIComponent(waMsg)}` : `tel:${data.phone || ''}`;
 
+  const heroWa = document.getElementById("hero-whatsapp-btn");
+  if (heroWa) heroWa.href = waUrl;
   const mobWa = document.getElementById("mobile-wa-bottom-btn");
   if (mobWa) mobWa.href = waUrl;
   const contactWa = document.getElementById("contact-whatsapp-btn");
@@ -105,7 +235,13 @@ function renderProperties(properties) {
     ? properties 
     : properties.filter(p => p.type === activePropertyFilter);
 
-  container.innerHTML = filtered.map(p => `
+  const waNum = (realEstateData?.whatsapp || realEstateData?.phone || "").replace(/\D/g, "");
+
+  container.innerHTML = filtered.map(p => {
+    const waPropMsg = `Hi! 👋 I'm interested in this property: "${p.title}" (${p.price}) in ${p.location}. Is it still available for a site visit?`;
+    const propWaUrl = waNum ? `https://wa.me/${waNum}?text=${encodeURIComponent(waPropMsg)}` : '#contact';
+
+    return `
     <div class="property-card">
       <div class="property-img-wrap">
         <img src="${p.image}" alt="${p.title}" class="property-img" loading="lazy" />
@@ -122,7 +258,7 @@ function renderProperties(properties) {
 
         <div class="property-specs">
           ${p.beds ? `<span>🛏️ <strong>${p.beds}</strong> Beds</span>` : ''}
-          <span>🚿 <strong>${p.baths}</strong> Baths</span>
+          ${p.baths ? `<span>🚿 <strong>${p.baths}</strong> Baths</span>` : ''}
           <span>📐 <strong>${p.sqft}</strong></span>
         </div>
 
@@ -130,12 +266,18 @@ function renderProperties(properties) {
           ${(p.features || []).map(f => `<span class="prop-feature-pill">${f}</span>`).join('')}
         </div>
 
-        <a href="#contact" class="property-cta-btn" onclick="prefillPropertyInquiry('${p.title.replace(/'/g, "\\'")}', '${p.price}')">
-          <span>Schedule Private Viewing &rarr;</span>
-        </a>
+        <div style="display: grid; grid-template-columns: 1fr auto; gap: 8px; margin-top: 14px;">
+          <a href="#contact" class="property-cta-btn" onclick="prefillPropertyInquiry('${p.title.replace(/'/g, "\\'")}', '${p.price}')">
+            <span>Book Site Visit &rarr;</span>
+          </a>
+          <a href="${propWaUrl}" target="_blank" rel="noopener" class="hero-btn-whatsapp" style="padding: 10px 14px; border-radius: var(--radius-sm); font-size: 0.82rem; font-weight: 700; gap: 4px;" title="Inquire on WhatsApp">
+            <span>💬 Chat</span>
+          </a>
+        </div>
       </div>
     </div>
-  `).join('');
+  `;
+  }).join('');
 }
 
 function setupPropertyFilters() {
@@ -145,9 +287,8 @@ function setupPropertyFilters() {
       btns.forEach(b => b.classList.remove("active"));
       btn.classList.add("active");
       activePropertyFilter = btn.getAttribute("data-filter") || "all";
-      if (realEstateData && realEstateData.featured_properties) {
-        renderProperties(realEstateData.featured_properties);
-      }
+      const props = realEstateData?.featured_properties || getDefaultProperties(realEstateData?.city || "Chennai", currentCurrency);
+      renderProperties(props);
     });
   });
 }
