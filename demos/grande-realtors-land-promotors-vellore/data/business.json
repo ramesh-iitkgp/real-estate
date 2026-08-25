@@ -1,0 +1,50 @@
+{
+    "business_name": "Grande Realtors Land Promotors",
+    "source_business_name": "Grande Realtors Land Promotors",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919790173933",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n8, new bypass road, kagithapattarai road, near Chennai silks, Vellore, Tamil Nadu 632012",
+    "city": "vellore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Grande+Realtors+%28+Land+Promotors+%29/data=!4m7!3m6!1s0x3bad39426bb10747:0x36a2418925c81545!8m2!3d12.9337338!4d79.1447077!16s%2Fg%2F11sy70myyc!19sChIJRwexa0I5rTsRRRXIJYlBojY?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "vellore"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/grande_realtors_vellore/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

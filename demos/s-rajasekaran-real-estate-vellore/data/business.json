@@ -1,0 +1,50 @@
+{
+    "business_name": "S Rajasekaran Real Estate",
+    "source_business_name": "S Rajasekaran Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917871441356",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nNo 35, Rcc Building, Road, Abdullah Puram, Thellur, Vellore, Tamil Nadu 632010",
+    "city": "vellore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/S+Rajasekaran+Real+Estate/data=!4m7!3m6!1s0x3bad3f6e3ce6712b:0x756ba864cd46bbe6!8m2!3d12.9119572!4d79.0749274!16s%2Fg%2F11lzny8y5j!19sChIJK3HmPG4_rTsR5rtGzWSoa3U?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "vellore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

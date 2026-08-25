@@ -1,0 +1,50 @@
+{
+    "business_name": "Mms Residence",
+    "source_business_name": "Mms Residence",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918940741760",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.mmsresidenceptk.com/",
+    "address": "\nRajiv Gandhi Street, near to CMC Ranipet campus, Puttuthakku, Arapakkam, Ratnagiri Kilminnal, Tamil Nadu 632517",
+    "city": "South vellore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/MMS+RESIDENCE/data=!4m10!3m9!1s0x3bad37041661d2e1:0x28914cdf69ff1b5b!5m2!4m1!1i2!8m2!3d12.9422209!4d79.2336217!16s%2Fg%2F11xlz20z7z!19sChIJ4dJhFgQ3rTsRWxv_ad9MkSg?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South vellore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

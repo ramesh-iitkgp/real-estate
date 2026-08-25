@@ -1,0 +1,50 @@
+{
+    "business_name": "Ss Apartments",
+    "source_business_name": "Ss Apartments",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919443882784",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n573-A, SIXTH SOUTH STREET, NETHAJI NAGAR, EXTN, Viruthampattu, Vellore, Tamil Nadu 632006",
+    "city": "South vellore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/SS+APARTMENTS/data=!4m7!3m6!1s0x3bad39932bb6eb3b:0x3d98efe9480cd438!8m2!3d12.94204!4d79.1301869!16s%2Fg%2F11sgh_v3mt!19sChIJO-u2K5M5rTsRONQMSOnvmD0?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South vellore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

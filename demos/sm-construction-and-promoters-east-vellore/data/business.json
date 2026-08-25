@@ -1,0 +1,50 @@
+{
+    "business_name": "Sm Construction And Promoters",
+    "source_business_name": "Sm Construction And Promoters",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919524455288",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.smcpindia.com/",
+    "address": "\n4th East Main Rd, Suthanthira Ponvizha Nagar, Katpadi, Vellore, Tamil Nadu 632006",
+    "city": "East vellore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/SM+Construction+and+Promoters/data=!4m7!3m6!1s0x3bad4764f8aa99d7:0x84a3795b257fa584!8m2!3d12.9513701!4d79.1408314!16s%2Fg%2F11cpfzqvvj!19sChIJ15mq-GRHrTsRhKV_JVt5o4Q?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East vellore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

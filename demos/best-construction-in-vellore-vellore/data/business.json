@@ -1,0 +1,50 @@
+{
+    "business_name": "Best Construction In",
+    "source_business_name": "Best Construction In",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918438547878",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n14/a new, 2nd St, Suthanthira Ponvizha Nagar, thirunagar, Katpadi, Vellore, Tamil Nadu 632007",
+    "city": "vellore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/best+construction+in+vellore/data=!4m7!3m6!1s0x3bad4787402d34ad:0x3b76702153b68769!8m2!3d12.954478!4d79.1333648!16s%2Fg%2F11nqcg957v!19sChIJrTQtQIdHrTsRaYe2UyFwdjs?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "vellore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

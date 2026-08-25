@@ -1,0 +1,50 @@
+{
+    "business_name": "Sgrt Residency Vellore - Have A Great Hospitality",
+    "source_business_name": "Sgrt Residency Vellore - Have A Great Hospitality",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917708128731",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n313, South Avenue Road, Phase 2, Sathuvachari, Vellore, Tamil Nadu 632009",
+    "city": "South vellore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/SGRT+Residency+Vellore+-+Have+A+Great+Hospitality!../data=!4m10!3m9!1s0x3bad3888267cb919:0xd005cfcb70329fa2!5m2!4m1!1i2!8m2!3d12.9334588!4d79.154606!16s%2Fg%2F11f09430vx!19sChIJGbl8Jog4rTsRop8ycMvPBdA?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South vellore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

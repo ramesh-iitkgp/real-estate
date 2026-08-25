@@ -1,0 +1,50 @@
+{
+    "business_name": "Gdr Real Estate & Finance",
+    "source_business_name": "Gdr Real Estate & Finance",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919087781002",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nW74R+PQ7, Vellore, Melvisharam, Tamil Nadu 632509",
+    "city": "East vellore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/GDR+Real+Estate+%26+Finance/data=!4m7!3m6!1s0x3bad35004f7ad5b5:0xc039132467e5623!8m2!3d12.9112432!4d79.2925381!16s%2Fg%2F11w99221zv!19sChIJtdV6TwA1rTsRI1Z-RjKRAww?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East vellore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

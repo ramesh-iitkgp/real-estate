@@ -1,0 +1,50 @@
+{
+    "business_name": "Sr Projects & Promoters",
+    "source_business_name": "Sr Projects & Promoters",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919486051212",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://infosrprojects.in/",
+    "address": "\n10, 6th East Main Rd, Suthanthira Ponvizha Nagar, katpadi, Gandhi Nagar, Vellore, Tamil Nadu 632006",
+    "city": "East vellore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Sr+Projects+%26+Promoters/data=!4m7!3m6!1s0x3bad476c4e12d477:0xf5759c729a3d9ddc!8m2!3d12.9493287!4d79.1409067!16s%2Fg%2F11m7545dmc!19sChIJd9QSTmxHrTsR3J09mnKcdfU?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East vellore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

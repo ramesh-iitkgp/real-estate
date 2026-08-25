@@ -1,0 +1,50 @@
+{
+    "business_name": "Sri Sai Rental Houses",
+    "source_business_name": "Sri Sai Rental Houses",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919994876765",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n550/5, 5TH Main Road,, Phase-II,, Sathuvachari,, Vellore, Tamil Nadu 632009",
+    "city": "vellore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Sri+Sai+Rental+Houses/data=!4m7!3m6!1s0x3bad386386ab884d:0x3cc882c092543ed!8m2!3d12.9325081!4d79.1601507!16s%2Fg%2F11cnm7mrdh!19sChIJTYirhmM4rTsR7UMlCSyIzAM?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "vellore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
