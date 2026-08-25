@@ -1,0 +1,50 @@
+{
+    "business_name": "Vision Properties - Trichy",
+    "source_business_name": "Vision Properties - Trichy",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918760604484",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n20, 2nd Cross Street, Ashok Nagar W, R.M.S Colony, Karumandapam, Tiruchirappalli, Tamil Nadu 620001",
+    "city": "West Trichy",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Vision+Properties+-+Trichy/data=!4m7!3m6!1s0x3baaf5e39c0c24f1:0x8d2f3cd67c3c4f73!8m2!3d10.7901977!4d78.6699436!16s%2Fg%2F11zh8g16_4!19sChIJ8SQMnOP1qjsRc088fNY8L40?authuser=0&hl=en&g_ep=EgoyMDI2MDgyMy4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Trichy"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

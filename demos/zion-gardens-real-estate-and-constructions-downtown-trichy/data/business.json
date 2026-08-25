@@ -1,0 +1,50 @@
+{
+    "business_name": "Zion Gardens - Real Estate And Constructions",
+    "source_business_name": "Zion Gardens - Real Estate And Constructions",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919367518085",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://ziongardens.in/",
+    "address": "\n63A, Bishop Rd, Puthur, Tennur, Tiruchirappalli, Tamil Nadu 620017",
+    "city": "Downtown Trichy",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Zion+Gardens+-+Real+Estate+and+Constructions/data=!4m7!3m6!1s0x3baaf58dd4953b35:0x50b9d090f3aa81f1!8m2!3d10.8156034!4d78.6795205!16s%2Fg%2F11gy723866!19sChIJNTuV1I31qjsR8YGq85DQuVA?authuser=0&hl=en&g_ep=EgoyMDI2MDgyMy4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Trichy"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

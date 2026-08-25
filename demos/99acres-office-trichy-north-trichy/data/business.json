@@ -1,0 +1,50 @@
+{
+    "business_name": "99Acres Office Trichy",
+    "source_business_name": "99Acres Office Trichy",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "9118004199099",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.99acres.com/",
+    "address": "\n2nd floor, Bloom plaza, MAX OFFICE C-63, 7th Cross St W, North East Extension, Tiruchirappalli, Tamil Nadu 620018",
+    "city": "North Trichy",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/99acres+Office+Trichy/data=!4m7!3m6!1s0x3baaf5cd1def820b:0x29213661d40b4ca9!8m2!3d10.8226743!4d78.6825144!16s%2Fg%2F11xt960bsd!19sChIJC4LvHc31qjsRqUwL1GE2ISk?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Trichy"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

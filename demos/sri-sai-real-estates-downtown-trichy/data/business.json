@@ -1,0 +1,50 @@
+{
+    "business_name": "Sri Sai Real Estates",
+    "source_business_name": "Sri Sai Real Estates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919894125886",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n2, Palani Nagar, LIC Colony, Ayyappa Nagar, K K Nagar, Tiruchirappalli, Tamil Nadu 620021",
+    "city": "Downtown Trichy",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Sri+Sai+Real+Estates/data=!4m7!3m6!1s0x3baa8bb30d0f402d:0xaf5be6589cbaf3f5!8m2!3d10.7632744!4d78.6825427!16s%2Fg%2F11kwpg7bqb!19sChIJLUAPDbOLqjsR9fO6nFjmW68?authuser=0&hl=en&g_ep=EgoyMDI2MDgyMy4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Trichy"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

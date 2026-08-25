@@ -1,0 +1,50 @@
+{
+    "business_name": "Green Valley Promoters",
+    "source_business_name": "Green Valley Promoters",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919843049810",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nQMVJ+J8X, Aristo Roundabout, Bharathiyar Salai, Sangillyandapuram, Tiruchirappalli, Tamil Nadu 620001",
+    "city": "Trichy",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Green+Valley+Promoters/data=!4m7!3m6!1s0x3baaf53f932ded8f:0xb4ba91a384bf055!8m2!3d10.7941054!4d78.6808627!16s%2Fg%2F11by3gmlhs!19sChIJj-0tkz_1qjsRVfBLOBqpSws?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Trichy"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

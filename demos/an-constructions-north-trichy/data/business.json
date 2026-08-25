@@ -1,0 +1,50 @@
+{
+    "business_name": "An Constructions",
+    "source_business_name": "An Constructions",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919944966653",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n3/847 Venugopal Nagar 2nd Street, 19, St Antonys Church St, opposite Tiruchirappalli, North Kattur, Tiruchirappalli (Part, Tamil Nadu 620019",
+    "city": "North Trichy",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/AN+Constructions/data=!4m7!3m6!1s0x3baaf53c63c0715d:0xc21b69e5e8c5bf4a!8m2!3d10.8055489!4d78.739353!16s%2Fg%2F11lhw13qpv!19sChIJXXHAYzz1qjsRSr_F6OVpG8I?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Trichy"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

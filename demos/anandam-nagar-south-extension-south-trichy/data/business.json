@@ -1,0 +1,50 @@
+{
+    "business_name": "Anandam Nagar South Extension",
+    "source_business_name": "Anandam Nagar South Extension",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918925630488",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nRM47+CGM, Ammayappa Nagar, Tiruchirappalli, Tamil Nadu 620017",
+    "city": "South Trichy",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Anandam+nagar+south+extension/data=!4m7!3m6!1s0x3baaf5fcb5f40813:0xb5e5eff4c4b44c9f!8m2!3d10.806094!4d78.663812!16s%2Fg%2F11t9kt1001!19sChIJEwj0tfz1qjsRn0y0xPTv5bU?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Trichy"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

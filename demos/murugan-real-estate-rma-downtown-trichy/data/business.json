@@ -1,0 +1,50 @@
+{
+    "business_name": "Murugan Real Estate Rma",
+    "source_business_name": "Murugan Real Estate Rma",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918098022796",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nNo:84, 93, Madurai Main Rd, Edamalaipatti Pudur, Tamil Nadu 620012",
+    "city": "Downtown Trichy",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Murugan+Real+Estate+%28RMA%29/data=!4m7!3m6!1s0x3baaf54d983b7cc7:0xce5aa909e19d108b!8m2!3d10.7750171!4d78.6695149!16s%2Fg%2F11gcm4_c81!19sChIJx3w7mE31qjsRixCd4QmpWs4?authuser=0&hl=en&g_ep=EgoyMDI2MDgyMy4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Trichy"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

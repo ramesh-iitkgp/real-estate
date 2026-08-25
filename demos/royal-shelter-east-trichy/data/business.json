@@ -1,0 +1,50 @@
+{
+    "business_name": "Royal Shelter",
+    "source_business_name": "Royal Shelter",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919942211775",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://royalshelter.co.in/",
+    "address": "\nTower, D, 2nd Floor, J.P, 27, 7th Cross Rd E, Thillai Nagar, Tiruchirappalli, Tamil Nadu 620018",
+    "city": "East Trichy",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Royal+Shelter/data=!4m7!3m6!1s0x3baaf5c13c3539d3:0xc8ccd4ca3f416751!8m2!3d10.8225789!4d78.6842255!16s%2Fg%2F11lgc_5m17!19sChIJ0zk1PMH1qjsRUWdBP8rUzMg?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Trichy"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

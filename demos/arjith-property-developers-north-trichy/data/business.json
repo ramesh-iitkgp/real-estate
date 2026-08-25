@@ -1,0 +1,50 @@
+{
+    "business_name": "Arjith Property Developers",
+    "source_business_name": "Arjith Property Developers",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "914312741771",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.arjithdevelopers.com/",
+    "address": "\nAA31, Ukkirakali Amman Kovil Street, Hidayath Nagar, Anna Nagar, Tennur, Tiruchirappalli, Tamil Nadu 620017",
+    "city": "North Trichy",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Arjith+Property+Developers/data=!4m7!3m6!1s0x3baaf5a41b36cef1:0x6f894e0c56b168eb!8m2!3d10.8159475!4d78.6896058!16s%2Fg%2F11bw2hc0m3!19sChIJ8c42G6T1qjsR62ixVgxOiW8?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Trichy"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

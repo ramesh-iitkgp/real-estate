@@ -1,0 +1,50 @@
+{
+    "business_name": "Appu Real Estate",
+    "source_business_name": "Appu Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919123568744",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://appurealestatetry.com/",
+    "address": "\nNo.30, Mela kondayampettai, Srirangam, Vibuthi Prakaram, Thiruvanaikoil, Srirangam, Tiruchirappalli, Tamil Nadu 620005",
+    "city": "Trichy",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Appu+Real+Estate+Trichy/data=!4m7!3m6!1s0x3baaf57fe67f5e7f:0x50b0d216f3a11350!8m2!3d10.8519838!4d78.7030089!16s%2Fg%2F11yfd369q0!19sChIJf15_5n_1qjsRUBOh8xbSsFA?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Trichy"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

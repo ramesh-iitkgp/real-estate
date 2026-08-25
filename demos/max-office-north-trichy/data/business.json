@@ -1,0 +1,50 @@
+{
+    "business_name": "Max Office",
+    "source_business_name": "Max Office",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919003888455",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n2nd Floor, Bloom Plaza, C-63, 7th Cross St W, North East Extension, Tennur, Tiruchirappalli, Tamil Nadu 620018",
+    "city": "North Trichy",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Max+Office/data=!4m7!3m6!1s0x3baaf524fbe0e545:0xf2d0e16da3a2c2e6!8m2!3d10.823305!4d78.686584!16s%2Fg%2F11krs_7lq9!19sChIJReXg-yT1qjsR5sKio23h0PI?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Trichy"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

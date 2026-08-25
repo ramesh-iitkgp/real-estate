@@ -1,0 +1,50 @@
+{
+    "business_name": "Nakshathra Divine Properties",
+    "source_business_name": "Nakshathra Divine Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917448830765",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.nakshathradivineproperties.com/",
+    "address": "\nWarners Rd, Cantonment, Tiruchirappalli, Tamil Nadu 620001",
+    "city": "Trichy",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Nakshathra+Divine+Properties+Trichy/data=!4m7!3m6!1s0x3baaf5d4a0a0af49:0x2a84c69773e9c8c8!8m2!3d10.8038422!4d78.6826117!16s%2Fg%2F11wntsw9xh!19sChIJSa-goNT1qjsRyMjpc5fGhCo?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Trichy"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

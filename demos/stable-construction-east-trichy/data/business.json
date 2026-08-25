@@ -1,0 +1,50 @@
+{
+    "business_name": "Stable Construction",
+    "source_business_name": "Stable Construction",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919626956000",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nPrathi abobes (Ground Floor, C-21, 11th Cross W, Thillai Nagar, Tennur, Tiruchirappalli, Tamil Nadu 620018",
+    "city": "East Trichy",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Stable+Construction/data=!4m7!3m6!1s0x3baaf5cde18fc0ab:0xd6177d1807cbb712!8m2!3d10.8194598!4d78.6827907!16s%2Fg%2F11j01n0zvy!19sChIJq8CP4c31qjsRErfLBxh9F9Y?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Trichy"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

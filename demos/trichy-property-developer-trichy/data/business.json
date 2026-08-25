@@ -1,0 +1,50 @@
+{
+    "business_name": "Trichy Property Developer",
+    "source_business_name": "Trichy Property Developer",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919600800047",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1st Floor, 5, Annamalai Nagar, Tiruchirappalli, Tamil Nadu 620018",
+    "city": "Trichy",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Trichy+Property+Developer/data=!4m7!3m6!1s0x3baaf532c4911829:0xf9f2544a7359e98d!8m2!3d10.808372!4d78.7002226!16s%2Fg%2F11njwx72p5!19sChIJKRiRxDL1qjsRjelZc0pU8vk?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Trichy"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
