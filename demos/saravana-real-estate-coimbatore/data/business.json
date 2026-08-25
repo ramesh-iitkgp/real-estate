@@ -1,0 +1,50 @@
+{
+    "business_name": "Saravana Real Estate",
+    "source_business_name": "Saravana Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919789780559",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.indiaproperty.com/coimbatore-apartments-flats-sale",
+    "address": "\n9/125,NEHRU HAGAR ROAD, CIVIL AREODROME POST, -641014. CELL:9789780559,,, Kalapatti Main Rd, Coimbatore, Tamil Nadu 641014",
+    "city": "Coimbatore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Saravana+Real+Estate/data=!4m7!3m6!1s0x3ba857db228dbc21:0xe4c6d6e68b809dba!8m2!3d11.0517136!4d77.0416555!16s%2Fg%2F1th2278_!19sChIJIbyNIttXqDsRup2Ai-bWxuQ?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Coimbatore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

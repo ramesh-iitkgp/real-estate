@@ -1,0 +1,50 @@
+{
+    "business_name": "Divine Properties & Construction - Real Estate In",
+    "source_business_name": "Divine Properties & Construction - Real Estate In",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919943629999",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://divineproperties.org/",
+    "address": "\nD\" Ground Floor, Rainbow Manor, 1274/1274, Trichy Rd, Gopalapuram, Coimbatore, Tamil Nadu 641018",
+    "city": "Coimbatore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Divine+Properties+%26+Construction+-+real+estate+in+coimbatore/data=!4m7!3m6!1s0x3ba859a33086aaab:0x9bd239fbcb2427b0!8m2!3d10.9957808!4d76.9751299!16s%2Fg%2F11dxnz5552!19sChIJq6qGMKNZqDsRsCcky_s50ps?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Coimbatore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

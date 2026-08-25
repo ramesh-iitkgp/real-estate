@@ -1,0 +1,50 @@
+{
+    "business_name": "Avini Properties Pvt Ltd",
+    "source_business_name": "Avini Properties Pvt Ltd",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917200112300",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n37, 3rd WEST CROSS STREET, STV Nagar, Coimbatore, Tamil Nadu 641004",
+    "city": "West Coimbatore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Avini+Properties+Pvt+Ltd/data=!4m7!3m6!1s0x3ba8f7987888b353:0x131a13aec8dddb1!8m2!3d11.0219612!4d76.9930202!16s%2Fg%2F11nnnd5tt1!19sChIJU7OIeJj3qDsRsd2N7DqhMQE?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Coimbatore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

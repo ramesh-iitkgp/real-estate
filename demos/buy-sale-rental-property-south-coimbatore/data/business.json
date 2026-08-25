@@ -1,0 +1,50 @@
+{
+    "business_name": "Buy Sale Rental Property",
+    "source_business_name": "Buy Sale Rental Property",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919843453531",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://buysalerentalproperty.com/",
+    "address": "\n2nd Floor no 60, malar illam, puttru kann mariamman kovil, Sindhu Nagar, Ondipudur, Coimbatore, Tamil Nadu 641016",
+    "city": "South Coimbatore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "3",
+    "google_maps_url": "https://www.google.com/maps/place/Buy+Sale+Rental+Property/data=!4m7!3m6!1s0x3ba857752ada0f79:0x527c669612d6ef20!8m2!3d10.9954793!4d77.053954!16s%2Fg%2F11zgskm9gy!19sChIJeQ_aKnVXqDsRIO_WEpZmfFI?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Coimbatore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

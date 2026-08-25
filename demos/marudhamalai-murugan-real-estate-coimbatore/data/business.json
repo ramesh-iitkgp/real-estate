@@ -1,0 +1,50 @@
+{
+    "business_name": "Marudhamalai Murugan Real Estate",
+    "source_business_name": "Marudhamalai Murugan Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918438447565",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n386, Marudhamalai Rd, Veerasamy Colony, P N Pudur, Coimbatore, Tamil Nadu 641041",
+    "city": "Coimbatore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Marudhamalai+Murugan+Real+Estate/data=!4m7!3m6!1s0x3ba858d323856f95:0x5583ef2d39436829!8m2!3d11.0196725!4d76.919331!16s%2Fg%2F11b60zrn4q!19sChIJlW-FI9NYqDsRKWhDOS3vg1U?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Coimbatore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

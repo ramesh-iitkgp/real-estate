@@ -1,0 +1,50 @@
+{
+    "business_name": "Sri Masaniamman Real Estate",
+    "source_business_name": "Sri Masaniamman Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919842141563",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n52,Sri Krishna nagar, Housing Unit Rd, Nehru Nagar West, Coimbatore, Tamil Nadu 641014",
+    "city": "West Coimbatore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Sri+Masaniamman+Real+Estate/data=!4m7!3m6!1s0x3ba857d0c41bd067:0xf99a891a586a3cae!8m2!3d11.055155!4d77.046763!16s%2Fg%2F11tjy76xr0!19sChIJZ9AbxNBXqDsRrjxqWBqJmvk?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Coimbatore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Sree Daksha Property Developers",
+    "source_business_name": "Sree Daksha Property Developers",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919566674580",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.sreedaksha.com/",
+    "address": "\n1, Marudhamalai Rd, Gandhi Layout, Raj Avenue, Coimbatore, Tamil Nadu 641046",
+    "city": "Coimbatore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Sree+Daksha+Property+Developers/data=!4m7!3m6!1s0x3ba85f9f6c733b03:0x8972a36f8e095f20!8m2!3d11.0298235!4d76.893515!16s%2Fg%2F11b6__zsdj!19sChIJAztzbJ9fqDsRIF8Jjm-jcok?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Coimbatore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

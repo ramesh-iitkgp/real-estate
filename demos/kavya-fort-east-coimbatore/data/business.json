@@ -1,0 +1,50 @@
+{
+    "business_name": "Kavya Fort",
+    "source_business_name": "Kavya Fort",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919443320755",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n78, E Lokamanya St, R.S. Puram, Coimbatore, Tamil Nadu 641002",
+    "city": "East Coimbatore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Kavya+Fort/data=!4m7!3m6!1s0x3ba8591cce52ab8f:0x49fc1f41f03da01!8m2!3d11.009725!4d76.952256!16s%2Fg%2F11bccm0vcc!19sChIJj6tSzhxZqDsRAdoDH_TBnwQ?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Coimbatore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Mangalanaathan Real Estate",
+    "source_business_name": "Mangalanaathan Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919585007000",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nG K S Nagar, Ramanandha Nagar, Saravanampatti, Coimbatore, Tamil Nadu 641035",
+    "city": "West Coimbatore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/MANGALANAATHAN+REAL+ESTATE/data=!4m7!3m6!1s0x3ba8f70053dc5c87:0x4c45bad4692dd3ef!8m2!3d11.0708622!4d76.9978309!16s%2Fg%2F11vpgcq2k4!19sChIJh1zcUwD3qDsR79MtadS6RUw?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Coimbatore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
