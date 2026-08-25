@@ -1,0 +1,50 @@
+{
+    "business_name": "Vancouver Metro Real Estate-Vancouver & Burnaby",
+    "source_business_name": "Vancouver Metro Real Estate-Vancouver & Burnaby",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16048621966",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://vancouvermetrorealestate.com/",
+    "address": "\n701 W Georgia St #1500, Vancouver, BC V7Y 1G5, Canada",
+    "city": "Vancouver",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Vancouver+Metro+Real+Estate-Vancouver+%26+Burnaby/data=!4m7!3m6!1s0x54867379fef00001:0xa77d8e9c55da345f!8m2!3d49.2832955!4d-123.115701!16s%2Fg%2F11dy0j8yh2!19sChIJAQDw_nlzhlQRXzTaVZyOfac?authuser=0&hl=en&g_ep=EgoyMDI2MDgyMy4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Vancouver"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

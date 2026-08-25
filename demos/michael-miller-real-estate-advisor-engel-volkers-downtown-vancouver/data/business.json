@@ -1,0 +1,50 @@
+{
+    "business_name": "Michael Miller - Real Estate Advisor - Engel & Volkers",
+    "source_business_name": "Michael Miller - Real Estate Advisor - Engel & Volkers",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17782426356",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.evrealestate.com/en/shops/vancouver/our-advisors/michaelmiller/8e879260-2352-4f0a-bc26-87b0c8bba6b3",
+    "address": "\n1152 Mainland St #130, Vancouver, BC V6B 4X2, Canada",
+    "city": "Downtown Vancouver",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Michael+Miller+-+Real+Estate+Advisor+-+Engel+%26+V%C3%B6lkers/data=!4m7!3m6!1s0x475e3e58620c0099:0x18aa34146c2791aa!8m2!3d49.2748257!4d-123.1211997!16s%2Fg%2F11rd5mr5y4!19sChIJmQAMYlg-XkcRqpEnbBQ0qhg?authuser=0&hl=en&g_ep=EgoyMDI2MDgyMy4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Vancouver"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

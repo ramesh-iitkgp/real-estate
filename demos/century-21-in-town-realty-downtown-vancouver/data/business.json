@@ -1,0 +1,50 @@
+{
+    "business_name": "Century 21 In Town Realty",
+    "source_business_name": "Century 21 In Town Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16046855951",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.century21vancouver.com/",
+    "address": "\n419 Pacific St, Vancouver, BC V6B 5M5, Canada",
+    "city": "Downtown Vancouver",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Century+21+In+Town+Realty/data=!4m7!3m6!1s0x548673d11c37345b:0x8e6643e15e89a87!8m2!3d49.2733464!4d-123.1262274!16s%2Fg%2F11c5rttsk6!19sChIJWzQ3HNFzhlQRh5roFT5k5gg?authuser=0&hl=en&g_ep=EgoyMDI2MDgyMy4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Vancouver"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

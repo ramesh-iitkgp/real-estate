@@ -1,0 +1,50 @@
+{
+    "business_name": "Milad Karimi Real Estate Corp",
+    "source_business_name": "Milad Karimi Real Estate Corp",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16043643634",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://miladhomes.com/",
+    "address": "\n265 25th St, West Vancouver, BC V7V 4H9, Canada",
+    "city": "West Vancouver",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Milad+Karimi+Real+Estate+Corp./data=!4m7!3m6!1s0x54866f1788f64a6f:0x721347912f742fb1!8m2!3d49.334621!4d-123.1827915!16s%2Fg%2F11ptmg32h9!19sChIJb0r2iBdvhlQRsS90L5FHE3I?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Vancouver"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

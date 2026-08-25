@@ -1,0 +1,50 @@
+{
+    "business_name": "Alex Mackenzie Realtor Royal Lepage Sussex North Shore & Vancouver Real Estate",
+    "source_business_name": "Alex Mackenzie Realtor Royal Lepage Sussex North Shore & Vancouver Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16043567554",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.alexandermackenzie.ca/",
+    "address": "\n2996 Lonsdale Ave, North Vancouver, BC V7N 3J4, Canada",
+    "city": "North Vancouver",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Alex+Mackenzie,+REALTOR+%E2%80%93+Royal+LePage+Sussex+%7C+North+Shore+%26+Vancouver+Real+Estate/data=!4m7!3m6!1s0x54867018f9841f95:0x82ce3b6329f1866d!8m2!3d49.3363891!4d-123.0716075!16s%2Fg%2F11f15fwmpr!19sChIJlR-E-RhwhlQRbYbxKWM7zoI?authuser=0&hl=en&g_ep=EgoyMDI2MDgyMy4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Vancouver"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

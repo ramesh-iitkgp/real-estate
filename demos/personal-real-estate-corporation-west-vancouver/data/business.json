@@ -1,0 +1,50 @@
+{
+    "business_name": "Personal Real Estate Corporation",
+    "source_business_name": "Personal Real Estate Corporation",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17786561010",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://taherkhani.ca/",
+    "address": "\n2403 Marine Dr, West Vancouver, BC V7V 1L3, Canada",
+    "city": "West Vancouver",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Personal+Real+Estate+Corporation/data=!4m7!3m6!1s0x54866f087ad3de19:0xd69c9807bb557a32!8m2!3d49.3344609!4d-123.17956!16s%2Fg%2F11fl15y5dr!19sChIJGd7TeghvhlQRMnpVuweYnNY?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Vancouver"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

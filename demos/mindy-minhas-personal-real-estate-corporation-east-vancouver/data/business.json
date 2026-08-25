@@ -1,0 +1,50 @@
+{
+    "business_name": "Mindy Minhas Personal Real Estate Corporation",
+    "source_business_name": "Mindy Minhas Personal Real Estate Corporation",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17788397615",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.mindyminhas.com/",
+    "address": "\n2607 E 49th Ave, Vancouver, BC V5S 1J9, Canada",
+    "city": "East Vancouver",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Mindy+Minhas+Personal+Real+Estate+Corporation/data=!4m7!3m6!1s0x5486746006afffe3:0xe198d9ad95242f66!8m2!3d49.2253612!4d-123.0544384!16s%2Fg%2F11hd9k9njm!19sChIJ4_-vBmB0hlQRZi8kla3ZmOE?authuser=0&hl=en&g_ep=EgoyMDI2MDgyMy4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Vancouver"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

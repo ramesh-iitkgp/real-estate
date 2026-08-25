@@ -1,0 +1,50 @@
+{
+    "business_name": "Tom Song Personal Real Estate Corporation",
+    "source_business_name": "Tom Song Personal Real Estate Corporation",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16047715538",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1200 W 73rd Ave #100, Vancouver, BC V6P 6G5, Canada",
+    "city": "South Vancouver",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Tom+Song+Personal+Real+Estate+Corporation/data=!4m7!3m6!1s0x5486755782dc6e17:0x82ae916f5cd0daa9!8m2!3d49.2040785!4d-123.1332686!16s%2Fg%2F11qb8qgrn2!19sChIJF27cgld1hlQRqdrQXG-RroI?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Vancouver"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

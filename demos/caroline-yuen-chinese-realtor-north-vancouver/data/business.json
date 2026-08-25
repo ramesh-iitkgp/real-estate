@@ -1,0 +1,50 @@
+{
+    "business_name": "Caroline Yuen Chinese Realtor",
+    "source_business_name": "Caroline Yuen Chinese Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "604) 618-6892",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n970 Marine Drive, North Vancouver, BC V7P 1R9",
+    "city": "North Vancouver",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Caroline+Yuen+Chinese+Realtor/data=!4m7!3m6!1s0x548671c51e0494c7:0x988eea83d3b8cb7a!8m2!3d49.323176!4d-123.099478!16s%2Fg%2F11vcvfpm6g!19sChIJx5QEHsVxhlQResu404Pqjpg?authuser=0&hl=en&g_ep=EgoyMDI2MDgyMy4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Vancouver"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

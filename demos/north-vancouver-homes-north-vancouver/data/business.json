@@ -1,0 +1,50 @@
+{
+    "business_name": "North Vancouver Homes",
+    "source_business_name": "North Vancouver Homes",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16049887653",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n109 Lonsdale Ave, North Vancouver, BC V7M 2E7, Canada",
+    "city": "North Vancouver",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/North+Vancouver+Homes/data=!4m7!3m6!1s0x5486704c5ed2dbc7:0x83264c35bab19470!8m2!3d49.3122266!4d-123.0785997!16s%2Fg%2F11ddz912q2!19sChIJx9vSXkxwhlQRcJSxujVMJoM?authuser=0&hl=en&g_ep=EgoyMDI2MDgyMy4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Vancouver"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

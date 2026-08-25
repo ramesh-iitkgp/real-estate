@@ -1,0 +1,50 @@
+{
+    "business_name": "Swift Realty Ltd",
+    "source_business_name": "Swift Realty Ltd",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16042390911",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.swiftrealty.properties/",
+    "address": "\n850 Harbourside Dr #106, North Vancouver, BC V7P 0A3, Canada",
+    "city": "North Vancouver",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Swift+Realty+Ltd./data=!4m7!3m6!1s0x548673d5c9167a17:0x2a1594498a494a1b!8m2!3d49.3149126!4d-123.0968408!16s%2Fg%2F11b6gdjqx7!19sChIJF3oWydVzhlQRG0pJikmUFSo?authuser=0&hl=en&g_ep=EgoyMDI2MDgyMy4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Vancouver"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

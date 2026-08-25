@@ -1,0 +1,50 @@
+{
+    "business_name": "Engel & Volkers",
+    "source_business_name": "Engel & Volkers",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17783743100",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.evrealestate.com/en/shops/vancouver",
+    "address": "\n1152 Mainland St #130, Vancouver, BC V6B 4X2, Canada",
+    "city": "Downtown Vancouver",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Engel+%26+V%C3%B6lkers+Vancouver/data=!4m7!3m6!1s0x548673d6fc978589:0xd6ad3e452af683a5!8m2!3d49.274877!4d-123.1213597!16s%2Fg%2F11c550fm7y!19sChIJiYWX_NZzhlQRpYP2KkU-rdY?authuser=0&hl=en&g_ep=EgoyMDI2MDgyMy4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Vancouver"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

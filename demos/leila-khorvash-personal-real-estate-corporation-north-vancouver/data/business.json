@@ -1,0 +1,50 @@
+{
+    "business_name": "Leila Khorvash Personal Real Estate Corporation",
+    "source_business_name": "Leila Khorvash Personal Real Estate Corporation",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17788734500",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.leilakhorvash.com/",
+    "address": "\n2996 Lonsdale Ave, North Vancouver, BC V7N 3J4, Canada",
+    "city": "North Vancouver",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Leila+Khorvash+Personal+Real+Estate+Corporation/data=!4m7!3m6!1s0x54866e1100000001:0xbc0d0066a21c0675!8m2!3d49.3363721!4d-123.0715818!16s%2Fg%2F11h111wgy8!19sChIJAQAAABFuhlQRdQYcomYADbw?authuser=0&hl=en&g_ep=EgoyMDI2MDgyMy4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Vancouver"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
