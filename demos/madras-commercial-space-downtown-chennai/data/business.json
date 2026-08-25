@@ -1,0 +1,50 @@
+{
+    "business_name": "Madras Commercial Space",
+    "source_business_name": "Madras Commercial Space",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917305167339",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nMadras Commercial Space, The Executive Zone, Shakti Tower - 1 Thousand Lights Metro Station 766, Anna Salai Next to Spencer's Plaza, Chennai, Tamil Nadu 600002",
+    "city": "Downtown Chennai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Madras+Commercial+Space/data=!4m7!3m6!1s0x3a52676fe77bd571:0xc196ec2ec01182d5!8m2!3d13.0611243!4d80.2601323!16s%2Fg%2F11qpy3pfkh!19sChIJcdV7529nUjoR1YIRwC7slsE?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Chennai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

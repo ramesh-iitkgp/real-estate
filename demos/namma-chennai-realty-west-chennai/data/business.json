@@ -1,0 +1,50 @@
+{
+    "business_name": "Namma Chennai Realty",
+    "source_business_name": "Namma Chennai Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919150535022",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://nammachennairealty.com/",
+    "address": "\nNo. D57, 16, Sarojini 20th St, Periyar Nagar West, Perambur, Chennai, Greater Chennai, Tamil Nadu 600082",
+    "city": "West Chennai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Namma+Chennai+Realty/data=!4m7!3m6!1s0x3a526526e2c8713b:0x13282253fd3f1061!8m2!3d13.1144592!4d80.2208584!16s%2Fg%2F11zjxy8n50!19sChIJO3HI4iZlUjoRYRA__VMiKBM?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Chennai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

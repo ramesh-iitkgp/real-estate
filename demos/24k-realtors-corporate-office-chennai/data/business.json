@@ -1,0 +1,50 @@
+{
+    "business_name": "24K Realtors Corporate Office",
+    "source_business_name": "24K Realtors Corporate Office",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918838053254",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://24krealtors.com/",
+    "address": "\nLandmark, No.2,1st Floor, KVIC NAGAR, Velachery Main Rd, next to KTM Showroom, Gowriwakkam, Chennai, Tamil Nadu 600073",
+    "city": "Chennai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/24K+Realtors+Corporate+Office/data=!4m7!3m6!1s0x3a525ffe5455154b:0xae84c8671876e58e!8m2!3d12.9224178!4d80.1624513!16s%2Fg%2F11fmf8cr7t!19sChIJSxVVVP5fUjoRjuV2GGfIhK4?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Chennai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/24KRealtors/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Green Leaf Realty",
+    "source_business_name": "Green Leaf Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918190852222",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.greenleafrealty.co.in/",
+    "address": "\n2/24 Velachery Main Road, Lane, next to Sai Baba Temple, Gowriwakkam, Tamil Nadu 600073",
+    "city": "East Chennai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Green+Leaf+Realty/data=!4m7!3m6!1s0x3a525f6ffd68c013:0xde85e9ee2b0e5a6d!8m2!3d12.9204353!4d80.1685978!16s%2Fg%2F11s539n86h!19sChIJE8Bo_W9fUjoRbVoOK-7phd4?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Chennai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

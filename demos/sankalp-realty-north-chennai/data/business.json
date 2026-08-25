@@ -1,0 +1,50 @@
+{
+    "business_name": "Sankalp Realty",
+    "source_business_name": "Sankalp Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919841286879",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nNo. 58, Vedachalam St, behind Kasi Theatre, Vasudevan Nagar, West Jafferkhanpet, Chennai, Greater Chennai, Tamil Nadu 600083",
+    "city": "North Chennai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/SANKALP+REALTY/data=!4m7!3m6!1s0x3a526644e23ad959:0x7f857c790dfe0c6d!8m2!3d13.0285507!4d80.2060806!16s%2Fg%2F11c71t41xd!19sChIJWdk64kRmUjoRbQz-DXl8hX8?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Chennai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

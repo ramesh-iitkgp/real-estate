@@ -1,0 +1,50 @@
+{
+    "business_name": "Million Acres & Properties",
+    "source_business_name": "Million Acres & Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918110907907",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n153, Valayapathy street,Chitlapakkam Main Road Selaiyur, Tambaram, Chennai, Tamil Nadu 600073",
+    "city": "East Chennai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/MILLION+ACRES+%26+PROPERTIES/data=!4m7!3m6!1s0x3a525f5c5d50a177:0xde4859bcaba2b9d7!8m2!3d12.9262387!4d80.1477253!16s%2Fg%2F11j2xc_s57!19sChIJd6FQXVxfUjoR17miq7xZSN4?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Chennai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

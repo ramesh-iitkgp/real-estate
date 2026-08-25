@@ -1,0 +1,50 @@
+{
+    "business_name": "Anna Nagar Real Estates",
+    "source_business_name": "Anna Nagar Real Estates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918270410017",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1943, 18th Main Rd, Aishwarya Colony, Anna Nagar West, Anna Nagar, Chennai, Greater Chennai, Tamil Nadu 600040",
+    "city": "West Chennai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Anna+Nagar+Real+Estates/data=!4m7!3m6!1s0x3a5265a4313d9abb:0xc06bd8b18d60dc8e!8m2!3d13.0943944!4d80.2054747!16s%2Fg%2F11t4hnpdf7!19sChIJu5o9MaRlUjoRjtxgjbHYa8A?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Chennai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

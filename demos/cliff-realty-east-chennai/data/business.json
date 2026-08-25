@@ -1,0 +1,50 @@
+{
+    "business_name": "Cliff Realty",
+    "source_business_name": "Cliff Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919884444388",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://cliffrealty.in/",
+    "address": "\n6A, 4th street, Shakthi Nagar Main Rd, West Tambaram, Chennai, Tamil Nadu 600045",
+    "city": "East Chennai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/CLIFF+REALTY/data=!4m7!3m6!1s0x3a52f5ddad6adbf1:0x5e44e1f68bbc984c!8m2!3d12.9186617!4d80.0955547!16s%2Fg%2F11z8nlt1tx!19sChIJ8dtqrd31UjoRTJi8i_bhRF4?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Chennai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

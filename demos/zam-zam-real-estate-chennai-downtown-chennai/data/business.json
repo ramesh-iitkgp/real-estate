@@ -1,0 +1,50 @@
+{
+    "business_name": "Zam Zam Real Estate",
+    "source_business_name": "Zam Zam Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919841276434",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.zamzamrealestate.in/",
+    "address": "\nNew no 76, old 233, Peter's Rd, Royapettah, Chennai, Greater Chennai, Tamil Nadu 600014",
+    "city": "Downtown Chennai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Zam+Zam+Real+Estate+Chennai/data=!4m7!3m6!1s0x3a5266235fdf634f:0xb7b5b4c6abdacf04!8m2!3d13.0537409!4d80.2670263!16s%2Fg%2F11c4bb8lhm!19sChIJT2PfXyNmUjoRBM_aq8a0tbc?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Chennai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Puravankara Limited",
+    "source_business_name": "Puravankara Limited",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918043439710",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.puravankara.com/?Primarysource=Digital%20Marketing&secondarysource=Google&tertiarysource=businesslisting",
+    "address": "\n33, 2nd Street, S Beach Ave, MRC Nagar, Raja Annamalaipuram, Chennai, Tamil Nadu 600028",
+    "city": "South Chennai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Puravankara+Limited/data=!4m7!3m6!1s0x3a5267a37d83358f:0x4e99e44c6f135176!8m2!3d13.0200836!4d80.270349!16s%2Fg%2F1tv3m315!19sChIJjzWDfaNnUjoRdlETb0zkmU4?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Chennai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

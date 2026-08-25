@@ -1,0 +1,50 @@
+{
+    "business_name": "Jain Estates",
+    "source_business_name": "Jain Estates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918072307332",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.jainestates.com/",
+    "address": "\n2 /3. 8th Cross Street ,Shenoy Nagar Nagar West, Chennai - 600 030, Chennai, Tamil Nadu 600030",
+    "city": "Chennai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jain+Estates/data=!4m7!3m6!1s0x3a52642e642ed3e7:0xb8b5d9be29a10fd3!8m2!3d13.0821916!4d80.2252435!16s%2Fg%2F1hdz8ysb2!19sChIJ59MuZC5kUjoR0w-hKb7Ztbg?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Chennai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

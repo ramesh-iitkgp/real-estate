@@ -1,0 +1,50 @@
+{
+    "business_name": "Alagar Real Estate",
+    "source_business_name": "Alagar Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919840517525",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nWard 191, Sai Ganesh Nagar, Pallikaranai, Chennai, Greater Chennai, Tamil Nadu 600100",
+    "city": "North Chennai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Alagar+Real+Estate/data=!4m7!3m6!1s0x3a525d4f364a7555:0xe196cfd07a7cc251!8m2!3d12.9228961!4d80.2086684!16s%2Fg%2F11mwzc8l9n!19sChIJVXVKNk9dUjoRUcJ8etDPluE?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Chennai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

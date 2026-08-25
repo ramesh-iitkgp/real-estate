@@ -1,0 +1,50 @@
+{
+    "business_name": "Dlf Downtown 3",
+    "source_business_name": "Dlf Downtown 3",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "911244568900",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.dlf.in/offices/",
+    "address": "\nJawaharlal Nehru Salai, next to American International School, Tharamani, Chennai, Greater Chennai, Tamil Nadu 600113",
+    "city": "Downtown Chennai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/DLF+Downtown+3+Chennai/data=!4m7!3m6!1s0x3a525d003e789a99:0xa9e6e876b321d4d1!8m2!3d12.9861629!4d80.2471353!16s%2Fg%2F11x5lqc6mv!19sChIJmZp4PgBdUjoR0dQhs3bo5qk?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Chennai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
