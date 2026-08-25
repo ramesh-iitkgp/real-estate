@@ -1,0 +1,50 @@
+{
+    "business_name": "Madura Land Promoters",
+    "source_business_name": "Madura Land Promoters",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919865025220",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nX5C3+P5V, Meenakshi Amman Nagar, Madurai, Tamil Nadu 625014",
+    "city": "South madurai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Madura+Land+Promoters/data=!4m7!3m6!1s0x3b00c77946436761:0x31424edb6d960999!8m2!3d9.971865!4d78.1529348!16s%2Fg%2F11mc60511f!19sChIJYWdDRnnHADsRmQmWbdtOQjE?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South madurai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

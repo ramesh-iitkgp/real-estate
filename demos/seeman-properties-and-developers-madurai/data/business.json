@@ -1,0 +1,50 @@
+{
+    "business_name": "Seeman Properties And Developers",
+    "source_business_name": "Seeman Properties And Developers",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919751059159",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n22, Harvi Nagar, 12th Street, Arasaradi Anjal office, opp. Madurai - 16, Madurai, Tamil Nadu 625016",
+    "city": "madurai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Seeman+Properties+and+Developers/data=!4m7!3m6!1s0x3b00cf1b544971bd:0x7cab4b52949ee4ad!8m2!3d9.9294445!4d78.0982972!16s%2Fg%2F11y2dm022f!19sChIJvXFJVBvPADsRreSelFJLq3w?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "madurai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

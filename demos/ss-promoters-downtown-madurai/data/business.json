@@ -1,0 +1,50 @@
+{
+    "business_name": "Ss Promoters",
+    "source_business_name": "Ss Promoters",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919092949956",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n59, Sivabagya Complex 2nd Floor, Parathiyar Street Theekkathir Bus Stop, Dindugal, Bypass Rd, Madurai, Tamil Nadu 625018",
+    "city": "Downtown madurai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/SS+Promoters/data=!4m7!3m6!1s0x3b00cfcc45a9d079:0x848c7b8780a4b82b!8m2!3d9.9436281!4d78.0992723!16s%2Fg%2F11rycqy9qg!19sChIJedCpRczPADsRK7ikgId7jIQ?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown madurai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Sri Ayyappan Real Estate",
+    "source_business_name": "Sri Ayyappan Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919843370656",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://sriayyappanrealestate.com/",
+    "address": "\n146B, S Veli St, South Gate, Southgate, Madurai, Tamil Nadu 625001",
+    "city": "madurai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Sri+Ayyappan+Real+Estate/data=!4m7!3m6!1s0x3b00c5003ee2a329:0x47d5e134debedfe1!8m2!3d9.9106673!4d78.1205878!16s%2Fg%2F11yq1r3mcm!19sChIJKaPiPgDFADsR4d--3jTh1Uc?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "madurai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

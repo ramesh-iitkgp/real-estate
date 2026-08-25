@@ -1,0 +1,50 @@
+{
+    "business_name": "Svs Construction And Consultancy",
+    "source_business_name": "Svs Construction And Consultancy",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918667769568",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n301/1, W Masi St, Madurai Main, Madurai, Tamil Nadu 625001",
+    "city": "West madurai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/SVS+Construction+and+consultancy/data=!4m7!3m6!1s0x3b00c5dd36865fa9:0xff030c90684cf05c!8m2!3d9.9219291!4d78.1145041!16s%2Fg%2F11j2dcjy22!19sChIJqV-GNt3FADsRXPBMaJAMA_8?authuser=0&hl=en&g_ep=EgoyMDI2MDgyMy4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West madurai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

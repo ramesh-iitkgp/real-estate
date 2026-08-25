@@ -1,0 +1,50 @@
+{
+    "business_name": "Snk Associates Real Estate Consultancy",
+    "source_business_name": "Snk Associates Real Estate Consultancy",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919944977394",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nNo 2, Lakshmi Garden, 1st Main Rd, Kalai Nagar, P&T Nagar, Madurai, Tamil Nadu 625017",
+    "city": "madurai",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/SNK+Associates+Real+Estate+Consultancy+Madurai/data=!4m7!3m6!1s0x3b00c79315e3dba5:0x742136c167f876cf!8m2!3d9.9604289!4d78.1259048!16s%2Fg%2F11s3q4r4zc!19sChIJpdvjFZPHADsRz3b4Z8E2IXQ?authuser=0&hl=en&g_ep=EgoyMDI2MDgxOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "madurai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
