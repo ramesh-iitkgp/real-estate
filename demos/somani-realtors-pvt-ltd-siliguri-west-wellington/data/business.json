@@ -1,0 +1,50 @@
+{
+    "business_name": "Somani Realtors Pvt Ltd Siliguri",
+    "source_business_name": "Somani Realtors Pvt Ltd Siliguri",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "649051730000",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://somanirealtors.com/city/siliguri",
+    "address": "\nPCVP+PJG Times Square, Ward 43, Don Bosco Colony, Siliguri, West Bengal 734001",
+    "city": "West Wellington",
+    "state": "",
+    "country": "New Zealand",
+    "currency_symbol": "NZ$",
+    "currency_code": "NZD",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Somani+Realtors+Pvt+Ltd+Siliguri/data=!4m7!3m6!1s0x39e441efa0a75583:0xa0a23bdcc0a416b4!8m2!3d26.7443125!4d88.4365625!16s%2Fg%2F11kjpcdsgs!19sChIJg1WnoO9B5DkRtBakwNw7oqA?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Wellington"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

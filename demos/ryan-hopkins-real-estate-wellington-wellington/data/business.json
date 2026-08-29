@@ -1,0 +1,50 @@
+{
+    "business_name": "Ryan Hopkins Real Estate",
+    "source_business_name": "Ryan Hopkins Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "64275254256",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n6 Dekka Street, Khandallah, Wellington 6035, New Zealand",
+    "city": "Wellington",
+    "state": "",
+    "country": "New Zealand",
+    "currency_symbol": "NZ$",
+    "currency_code": "NZD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Ryan+Hopkins+Real+Estate+Wellington/data=!4m7!3m6!1s0x460050305da9ac19:0x3acbdcf4c967f49a!8m2!3d-41.2471699!4d174.7905582!16s%2Fg%2F11w9pj502f!19sChIJGaypXTBQAEYRmvRnyfTcyzo?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Wellington"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

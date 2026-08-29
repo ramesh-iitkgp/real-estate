@@ -1,0 +1,50 @@
+{
+    "business_name": "Williams Corporation",
+    "source_business_name": "Williams Corporation",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "6444880742",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.williamscorporation.co.nz/",
+    "address": "\nLevel 11/222 Lambton Quay, CBD, Wellington 6011, New Zealand",
+    "city": "Wellington",
+    "state": "",
+    "country": "New Zealand",
+    "currency_symbol": "NZ$",
+    "currency_code": "NZD",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Williams+Corporation+%7C+Wellington/data=!4m7!3m6!1s0x6d38af9ece701e89:0xecade32a62377c74!8m2!3d-41.2828!4d174.7752586!16s%2Fg%2F11nn4gm0dk!19sChIJiR5wzp6vOG0RdHw3Yirjrew?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Wellington"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/williamscorporation/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

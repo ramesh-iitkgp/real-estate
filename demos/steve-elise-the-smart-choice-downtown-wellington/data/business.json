@@ -1,0 +1,50 @@
+{
+    "business_name": "Steve & Elise The Smart Choice",
+    "source_business_name": "Steve & Elise The Smart Choice",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "6421907948",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.loweandco.nz/staff/elise-boulieris",
+    "address": "\n46 Lady Elizabeth Lane, Wellington Central, Wellington 6011, New Zealand",
+    "city": "Downtown Wellington",
+    "state": "",
+    "country": "New Zealand",
+    "currency_symbol": "NZ$",
+    "currency_code": "NZD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Steve+%26+Elise+%E2%80%9CThe+Smart+Choice%E2%80%9D/data=!4m7!3m6!1s0x6d38af09fc38fa01:0x24475a4a4af0f1d3!8m2!3d-41.2825851!4d174.7788648!16s%2Fg%2F11gxn8_4z4!19sChIJAfo4_AmvOG0R0_HwSkpaRyQ?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Wellington"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

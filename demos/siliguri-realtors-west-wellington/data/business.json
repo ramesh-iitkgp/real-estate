@@ -1,0 +1,50 @@
+{
+    "business_name": "Siliguri Realtors",
+    "source_business_name": "Siliguri Realtors",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "647063584893",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nPC9F+F4M Siliguri Realtors, KC Dey Rd, near Church Road, Ward 10, Janta Nagar, Siliguri, West Bengal 734001",
+    "city": "West Wellington",
+    "state": "",
+    "country": "New Zealand",
+    "currency_symbol": "NZ$",
+    "currency_code": "NZD",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Siliguri+Realtors/data=!4m7!3m6!1s0x39e4411522d0849f:0xc0dd4239b4a4cf3b!8m2!3d26.7187154!4d88.4228042!16s%2Fg%2F11tjxbs6vp!19sChIJn4TQIhVB5DkRO8-ktDlC3cA?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Wellington"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

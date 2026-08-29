@@ -1,0 +1,50 @@
+{
+    "business_name": "Mike Gabrjolek Realtor Exp Realty Brokerage",
+    "source_business_name": "Mike Gabrjolek Realtor Exp Realty Brokerage",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "6416478022964",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://wps.myrealpage.com//static/unavailable.html",
+    "address": "",
+    "city": "North Wellington",
+    "state": "",
+    "country": "New Zealand",
+    "currency_symbol": "NZ$",
+    "currency_code": "NZD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Mike+Gabrjolek+REALTOR%C2%AE+eXp+Realty,+Brokerage/data=!4m7!3m6!1s0x2cb971f6ec95feff:0x80318581b3ac353!8m2!3d62.6573279!4d-95.989235!16s%2Fg%2F11vd33m_j5!19sChIJ__6V7PZxuSwRU8M6G1gYAwg?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Wellington"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
