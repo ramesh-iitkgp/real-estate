@@ -1,0 +1,50 @@
+{
+    "business_name": "Norm Merz Remax Real Estate Centre In",
+    "source_business_name": "Norm Merz Remax Real Estate Centre In",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "6412895230345",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1070 Stone Church Rd E, Hamilton, ON L8W 3L3, Canada",
+    "city": "Hamilton",
+    "state": "",
+    "country": "New Zealand",
+    "currency_symbol": "NZ$",
+    "currency_code": "NZD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Norm+Merz+@+Remax+Real+Estate+Centre+in+Hamilton/data=!4m7!3m6!1s0x882c9a9135400003:0x91bbd6619f367f61!8m2!3d43.1992722!4d-79.8427724!16s%2Fg%2F11f403nfgm!19sChIJAwBANZGaLIgRYX82n2HWu5E?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hamilton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

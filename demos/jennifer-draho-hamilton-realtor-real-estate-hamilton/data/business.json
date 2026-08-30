@@ -1,0 +1,50 @@
+{
+    "business_name": "Jennifer Draho - Hamilton Realtor - Real Estate",
+    "source_business_name": "Jennifer Draho - Hamilton Realtor - Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "6419059655680",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1595 Upper James St, Hamilton, ON L9B 0H7, Canada",
+    "city": "Hamilton",
+    "state": "",
+    "country": "New Zealand",
+    "currency_symbol": "NZ$",
+    "currency_code": "NZD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jennifer+Draho+-+Hamilton+REALTOR+-+Real+Estate/data=!4m7!3m6!1s0x882c9b929d71926b:0x46e7cd4a6e415eeb!8m2!3d43.2031192!4d-79.8911938!16s%2Fg%2F11qn_6l__b!19sChIJa5JxnZKbLIgR615BbkrN50Y?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hamilton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

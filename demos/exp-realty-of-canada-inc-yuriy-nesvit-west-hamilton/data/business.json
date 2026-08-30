@@ -1,0 +1,50 @@
+{
+    "business_name": "Exp Realty Of Canada Inc Yuriy Nesvit",
+    "source_business_name": "Exp Realty Of Canada Inc Yuriy Nesvit",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "6412899691610",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://buysellgtha.ca/",
+    "address": "\n21 King St W 5th Floor, Hamilton, ON L8P 1A1, Canada",
+    "city": "West Hamilton",
+    "state": "",
+    "country": "New Zealand",
+    "currency_symbol": "NZ$",
+    "currency_code": "NZD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "16",
+    "google_maps_url": "https://www.google.com/maps/place/EXP+Realty+of+Canada+Inc.:+Yuriy+Nesvit/data=!4m7!3m6!1s0x882c9ba5bb0b0007:0x1ad5ad94d10b653!8m2!3d43.2565812!4d-79.8699753!16s%2Fg%2F11f5hm41xr!19sChIJBwALu6WbLIgRU7YQTdlarQE?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Hamilton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

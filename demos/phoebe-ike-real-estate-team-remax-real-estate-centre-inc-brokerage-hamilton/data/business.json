@@ -1,0 +1,50 @@
+{
+    "business_name": "Phoebe & Ike Real Estate Team- Remax Real Estate Centre Inc Brokerage",
+    "source_business_name": "Phoebe & Ike Real Estate Team- Remax Real Estate Centre Inc Brokerage",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "6414167319606",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://ikeokereke.remaxrecentre.ca/",
+    "address": "\n1070 Stone Church Rd E Unit 42A, Hamilton, ON L8W 1P9, Canada",
+    "city": "Hamilton",
+    "state": "",
+    "country": "New Zealand",
+    "currency_symbol": "NZ$",
+    "currency_code": "NZD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Phoebe+%26+Ike+Real+Estate+Team-+RE%2FMAX+Real+Estate+Centre+Inc.,+Brokerage/data=!4m7!3m6!1s0x882c9bb9f0c4e4bf:0xacede597dfef77ec!8m2!3d43.1991881!4d-79.842498!16s%2Fg%2F11fl0p_k91!19sChIJv-TE8LmbLIgR7Hfv35fl7aw?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hamilton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
