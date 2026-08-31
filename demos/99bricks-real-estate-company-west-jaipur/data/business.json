@@ -1,0 +1,50 @@
+{
+    "business_name": "99Bricks Real Estate Company",
+    "source_business_name": "99Bricks Real Estate Company",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919828999954",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n125A 302, Hanuman Nagar Extension, Rajendra Nagar, Vaishali Nagar, Jaipur, Rajasthan 302021",
+    "city": "West Jaipur",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/99Bricks+Real+Estate+Company/data=!4m7!3m6!1s0x396c4cd9da176879:0xc613688736094e22!8m2!3d26.9201829!4d75.732458!16s%2Fg%2F11fmp8wtyr!19sChIJeWgX2tlMbDkRIk4JNodoE8Y?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Jaipur"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

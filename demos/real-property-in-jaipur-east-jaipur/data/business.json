@@ -1,0 +1,50 @@
+{
+    "business_name": "Real Property In Jaipur",
+    "source_business_name": "Real Property In Jaipur",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917300202095",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nGulab Tower, Ajmer Rd, Parswanath Colony, Nirman Nagar, DCM, Jaipur, Rajasthan 302021",
+    "city": "East Jaipur",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "4",
+    "google_maps_url": "https://www.google.com/maps/place/Real+Property+in+Jaipur/data=!4m7!3m6!1s0x396db579dc2cb191:0xa9fe93e71a0d5b5!8m2!3d26.8927685!4d75.7455725!16s%2Fg%2F11ssrm_nr_!19sChIJkbEs3Hm1bTkRtdWgcT7pnwo?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Jaipur"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

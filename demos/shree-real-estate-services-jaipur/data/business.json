@@ -1,0 +1,50 @@
+{
+    "business_name": "Shree Real Estate Services",
+    "source_business_name": "Shree Real Estate Services",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919829088401",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nC 146 B, Rd Number 9, near Tambi Motor, Vishwakarma Industrial Area, Jaipur, Rajasthan 302013",
+    "city": "Jaipur",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Shree+Real+Estate+Services/data=!4m7!3m6!1s0x396db243dd3b833d:0x8a938c33871f467c!8m2!3d26.9868653!4d75.7821435!16s%2Fg%2F11cs5msmb2!19sChIJPYM73UOybTkRfEYfhzOMk4o?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jaipur"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

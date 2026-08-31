@@ -1,0 +1,50 @@
+{
+    "business_name": "Agarwal Properties- Mr Saurabh",
+    "source_business_name": "Agarwal Properties- Mr Saurabh",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919024453403",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nStar Residency B-Block, 250, Rd, Doctor Colony Chaura, DCM, Ajmer Rd, Heera Nagar, Mahatma Gandhi Nagar, Jaipur, Rajasthan 302021",
+    "city": "West Jaipur",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Agarwal+Properties-+Mr.+Saurabh/data=!4m7!3m6!1s0x396db49140bacca9:0x5645b87da501bc8d!8m2!3d26.8977216!4d75.743987!16s%2Fg%2F11cmmmk0q1!19sChIJqcy6QJG0bTkRjbwBpX24RVY?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Jaipur"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Jindal Tolet And Property",
+    "source_business_name": "Jindal Tolet And Property",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919057547037",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nanirudh apartment, Plot number 324, Shri Vihar, Mahaveer Nagar, Durgapura, Jaipur, Rajasthan 302018",
+    "city": "Jaipur",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jindal+tolet+and+property/data=!4m7!3m6!1s0x396dc956cef6ed15:0x3a5329e42f85d109!8m2!3d26.8554129!4d75.7900571!16s%2Fg%2F11v44rlcgx!19sChIJFe32zlbJbTkRCdGFL-QpUzo?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jaipur"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

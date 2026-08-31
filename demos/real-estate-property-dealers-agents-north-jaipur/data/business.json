@@ -1,0 +1,50 @@
+{
+    "business_name": "Real Estate Property Dealers Agents",
+    "source_business_name": "Real Estate Property Dealers Agents",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "2500000 3",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nSwami sarvanand colony, Plot no 146, Nayla Rd, Jaisinghpura Khor, Jaipur, Rajasthan 302027",
+    "city": "North Jaipur",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Real+Estate+Property+Dealers+Agents/data=!4m7!3m6!1s0x396db15b9c1ee179:0xafa3ed0d15f4d218!8m2!3d26.9481886!4d75.8945782!16s%2Fg%2F11zx2rkh1b!19sChIJeeEenFuxbTkRGNL0FQ3to68?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Jaipur"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

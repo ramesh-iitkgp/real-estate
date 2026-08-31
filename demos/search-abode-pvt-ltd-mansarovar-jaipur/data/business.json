@@ -1,0 +1,50 @@
+{
+    "business_name": "Search Abode Pvt Ltd Mansarovar",
+    "source_business_name": "Search Abode Pvt Ltd Mansarovar",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919001912411",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.searchabode.com/",
+    "address": "\nPlot no. D 7, Patrakar Colony Main Rd, opp. Mahima Florenza Internal Road, Sheer Sagar Patarkar Colony, Mansarovar, Jaipur, Mohanpura, Rajasthan 302020",
+    "city": "Jaipur",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Search+Abode+Pvt.+Ltd.+%7C+Mansarovar/data=!4m7!3m6!1s0x396db5be9aaaaaab:0x399dc38898e14d96!8m2!3d26.8391217!4d75.7391229!16s%2Fg%2F11rsg2dqtp!19sChIJq6qqmr61bTkRlk3hmIjDnTk?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jaipur"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

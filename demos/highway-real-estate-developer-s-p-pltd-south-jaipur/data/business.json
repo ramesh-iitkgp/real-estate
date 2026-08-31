@@ -1,0 +1,50 @@
+{
+    "business_name": "Highway Real Estate & Developer'S P Pltd",
+    "source_business_name": "Highway Real Estate & Developer'S P Pltd",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919694033335",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nPink City Market, PURANI CHUNGI, Shop 110, Agra Rd, near Timout cafe, Paldi Meena, Jaipur, Bagrana, Rajasthan 302031",
+    "city": "South Jaipur",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Highway+Real+Estate+%26+Developer%27s+%28P%29+Pltd./data=!4m7!3m6!1s0x396db70d3e0366df:0x3151264b236fdaa4!8m2!3d26.880331!4d75.9116138!16s%2Fg%2F11b76j74q9!19sChIJ32YDPg23bTkRpNpvI0smUTE?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Jaipur"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

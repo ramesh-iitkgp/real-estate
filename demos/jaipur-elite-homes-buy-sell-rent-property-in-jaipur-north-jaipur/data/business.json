@@ -1,0 +1,50 @@
+{
+    "business_name": "Jaipur Elite Homes - Buy Sell Rent Property In Jaipur",
+    "source_business_name": "Jaipur Elite Homes - Buy Sell Rent Property In Jaipur",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917339976448",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nB31, Model Town - B, Vishnupuri, Model Town, Malviya Nagar, Jaipur, Rajasthan 302017",
+    "city": "North Jaipur",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jaipur+Elite+Homes+-+Buy,+Sell,+Rent+Property+in+Jaipur/data=!4m7!3m6!1s0x396db7cbadf813d3:0x5b1e5e06b5f741e5!8m2!3d26.8476745!4d75.8266812!16s%2Fg%2F11w48fk800!19sChIJ0xP4rcu3bTkR5UH3tQZeHls?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Jaipur"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
