@@ -1,0 +1,50 @@
+{
+    "business_name": "Ganapati Real Estate",
+    "source_business_name": "Ganapati Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917003173827",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.ganapatirealestate.com/",
+    "address": "\nFirst floor, Ranganathpur Kali Mandir, Bus Stand, 2, Ranganathpur Colony Thakurpukur 3A, behind 3A Bus Stand, Kolkata, West Bengal 700063",
+    "city": "West Kolkata",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Ganapati+Real+Estate/data=!4m7!3m6!1s0x3a027a72282be1ab:0x5d6ffaf8b3e04e11!8m2!3d22.4570555!4d88.3040718!16s%2Fg%2F11hyn8gkx3!19sChIJq-ErKHJ6AjoREU7gs_j6b10?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Kolkata"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

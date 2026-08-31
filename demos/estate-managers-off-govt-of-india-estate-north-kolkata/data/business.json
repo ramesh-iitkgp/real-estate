@@ -1,0 +1,50 @@
+{
+    "business_name": "Estate Managers Off Govt Of India Estate",
+    "source_business_name": "Estate Managers Off Govt Of India Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "913322486333",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n5, Esplanade East, Maidan, Esplanade, Chowringhee North, Bow Barracks, Kolkata, West Bengal 700069",
+    "city": "North Kolkata",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Estate+Managers+Off+Govt+Of+India+Estate/data=!4m7!3m6!1s0x3a02716bd9782fcd:0xbc4ea8b33f281ef7!8m2!3d22.5660093!4d88.3499748!16s%2Fg%2F1tjhw1yg!19sChIJzS942WtxAjoR9x4oP7OoTrw?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Kolkata"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

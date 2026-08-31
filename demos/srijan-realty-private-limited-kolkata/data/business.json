@@ -1,0 +1,50 @@
+{
+    "business_name": "Srijan Realty Private Limited",
+    "source_business_name": "Srijan Realty Private Limited",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917901629629",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.srijanrealty.com/",
+    "address": "\n36/1A, Elgin Rd, Sreepally, Bhowanipore, Kolkata, West Bengal 700020",
+    "city": "Kolkata",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Srijan+Realty+Private+Limited/data=!4m7!3m6!1s0x3a02773da66bcda3:0xe82e52c5d320253!8m2!3d22.5374273!4d88.3505659!16s%2Fg%2F1td9c588!19sChIJo81rpj13AjoRUwIyXSzlgg4?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Kolkata"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

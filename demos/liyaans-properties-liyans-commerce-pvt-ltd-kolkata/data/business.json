@@ -1,0 +1,50 @@
+{
+    "business_name": "Liyaans Properties Liyans Commerce Pvt Ltd",
+    "source_business_name": "Liyaans Properties Liyans Commerce Pvt Ltd",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "913340844084",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.liyaans.com/",
+    "address": "\nRDB BOULEVARD,Unit 4E 4th Floor, Plot - K1, EP Block, Sector V, Bidhannagar, Kolkata, West Bengal 700091",
+    "city": "Kolkata",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Liyaans+Properties+%28Liyans+Commerce+Pvt+Ltd%29/data=!4m7!3m6!1s0x3a0277fd14028af9:0x53ca112efb876c15!8m2!3d22.568704!4d88.4331522!16s%2Fg%2F11bbrhck8y!19sChIJ-YoCFP13AjoRFWyH-y4RylM?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Kolkata"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

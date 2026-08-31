@@ -1,0 +1,50 @@
+{
+    "business_name": "Ryan Real Estate - Best Property Dealer In",
+    "source_business_name": "Ryan Real Estate - Best Property Dealer In",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919330514430",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n84, Manohar Das Rd, Sonapatti, Bara Bazar, Jorasanko, Kolkata, West Bengal 700007",
+    "city": "North Kolkata",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Ryan+Real+Estate+-+Best+Property+Dealer+in/data=!4m7!3m6!1s0x3a02772eb2a37fc1:0xa751071e20d223ab!8m2!3d22.5819741!4d88.3521572!16s%2Fg%2F11zcslt6sg!19sChIJwX-jsi53AjoRqyPSIB4HUac?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Kolkata"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

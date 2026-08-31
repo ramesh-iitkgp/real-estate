@@ -1,0 +1,50 @@
+{
+    "business_name": "Kolkata Real Estate",
+    "source_business_name": "Kolkata Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918910042640",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://kolkatarealestate.co.in/",
+    "address": "\nB-7/4, Metro, Diamond Park, Joka, Kolkata, West Bengal 700104",
+    "city": "Kolkata",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/KOLKATA+REAL+ESTATE/data=!4m7!3m6!1s0x3a027ba7d5f4bfdd:0xbe0c204dc698e80f!8m2!3d22.4512577!4d88.3059606!16s%2Fg%2F11r86d4ql9!19sChIJ3b_01ad7AjoRD-iYxk0gDL4?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Kolkata"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

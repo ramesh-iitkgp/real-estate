@@ -1,0 +1,50 @@
+{
+    "business_name": "Wow Home Realtors Pvt Ltd",
+    "source_business_name": "Wow Home Realtors Pvt Ltd",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919830069876",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n5th Floor, 209 A J C Bose Road Karnani Estate, Room No, 192, Kolkata, West Bengal 700017",
+    "city": "North Kolkata",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/WOW+HOME+Realtors+Pvt.+Ltd/data=!4m7!3m6!1s0x3a0277821c757355:0xee5a1df7c5b945c9!8m2!3d22.5429347!4d88.361192!16s%2Fg%2F11rn3tnv9c!19sChIJVXN1HIJ3AjoRyUW5xfcdWu4?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Kolkata"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

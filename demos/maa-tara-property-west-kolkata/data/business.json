@@ -1,0 +1,50 @@
+{
+    "business_name": "Maa Tara Property",
+    "source_business_name": "Maa Tara Property",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "916291449765",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nB-1/670, 98, Sukant Nagar, Sector IV, Bidhannagar, Kolkata, West Bengal 700107",
+    "city": "West Kolkata",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Maa+tara+property/data=!4m7!3m6!1s0x3a027541c2c5352d:0x74c0532cfed192c2!8m2!3d22.5591007!4d88.4152288!16s%2Fg%2F11h4vn1ygh!19sChIJLTXFwkF1AjoRwpLR_ixTwHQ?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Kolkata"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

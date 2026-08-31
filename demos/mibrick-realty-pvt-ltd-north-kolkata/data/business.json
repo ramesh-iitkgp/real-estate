@@ -1,0 +1,50 @@
+{
+    "business_name": "Mibrick Realty Pvt Ltd",
+    "source_business_name": "Mibrick Realty Pvt Ltd",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "913340707053",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nUnit: 1203, Godrej Genesis Building, EP &, GP Block, Sector V, Bidhannagar, Kolkata, West Bengal 700091",
+    "city": "North Kolkata",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/MiBrick+Realty+Pvt.+Ltd./data=!4m7!3m6!1s0x3a0275b3f6ce424b:0xe8f6c96e50bf42b5!8m2!3d22.5731054!4d88.4341566!16s%2Fg%2F11pq3623t7!19sChIJS0LO9rN1AjoRtUK_UG7J9ug?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Kolkata"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Pushpanjali Realtors",
+    "source_business_name": "Pushpanjali Realtors",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919830031452",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.pushpanjalirealtors.in/",
+    "address": "\n33, Canning St, Murgighata, B.B.D. Bagh, Kolkata, West Bengal 700001",
+    "city": "North Kolkata",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Pushpanjali+Realtors/data=!4m7!3m6!1s0x3a027704b1963177:0x5070149038754aaf!8m2!3d22.5773355!4d88.3515202!16s%2Fg%2F11g1n328tj!19sChIJdzGWsQR3AjoRr0p1OJAUcFA?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Kolkata"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

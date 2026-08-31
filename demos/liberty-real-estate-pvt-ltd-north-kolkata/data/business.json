@@ -1,0 +1,50 @@
+{
+    "business_name": "Liberty Real Estate Pvt Ltd",
+    "source_business_name": "Liberty Real Estate Pvt Ltd",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919230011112",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://libertyrealestate.in/",
+    "address": "\n157/2A, Acharya Prafulla Chandra Rd, Hati Bagan, Kolkata, West Bengal 700006",
+    "city": "North Kolkata",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Liberty+Real+Estate+Pvt+Ltd/data=!4m7!3m6!1s0x3a027739fe8b2ff5:0xfeb0d8c86ef8dc0d!8m2!3d22.5952977!4d88.375249!16s%2Fg%2F11fj1r4l13!19sChIJ9S-L_jl3AjoRDdz4bsjYsP4?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Kolkata"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

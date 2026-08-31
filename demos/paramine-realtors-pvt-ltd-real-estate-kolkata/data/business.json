@@ -1,0 +1,50 @@
+{
+    "business_name": "Paramine Realtors Pvt Ltd Real Estate",
+    "source_business_name": "Paramine Realtors Pvt Ltd Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918335840404",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n211, Ground Floor, Shantipally, Block BF-42, Kasba. Near Acropolis Mall, Kolkata, West Bengal 700039",
+    "city": "Kolkata",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Paramine+Realtors+Pvt+Ltd.+%7C%7C+Real+Estate/data=!4m7!3m6!1s0x3a0277dfedce3529:0x20dd8fa6ed696933!8m2!3d22.5225593!4d88.3801328!16s%2Fg%2F11qg96b72m!19sChIJKTXO7d93AjoRM2lp7aaP3SA?authuser=0&hl=en&g_ep=EgoyMDI2MDgyNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Kolkata"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
