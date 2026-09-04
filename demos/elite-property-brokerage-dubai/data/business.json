@@ -1,0 +1,50 @@
+{
+    "business_name": "Elite Property Brokerage",
+    "source_business_name": "Elite Property Brokerage",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "97147701087",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.elitepropertydxb.com/",
+    "address": "\nOnyx Tower - 1 Sheikh Zayed Rd - Al Thanyah Third - Dubai - United Arab Emirates",
+    "city": "Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "340",
+    "google_maps_url": "https://www.google.com/maps/place/ELITE+Property+Brokerage/data=!4m7!3m6!1s0x3e5f6bdc0f315f71:0x28863a4e513c4b72!8m2!3d25.0972499!4d55.1684768!16s%2Fg%2F11n8wk9b5r!19sChIJcV8xD9xrXz4Rcks8UU46hig?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

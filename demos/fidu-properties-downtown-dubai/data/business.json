@@ -1,0 +1,50 @@
+{
+    "business_name": "Fidu Properties",
+    "source_business_name": "Fidu Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971800299",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://fidudubai.com/",
+    "address": "\n4th Floor , Office 404 - Dubai - United Arab Emirates",
+    "city": "Downtown Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/FIDU+Properties/data=!4m7!3m6!1s0x3e5f4281396af181:0x6a66a9f31dba1597!8m2!3d25.2003155!4d55.2738079!16s%2Fg%2F11f3ybszxj!19sChIJgfFqOYFCXz4RlxW6HfOpZmo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Union Square House Real Estate",
+    "source_business_name": "Union Square House Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "97144589090",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.ushre.com/",
+    "address": "\nBuilding 6 - Office 202 - Business Bay - Bay Square - Dubai - United Arab Emirates",
+    "city": "Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "399",
+    "google_maps_url": "https://www.google.com/maps/place/Union+Square+House+Real+Estate/data=!4m7!3m6!1s0x3e5f696d169b1dbb:0x57b8e0beb9b7356!8m2!3d25.1855406!4d55.280069!16s%2Fg%2F11k0_7d10w!19sChIJux2bFm1pXz4RVnOb6wuOewU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

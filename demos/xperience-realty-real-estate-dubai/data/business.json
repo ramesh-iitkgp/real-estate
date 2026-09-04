@@ -1,0 +1,50 @@
+{
+    "business_name": "Xperience Realty Real Estate",
+    "source_business_name": "Xperience Realty Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971564080888",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.xrealty.ae/?utm_source=google&utm_medium=gmb&utm_campaign=google-my-business",
+    "address": "\nOffice 301, 302 Park Heights Square Building 1 - Dubai Hills - Dubai - United Arab Emirates",
+    "city": "Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "455",
+    "google_maps_url": "https://www.google.com/maps/place/Xperience%E2%80%8B+Realty+Real+Estate/data=!4m7!3m6!1s0x3e5f69742ae364c3:0xf5f30b07708195fd!8m2!3d25.1142094!4d55.2463603!16s%2Fg%2F11ty7cwknc!19sChIJw2TjKnRpXz4R_ZWBcAcL8_U?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
