@@ -1,0 +1,50 @@
+{
+    "business_name": "Real Estate Headquarters Of Tampa Bay",
+    "source_business_name": "Real Estate Headquarters Of Tampa Bay",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17276425461",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n8401 9th Way N Ste f, St. Petersburg, FL 33702, United States",
+    "city": "Greater St. Petersburg",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Real+Estate+Headquarters+of+Tampa+Bay/data=!4m7!3m6!1s0x88c2e69fb6335f35:0xce596bb254bc1ab8!8m2!3d27.8488208!4d-82.6465327!16s%2Fg%2F11f4r8mxpk!19sChIJNV8ztp_mwogRuBq8VLJrWc4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Greater St. Petersburg"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "One St Petersburg",
+    "source_business_name": "One St Petersburg",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17272757100",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n100 1st Ave N, St. Petersburg, FL 33701, United States",
+    "city": "Downtown St. Petersburg",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/One+St.+Petersburg/data=!4m7!3m6!1s0x88c2e19c58b3f16f:0x50ad8d84623f9952!8m2!3d27.7719385!4d-82.6342155!16s%2Fg%2F11b8_wv83l!19sChIJb_GzWJzhwogRUpk_YoSNrVA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown St. Petersburg"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
