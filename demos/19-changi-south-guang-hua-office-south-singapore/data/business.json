@@ -1,0 +1,50 @@
+{
+    "business_name": "19 Changi South Guang Hua Office",
+    "source_business_name": "19 Changi South Guang Hua Office",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "6563776000",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n19 Changi South Street 1, Singapore 486779",
+    "city": "South Singapore",
+    "state": "",
+    "country": "Singapore",
+    "currency_symbol": "S$",
+    "currency_code": "SGD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/19+Changi+South+%28Guang+Hua+office%29/data=!4m7!3m6!1s0x31da3cdaef749df7:0x71895c2cdb1acffe!8m2!3d1.3368918!4d103.9704124!16s%2Fg%2F1ptvxt9wl!19sChIJ951079o82jER_s8a2yxciXE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Singapore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

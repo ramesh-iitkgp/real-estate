@@ -1,0 +1,50 @@
+{
+    "business_name": "Yishun Sembawang Woodlands Hdb Agent - Jason Lim Era",
+    "source_business_name": "Yishun Sembawang Woodlands Hdb Agent - Jason Lim Era",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "6596222164",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n204 Yishun Street 21, Singapore 760204",
+    "city": "North Singapore",
+    "state": "",
+    "country": "Singapore",
+    "currency_symbol": "S$",
+    "currency_code": "SGD",
+    "opening_hours": "",
+    "rating": "4.7",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Yishun+%7C+Sembawang+%7C+Woodlands+HDB+agent+-+Jason+Lim+ERA/data=!4m7!3m6!1s0x31da15453ee2f3e3:0x13bdd17076fbe5a!8m2!3d1.4306925!4d103.8359461!16s%2Fg%2F11h9k2qs67!19sChIJ4_PiPkUV2jERWr5vBxfdOwE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Singapore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

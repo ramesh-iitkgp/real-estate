@@ -1,0 +1,50 @@
+{
+    "business_name": "Celeste Loh Real Estate",
+    "source_business_name": "Celeste Loh Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "6597700775",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "",
+    "city": "Singapore",
+    "state": "",
+    "country": "Singapore",
+    "currency_symbol": "S$",
+    "currency_code": "SGD",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "48",
+    "google_maps_url": "https://www.google.com/maps/place/Celeste+Loh+Real+Estate+Singapore/data=!4m7!3m6!1s0x31da17ca551a9ac9:0xa30ebd2ddbaef1bd!8m2!3d1.314!4d103.84425!16s%2Fg%2F11q_4bx2p4!19sChIJyZoaVcoX2jERvfGu2y29DqM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Singapore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

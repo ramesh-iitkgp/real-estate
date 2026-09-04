@@ -1,0 +1,50 @@
+{
+    "business_name": "Serviced Offices",
+    "source_business_name": "Serviced Offices",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "6531517901",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nNear High Street Center, North Bridge Road, Singapore. 049178, Singapore",
+    "city": "Downtown Singapore",
+    "state": "",
+    "country": "Singapore",
+    "currency_symbol": "S$",
+    "currency_code": "SGD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Serviced+Offices+Singapore/data=!4m7!3m6!1s0x31da19a094b99abf:0xd0f7cd2d7ea7e40e!8m2!3d1.2903446!4d103.8491356!16s%2Fg%2F1tdk_272!19sChIJv5q5lKAZ2jERDuSnfi3N99A?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Singapore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Su Khim Realtors",
+    "source_business_name": "Su Khim Realtors",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "657384546004",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1st, Chaman Complex, Sevoke Rd, near Spectrum House, Ward 13, Champasari, Siliguri, West Bengal 734001",
+    "city": "West Singapore",
+    "state": "",
+    "country": "Singapore",
+    "currency_symbol": "S$",
+    "currency_code": "SGD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Su+Khim+Realtors/data=!4m7!3m6!1s0x39e441e3f09e4da5:0x547e457dd16c2378!8m2!3d26.7257057!4d88.4294782!16s%2Fg%2F11fkwc0rzl!19sChIJpU2e8ONB5DkReCNs0X1FflQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Singapore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

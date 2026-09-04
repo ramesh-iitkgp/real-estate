@@ -1,0 +1,50 @@
+{
+    "business_name": "Propertyguru",
+    "source_business_name": "Propertyguru",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "6562385971",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.propertyguru.com.sg/?utm_source=google+business&utm_medium=organic+search&utm_campaign=pgsg+organic+search+gmb",
+    "address": "\n20 Anson Rd, #4th floor, Singapore 079912",
+    "city": "Downtown Singapore",
+    "state": "",
+    "country": "Singapore",
+    "currency_symbol": "S$",
+    "currency_code": "SGD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/PropertyGuru+Singapore/data=!4m7!3m6!1s0x31da1990dde152c5:0x91dc050c0fa73247!8m2!3d1.2751804!4d103.8456916!16s%2Fg%2F1pty4t_sj!19sChIJxVLh3ZAZ2jERRzKnDwwF3JE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Singapore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

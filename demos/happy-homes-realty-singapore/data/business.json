@@ -1,0 +1,50 @@
+{
+    "business_name": "Happy Homes Realty",
+    "source_business_name": "Happy Homes Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "6594386643",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n35 Jln Pemimpin, #05-03A Wedge Mount Industrial Building, Singapore 577176",
+    "city": "Singapore",
+    "state": "",
+    "country": "Singapore",
+    "currency_symbol": "S$",
+    "currency_code": "SGD",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "49",
+    "google_maps_url": "https://www.google.com/maps/place/Happy+Homes+Realty/data=!4m7!3m6!1s0x31da194a49442e8b:0x7e150312f9477403!8m2!3d1.3494457!4d103.8406045!16s%2Fg%2F11t0r9pstm!19sChIJiy5ESUoZ2jERA3RH-RIDFX4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Singapore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

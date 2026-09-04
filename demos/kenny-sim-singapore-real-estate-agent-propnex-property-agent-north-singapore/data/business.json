@@ -1,0 +1,50 @@
+{
+    "business_name": "Kenny Sim - Singapore Real Estate Agent Propnex Property Agent",
+    "source_business_name": "Kenny Sim - Singapore Real Estate Agent Propnex Property Agent",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "6590468686",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n480 Lorong 6 Toa Payoh #18-01 HDB Hub East Wing, Singapore 319389",
+    "city": "North Singapore",
+    "state": "",
+    "country": "Singapore",
+    "currency_symbol": "S$",
+    "currency_code": "SGD",
+    "opening_hours": "",
+    "rating": "4.7",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Kenny+Sim+-+Singapore+Real+Estate+Agent+%7C+PropNex+Property+Agent/data=!4m7!3m6!1s0x31da17657dc08e07:0x845334b7ef36ff99!8m2!3d1.3322846!4d103.8483709!16s%2Fg%2F11s4zj7zjd!19sChIJB47AfWUX2jERmf8277c0U4Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Singapore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

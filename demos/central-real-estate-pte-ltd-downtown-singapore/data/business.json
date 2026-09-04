@@ -1,0 +1,50 @@
+{
+    "business_name": "Central Real Estate Pte Ltd",
+    "source_business_name": "Central Real Estate Pte Ltd",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "6596688173",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n6 Marina Blvd, #04-23, Singapore 018985",
+    "city": "Downtown Singapore",
+    "state": "",
+    "country": "Singapore",
+    "currency_symbol": "S$",
+    "currency_code": "SGD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Central+Real+Estate+Pte+Ltd/data=!4m7!3m6!1s0x31da190e4778c195:0x4fca189803ee8954!8m2!3d1.2810049!4d103.8529005!16s%2Fg%2F1hhwqqhn6!19sChIJlcF4Rw4Z2jERVInuA5gYyk8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Singapore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

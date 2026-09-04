@@ -1,0 +1,50 @@
+{
+    "business_name": "Property Market",
+    "source_business_name": "Property Market",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "6588999809",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n67 Ayer Rajah Cres., JTC Launchpad @ One-north, Singapore 139950",
+    "city": "North Singapore",
+    "state": "",
+    "country": "Singapore",
+    "currency_symbol": "S$",
+    "currency_code": "SGD",
+    "opening_hours": "",
+    "rating": "4.7",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Property+Market+Singapore/data=!4m7!3m6!1s0x31da1b2b683aefe5:0xe29e234d8039a5df!8m2!3d1.2955008!4d103.7867826!16s%2Fg%2F11qbtw2hlh!19sChIJ5e86aCsb2jER36U5gE0jnuI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Singapore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

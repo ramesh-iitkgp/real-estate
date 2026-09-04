@@ -1,0 +1,50 @@
+{
+    "business_name": "Whistler Grand",
+    "source_business_name": "Whistler Grand",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "6565399105",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n105 W Coast Vale, Singapore 126757",
+    "city": "West Singapore",
+    "state": "",
+    "country": "Singapore",
+    "currency_symbol": "S$",
+    "currency_code": "SGD",
+    "opening_hours": "",
+    "rating": "4.5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Whistler+Grand/data=!4m7!3m6!1s0x31da11906e5a5deb:0x60932e9deac37a13!8m2!3d1.319422!4d103.7537108!16s%2Fg%2F11gsb8gbl_!19sChIJ611abpAR2jERE3rD6p0uk2A?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Singapore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

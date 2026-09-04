@@ -1,0 +1,50 @@
+{
+    "business_name": "Stature Real Estate Enterprises Pte Ltd",
+    "source_business_name": "Stature Real Estate Enterprises Pte Ltd",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "6567792711",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.stature.com.sg/contact/",
+    "address": "\n504 Jurong West Street 51, #03-209, Singapore 640504",
+    "city": "West Singapore",
+    "state": "",
+    "country": "Singapore",
+    "currency_symbol": "S$",
+    "currency_code": "SGD",
+    "opening_hours": "",
+    "rating": "4.5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Stature+Real+Estate+Enterprises+Pte.+Ltd./data=!4m7!3m6!1s0x31da0fdc94e77d6b:0x8185edc55b9829f6!8m2!3d1.3498477!4d103.7188958!16s%2Fg%2F11fmw_nqk8!19sChIJa33nlNwP2jER9imYW8XthYE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Singapore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
