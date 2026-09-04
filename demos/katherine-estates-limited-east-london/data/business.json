@@ -1,0 +1,50 @@
+{
+    "business_name": "Katherine Estates Limited",
+    "source_business_name": "Katherine Estates Limited",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "442084727727",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nKatherine Estates, London E6 1ER, United Kingdom",
+    "city": "East London",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Katherine+Estates+Limited/data=!4m7!3m6!1s0x47d8a7b569310251:0x9592e62d91a02da4!8m2!3d51.5365623!4d0.0456996!16s%2Fg%2F1tr7hnb8!19sChIJUQIxabWn2EcRpC2gkS3mkpU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East London"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

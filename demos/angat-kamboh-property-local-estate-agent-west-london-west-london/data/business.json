@@ -1,0 +1,50 @@
+{
+    "business_name": "Angat Kamboh Property Local Estate Agent",
+    "source_business_name": "Angat Kamboh Property Local Estate Agent",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "447397100035",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://angatkamboh.exp.uk.com/",
+    "address": "",
+    "city": "West London",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Angat+Kamboh+Property+%7C+Local+Estate+Agent+West+London/data=!4m7!3m6!1s0x2dcca07da5c5bd3:0x8630ef3ee0da6328!8m2!3d51.5286416!4d-0.1015987!16s%2Fg%2F11y4tn1wgg!19sChIJ01tc2gfK3AIRKGPa4D7vMIY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West London"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

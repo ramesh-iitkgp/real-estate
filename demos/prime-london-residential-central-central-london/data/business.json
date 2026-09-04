@@ -1,0 +1,50 @@
+{
+    "business_name": "Prime London Residential Central",
+    "source_business_name": "Prime London Residential Central",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "442070521075",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.primelondonresidential.com/",
+    "address": "\n21 Grosvenor Gardens, London SW1W 0BD, United Kingdom",
+    "city": "Central London",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "3.2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Prime+London+Residential+%28Central%29/data=!4m7!3m6!1s0x487605f76af1e5a3:0x643f69020f712e65!8m2!3d51.4973451!4d-0.1462123!16s%2Fg%2F11l2q2xhjw!19sChIJo-XxavcFdkgRZS5xDwJpP2Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central London"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

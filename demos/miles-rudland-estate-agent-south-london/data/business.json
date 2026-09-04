@@ -1,0 +1,50 @@
+{
+    "business_name": "Miles Rudland Estate Agent",
+    "source_business_name": "Miles Rudland Estate Agent",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "442035761939",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://milesrudland.exp.uk.com/",
+    "address": "\n97 Brook Dr, London SE11 4TU, United Kingdom",
+    "city": "South London",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "4.3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Miles+Rudland+Estate+Agent/data=!4m7!3m6!1s0x887d77f527accac1:0xdf0959a1a29cc85b!8m2!3d51.4943335!4d-0.1071657!16s%2Fg%2F11sk9kl6xb!19sChIJwcqsJ_V3fYgRW8icoqFZCd8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South London"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

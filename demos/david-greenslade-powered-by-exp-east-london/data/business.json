@@ -1,0 +1,50 @@
+{
+    "business_name": "David Greenslade Powered By Exp",
+    "source_business_name": "David Greenslade Powered By Exp",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "442080500252",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://davidgreenslade.expuk.com/",
+    "address": "\nG05, Ceram Court, 10 Seven Sea Gardens, London E3 3GW, United Kingdom",
+    "city": "East London",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/David+Greenslade+Powered+by+eXp/data=!4m7!3m6!1s0x8f705f865d66063d:0xde9b5d6c4acbdd8b!8m2!3d51.519709!4d-0.0161607!16s%2Fg%2F11vry3f30q!19sChIJPQZmXYZfcI8Ri93LSmxdm94?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East London"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Century 21 Heritage",
+    "source_business_name": "Century 21 Heritage",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "442084707070",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.century21uk.com/heritage",
+    "address": "\n450 Romford Rd, London E7 8DF, United Kingdom",
+    "city": "East London",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Century+21+Heritage/data=!4m7!3m6!1s0x47d8a7a54ff9fbfd:0x18b0c45658e629f3!8m2!3d51.5474133!4d0.0354189!16s%2Fg%2F1hf0lskyl!19sChIJ_fv5T6Wn2EcR8ynmWFbEsBg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East London"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

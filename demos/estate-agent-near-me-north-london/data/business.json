@@ -1,0 +1,50 @@
+{
+    "business_name": "Estate Agent Near Me",
+    "source_business_name": "Estate Agent Near Me",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "442089504598",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.estateagentnearme.com/",
+    "address": "\n98 Hendon Ln, London N3 3SL, United Kingdom",
+    "city": "North London",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Estate+Agent+Near+Me/data=!4m7!3m6!1s0x4876116d72370ee7:0x4d23b326cfc5098e!8m2!3d51.5959101!4d-0.204777!16s%2Fg%2F11wx2h47wm!19sChIJ5w43cm0RdkgRjgnFzyazI00?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North London"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

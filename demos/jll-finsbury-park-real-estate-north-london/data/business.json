@@ -1,0 +1,50 @@
+{
+    "business_name": "Jll Finsbury Park Real Estate",
+    "source_business_name": "Jll Finsbury Park Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "442031471964",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://residential.jll.co.uk/offices/estate-agent-finsbury-park",
+    "address": "\nParkway Apartments, Woodberry Park, Woodberry Down, London N4 2BL, United Kingdom",
+    "city": "North London",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/JLL+Finsbury+Park+Real+Estate/data=!4m7!3m6!1s0x48761c76ef2fffff:0xbf234cbe9716d283!8m2!3d51.570976!4d-0.0901514!16s%2Fg%2F1q63cj_4y!19sChIJ__8v73YcdkgRg9IWl75MI78?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North London"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

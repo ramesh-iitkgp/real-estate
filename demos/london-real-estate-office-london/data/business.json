@@ -1,0 +1,50 @@
+{
+    "business_name": "London Real Estate Office",
+    "source_business_name": "London Real Estate Office",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "442033488000",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://londonrealestateoffice.co.uk/",
+    "address": "\n58 Acacia Rd, London NW8 6AG, United Kingdom",
+    "city": "London",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "3.2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/London+Real+Estate+Office/data=!4m7!3m6!1s0x48761abd9af01a4b:0x6039786d42055458!8m2!3d51.5351274!4d-0.1728528!16s%2Fg%2F11hcj3mgr2!19sChIJSxrwmr0adkgRWFQFQm14OWA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "London"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

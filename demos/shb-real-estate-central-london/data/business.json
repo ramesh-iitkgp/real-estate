@@ -1,0 +1,50 @@
+{
+    "business_name": "Shb Real Estate",
+    "source_business_name": "Shb Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "442037258900",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.shbre.co.uk/",
+    "address": "\nThird Floor, 14 Floral St, London WC2E 9DH, United Kingdom",
+    "city": "Central London",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/SHB+Real+Estate/data=!4m7!3m6!1s0x4876052a6e62daa3:0xf77c8fb56daa17e4!8m2!3d51.5122654!4d-0.124543!16s%2Fg%2F11c1p2m0zd!19sChIJo9pibioFdkgR5BeqbbWPfPc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central London"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

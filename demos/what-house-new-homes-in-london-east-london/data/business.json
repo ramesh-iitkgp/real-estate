@@ -1,0 +1,50 @@
+{
+    "business_name": "What House - New Homes In",
+    "source_business_name": "What House - New Homes In",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "447715117090",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n8 Baltic St E, London EC1Y 0UP, United Kingdom",
+    "city": "East London",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/What+House+-+New+Homes+in+London/data=!4m7!3m6!1s0x48761b57a544b86f:0x864f9809960a8ed!8m2!3d51.5237161!4d-0.0961199!16s%2Fg%2F1hm5ypqhv!19sChIJb7hEpVcbdkgR7ahgmYD5ZAg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East London"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
