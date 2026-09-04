@@ -1,0 +1,50 @@
+{
+    "business_name": "Theo Jordan & Katie Cassman At Compass Greater Chicago Real Estate Agents",
+    "source_business_name": "Theo Jordan & Katie Cassman At Compass Greater Chicago Real Estate Agents",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18475082732",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://theoandkatie.com/",
+    "address": "\n1643 N Milwaukee Ave, Chicago, IL 60622, United States",
+    "city": "Wicker Park Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Theo+Jordan+%26+Katie+Cassman+at+Compass+%7C+Greater+Chicago+Real+Estate+Agents/data=!4m7!3m6!1s0x880fd2c00398fc3f:0x1b085716cbd2580b!8m2!3d41.9114291!4d-87.678659!16s%2Fg%2F11c50vzc7g!19sChIJP_yYA8DSD4gRC1jSyxZXCBs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Wicker Park Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/theoandkatie/",
+        "facebook": "https://www.facebook.com/theoandkatie/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

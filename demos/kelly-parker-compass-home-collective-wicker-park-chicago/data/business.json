@@ -1,0 +1,50 @@
+{
+    "business_name": "Kelly Parker - Compass - Home Collective",
+    "source_business_name": "Kelly Parker - Compass - Home Collective",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13128818981",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://home-collective.com/",
+    "address": "\n1643 N Milwaukee Ave, Chicago, IL 60647, United States",
+    "city": "Wicker Park Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Kelly+Parker+-+COMPASS+-+Home+Collective/data=!4m7!3m6!1s0x880fd2c00398fc41:0xbbb494aaa3b8a6a4!8m2!3d41.9114158!4d-87.6786472!16s%2Fg%2F11f5h29j86!19sChIJQfyYA8DSD4gRpKa4o6qUtLs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Wicker Park Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/homecollective.re/",
+        "facebook": "https://www.facebook.com/ChicagoHomeCollective/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

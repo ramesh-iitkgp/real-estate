@@ -1,0 +1,50 @@
+{
+    "business_name": "Redfin Chicago Real Estate Agents",
+    "source_business_name": "Redfin Chicago Real Estate Agents",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13128364263",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.redfin.com/city/29470/IL/Chicago/real-estate/agents",
+    "address": "\n112 S Sangamon St #400, Chicago, IL 60607, United States",
+    "city": "South Loop Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "20",
+    "google_maps_url": "https://www.google.com/maps/place/Redfin+Chicago+Real+Estate+Agents/data=!4m7!3m6!1s0x880fc9fa76057db3:0x28eaef5e7c943490!8m2!3d41.8799402!4d-87.6511562!16s%2Fg%2F11c1wx4ltg!19sChIJs30FdvrJD4gRkDSUfF7v6ig?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Loop Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Centurion Realty & Estates",
+    "source_business_name": "Centurion Realty & Estates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17089983524",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://centurionrealtyandestates.com/",
+    "address": "\n1932 S Wabash Ave C1, Chicago, IL 60616, United States",
+    "city": "South Loop Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "13",
+    "google_maps_url": "https://www.google.com/maps/place/Centurion+Realty+%26+Estates/data=!4m7!3m6!1s0x880e2c7955a31a27:0xdbd44ea71c8f08ee!8m2!3d41.8557294!4d-87.6259657!16s%2Fg%2F11bv1pkcgm!19sChIJJxqjVXksDogR7giPHKdO1Ns?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Loop Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

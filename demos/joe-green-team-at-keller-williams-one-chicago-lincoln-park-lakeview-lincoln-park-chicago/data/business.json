@@ -1,0 +1,50 @@
+{
+    "business_name": "Joe Green Team At Keller Williams One Chicago-Lincoln Park-Lakeview",
+    "source_business_name": "Joe Green Team At Keller Williams One Chicago-Lincoln Park-Lakeview",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17738930454",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://joegreen.kw.com/",
+    "address": "\n1525 W Belmont Ave, Chicago, IL 60657, United States",
+    "city": "Lincoln Park Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Joe+Green+Team+at+Keller+Williams+ONE+Chicago-Lincoln+Park-Lakeview/data=!4m7!3m6!1s0x880fd32409c3959d:0x862bce2797f65a49!8m2!3d41.9394905!4d-87.6672733!16s%2Fg%2F11bztg1r2d!19sChIJnZXDCSTTD4gRSVr2lyfOK4Y?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Lincoln Park Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

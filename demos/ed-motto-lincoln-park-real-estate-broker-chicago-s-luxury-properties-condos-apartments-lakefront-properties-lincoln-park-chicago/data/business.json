@@ -1,0 +1,50 @@
+{
+    "business_name": "Ed Motto Lincoln Park - Real Estate Broker Chicago'S Luxury Properties Condos Apartments Lakefront Properties",
+    "source_business_name": "Ed Motto Lincoln Park - Real Estate Broker Chicago'S Luxury Properties Condos Apartments Lakefront Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13129536275",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://edmottoproperties.com/",
+    "address": "\n1910 N Clybourn Ave, Chicago, IL 60614, United States",
+    "city": "Lincoln Park Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Ed+Motto,+Lincoln+Park+-+Real+Estate+Broker+%7C+Chicago%27s+Luxury+Properties,+Condos,+Apartments,+Lakefront+properties/data=!4m7!3m6!1s0x880fd3c577e7bf65:0x64b6cc6d500c4335!8m2!3d41.9156987!4d-87.6566854!16s%2Fg%2F11t3vbnx8d!19sChIJZb_nd8XTD4gRNUMMUG3MtmQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Lincoln Park Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/edmottoproperties/",
+        "facebook": "https://www.facebook.com/people/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

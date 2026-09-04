@@ -1,0 +1,50 @@
+{
+    "business_name": "Century 21 Sgr Inc",
+    "source_business_name": "Century 21 Sgr Inc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13124551322",
+    "whatsapp": "",
+    "email": "nancy@century21sgr.com",
+    "website_url": "https://century21sgr.com/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=2107580006",
+    "address": "\n1161 W Madison St #1161, Chicago, IL 60607, United States",
+    "city": "West Loop Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/CENTURY+21+S.G.R.,+Inc./data=!4m7!3m6!1s0x880e2cd8c88907c9:0x332381c2fe84b460!8m2!3d41.8814846!4d-87.6567111!16s%2Fg%2F1tjyv5pb!19sChIJyQeJyNgsDogRYLSE_sKBIzM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Loop Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/c21sgr/",
+        "facebook": "https://www.facebook.com/Century21SGR/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

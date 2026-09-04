@@ -1,0 +1,50 @@
+{
+    "business_name": "Specializing In Real Estate Sales And Leasing In Little Italy West Loop Tri-Taylor And Pilsen",
+    "source_business_name": "Specializing In Real Estate Sales And Leasing In Little Italy West Loop Tri-Taylor And Pilsen",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13123887170",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1355 W Taylor St, Chicago, IL 60607, United States",
+    "city": "West Loop Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Specializing+in+Real+Estate+Sales+and+Leasing+in+Little+Italy,+West+Loop,+Tri-Taylor+and+Pilsen/data=!4m7!3m6!1s0x880e2d1c5aea87ab:0x89cf813cbe68709d!8m2!3d41.8691689!4d-87.6612912!16s%2Fg%2F11c1vlckms!19sChIJq4fqWhwtDogRnXBovjyBz4k?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Loop Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

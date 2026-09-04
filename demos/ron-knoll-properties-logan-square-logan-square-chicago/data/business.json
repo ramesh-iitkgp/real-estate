@@ -1,0 +1,50 @@
+{
+    "business_name": "Ron Knoll Properties Logan Square",
+    "source_business_name": "Ron Knoll Properties Logan Square",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17733302353",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n2507 N Bernard St, Chicago, IL 60647, United States",
+    "city": "Logan Square Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "9",
+    "google_maps_url": "https://www.google.com/maps/place/Ron+Knoll+%7C+@properties+Logan+Square/data=!4m7!3m6!1s0x880fcd72083d972f:0xba4f413a3e4a1c2e!8m2!3d41.9267619!4d-87.713032!16s%2Fg%2F11d_d46d_r!19sChIJL5c9CHLND4gRLhxKPjpBT7o?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Logan Square Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Dumas & Associates Realty Inc",
+    "source_business_name": "Dumas & Associates Realty Inc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17735923015",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.dumasassociates.com/",
+    "address": "\n2519 N California Ave, Chicago, IL 60647, United States",
+    "city": "Logan Square Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "28",
+    "google_maps_url": "https://www.google.com/maps/place/Dumas+%26+Associates+Realty+Inc/data=!4m7!3m6!1s0x880fd282a45de4d9:0x77b7e07b233b3bc5!8m2!3d41.9272543!4d-87.6973165!16s%2Fg%2F1tpbcl30!19sChIJ2eRdpILSD4gRxTs7I3vgt3c?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Logan Square Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

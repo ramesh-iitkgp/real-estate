@@ -1,0 +1,50 @@
+{
+    "business_name": "Fulton Grace Realty",
+    "source_business_name": "Fulton Grace Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17736986648",
+    "whatsapp": "",
+    "email": "info@fultongrace.com",
+    "website_url": "https://www.fultongrace.com/?utm_source=GMB&utm_medium=organic",
+    "address": "\n2901 N Halsted St #1, Chicago, IL 60657, United States",
+    "city": "Lakeview Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Fulton+Grace+Realty/data=!4m7!3m6!1s0x880fd2ff50937f3f:0x17c8dc9d1973cfdd!8m2!3d41.9346426!4d-87.6487159!16s%2Fg%2F1t_tkx6_!19sChIJP3-TUP_SD4gR3c9zGZ3cyBc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Lakeview Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

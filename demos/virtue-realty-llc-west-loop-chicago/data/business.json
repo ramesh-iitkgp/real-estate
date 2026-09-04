@@ -1,0 +1,50 @@
+{
+    "business_name": "Virtue Realty Llc",
+    "source_business_name": "Virtue Realty Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17732320300",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://virtue.realty/",
+    "address": "\n159 N Sangamon St Ste 200, Chicago, IL 60607, United States",
+    "city": "West Loop Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Virtue+Realty,+LLC/data=!4m7!3m6!1s0x880fd3dd50277b73:0x4b3d712f4f097899!8m2!3d41.886025!4d-87.649215!16s%2Fg%2F11lqvpb83r!19sChIJc3snUN3TD4gRmXgJTy9xPUs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Loop Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/lalalysia/",
+        "facebook": "https://www.facebook.com/Virtue.Realty/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

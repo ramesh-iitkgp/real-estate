@@ -1,0 +1,50 @@
+{
+    "business_name": "Leigh Marcus",
+    "source_business_name": "Leigh Marcus",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17739856356",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://leighmarcus.com/?utm_source=gbp&utm_medium=organic",
+    "address": "\n2203 W Roscoe St #1, Chicago, IL 60618, United States",
+    "city": "Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "201",
+    "google_maps_url": "https://www.google.com/maps/place/Leigh+Marcus/data=!4m7!3m6!1s0x880fd2444cc9d72b:0xd25e1e2bc1713b5d!8m2!3d41.9429163!4d-87.6835374!16s%2Fg%2F11c1vj37f6!19sChIJK9fJTETSD4gRXTtxwSseXtI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/leighmarcuschicago/",
+        "facebook": "https://www.facebook.com/LeighMarcusChicago/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

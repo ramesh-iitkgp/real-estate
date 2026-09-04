@@ -1,0 +1,50 @@
+{
+    "business_name": "Second City Agents - Hinsdale & Chicago Realtors Compass",
+    "source_business_name": "Second City Agents - Hinsdale & Chicago Realtors Compass",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16306974540",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://secondcityagents.com/?utm_source=gbp&utm_medium=organic",
+    "address": "\n1643 N Milwaukee Ave 1st floor, Chicago, IL 60647, United States",
+    "city": "Wicker Park Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Second+City+Agents+-+Hinsdale+%26+Chicago+Realtors+Compass/data=!4m7!3m6!1s0x880fd32ed64073db:0xa0c9437a72e2f203!8m2!3d41.9114291!4d-87.678659!16s%2Fg%2F11fpqqkqsd!19sChIJ23NA1i7TD4gRA_LicnpDyaA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Wicker Park Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/secondcityagents/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

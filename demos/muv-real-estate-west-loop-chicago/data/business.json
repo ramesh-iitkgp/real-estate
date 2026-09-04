@@ -1,0 +1,50 @@
+{
+    "business_name": "Muv Real Estate",
+    "source_business_name": "Muv Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13129003429",
+    "whatsapp": "",
+    "email": "consult@muvrealestate.com",
+    "website_url": "https://www.muvrealestate.com/",
+    "address": "\n220 N Green St Ste 350, Chicago, IL 60607, United States",
+    "city": "West Loop Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/M%C3%BCv+Real+Estate/data=!4m7!3m6!1s0x880e2d56cd165c8f:0x35fec30069e11d29!8m2!3d41.8863114!4d-87.6489344!16s%2Fg%2F11j5sb7bxl!19sChIJj1wWzVYtDogRKR3haQDD_jU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Loop Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/muvrealestate/",
+        "facebook": "https://www.facebook.com/MuvRealEstate/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

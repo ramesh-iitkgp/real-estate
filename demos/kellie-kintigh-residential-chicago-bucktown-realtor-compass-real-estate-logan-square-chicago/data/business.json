@@ -1,0 +1,50 @@
+{
+    "business_name": "Kellie Kintigh Residential Chicago Bucktown Realtor - Compass Real Estate",
+    "source_business_name": "Kellie Kintigh Residential Chicago Bucktown Realtor - Compass Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17735956842",
+    "whatsapp": "",
+    "email": "kellie.kintigh@compass.com",
+    "website_url": "https://www.compass.com/agents/kellie-kintigh/",
+    "address": "\n1643 N Milwaukee Ave 1st & 2nd Floors, Chicago, IL 60647, United States",
+    "city": "Logan Square Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "16",
+    "google_maps_url": "https://www.google.com/maps/place/Kellie+Kintigh+Residential,+Chicago+Bucktown+Realtor+-+COMPASS+Real+Estate/data=!4m7!3m6!1s0x880fd3978111a3b7:0x6b4eecd0286a3724!8m2!3d41.9115279!4d-87.6787553!16s%2Fg%2F11gxtblgsm!19sChIJt6MRgZfTD4gRJDdqKNDsTms?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Logan Square Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/kelliekintighresidential/",
+        "facebook": "https://www.facebook.com/kelliekintighrealtor/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

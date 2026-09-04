@@ -1,0 +1,50 @@
+{
+    "business_name": "Premier Chicago Real Estate",
+    "source_business_name": "Premier Chicago Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13127226572",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://premierchicagorealestate.com/",
+    "address": "\n159 N Sangamon St Ste 200, Chicago, IL 60607, United States",
+    "city": "West Loop Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Premier+Chicago+Real+Estate/data=!4m7!3m6!1s0x880e2d3d87e892a9:0xa2f8bece6acc0045!8m2!3d41.8860253!4d-87.6492145!16s%2Fg%2F11rsngfhnc!19sChIJqZLohz0tDogRRQDMas6--KI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Loop Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/premierchicagore/",
+        "facebook": "https://www.facebook.com/premierchicagorealestate/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Leticia Andrade Fulton Grace Realty",
+    "source_business_name": "Leticia Andrade Fulton Grace Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17733832223",
+    "whatsapp": "",
+    "email": "info@fultongrace.com",
+    "website_url": "https://www.fultongrace.com/agents/leticia-andrade/",
+    "address": "\n1400 N Milwaukee Ave, Chicago, IL 60622, United States",
+    "city": "Wicker Park Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Leticia+Andrade,+Fulton+Grace+Realty/data=!4m7!3m6!1s0x880fd36ad061e30d:0x5e8bc4d439a1d029!8m2!3d41.9072199!4d-87.6730522!16s%2Fg%2F11n0dsvn5z!19sChIJDeNh0GrTD4gRKdChOdTEi14?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Wicker Park Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/soldbyleticia/",
+        "facebook": "https://www.facebook.com/LeticiaAndradeRealEstateAdvisor/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

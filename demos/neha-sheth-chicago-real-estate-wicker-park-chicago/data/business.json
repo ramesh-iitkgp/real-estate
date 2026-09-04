@@ -1,0 +1,50 @@
+{
+    "business_name": "Neha Sheth Chicago Real Estate",
+    "source_business_name": "Neha Sheth Chicago Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12483207976",
+    "whatsapp": "",
+    "email": "neha.sheth@compass.com",
+    "website_url": "https://www.compass.com/agents/neha-sheth/",
+    "address": "\n1643 N Milwaukee Ave, Chicago, IL 60647, United States",
+    "city": "Wicker Park Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Neha+Sheth+%7C+Chicago+Real+Estate/data=!4m7!3m6!1s0x880fd3b4210d7931:0x7b96a012aae1b2f1!8m2!3d41.9115279!4d-87.6787553!16s%2Fg%2F11h04x1n2w!19sChIJMXkNIbTTD4gR8bLhqhKglns?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Wicker Park Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

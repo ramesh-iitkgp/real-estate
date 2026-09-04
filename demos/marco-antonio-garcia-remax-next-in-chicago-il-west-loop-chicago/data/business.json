@@ -1,0 +1,50 @@
+{
+    "business_name": "Marco Antonio Garcia Remax Next In Chicago Il",
+    "source_business_name": "Marco Antonio Garcia Remax Next In Chicago Il",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16309035102",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.marcogarciarealty.com/",
+    "address": "\n1046 W Kinzie St, Chicago, IL 60642, United States",
+    "city": "West Loop Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Marco+Antonio+Garcia,+REMAX+NEXT+in+Chicago,+IL/data=!4m7!3m6!1s0x880e4d661d01fd6f:0xd8f138e41bed95a3!8m2!3d41.8891777!4d-87.6539143!16s%2Fg%2F11rb9qrqdp!19sChIJb_0BHWZNDogRo5XtG-Q48dg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Loop Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

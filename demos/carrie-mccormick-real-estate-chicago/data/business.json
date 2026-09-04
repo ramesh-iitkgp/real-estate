@@ -1,0 +1,50 @@
+{
+    "business_name": "Carrie Mccormick Real Estate",
+    "source_business_name": "Carrie Mccormick Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13129614612",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.carriemccormickre.com/?utm_source=gbp&utm_medium=local&utm_campaign=website_clicks",
+    "address": "\n548 W Webster Dr, Chicago, IL 60614, United States",
+    "city": "Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "130",
+    "google_maps_url": "https://www.google.com/maps/place/Carrie+McCormick+Real+Estate/data=!4m7!3m6!1s0x880fd32d234dd32f:0xc6715741e62f9cab!8m2!3d41.9219877!4d-87.6434577!16s%2Fg%2F11c1m3h31z!19sChIJL9NNIy3TD4gRq5wv5kFXccY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/carriemccormickrealestate/",
+        "facebook": "https://www.facebook.com/CARRIEMCCORMICKREALESTATE/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Mark Allen Realty",
+    "source_business_name": "Mark Allen Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17739385220",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.markallenrealty.com/",
+    "address": "\n2015 W Fullerton Ave, Chicago, IL 60647, United States",
+    "city": "Lakeview Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Mark+Allen+Realty/data=!4m7!3m6!1s0x880fd292b850ee5d:0x99085c5260477f3!8m2!3d41.9246832!4d-87.6785953!16s%2Fg%2F1th87qmz!19sChIJXe5QuJLSD4gR83cEJsWFkAk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Lakeview Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

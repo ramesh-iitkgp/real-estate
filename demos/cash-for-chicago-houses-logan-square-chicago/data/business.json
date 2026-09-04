@@ -1,0 +1,50 @@
+{
+    "business_name": "Cash For Chicago Houses",
+    "source_business_name": "Cash For Chicago Houses",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18479085379",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.cashforchicagohouses.com/",
+    "address": "\n3323 W Diversey Ave, Chicago, IL 60647, United States",
+    "city": "Logan Square Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "20",
+    "google_maps_url": "https://www.google.com/maps/place/Cash+For+Chicago+Houses/data=!4m7!3m6!1s0x880fcde808fe94af:0xd8db72aaac2bac74!8m2!3d41.9317673!4d-87.7112364!16s%2Fg%2F11nr3d3bl_!19sChIJr5T-COjND4gRdKwrrKpy29g?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Logan Square Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/cashforchicagohouses/",
+        "facebook": "https://www.facebook.com/CashforChicagoHouses/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

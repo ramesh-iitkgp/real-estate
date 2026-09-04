@@ -1,0 +1,50 @@
+{
+    "business_name": "Coeval Apartments",
+    "source_business_name": "Coeval Apartments",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18722310536",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://coevalchicago.com/?funnelleasing=onlinelisting&utm_source=gmb&utm_medium=organic",
+    "address": "\n51 E 14th St, Chicago, IL 60605, United States",
+    "city": "South Loop Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "80",
+    "google_maps_url": "https://www.google.com/maps/place/Coeval+Apartments/data=!4m7!3m6!1s0x880e2d9927c2edc7:0xdab28e72a799c7d1!8m2!3d41.8638432!4d-87.6253419!16s%2Fg%2F11g_x4613_!19sChIJx-3CJ5ktDogR0ceZp3KOsto?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Loop Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/coevalapts/",
+        "facebook": "https://www.facebook.com/CoevalApts/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

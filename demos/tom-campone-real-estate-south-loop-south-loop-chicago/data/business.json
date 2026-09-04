@@ -1,0 +1,50 @@
+{
+    "business_name": "Tom Campone Real Estate South Loop",
+    "source_business_name": "Tom Campone Real Estate South Loop",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17025282267",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.tomcampone.com/",
+    "address": "\n1421 S Indiana Ave, Chicago, IL 60605, United States",
+    "city": "South Loop Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "298",
+    "google_maps_url": "https://www.google.com/maps/place/Tom+Campone+Real+Estate+%7C+South+Loop/data=!4m7!3m6!1s0x880e2c81b81bab33:0x6fc440829809d5d1!8m2!3d41.8635027!4d-87.6221908!16s%2Fg%2F11c6prtj3f!19sChIJM6sbuIEsDogR0dUJmIJAxG8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Loop Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/tcampone/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

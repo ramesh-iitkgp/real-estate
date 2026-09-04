@@ -1,0 +1,50 @@
+{
+    "business_name": "Quentin Green - The Green Team",
+    "source_business_name": "Quentin Green - The Green Team",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17738957750",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://quentingreenrealestate.com/",
+    "address": "\n730 N Wells St, Chicago, IL 60654, United States",
+    "city": "Downtown Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Quentin+Green+-+The+Green+Team/data=!4m7!3m6!1s0x880fd3f38dc1197b:0x12d5a46c56e2dba5!8m2!3d41.895719!4d-87.634382!16s%2Fg%2F11qbqwmc_v!19sChIJexnBjfPTD4gRpdviVmyk1RI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/quentingreen_re/",
+        "facebook": "https://www.facebook.com/quentingreenRE/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

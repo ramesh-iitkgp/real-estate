@@ -1,0 +1,50 @@
+{
+    "business_name": "American Realty Of Illinois Inc",
+    "source_business_name": "American Realty Of Illinois Inc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17732522909",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://americanrealty5.wixsite.com/arandtofillinois",
+    "address": "\n4215 W Fullerton Ave, Chicago, IL 60639, United States",
+    "city": "Logan Square Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "39",
+    "google_maps_url": "https://www.google.com/maps/place/American+Realty+of+Illinois,+Inc/data=!4m7!3m6!1s0x880fcd1c7b8b189b:0x5e538461ce85bf10!8m2!3d41.9242346!4d-87.7323766!16s%2Fg%2F1v940nnf!19sChIJmxiLexzND4gREL-FzmGEU14?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Logan Square Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "https://www.facebook.com/wix/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

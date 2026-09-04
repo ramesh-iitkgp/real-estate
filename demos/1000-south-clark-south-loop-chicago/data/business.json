@@ -1,0 +1,50 @@
+{
+    "business_name": "1000 South Clark",
+    "source_business_name": "1000 South Clark",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13125831800",
+    "whatsapp": "",
+    "email": "leasing@1000southclark.com",
+    "website_url": "https://1000southclark.com/?utm_source=google&utm_medium=organic+search&utm_campaign=google+business+profile",
+    "address": "\n1000 S Clark St, Chicago, IL 60605, United States",
+    "city": "South Loop Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "315",
+    "google_maps_url": "https://www.google.com/maps/place/1000+South+Clark/data=!4m7!3m6!1s0x880e2c90e41dce6b:0x98fe1e5d896ffa6f!8m2!3d41.8695089!4d-87.631142!16s%2Fg%2F11bwpyphkq!19sChIJa84d5JAsDogRb_pviV0e_pg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Loop Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/1000southclark/",
+        "facebook": "https://www.facebook.com/1000southclark/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

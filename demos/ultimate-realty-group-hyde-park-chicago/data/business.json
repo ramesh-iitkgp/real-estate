@@ -1,0 +1,50 @@
+{
+    "business_name": "Ultimate Realty Group",
+    "source_business_name": "Ultimate Realty Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17736677000",
+    "whatsapp": "",
+    "email": "admin@ultimaterealtygroup.com",
+    "website_url": "https://ultimaterealtygroup.com/",
+    "address": "\n5653 S Blackstone Ave, Chicago, IL 60637, United States",
+    "city": "Hyde Park Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Ultimate+Realty+Group/data=!4m7!3m6!1s0x880e29126ecb1a41:0xa1469b9d05222bb2!8m2!3d41.7917951!4d-87.5899908!16s%2Fg%2F113f5n6hr!19sChIJQRrLbhIpDogRsisiBZ2bRqE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hyde Park Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "https://www.facebook.com/pages/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

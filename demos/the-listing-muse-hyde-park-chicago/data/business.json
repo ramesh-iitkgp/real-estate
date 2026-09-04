@@ -1,0 +1,50 @@
+{
+    "business_name": "The Listing Muse",
+    "source_business_name": "The Listing Muse",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12024238274",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1451 E 53rd St, Chicago, IL 60615, United States",
+    "city": "Hyde Park Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/The+Listing+Muse/data=!4m7!3m6!1s0x880e2950e6b47209:0x7d8a56c7a2ea1619!8m2!3d41.7992097!4d-87.5898066!16s%2Fg%2F11mrphdcng!19sChIJCXK05lApDogRGRbqosdWin0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hyde Park Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

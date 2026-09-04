@@ -1,0 +1,50 @@
+{
+    "business_name": "Gold Coast Realty",
+    "source_business_name": "Gold Coast Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13122809600",
+    "whatsapp": "",
+    "email": "info@goldcoastrealtychicago.com",
+    "website_url": "https://www.goldcoastrealty-chicago.com/",
+    "address": "\n1165 N Clark St #700, Chicago, IL 60610, United States",
+    "city": "Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "157",
+    "google_maps_url": "https://www.google.com/maps/place/Gold+Coast+Realty+Chicago/data=!4m7!3m6!1s0x880fd34f94af2c9b:0x8a42a7c8195e0463!8m2!3d41.9036659!4d-87.6310977!16s%2Fg%2F1tm1360w!19sChIJmyyvlE_TD4gRYwReGcinQoo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "https://www.facebook.com/GoldCoastRealtyChicago/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

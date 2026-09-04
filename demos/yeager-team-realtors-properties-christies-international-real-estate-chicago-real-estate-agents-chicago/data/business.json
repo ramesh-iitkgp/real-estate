@@ -1,0 +1,50 @@
+{
+    "business_name": "Yeager Team Realtors Properties Christies International Real Estate Chicago Real Estate Agents",
+    "source_business_name": "Yeager Team Realtors Properties Christies International Real Estate Chicago Real Estate Agents",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://yeagerteam.com/",
+    "address": "\n4100 N Lincoln Ave, Chicago, IL 60618, United States",
+    "city": "Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "61",
+    "google_maps_url": "https://www.google.com/maps/place/Yeager+Team+Realtors+%7C+@properties+Christies+International+Real+Estate+%7C+Chicago+Real+Estate+Agents/data=!4m7!3m6!1s0x880fd36ae34059b1:0x748220a6bdd9aece!8m2!3d41.9561034!4d-87.6804306!16s%2Fg%2F11ng6_pll_!19sChIJsVlA42rTD4gRzq7ZvaYggnQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/yeager.team.realtors/",
+        "facebook": "https://www.facebook.com/YeagerTeamRealtors/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

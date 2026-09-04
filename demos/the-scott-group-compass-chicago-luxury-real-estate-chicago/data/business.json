@@ -1,0 +1,50 @@
+{
+    "business_name": "The Scott Group Compass Chicago Luxury Real Estate",
+    "source_business_name": "The Scott Group Compass Chicago Luxury Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13173408519",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://thescottgrp.com/",
+    "address": "\n2350 N Lincoln Ave 3rd Floor, Chicago, IL 60614, United States",
+    "city": "Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "194",
+    "google_maps_url": "https://www.google.com/maps/place/The+Scott+Group+%7C+Compass+Chicago+%7C+Luxury+Real+Estate/data=!4m7!3m6!1s0x880fd39d305b07f3:0xb7fc0bab5dde4dbb!8m2!3d41.9246834!4d-87.6479982!16s%2Fg%2F11jgyq6kfs!19sChIJ8wdbMJ3TD4gRu03eXasL_Lc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/thescottgroup_compass/",
+        "facebook": "https://www.facebook.com/TheScottGroupCompass/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

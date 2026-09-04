@@ -1,0 +1,50 @@
+{
+    "business_name": "Marian Realty Inc",
+    "source_business_name": "Marian Realty Inc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17736845400",
+    "whatsapp": "",
+    "email": "info@marianrealty.com",
+    "website_url": "https://www.marianrealty.com/",
+    "address": "\n1742 E 55th St, Chicago, IL 60615, United States",
+    "city": "Hyde Park Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Marian+Realty+Inc/data=!4m7!3m6!1s0x880e2973251b8667:0x3480eb756752290f!8m2!3d41.7953606!4d-87.5822335!16s%2Fg%2F1tdm8xk3!19sChIJZ4YbJXMpDogRDylSZ3XrgDQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hyde Park Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

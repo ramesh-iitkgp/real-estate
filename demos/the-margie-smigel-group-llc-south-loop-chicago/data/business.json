@@ -1,0 +1,50 @@
+{
+    "business_name": "The Margie Smigel Group Llc",
+    "source_business_name": "The Margie Smigel Group Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13129531466",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.margiegroup.com/",
+    "address": "\n720 S Dearborn St Unit: PH 4, Chicago, IL 60605, United States",
+    "city": "South Loop Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "40",
+    "google_maps_url": "https://www.google.com/maps/place/The+Margie+Smigel+Group,+LLC/data=!4m7!3m6!1s0x880e2d44dbbf34c3:0xdd9b212aff059cfc!8m2!3d41.8727494!4d-87.6294373!16s%2Fg%2F11h1vbg5q2!19sChIJwzS_20QtDogR_JwF_yohm90?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Loop Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

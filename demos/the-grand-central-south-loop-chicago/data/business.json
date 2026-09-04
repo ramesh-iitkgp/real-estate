@@ -1,0 +1,50 @@
+{
+    "business_name": "The Grand Central",
+    "source_business_name": "The Grand Central",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18722191330",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.thegrandcentralapartments.com/?utm_knock=gmb",
+    "address": "\n221 W Harrison St, Chicago, IL 60607, United States",
+    "city": "South Loop Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "229",
+    "google_maps_url": "https://www.google.com/maps/place/The+Grand+Central/data=!4m7!3m6!1s0x880e2d8e772eb77b:0xa4b3e904852612e!8m2!3d41.8740042!4d-87.6341436!16s%2Fg%2F11h84_vvzg!19sChIJe7cud44tDogRLmFSSJA-Swo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Loop Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

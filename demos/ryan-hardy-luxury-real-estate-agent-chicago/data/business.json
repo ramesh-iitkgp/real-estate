@@ -1,0 +1,50 @@
+{
+    "business_name": "Ryan Hardy Luxury Real Estate Agent",
+    "source_business_name": "Ryan Hardy Luxury Real Estate Agent",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13125236383",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://ryanhardychicago.com/",
+    "address": "\n425 W North Ave, Chicago, IL 60610, United States",
+    "city": "Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "50",
+    "google_maps_url": "https://www.google.com/maps/place/Ryan+Hardy+%7C+Luxury+Real+Estate+Agent/data=!4m7!3m6!1s0x880e2cb29adba5e7:0x3a3b31a2c65a9e77!8m2!3d41.9107796!4d-87.6395555!16s%2Fg%2F11b7k28nmz!19sChIJ56XbmrIsDogRd55axqIxOzo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

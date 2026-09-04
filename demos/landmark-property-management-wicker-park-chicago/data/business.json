@@ -1,0 +1,50 @@
+{
+    "business_name": "Landmark Property Management",
+    "source_business_name": "Landmark Property Management",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13123138553",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.chicagospropertymanagement.com/",
+    "address": "\n1212 N Ashland Ave #202, Chicago, IL 60622, United States",
+    "city": "Wicker Park Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Landmark+Property+Management/data=!4m7!3m6!1s0x880fcdf154349237:0x856735d2d53a5f5!8m2!3d41.903719!4d-87.6677294!16s%2Fg%2F11csbcpshz!19sChIJN5I0VPHND4gR9aVTLV1zVgg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Wicker Park Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "https://www.facebook.com/LandmarkRGC/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Shoreland Apartments",
+    "source_business_name": "Shoreland Apartments",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16189338179",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.shorelandchicago.com/",
+    "address": "\n5454 S Shore Dr, Chicago, IL 60615, United States",
+    "city": "Hyde Park Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Shoreland+Apartments/data=!4m7!3m6!1s0x880e297518655577:0x2fb20b44b0d04984!8m2!3d41.7961758!4d-87.5813723!16zL20vMGJyY3Zk!19sChIJd1VlGHUpDogRhEnQsEQLsi8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hyde Park Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

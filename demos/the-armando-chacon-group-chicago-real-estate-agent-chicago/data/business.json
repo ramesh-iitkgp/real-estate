@@ -1,0 +1,50 @@
+{
+    "business_name": "The Armando Chacon Group Chicago Real Estate Agent",
+    "source_business_name": "The Armando Chacon Group Chicago Real Estate Agent",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13125438219",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://acgroupchicago.com/",
+    "address": "\n1161 W Madison St, Chicago, IL 60607, United States",
+    "city": "Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "49",
+    "google_maps_url": "https://www.google.com/maps/place/The+Armando+Chacon+Group+%7C+Chicago+Real+Estate+Agent/data=!4m7!3m6!1s0x880e2cd8c90e9c25:0x53f55ee99ef54765!8m2!3d41.8813516!4d-87.656705!16s%2Fg%2F11c0rvxh_l!19sChIJJZwOydgsDogRZUf1nule9VM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/armandochacongroup/",
+        "facebook": "https://www.facebook.com/acgroupchicago/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

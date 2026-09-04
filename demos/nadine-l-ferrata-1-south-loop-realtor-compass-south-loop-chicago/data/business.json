@@ -1,0 +1,50 @@
+{
+    "business_name": "Nadine L Ferrata 1 South Loop Realtor Compass",
+    "source_business_name": "Nadine L Ferrata 1 South Loop Realtor Compass",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13129712454",
+    "whatsapp": "",
+    "email": "nadine@nlferrata.com",
+    "website_url": "https://www.nlferrata.com/",
+    "address": "\n55 E Erie St Ste C-1, Chicago, IL 60611, United States",
+    "city": "South Loop Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "53",
+    "google_maps_url": "https://www.google.com/maps/place/Nadine+L+Ferrata+%7C+%231+South+Loop+Realtor+%7C+Compass/data=!4m7!3m6!1s0x880fd36a6e156985:0x56efe1a2186ffd74!8m2!3d41.8939101!4d-87.6259517!16s%2Fg%2F11cn5pvxf3!19sChIJhWkVbmrTD4gRdP1vGKLh71Y?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Loop Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/nlferrata_chicago/",
+        "facebook": "https://www.facebook.com/TheNLFerrataTeam/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

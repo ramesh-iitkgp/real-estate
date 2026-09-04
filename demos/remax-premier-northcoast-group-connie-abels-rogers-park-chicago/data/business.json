@@ -1,0 +1,50 @@
+{
+    "business_name": "Remax Premier- Northcoast Group Connie Abels",
+    "source_business_name": "Remax Premier- Northcoast Group Connie Abels",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17734422357",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.professionalrealestatebroker.com/",
+    "address": "\n6926 N Sheridan Rd #2N, Chicago, IL 60626, United States",
+    "city": "Rogers Park Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/RE%2FMAX+Premier-+NorthCoast+Group:+Connie+Abels/data=!4m7!3m6!1s0x880fd3b70b08ecc5:0xddbbbccbf1267d12!8m2!3d41.9982182!4d-87.6562163!16s%2Fg%2F1yfjddg95!19sChIJxewIC7fTD4gREn0m8cu8u90?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Rogers Park Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

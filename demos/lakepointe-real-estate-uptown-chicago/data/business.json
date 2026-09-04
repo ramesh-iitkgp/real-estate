@@ -1,0 +1,50 @@
+{
+    "business_name": "Lakepointe Real Estate",
+    "source_business_name": "Lakepointe Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17737540785",
+    "whatsapp": "",
+    "email": "office@lakepointeleasing.com",
+    "website_url": "https://lakepointeleasing.com/",
+    "address": "\n1137 W Leland Ave, Chicago, IL 60640, United States",
+    "city": "Uptown Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/LakePointe+Real+Estate/data=!4m7!3m6!1s0x880fd31900dd6eeb:0x336614baea242b15!8m2!3d41.967026!4d-87.6590311!16s%2Fg%2F11cm4f5g5f!19sChIJ627dABnTD4gRFSsk6roUZjM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Uptown Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

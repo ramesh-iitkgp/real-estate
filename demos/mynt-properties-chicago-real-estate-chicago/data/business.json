@@ -1,0 +1,50 @@
+{
+    "business_name": "Mynt Properties Chicago Real Estate",
+    "source_business_name": "Mynt Properties Chicago Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18109197824",
+    "whatsapp": "",
+    "email": "info@myntchicago.com",
+    "website_url": "https://www.myntchicago.com/",
+    "address": "\n2211 N Elston Ave Ste 400, Chicago, IL 60614, United States",
+    "city": "Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "66",
+    "google_maps_url": "https://www.google.com/maps/place/Mynt+Properties+%7C+Chicago+Real+Estate/data=!4m7!3m6!1s0x880fd3edb5d745af:0x469de7673e7215dd!8m2!3d41.9221089!4d-87.6723791!16s%2Fg%2F11ss1y23zr!19sChIJr0XXte3TD4gR3RVyPmfnnUY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/mynt.properties/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

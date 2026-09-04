@@ -1,0 +1,50 @@
+{
+    "business_name": "The Trilogy At Hyde Park",
+    "source_business_name": "The Trilogy At Hyde Park",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18554495144",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.thetrilogyathydepark.com/",
+    "address": "\n1310-1340 E Hyde Park Blvd, Chicago, IL 60615, United States",
+    "city": "Hyde Park Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/The+Trilogy+at+Hyde+Park/data=!4m7!3m6!1s0x880e29d1ca014057:0x9f541178212fb940!8m2!3d41.8025437!4d-87.5942061!16s%2Fg%2F11hdftyr_z!19sChIJV0ABytEpDogRQLkvIXgRVJ8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hyde Park Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

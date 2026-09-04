@@ -1,0 +1,50 @@
+{
+    "business_name": "Algonquin Apartments",
+    "source_business_name": "Algonquin Apartments",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18159446183",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.fernwoodcommunities.com/apartments/il/chicago/algonquin-apartments0/default",
+    "address": "\n1606 E Hyde Park Blvd, Chicago, IL 60615, United States",
+    "city": "Hyde Park Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Algonquin+Apartments/data=!4m7!3m6!1s0x880e29705150ed03:0x81dfe316a5b9b20b!8m2!3d41.80271!4d-87.5862476!16s%2Fg%2F1xgzcc4d!19sChIJA-1QUXApDogRC7K5pRbj34E?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hyde Park Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

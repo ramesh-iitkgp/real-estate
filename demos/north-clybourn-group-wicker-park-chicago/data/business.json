@@ -1,0 +1,50 @@
+{
+    "business_name": "North Clybourn Group",
+    "source_business_name": "North Clybourn Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17732520600",
+    "whatsapp": "",
+    "email": "info@ncgchicago.com",
+    "website_url": "https://ncgchicago.com/",
+    "address": "\n2324 W North Ave, Chicago, IL 60647, United States",
+    "city": "Wicker Park Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/NORTH+CLYBOURN+GROUP/data=!4m7!3m6!1s0x880fd2bb6fe1e07b:0xdf90106c8cf72b7c!8m2!3d41.9105712!4d-87.68583!16s%2Fg%2F1tglzl7q!19sChIJe-Dhb7vSD4gRfCv3jGwQkN8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Wicker Park Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/ncgchicago/",
+        "facebook": "https://www.facebook.com/ncgchicago/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

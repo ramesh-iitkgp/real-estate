@@ -1,0 +1,50 @@
+{
+    "business_name": "Arkadia West Loop",
+    "source_business_name": "Arkadia West Loop",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13123000932",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.arkadiawestloop.com/?utm_source=GoogleLocalListing&utm_medium=organic&utm_campaign=ArkadiaWestLoop_GoogleLocalListing",
+    "address": "\n765 W Adams St, Chicago, IL 60661, United States",
+    "city": "West Loop Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Arkadia+West+Loop/data=!4m7!3m6!1s0x880e2cc330669da5:0xfe9357017e7bc2d5!8m2!3d41.8789151!4d-87.6464873!16s%2Fg%2F11b6np65c8!19sChIJpZ1mMMMsDogR1cJ7fgFXk_4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Loop Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/arkadiawestloop/",
+        "facebook": "https://www.facebook.com/arkadiawestloop/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

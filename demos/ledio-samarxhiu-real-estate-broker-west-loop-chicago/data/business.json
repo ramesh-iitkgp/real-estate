@@ -1,0 +1,50 @@
+{
+    "business_name": "Ledio Samarxhiu Real Estate Broker",
+    "source_business_name": "Ledio Samarxhiu Real Estate Broker",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17736690569",
+    "whatsapp": "",
+    "email": "ledio@samargroupre.com",
+    "website_url": "https://www.samargroupre.com/",
+    "address": "\n1033 W Van Buren St 6th Floor, Chicago, IL 60607, United States",
+    "city": "West Loop Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Ledio+Samarxhiu,+Real+Estate+Broker/data=!4m7!3m6!1s0x880e2cca7dc00001:0xa0d474561dc66454!8m2!3d41.8762494!4d-87.6530659!16s%2Fg%2F11ghr0_q6w!19sChIJAQDAfcosDogRVGTGHVZ01KA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Loop Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

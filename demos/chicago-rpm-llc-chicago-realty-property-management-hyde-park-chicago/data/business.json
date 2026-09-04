@@ -1,0 +1,50 @@
+{
+    "business_name": "Chicago Rpm Llc Chicago Realty & Property Management",
+    "source_business_name": "Chicago Rpm Llc Chicago Realty & Property Management",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17739664238",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1525 E 53rd St #808, Chicago, IL 60615, United States",
+    "city": "Hyde Park Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/%22Chicago+RPM,+LLC%22+Chicago+Realty+%26+Property+Management/data=!4m7!3m6!1s0x880e2939c91463af:0x59ba43d7307c643!8m2!3d41.7993385!4d-87.5881618!16s%2Fg%2F1tdpgsmt!19sChIJr2MUyTkpDogRQ8YHcz2kmwU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hyde Park Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

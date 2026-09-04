@@ -1,0 +1,50 @@
+{
+    "business_name": "Engel & Volkers",
+    "source_business_name": "Engel & Volkers",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17737979500",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.evrealestate.com/en/shops/chicago",
+    "address": "\n2401 N Clark St, Chicago, IL 60614, United States",
+    "city": "Downtown Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Engel+%26+V%C3%B6lkers+Chicago/data=!4m7!3m6!1s0x880fd36ee1e5a3af:0x7f1bb304e49ea45a!8m2!3d41.9257466!4d-87.6403431!16s%2Fg%2F11fjx2qj0k!19sChIJr6Pl4W7TD4gRWqSe5ASzG38?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

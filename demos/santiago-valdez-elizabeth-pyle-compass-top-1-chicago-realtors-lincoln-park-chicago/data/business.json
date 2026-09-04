@@ -1,0 +1,50 @@
+{
+    "business_name": "Santiago Valdez & Elizabeth Pyle Compass Top 1 Chicago Realtors",
+    "source_business_name": "Santiago Valdez & Elizabeth Pyle Compass Top 1 Chicago Realtors",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17738582410",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://reluxinternational.com/santiago-and-elizabeth",
+    "address": "\n2350 N Lincoln Ave 3rd Floor, Chicago, IL 60614, United States",
+    "city": "Lincoln Park Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Santiago+Valdez+%26+Elizabeth+Pyle+%7C+Compass+%7C+Top+1%25+Chicago+Realtors/data=!4m7!3m6!1s0x880fd2efdbd5b94b:0x548a9779d55fc595!8m2!3d41.9246834!4d-87.6479982!16s%2Fg%2F1hhgpsv5f!19sChIJS7nV2-_SD4gRlcVf1XmXilQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Lincoln Park Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

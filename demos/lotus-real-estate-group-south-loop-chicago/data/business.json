@@ -1,0 +1,50 @@
+{
+    "business_name": "Lotus Real Estate Group",
+    "source_business_name": "Lotus Real Estate Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17735596406",
+    "whatsapp": "",
+    "email": "info@lotusrealty.net",
+    "website_url": "https://www.lotusrealty.net/",
+    "address": "\n1130 S Wabash Ave Ste 503, Chicago, IL 60605, United States",
+    "city": "South Loop Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Lotus+Real+Estate+Group/data=!4m7!3m6!1s0x880e2c9a53cf6289:0x2f37d4dfa7f093eb!8m2!3d41.8683326!4d-87.6262994!16s%2Fg%2F11whf2dg5m!19sChIJiWLPU5osDogR65Pwp9_UNy8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Loop Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

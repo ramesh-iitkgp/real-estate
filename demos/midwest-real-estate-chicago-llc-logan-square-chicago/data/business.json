@@ -1,0 +1,50 @@
+{
+    "business_name": "Midwest Real Estate Chicago Llc",
+    "source_business_name": "Midwest Real Estate Chicago Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13124769730",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://midwestrealestatechicago.com/about-us/we-have-a-finger-on-the-pulse-of-the-current-real-estate-market-6381700",
+    "address": "\n2339 N California Ave #47352, Chicago, IL 60647, United States",
+    "city": "Logan Square Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "1",
+    "google_maps_url": "https://www.google.com/maps/place/Midwest+Real+Estate+Chicago,+LLC/data=!4m7!3m6!1s0x880fd263d9199cdb:0x172233e0dcacbd43!8m2!3d41.924189!4d-87.6969078!16s%2Fg%2F11s8gj2fnv!19sChIJ25wZ2WPSD4gRQ72s3OAzIhc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Logan Square Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

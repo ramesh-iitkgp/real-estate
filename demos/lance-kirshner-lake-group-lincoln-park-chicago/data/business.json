@@ -1,0 +1,50 @@
+{
+    "business_name": "Lance Kirshner - Lake Group",
+    "source_business_name": "Lance Kirshner - Lake Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17735788080",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://lakegroupchicago.com/",
+    "address": "\n2350 N Lincoln Ave, Chicago, IL 60614, United States",
+    "city": "Lincoln Park Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Lance+Kirshner+-+LAKE+Group/data=!4m7!3m6!1s0x880fd2c00398fc41:0x8729278b87594e3e!8m2!3d41.9246834!4d-87.6479982!16s%2Fg%2F11bw82g84x!19sChIJQfyYA8DSD4gRPk5Zh4snKYc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Lincoln Park Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/brokerlance/",
+        "facebook": "https://www.facebook.com/pages/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

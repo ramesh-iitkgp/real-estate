@@ -1,0 +1,50 @@
+{
+    "business_name": "727 West Madison",
+    "source_business_name": "727 West Madison",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13123000928",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.727westmadison.com/?utm_source=GoogleLocalListing&utm_medium=organic&utm_campaign=727WestMadison_GoogleLocalListing",
+    "address": "\n727 W Madison St, Chicago, IL 60661, United States",
+    "city": "West Loop Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/727+West+Madison/data=!4m7!3m6!1s0x880e2d523fbee961:0xc8613873b577810d!8m2!3d41.8815628!4d-87.6469443!16s%2Fg%2F11gr88xy_j!19sChIJYem-P1ItDogRDYF3tXM4Ycg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Loop Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/727westmadison/",
+        "facebook": "https://www.facebook.com/727WMadison/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Rentlife",
+    "source_business_name": "Rentlife",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13128782788",
+    "whatsapp": "",
+    "email": "info@rentlife.com",
+    "website_url": "https://www.rentlife.com/",
+    "address": "\n625 W Adams St Office 18-133, Chicago, IL 60661, United States",
+    "city": "West Loop Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/RentLife/data=!4m7!3m6!1s0x880fd31a92c01841:0xba5694f1c501be54!8m2!3d41.8789815!4d-87.6435717!16s%2Fg%2F11jjr_q0ys!19sChIJQRjAkhrTD4gRVL4BxfGUVro?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Loop Chicago"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/rentlifechi/",
+        "facebook": "https://www.facebook.com/RentLife-118334726644070/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

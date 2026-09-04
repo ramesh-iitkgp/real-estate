@@ -1,0 +1,50 @@
+{
+    "business_name": "Serene Realty Inc",
+    "source_business_name": "Serene Realty Inc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13126507940",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.serenerealtyinc.com/",
+    "address": "\n2600 S Michigan Ave #102, Chicago, IL 60616, United States",
+    "city": "South Loop Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "71",
+    "google_maps_url": "https://www.google.com/maps/place/Serene+Realty,+Inc./data=!4m7!3m6!1s0x880e292a0e60b661:0xe76458addb57023c!8m2!3d41.8454057!4d-87.6241833!16s%2Fg%2F11lc4mfl5f!19sChIJYbZgDiopDogRPAJX261YZOc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Loop Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

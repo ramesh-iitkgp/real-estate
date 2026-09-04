@@ -1,0 +1,50 @@
+{
+    "business_name": "Hba Realty",
+    "source_business_name": "Hba Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17732324896",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.chicagobuyeragents.com/",
+    "address": "\n4623 Malden St #3N, Chicago, IL 60640, United States",
+    "city": "Uptown Chicago",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/HBA+Realty/data=!4m7!3m6!1s0x880fd3cae10e79c1:0xed312119d6931c89!8m2!3d41.9660705!4d-87.6621216!16s%2Fg%2F11h3nj008x!19sChIJwXkO4crTD4gRiRyT1hkhMe0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Uptown Chicago"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
