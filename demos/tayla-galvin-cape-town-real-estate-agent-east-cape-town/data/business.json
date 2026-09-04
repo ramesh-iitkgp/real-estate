@@ -1,0 +1,50 @@
+{
+    "business_name": "Tayla Galvin Cape Town Real Estate Agent",
+    "source_business_name": "Tayla Galvin Cape Town Real Estate Agent",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "27731252567",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1 Loader St, De Waterkant, Cape Town, 8005, South Africa",
+    "city": "East Cape Town",
+    "state": "",
+    "country": "South Africa",
+    "currency_symbol": "R",
+    "currency_code": "ZAR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Tayla+Galvin+%7C+Cape+Town+Real+Estate+Agent/data=!4m7!3m6!1s0x1dcc670f1c0de931:0x8deb6369211deeab!8m2!3d-33.9167982!4d18.4167894!16s%2Fg%2F11zfcd8flq!19sChIJMekNHA9nzB0Rq-4dIWlj640?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Cape Town"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

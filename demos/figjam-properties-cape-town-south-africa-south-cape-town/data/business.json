@@ -1,0 +1,50 @@
+{
+    "business_name": "Figjam Properties - Cape Town",
+    "source_business_name": "Figjam Properties - Cape Town",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "27215560362",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nTryall Rd, Sunningdale, Cape Town, 7441, South Africa",
+    "city": "South Cape Town",
+    "state": "",
+    "country": "South Africa",
+    "currency_symbol": "R",
+    "currency_code": "ZAR",
+    "opening_hours": "",
+    "rating": "4.3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Figjam+Properties+-+Cape+Town+-+South+Africa/data=!4m7!3m6!1s0x1dcc5f41ca2950e1:0xe5872878b6627ba6!8m2!3d-33.7971343!4d18.4848354!16s%2Fg%2F11gdt_b8z1!19sChIJ4VApykFfzB0Rpntitngoh-U?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Cape Town"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Cathryn New Luxury Agent Chas Everitt Camps Bay & Atlantic Seaboard",
+    "source_business_name": "Cathryn New Luxury Agent Chas Everitt Camps Bay & Atlantic Seaboard",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "27727972793",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n9a Upper Portswood Rd, Green Point, Cape Town, 8001, South Africa",
+    "city": "North Cape Town",
+    "state": "",
+    "country": "South Africa",
+    "currency_symbol": "R",
+    "currency_code": "ZAR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Cathryn+New+Luxury+Agent+Chas+Everitt+%7C+Camps+Bay+%26+Atlantic+Seaboard/data=!4m7!3m6!1s0x1dcc597df5eb4c97:0x7a43ce72be2bb59b!8m2!3d-33.9105668!4d18.4117222!16s%2Fg%2F11qt01_lqd!19sChIJl0zr9X1ZzB0Rm7UrvnLOQ3o?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Cape Town"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

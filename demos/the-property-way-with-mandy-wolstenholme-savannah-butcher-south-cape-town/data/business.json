@@ -1,0 +1,50 @@
+{
+    "business_name": "The Property Way - With Mandy Wolstenholme & Savannah Butcher",
+    "source_business_name": "The Property Way - With Mandy Wolstenholme & Savannah Butcher",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "27827480084",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n47 Blaauwberg Rd, Table View, Cape Town, 7441, South Africa",
+    "city": "South Cape Town",
+    "state": "",
+    "country": "South Africa",
+    "currency_symbol": "R",
+    "currency_code": "ZAR",
+    "opening_hours": "",
+    "rating": "4.3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/The+Property+Way+-+with+Mandy+Wolstenholme+%26+Savannah+Butcher/data=!4m7!3m6!1s0x1dcc5f4768015019:0xdb54ce60bee86eeb!8m2!3d-33.8231764!4d18.4843485!16s%2Fg%2F11ft043p_l!19sChIJGVABaEdfzB0R627ovmDOVNs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Cape Town"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

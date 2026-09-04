@@ -1,0 +1,50 @@
+{
+    "business_name": "Property4Sale",
+    "source_business_name": "Property4Sale",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "27215912110",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.property4sale.co.za/",
+    "address": "\n16 Connaught Rd, Beaconvale, Cape Town, 7500, South Africa",
+    "city": "North Cape Town",
+    "state": "",
+    "country": "South Africa",
+    "currency_symbol": "R",
+    "currency_code": "ZAR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Property4SALE/data=!4m7!3m6!1s0x1dcc5bcba1a741d7:0xa6b3d190e305a2ab!8m2!3d-33.9124548!4d18.5868951!16s%2Fg%2F11ghfdlr7w!19sChIJ10GnoctbzB0Rq6IF45DRs6Y?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Cape Town"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

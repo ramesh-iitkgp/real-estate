@@ -1,0 +1,50 @@
+{
+    "business_name": "Think Real Estate Sa",
+    "source_business_name": "Think Real Estate Sa",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "27217071213",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.thinkrealestatesa.co.za/",
+    "address": "\n186 5th Avenue, Grassy Park 7945, Grassy Park, Cape Town, 7941, South Africa",
+    "city": "North Cape Town",
+    "state": "",
+    "country": "South Africa",
+    "currency_symbol": "R",
+    "currency_code": "ZAR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Think+Real+Estate+SA/data=!4m7!3m6!1s0x1dcc436c751f0ee1:0x16a03e9f9ad3aac8!8m2!3d-34.0442904!4d18.5042009!16s%2Fg%2F11ry2941bq!19sChIJ4Q4fdWxDzB0RyKrTmp8-oBY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Cape Town"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

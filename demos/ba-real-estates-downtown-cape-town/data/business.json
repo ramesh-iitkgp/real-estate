@@ -1,0 +1,50 @@
+{
+    "business_name": "Ba Real Estates",
+    "source_business_name": "Ba Real Estates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "27218795656",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.barealestates.co.za/",
+    "address": "\nV&A Waterfront, cnr Portswood & The Pavillion, Dock Rd, Waterfront, Cape Town, 8001, South Africa",
+    "city": "Downtown Cape Town",
+    "state": "",
+    "country": "South Africa",
+    "currency_symbol": "R",
+    "currency_code": "ZAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/BA+Real+Estates/data=!4m7!3m6!1s0x1dcc5fe8712b9311:0xa4239a48ad499bb5!8m2!3d-33.9070041!4d18.4225974!16s%2Fg%2F11p5qjl3ss!19sChIJEZMrcehfzB0RtZtJrUiaI6Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Cape Town"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

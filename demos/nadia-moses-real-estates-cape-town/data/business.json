@@ -1,0 +1,50 @@
+{
+    "business_name": "Nadia Moses Real Estates",
+    "source_business_name": "Nadia Moses Real Estates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "27846778459",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://nadiaproperties.co.za/",
+    "address": "\nAthlone, 11 Koperkring, Vanguard, Cape Town, 7764, South Africa",
+    "city": "Cape Town",
+    "state": "",
+    "country": "South Africa",
+    "currency_symbol": "R",
+    "currency_code": "ZAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "34",
+    "google_maps_url": "https://www.google.com/maps/place/Nadia+Moses+Real+Estates/data=!4m7!3m6!1s0x1dcc46165034c937:0x2d06601f60c10695!8m2!3d-33.9637676!4d18.5413356!16s%2Fg%2F11j10rgb7n!19sChIJN8k0UBZGzB0RlQbBYB9gBi0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Cape Town"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
