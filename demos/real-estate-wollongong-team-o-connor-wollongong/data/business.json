@@ -1,0 +1,50 @@
+{
+    "business_name": "Real Estate Wollongong - Team O'Connor",
+    "source_business_name": "Real Estate Wollongong - Team O'Connor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "61413833084",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1/55 Kembla St, Wollongong NSW 2500, Australia",
+    "city": "Wollongong",
+    "state": "",
+    "country": "Australia",
+    "currency_symbol": "A$",
+    "currency_code": "AUD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Real+Estate+Wollongong+-+Team+O%27Connor/data=!4m7!3m6!1s0x82b2a0fb946492cb:0x9c996cad439ea45a!8m2!3d-34.4238238!4d150.8980853!16s%2Fg%2F11sf6qbhpj!19sChIJy5JklPugsoIRWqSeQ61smZw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Wollongong"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

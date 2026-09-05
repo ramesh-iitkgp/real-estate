@@ -1,0 +1,50 @@
+{
+    "business_name": "Comelli Commercial Business & Property Brokers",
+    "source_business_name": "Comelli Commercial Business & Property Brokers",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "02) 4228 8622",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nSuite 2/72 Crown Street, Wollongong NSW 2500",
+    "city": "Wollongong",
+    "state": "",
+    "country": "Australia",
+    "currency_symbol": "A$",
+    "currency_code": "AUD",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Comelli+Commercial+Business+%26+Property+Brokers/data=!4m7!3m6!1s0x6b1319a937e83119:0x1dde83027443fb06!8m2!3d-34.425467!4d150.898857!16s%2Fg%2F11g8kr9cr6!19sChIJGTHoN6kZE2sRBvtDdAKD3h0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Wollongong"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
