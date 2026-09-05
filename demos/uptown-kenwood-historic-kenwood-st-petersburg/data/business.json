@@ -1,0 +1,50 @@
+{
+    "business_name": "Uptown Kenwood",
+    "source_business_name": "Uptown Kenwood",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14702522145",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1110 25th St N, St. Petersburg, FL 33713, United States",
+    "city": "Historic Kenwood St. Petersburg",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Uptown+Kenwood/data=!4m7!3m6!1s0x88c2e34139b7959f:0xede4c04a096ed629!8m2!3d27.7834217!4d-82.6674163!16s%2Fg%2F11fjbw_3wm!19sChIJn5W3OUHjwogRKdZuCUrA5O0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Historic Kenwood St. Petersburg"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

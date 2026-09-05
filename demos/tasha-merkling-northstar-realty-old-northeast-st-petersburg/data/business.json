@@ -1,0 +1,50 @@
+{
+    "business_name": "Tasha Merkling Northstar Realty",
+    "source_business_name": "Tasha Merkling Northstar Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17272421191",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://tasha.northstarrealty.com/",
+    "address": "\n216 Beach Dr NE, St. Petersburg, FL 33701, United States",
+    "city": "Old Northeast St. Petersburg",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Tasha+Merkling+%7C+Northstar+Realty/data=!4m7!3m6!1s0x88c2c387a99aaa0f:0x8012c4fa0df1a331!8m2!3d27.773994!4d-82.6328706!16s%2Fg%2F11p473s32b!19sChIJD6qaqYfDwogRMaPxDfrEEoA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Old Northeast St. Petersburg"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

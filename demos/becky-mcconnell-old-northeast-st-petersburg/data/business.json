@@ -1,0 +1,50 @@
+{
+    "business_name": "Becky Mcconnell",
+    "source_business_name": "Becky Mcconnell",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17274101898",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://beckymcconnell.smithandassociates.com/",
+    "address": "\n1100 4th St N, St. Petersburg, FL 33701, United States",
+    "city": "Old Northeast St. Petersburg",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Becky+McConnell/data=!4m7!3m6!1s0x88c2e1ff9ed62fb1:0x2cc45721eadba77b!8m2!3d27.7837124!4d-82.6387632!16s%2Fg%2F11f7175nhw!19sChIJsS_Wnv_hwogRe6fb6iFXxCw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Old Northeast St. Petersburg"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

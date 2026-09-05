@@ -1,0 +1,50 @@
+{
+    "business_name": "Beau Lucas St Petersburg Realtor",
+    "source_business_name": "Beau Lucas St Petersburg Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17275159728",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://beau.daltonwade.com/",
+    "address": "\n260 1st Ave S S, St. Petersburg, FL 33701, United States",
+    "city": "Downtown St. Petersburg",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Beau+Lucas+St+Petersburg+Realtor/data=!4m7!3m6!1s0x88c2e133912d9b79:0x554ab86feb3e1b05!8m2!3d27.7700657!4d-82.6364851!16s%2Fg%2F11fwbk_8rq!19sChIJeZstkTPhwogRBRs-62-4SlU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown St. Petersburg"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

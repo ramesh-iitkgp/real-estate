@@ -1,0 +1,50 @@
+{
+    "business_name": "Forever Florida Real Estate",
+    "source_business_name": "Forever Florida Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17274406444",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.foreverfloridarealestate.com/",
+    "address": "\n505 Pasadena Ave S, St. Petersburg, FL 33707, United States",
+    "city": "St. Petersburg",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Forever+Florida+Real+Estate/data=!4m7!3m6!1s0x88c2fd335e96658d:0x639c530ec8788110!8m2!3d27.7659371!4d-82.7340862!16s%2Fg%2F11bvt4cxks!19sChIJjWWWXjP9wogREIF4yA5TnGM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "St. Petersburg"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

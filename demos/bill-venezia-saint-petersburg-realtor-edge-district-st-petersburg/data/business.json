@@ -1,0 +1,50 @@
+{
+    "business_name": "Bill Venezia Saint Petersburg Realtor",
+    "source_business_name": "Bill Venezia Saint Petersburg Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19709486400",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.gulftobaybill.com/",
+    "address": "\n17 Dr. M.L.K. Jr St S, St. Petersburg, FL 33705, United States",
+    "city": "Edge District St. Petersburg",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Bill+Venezia+Saint+Petersburg+Realtor/data=!4m7!3m6!1s0x88e821328950ef15:0x1160815095c95e43!8m2!3d27.7706212!4d-82.6468175!16s%2Fg%2F11mf_0pd_3!19sChIJFe9QiTIh6IgRQ17JlVCBYBE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Edge District St. Petersburg"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

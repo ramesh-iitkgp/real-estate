@@ -1,0 +1,50 @@
+{
+    "business_name": "Christopher Pitre Realtor",
+    "source_business_name": "Christopher Pitre Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17187243980",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://christopherpitre.smithandassociates.com/",
+    "address": "\n330 Beach Dr NE, St. Petersburg, FL 33701, United States",
+    "city": "Old Northeast St. Petersburg",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Christopher+Pitre,+Realtor/data=!4m7!3m6!1s0x88c2e1760127d17d:0x68a91173be5b0e54!8m2!3d27.7757622!4d-82.6323156!16s%2Fg%2F11hbntpy5_!19sChIJfdEnAXbhwogRVA5bvnMRqWg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Old Northeast St. Petersburg"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
