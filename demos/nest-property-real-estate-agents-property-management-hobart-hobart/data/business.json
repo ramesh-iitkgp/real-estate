@@ -1,0 +1,50 @@
+{
+    "business_name": "Nest Property Real Estate Agents & Property Management",
+    "source_business_name": "Nest Property Real Estate Agents & Property Management",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "61362242004",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://hobart.nestproperty.com.au/?utm_source=gbp&utm_medium=local",
+    "address": "\n82 Harrington St, Hobart TAS 7000, Australia",
+    "city": "Hobart",
+    "state": "",
+    "country": "Australia",
+    "currency_symbol": "A$",
+    "currency_code": "AUD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Nest+Property:+Real+Estate+Agents+%26+Property+Management+Hobart/data=!4m7!3m6!1s0xaa6e75899ae92f1f:0x3c962b5c1b880736!8m2!3d-42.8848681!4d147.3251637!16s%2Fg%2F1td068xb!19sChIJHy_pmol1bqoRNgeIG1wrljw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hobart"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

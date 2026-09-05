@@ -1,0 +1,50 @@
+{
+    "business_name": "Stroud Homes Hobart",
+    "source_business_name": "Stroud Homes Hobart",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "0485 800 038",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nShop 1/6 Gordon Street, Sorell TAS 7172",
+    "city": "Greater Hobart",
+    "state": "",
+    "country": "Australia",
+    "currency_symbol": "A$",
+    "currency_code": "AUD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Stroud+Homes+Hobart/data=!4m7!3m6!1s0xaa6de319809d2d4f:0x72d1f16083710f2f!8m2!3d-42.782224!4d147.562714!16s%2Fg%2F11vwwtl42g!19sChIJTy2dgBnjbaoRLw9xg2Dx0XI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Greater Hobart"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

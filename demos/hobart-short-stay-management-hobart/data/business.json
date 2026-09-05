@@ -1,0 +1,50 @@
+{
+    "business_name": "Hobart Short Stay Management",
+    "source_business_name": "Hobart Short Stay Management",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "0448 595 221",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nL6/111 Macquarie Street, Hobart TAS 7000",
+    "city": "Hobart",
+    "state": "",
+    "country": "Australia",
+    "currency_symbol": "A$",
+    "currency_code": "AUD",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Hobart+Short+Stay+Management/data=!4m7!3m6!1s0x268d4061740356ed:0xc26a428fabc0f442!8m2!3d-42.883101!4d147.329113!16s%2Fg%2F11vjlsqk3h!19sChIJ7VYDdGFAjSYRQvTAq49CasI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hobart"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
