@@ -1,0 +1,50 @@
+{
+    "business_name": "1010 On The Lake Apartments By Urban Waters",
+    "source_business_name": "1010 On The Lake Apartments By Urban Waters",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "402) 889-2352",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1010 N 192nd Ct, Elkhorn, Nebraska 68022",
+    "city": "Omaha",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/1010+On+The+Lake:+Apartments+by+Urban+Waters/data=!4m7!3m6!1s0x8793f01f40cc3007:0x8c1774b7e3ef5283!8m2!3d41.268932!4d-96.216815!16s%2Fg%2F11bxc6m3vx!19sChIJBzDMQB_wk4cRg1Lv47d0F4w?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Omaha"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

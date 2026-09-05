@@ -1,0 +1,50 @@
+{
+    "business_name": "Drew Halvorson Berkshire Hathaway Homeservices Ambassador Real Estate Insight Group",
+    "source_business_name": "Drew Halvorson Berkshire Hathaway Homeservices Ambassador Real Estate Insight Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14026390775",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.zillow.com/profile/drewhalvorson",
+    "address": "\n10404 Essex Ct, Omaha, NE 68114, United States",
+    "city": "Downtown Omaha",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "67",
+    "google_maps_url": "https://www.google.com/maps/place/Drew+Halvorson+%7C+Berkshire+Hathaway+HomeServices+Ambassador+Real+estate+%7C+Insight+Group/data=!4m7!3m6!1s0x264df55846d24fd5:0x1ab406039d54d44f!8m2!3d41.257093!4d-96.075145!16s%2Fg%2F11vq2n45y0!19sChIJ1U_SRlj1TSYRT9RUnQMGtBo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Omaha"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

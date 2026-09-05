@@ -1,0 +1,50 @@
+{
+    "business_name": "Homesbychrisharter",
+    "source_business_name": "Homesbychrisharter",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14025783784",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.homesbychrisharter.com/",
+    "address": "\n9802 Nicholas St Suite 215, Omaha, NE 68114, United States",
+    "city": "Central Omaha",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/homesbychrisharter/data=!4m7!3m6!1s0x8793851df42c2bbd:0xc974a13367f16193!8m2!3d41.2702928!4d-96.0648721!16s%2Fg%2F11fkqbxhrr!19sChIJvSss9B2Fk4cRk2HxZzOhdMk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Omaha"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
