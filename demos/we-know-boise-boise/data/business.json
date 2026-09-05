@@ -1,0 +1,50 @@
+{
+    "business_name": "We Know",
+    "source_business_name": "We Know",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12083914466",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.weknowboise.com/",
+    "address": "\n1065 S Allante Pl Ste 200, Boise, ID 83709, United States",
+    "city": "Boise",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/We+Know+Boise/data=!4m7!3m6!1s0x54aef84e100afc8d:0x4d3b2d5232c37823!8m2!3d43.5950428!4d-116.2935003!16s%2Fg%2F11c3k6fdbj!19sChIJjfwKEE74rlQRI3jDMlItO00?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Boise"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

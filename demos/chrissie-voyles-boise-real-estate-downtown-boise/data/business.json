@@ -1,0 +1,50 @@
+{
+    "business_name": "Chrissie Voyles Boise Real Estate",
+    "source_business_name": "Chrissie Voyles Boise Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12088597459",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1420 W Washington St, Boise, ID 83702, United States",
+    "city": "Downtown Boise",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Chrissie+Voyles+Boise+Real+Estate/data=!4m7!3m6!1s0x54aef9c018b17731:0x7c7fc54ba7cf268d!8m2!3d43.6237184!4d-116.2076175!16s%2Fg%2F11h0vw7w8k!19sChIJMXexGMD5rlQRjSbPp0vFf3w?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Boise"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Better Homes And Gardens Real Estate 43 North",
+    "source_business_name": "Better Homes And Gardens Real Estate 43 North",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12083818000",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.43re.com/",
+    "address": "\n3505 E Monarch Sky Ln #200, Meridian, ID 83646, United States",
+    "city": "North Boise",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Better+Homes+and+Gardens+Real+Estate+43%C2%B0+North/data=!4m7!3m6!1s0x54aeff0ce5b5e37b:0x77d7ae52cf416cfa!8m2!3d43.6209011!4d-116.3509808!16s%2Fg%2F1tdvv0x_!19sChIJe-O15Qz_rlQR-mxBz1Ku13c?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Boise"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

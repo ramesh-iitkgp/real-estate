@@ -1,0 +1,50 @@
+{
+    "business_name": "Jason Winkle & Ylonda Hays Boise Homeworks",
+    "source_business_name": "Jason Winkle & Ylonda Hays Boise Homeworks",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12086312558",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.boisehomeworks.com/shared/human/index.php?return=http%3A%2F%2Fwww.boisehomeworks.com%2F",
+    "address": "\n516 S Capitol Blvd, Boise, ID 83702, United States",
+    "city": "Downtown Boise",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jason+Winkle+%26+Ylonda+Hays:+Boise+HomeWorks/data=!4m7!3m6!1s0x54aef8f07b6848cf:0x642063badeb1897a!8m2!3d43.6113308!4d-116.2053823!16s%2Fg%2F1thkw_cv!19sChIJz0hoe_D4rlQReomx3rpjIGQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Boise"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
