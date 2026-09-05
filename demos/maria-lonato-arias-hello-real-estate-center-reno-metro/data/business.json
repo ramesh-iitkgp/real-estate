@@ -1,0 +1,50 @@
+{
+    "business_name": "Maria Lonato-Arias Hello Real Estate Center",
+    "source_business_name": "Maria Lonato-Arias Hello Real Estate Center",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17753514508",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.welcometohello.com/maria-lonato-arias",
+    "address": "\n8060 Double R Blvd #400, Reno, NV 89511, United States",
+    "city": "Reno Metro",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Maria+Lonato-Arias,+Hello+Real+Estate+Center/data=!4m7!3m6!1s0x809915f7a1a4f845:0x803524e943c3dccf!8m2!3d39.4676003!4d-119.7664177!16s%2Fg%2F11r9v0c7b1!19sChIJRfikofcVmYARz9zDQ-kkNYA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Reno Metro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

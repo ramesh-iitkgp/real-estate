@@ -1,0 +1,50 @@
+{
+    "business_name": "Jackson Real Estate Teamrealtors Keller Williams Group One Inc",
+    "source_business_name": "Jackson Real Estate Teamrealtors Keller Williams Group One Inc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17758489323",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.wesellrenosparks.com/",
+    "address": "\n10539 Professional Cir Ste 100, Reno, NV 89521, United States",
+    "city": "Reno",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jackson+Real+Estate+Team%2FRealtors+@+KELLER+WILLIAMS+GROUP+ONE,+INC./data=!4m7!3m6!1s0x809913ffc52fa913:0xf439e590cd42d8ac!8m2!3d39.4293872!4d-119.7566737!16s%2Fg%2F11h0bcmvrj!19sChIJE6kvxf8TmYARrNhCzZDlOfQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Reno"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

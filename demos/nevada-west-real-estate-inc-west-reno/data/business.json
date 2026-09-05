@@ -1,0 +1,50 @@
+{
+    "business_name": "Nevada West Real Estate Inc",
+    "source_business_name": "Nevada West Real Estate Inc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18007873301",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n18124 Wedge Pkwy, Reno, NV 89511, United States",
+    "city": "West Reno",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Nevada+West+Real+Estate+Inc./data=!4m7!3m6!1s0x809914a26463ffff:0x194d2d813c708577!8m2!3d39.3951181!4d-119.7666936!16s%2Fg%2F11ghr0fx43!19sChIJ__9jZKIUmYARd4VwPIEtTRk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Reno"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

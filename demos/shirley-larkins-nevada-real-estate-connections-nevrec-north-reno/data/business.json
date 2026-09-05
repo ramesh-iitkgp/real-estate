@@ -1,0 +1,50 @@
+{
+    "business_name": "Shirley Larkins Nevada Real Estate Connections Nevrec",
+    "source_business_name": "Shirley Larkins Nevada Real Estate Connections Nevrec",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17753799617",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.shirleylarkins.com/",
+    "address": "\n1940 Foothill Rd, Reno, NV 89511, United States",
+    "city": "North Reno",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Shirley+Larkins,+Nevada+Real+Estate+Connections+%28NEVREC%29/data=!4m7!3m6!1s0x8099419dbde33771:0xe3037b69c6a26a51!8m2!3d39.4271245!4d-119.7860713!16s%2Fg%2F11ftl491j4!19sChIJcTfjvZ1BmYARUWqixml7A-M?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Reno"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
