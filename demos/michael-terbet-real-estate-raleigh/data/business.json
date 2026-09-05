@@ -1,0 +1,50 @@
+{
+    "business_name": "Michael Terbet Real Estate",
+    "source_business_name": "Michael Terbet Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19193723335",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://michaelterbetrealestate.com/",
+    "address": "\n5000 Falls of Neuse Rd #240, Raleigh, NC 27609, United States",
+    "city": "Raleigh",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Michael+Terbet+Real+Estate/data=!4m7!3m6!1s0x89ac59abf62eab39:0xfa9b41781f0a9af7!8m2!3d35.84989!4d-78.6137!16s%2Fg%2F11jchzfb58!19sChIJOasu9qtZrIkR95oKH3hBm_o?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Raleigh"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

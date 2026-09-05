@@ -1,0 +1,50 @@
+{
+    "business_name": "Coldwell Banker Howard Perry And Walston - North Raleigh Office",
+    "source_business_name": "Coldwell Banker Howard Perry And Walston - North Raleigh Office",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19198476767",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.hpw.com/office/HPW13/9051-strickland-road-raleigh-nc-27615",
+    "address": "\n9051 Strickland Rd #200, Raleigh, NC 27615, United States",
+    "city": "North Raleigh",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Coldwell+Banker+Howard+Perry+and+Walston+-+North+Raleigh+Office/data=!4m7!3m6!1s0x89ac57f80c1630f1:0xb8c9db897629875e!8m2!3d35.8974137!4d-78.6468136!16s%2Fg%2F1tlmp5np!19sChIJ8TAWDPhXrIkRXocpdonbybg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Raleigh"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
