@@ -1,0 +1,50 @@
+{
+    "business_name": "Surfers Real Estate",
+    "source_business_name": "Surfers Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "61755380088",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n3304 Surfers Paradise Blvd, Surfers Paradise QLD 4217, Australia",
+    "city": "Downtown Gold Coast",
+    "state": "",
+    "country": "Australia",
+    "currency_symbol": "A$",
+    "currency_code": "AUD",
+    "opening_hours": "",
+    "rating": "4.2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Surfers+Real+Estate/data=!4m7!3m6!1s0x6b9105721f3f2a7d:0x42b5d74fcd9c8602!8m2!3d-27.998012!4d153.4284847!16s%2Fg%2F1v5fs1yl!19sChIJfSo_H3IFkWsRAoaczU_XtUI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Gold Coast"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

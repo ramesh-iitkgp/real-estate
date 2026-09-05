@@ -1,0 +1,50 @@
+{
+    "business_name": "Real Estate In",
+    "source_business_name": "Real Estate In",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "61755386233",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1033 Circle on Cavill, 9 Ferny Avenue, Surfers Paradise QLD 4217, Australia",
+    "city": "North Gold Coast",
+    "state": "",
+    "country": "Australia",
+    "currency_symbol": "A$",
+    "currency_code": "AUD",
+    "opening_hours": "",
+    "rating": "4.5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Real+Estate+in+Australia/data=!4m7!3m6!1s0x6b91056d6176d155:0x51e19b2f5c81d34c!8m2!3d-28.0014074!4d153.4271836!16s%2Fg%2F11c4538z2v!19sChIJVdF2YW0FkWsRTNOBXC-b4VE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Gold Coast"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

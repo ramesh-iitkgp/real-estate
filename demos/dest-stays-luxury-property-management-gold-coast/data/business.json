@@ -1,0 +1,50 @@
+{
+    "business_name": "Dest Stays Luxury Property Management",
+    "source_business_name": "Dest Stays Luxury Property Management",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "1300 306 114",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n42 Township Drive, Burleigh Heads QLD 4220",
+    "city": "Gold Coast",
+    "state": "",
+    "country": "Australia",
+    "currency_symbol": "A$",
+    "currency_code": "AUD",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Dest+Stays+%7C+Luxury+Property+Management/data=!4m7!3m6!1s0xa07b38f407241f79:0x459573bb3fb65d3b!8m2!3d-28.113122!4d153.434994!16s%2Fg%2F11yxkytj5y!19sChIJeR8kB_Q4e6ARO122P7tzlUU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Gold Coast"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

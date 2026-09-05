@@ -1,0 +1,50 @@
+{
+    "business_name": "Property Bridge",
+    "source_business_name": "Property Bridge",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "1800 888 518",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nLevel 13/50 Cavill Avenue, Surfers Paradise QLD 4217",
+    "city": "Gold Coast",
+    "state": "",
+    "country": "Australia",
+    "currency_symbol": "A$",
+    "currency_code": "AUD",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Property+Bridge/data=!4m7!3m6!1s0x6b9105408a611ceb:0xe8c8a3408556b8a3!8m2!3d-28.002104!4d153.426668!16s%2Fg%2F11f1y33pv8!19sChIJ6xxhikAFkWsRo7hWhUCjyOg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Gold Coast"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
