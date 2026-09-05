@@ -1,0 +1,50 @@
+{
+    "business_name": "Hunter Property Buyers",
+    "source_business_name": "Hunter Property Buyers",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "0418 627 350",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nShop 1/99 Brunker Road, Adamstown NSW 2289",
+    "city": "Newcastle",
+    "state": "",
+    "country": "Australia",
+    "currency_symbol": "A$",
+    "currency_code": "AUD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Hunter+Property+Buyers/data=!4m7!3m6!1s0x8996ea26a4685e35:0xaf486e0f96525fa6!8m2!3d-32.92916!4d151.7316!16s%2Fg%2F11ntgxxtgd!19sChIJNV5opCbqlokRpl9Slg9uSK8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Newcastle"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

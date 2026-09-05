@@ -1,0 +1,50 @@
+{
+    "business_name": "Founda Mortgages",
+    "source_business_name": "Founda Mortgages",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "0423 298 078",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n482 Glebe Road, Adamstown NSW 2289",
+    "city": "Newcastle",
+    "state": "",
+    "country": "Australia",
+    "currency_symbol": "A$",
+    "currency_code": "AUD",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Founda+Mortgages/data=!4m7!3m6!1s0x81bbae283feb8153:0x1bdc63499e844dde!8m2!3d-32.935174!4d151.733576!16s%2Fg%2F11ypl2dl76!19sChIJU4HrPyiuu4ER3k2Enklj3Bs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Newcastle"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
