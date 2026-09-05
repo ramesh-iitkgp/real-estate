@@ -1,0 +1,50 @@
+{
+    "business_name": "Redfin Indianapolis Real Estate Agents",
+    "source_business_name": "Redfin Indianapolis Real Estate Agents",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13177793951",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.redfin.com/city/9170/IN/Indianapolis/real-estate/agents",
+    "address": "\n600 E 96th St Ste 540, Indianapolis, IN 46240, United States",
+    "city": "South Indianapolis",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Redfin+%7C+Indianapolis+Real+Estate+Agents/data=!4m7!3m6!1s0x8814adfe3c8ec9fb:0xc7d3618285ab0b25!8m2!3d39.9288905!4d-86.1469152!16s%2Fg%2F11nqpjjhx2!19sChIJ-8mOPP6tFIgRJQurhYJh08c?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Indianapolis"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

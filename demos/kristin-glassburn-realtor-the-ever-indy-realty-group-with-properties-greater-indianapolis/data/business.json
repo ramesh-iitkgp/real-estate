@@ -1,0 +1,50 @@
+{
+    "business_name": "Kristin Glassburn Realtor - The Ever Indy Realty Group With Properties",
+    "source_business_name": "Kristin Glassburn Realtor - The Ever Indy Realty Group With Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13175134251",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n830 Massachusetts Ave Ste 1420, Indianapolis, IN 46204, United States",
+    "city": "Greater Indianapolis",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Kristin+Glassburn,+Realtor+-+The+Ever+Indy+Realty+Group+with+@+properties/data=!4m7!3m6!1s0x886b51f0f432b7e7:0xbcfbf17c8867c7ac!8m2!3d39.7784804!4d-86.1443925!16s%2Fg%2F11sh5j2w2j!19sChIJ57cy9PBRa4gRrMdniHzx-7w?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Greater Indianapolis"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

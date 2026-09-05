@@ -1,0 +1,50 @@
+{
+    "business_name": "Gemmecke Group - Real Estate",
+    "source_business_name": "Gemmecke Group - Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13174452434",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.talktotucker.com/jerry.gemmecke",
+    "address": "\n9277 N Meridian St, Indianapolis, IN 46260, United States",
+    "city": "Greater Indianapolis",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Gemmecke+Group+-+Real+Estate/data=!4m7!3m6!1s0x8814acb680762bed:0xc7317d1cf2b93137!8m2!3d39.922998!4d-86.157372!16s%2Fg%2F11f15mbgws!19sChIJ7St2gLasFIgRNzG58hx9Mcc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Greater Indianapolis"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

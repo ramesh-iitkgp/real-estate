@@ -1,0 +1,50 @@
+{
+    "business_name": "Keller Williams Realty Indianapolis Metro North",
+    "source_business_name": "Keller Williams Realty Indianapolis Metro North",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13178466300",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://kellerwilliamsindy.com/",
+    "address": "\n11595 N Meridian St #200, Carmel, IN 46032, United States",
+    "city": "North Indianapolis",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "46",
+    "google_maps_url": "https://www.google.com/maps/place/Keller+Williams+Realty+Indianapolis+Metro+North/data=!4m7!3m6!1s0x8814add433a9be5d:0xa59c5ea2682d5e09!8m2!3d39.955022!4d-86.156654!16s%2Fg%2F1td_z623!19sChIJXb6pM9StFIgRCV4taKJenKU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Indianapolis"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

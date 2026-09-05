@@ -1,0 +1,50 @@
+{
+    "business_name": "Dana Wright - Remax Advanced Realty Indy Home Pros Team",
+    "source_business_name": "Dana Wright - Remax Advanced Realty Indy Home Pros Team",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13172009090",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://danawright.remax.com/",
+    "address": "\n8313 W 10th St, Indianapolis, IN 46234, United States",
+    "city": "West Indianapolis",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "23",
+    "google_maps_url": "https://www.google.com/maps/place/Dana+Wright+-+RE%2FMAX+Advanced+Realty,+Indy+Home+Pros+Team/data=!4m7!3m6!1s0x886ca9b5e63fffff:0x50942b616657a11c!8m2!3d39.7785346!4d-86.3086429!16s%2Fg%2F11hy_y23y9!19sChIJ__8_5rWpbIgRHKFXZmErlFA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Indianapolis"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
