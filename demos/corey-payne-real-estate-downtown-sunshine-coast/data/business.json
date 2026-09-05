@@ -1,0 +1,50 @@
+{
+    "business_name": "Corey Payne Real Estate",
+    "source_business_name": "Corey Payne Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "61407044338",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n6 Pikki St, Maroochydore QLD 4558, Australia",
+    "city": "Downtown Sunshine Coast",
+    "state": "",
+    "country": "Australia",
+    "currency_symbol": "A$",
+    "currency_code": "AUD",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Corey+Payne+Real+Estate/data=!4m7!3m6!1s0x6b93779bd2921d03:0xd5138c6a3dd43d9c!8m2!3d-26.653441!4d153.0864368!16s%2Fg%2F11rqs7481j!19sChIJAx2S0pt3k2sRnD3UPWqME9U?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Sunshine Coast"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/realcoreypayne/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

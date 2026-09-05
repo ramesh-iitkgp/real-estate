@@ -1,0 +1,50 @@
+{
+    "business_name": "Beachside Yaroomba Sales Centre",
+    "source_business_name": "Beachside Yaroomba Sales Centre",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "1300 111 242",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n4 Beach Club Close, Yaroomba QLD 4573",
+    "city": "Sunshine Coast",
+    "state": "",
+    "country": "Australia",
+    "currency_symbol": "A$",
+    "currency_code": "AUD",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Beachside+Yaroomba+Sales+Centre/data=!4m7!3m6!1s0x6b937100201867dd:0x486ab14c76f9bf0e!8m2!3d-26.560714!4d153.096913!16s%2Fg%2F11xf_9y2k_!19sChIJ3WcYIABxk2sRDr_5dkyxakg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Sunshine Coast"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/beachside_yaroomba/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

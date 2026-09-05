@@ -1,0 +1,50 @@
+{
+    "business_name": "Mogg Property",
+    "source_business_name": "Mogg Property",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "0414 423 783",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n26 Landsborough Parade, Golden Beach QLD 4551",
+    "city": "Downtown Sunshine Coast",
+    "state": "",
+    "country": "Australia",
+    "currency_symbol": "A$",
+    "currency_code": "AUD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/MOGG+Property/data=!4m7!3m6!1s0x4672342a83ed194d:0x5430703b01aec376!8m2!3d-26.819986!4d153.119848!16s%2Fg%2F11vpw9hplq!19sChIJTRntgyo0ckYRdsOuATtwMFQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Sunshine Coast"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/moggproperty/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
