@@ -1,0 +1,50 @@
+{
+    "business_name": "Andy Linss-Homesmart Realty Group",
+    "source_business_name": "Andy Linss-Homesmart Realty Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16305777455",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.homesmart.com/real-estate-agent/illinois/naperville/53752-andy-linss/Welcome",
+    "address": "\n651 N Washington St, Naperville, IL 60563, United States",
+    "city": "North Naperville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Andy+Linss-HomeSmart+Realty+Group/data=!4m7!3m6!1s0x880e5774e64132df:0x7532f7cd33c7751c!8m2!3d41.7834038!4d-88.1477737!16s%2Fg%2F11jcwfz622!19sChIJ3zJB5nRXDogRHHXHM833MnU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Naperville"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

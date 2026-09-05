@@ -1,0 +1,50 @@
+{
+    "business_name": "Coldwell Banker Real Estate Group",
+    "source_business_name": "Coldwell Banker Real Estate Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16309044334",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.coldwellhomes.com/office/CBREG38/3124-s-route-59-suite-150-naperville-il-60564",
+    "address": "\n3124 Rte 59 #150, Naperville, IL 60564, United States",
+    "city": "East Naperville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "39",
+    "google_maps_url": "https://www.google.com/maps/place/Coldwell+Banker+Real+Estate+Group/data=!4m7!3m6!1s0x880ef658676a1dfb:0x7e7183ed635ceeb6!8m2!3d41.7065578!4d-88.2041533!16s%2Fg%2F1tdqc4sj!19sChIJ-x1qZ1j2DogRtu5cY-2DcX4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Naperville"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

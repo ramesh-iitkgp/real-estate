@@ -1,0 +1,50 @@
+{
+    "business_name": "Maria Bochenek Baird & Warner Real Estate",
+    "source_business_name": "Maria Bochenek Baird & Warner Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16306567127",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://mariabochenek.bairdwarner.com/shared/human/pow.php?return=https%3A%2F%2Fmariabochenek.bairdwarner.com%2F",
+    "address": "\n836 W 75th St, Naperville, IL 60565, United States",
+    "city": "Naperville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "66",
+    "google_maps_url": "https://www.google.com/maps/place/Maria+Bochenek,+Baird+%26+Warner+Real+Estate/data=!4m7!3m6!1s0x880e57450115e27d:0x2d1275eabb289e1e!8m2!3d41.7471671!4d-88.1619179!16s%2Fg%2F11h3g417px!19sChIJfeIVAUVXDogRHp4ou-p1Ei0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Naperville"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

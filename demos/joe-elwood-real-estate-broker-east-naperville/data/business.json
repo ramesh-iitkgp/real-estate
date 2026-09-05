@@ -1,0 +1,50 @@
+{
+    "business_name": "Joe Elwood Real Estate Broker",
+    "source_business_name": "Joe Elwood Real Estate Broker",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16305367050",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://josephelwood.remax.com/",
+    "address": "\n2272 95th St Ste 200, Naperville, IL 60564, United States",
+    "city": "East Naperville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "23",
+    "google_maps_url": "https://www.google.com/maps/place/Joe+Elwood+Real+Estate+Broker/data=!4m7!3m6!1s0x29fc156557cb3241:0xd7ec0b7a9d639e65!8m2!3d41.709144!4d-88.1913406!16s%2Fg%2F11xp0_9v4n!19sChIJQTLLV2UV_CkRZZ5jnXoL7Nc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Naperville"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Remax Bernie Cobb",
+    "source_business_name": "Remax Bernie Cobb",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16308416676",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.cobbteamhomes.com/",
+    "address": "\n1200 Iroquois Ave, Naperville, IL 60563, United States",
+    "city": "Naperville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "84",
+    "google_maps_url": "https://www.google.com/maps/place/REMAX:+Bernie+Cobb/data=!4m7!3m6!1s0x880e56f9fd52e3a5:0xe9da7e18adf9cf6e!8m2!3d41.7945536!4d-88.1249061!16s%2Fg%2F1tf24nz_!19sChIJpeNS_flWDogRbs_5rRh-2uk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Naperville"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
