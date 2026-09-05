@@ -1,0 +1,50 @@
+{
+    "business_name": "Engel And Volkers",
+    "source_business_name": "Engel And Volkers",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15202010000",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.evrealestate.com/en/shops/tucson",
+    "address": "\n6151 E Grant Rd, Tucson, AZ 85712, United States",
+    "city": "Tucson",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Engel+and+V%C3%B6lkers+Tucson/data=!4m7!3m6!1s0x86d6736abcd30ded:0xd07c1021576e4016!8m2!3d32.2509467!4d-110.8620657!16s%2Fg%2F11c2pwjp1g!19sChIJ7Q3TvGpz1oYRFkBuVyEQfNA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Tucson"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

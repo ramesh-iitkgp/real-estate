@@ -1,0 +1,50 @@
+{
+    "business_name": "The Alder Group",
+    "source_business_name": "The Alder Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15209810622",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://thealdergroupaz.com/?utm_source=gbp&utm_medium=organic",
+    "address": "\n6444 E Tanque Verde Rd, Tucson, AZ 85715, United States",
+    "city": "Tucson",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/The+Alder+Group/data=!4m7!3m6!1s0x86d66fcac8d8e2bb:0x45a851f9f0889d29!8m2!3d32.2440753!4d-110.854966!16s%2Fg%2F11ny1s48x7!19sChIJu-LYyMpv1oYRKZ2I8PlRqEU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Tucson"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

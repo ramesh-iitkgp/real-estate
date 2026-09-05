@@ -1,0 +1,50 @@
+{
+    "business_name": "Andres Quiroz Real Estate",
+    "source_business_name": "Andres Quiroz Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15204810116",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n2810 N Swan Rd, Tucson, AZ 85712, United States",
+    "city": "Tucson",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Andres+Quiroz+Real+Estate/data=!4m7!3m6!1s0x86d66f77ed549e47:0xcaa828c800dedb!8m2!3d32.2581394!4d-110.8918587!16s%2Fg%2F11yyl91n73!19sChIJR55U7Xdv1oYR294AyCioygA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Tucson"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

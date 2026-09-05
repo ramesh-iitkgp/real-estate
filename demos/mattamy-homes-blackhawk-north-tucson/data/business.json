@@ -1,0 +1,50 @@
+{
+    "business_name": "Mattamy Homes - Blackhawk",
+    "source_business_name": "Mattamy Homes - Blackhawk",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "520) 447-1104",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n7410 South Bullseye Way, Tucson, AZ 85756",
+    "city": "North Tucson",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Mattamy+Homes+-+Blackhawk/data=!4m7!3m6!1s0x86d665e109d0ce0b:0xb8782e15d0fd437b!8m2!3d32.117563!4d-110.865768!16s%2Fg%2F11x6nbw7qy!19sChIJC87QCeFl1oYRe0P90BUueLg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Tucson"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
