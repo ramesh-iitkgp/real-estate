@@ -1,0 +1,50 @@
+{
+    "business_name": "Jenn Penn Windermere Real Estateeast",
+    "source_business_name": "Jenn Penn Windermere Real Estateeast",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12067950555",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://jennpenn.com/",
+    "address": "\n14405 SE 36th St Ste 100, Bellevue, WA 98006, United States",
+    "city": "South Bellevue",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jenn+Penn,+Windermere+Real+Estate%2FEast/data=!4m7!3m6!1s0x54906ea425985ebb:0xeddc21d32d61c09a!8m2!3d47.5783253!4d-122.1477151!16s%2Fg%2F11c1lxmb0f!19sChIJu16YJaRukFQRmsBhLdMh3O0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Bellevue"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

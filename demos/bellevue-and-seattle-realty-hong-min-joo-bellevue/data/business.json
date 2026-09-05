@@ -1,0 +1,50 @@
+{
+    "business_name": "Bellevue And Seattle Realty Hong Min Joo",
+    "source_business_name": "Bellevue And Seattle Realty Hong Min Joo",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12066784148",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://bellevueannrealty.com/",
+    "address": "\n320 120th Ave NE Ste 201, Bellevue, WA 98005, United States",
+    "city": "Bellevue",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Bellevue+and+Seattle+Realty:+Hong+Min+Joo/data=!4m7!3m6!1s0x54906b6693ab229f:0x946c55ee27b1644d!8m2!3d47.6129329!4d-122.1791918!16s%2Fg%2F11j_xwz5ss!19sChIJnyKrk2ZrkFQRTWSxJ-5VbJQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bellevue"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

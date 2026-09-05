@@ -1,0 +1,50 @@
+{
+    "business_name": "John L Scott Real Estate Bellevue Main",
+    "source_business_name": "John L Scott Real Estate Bellevue Main",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14254542437",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://bellevuemainoffice.johnlscott.com/",
+    "address": "\n10800 NE 8th St #510, Bellevue, WA 98004, United States",
+    "city": "Bellevue",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/John+L.+Scott+Real+Estate+%7C+Bellevue+Main/data=!4m7!3m6!1s0x54906d221898fd63:0xebb4fbf17fd1cdb2!8m2!3d47.617767!4d-122.1958439!16s%2Fg%2F11h1q3rw54!19sChIJY_2YGCJtkFQRss3Rf_H7tOs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bellevue"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

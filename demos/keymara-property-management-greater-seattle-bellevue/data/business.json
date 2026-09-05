@@ -1,0 +1,50 @@
+{
+    "business_name": "Keymara Property Management Greater Seattle",
+    "source_business_name": "Keymara Property Management Greater Seattle",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "98033-6206",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n312 Central Way Suite 200, Kirkland, WA 98033-6206",
+    "city": "Bellevue",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3.7",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Keymara+Property+Management+Greater+Seattle/data=!4m7!3m6!1s0x5490131a9be06169:0x7f4e1c4c9275ba50!8m2!3d47.677789!4d-122.202735!16s%2Fg%2F11yzvy6m71!19sChIJaWHgmxoTkFQRULp1kkwcTn8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bellevue"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

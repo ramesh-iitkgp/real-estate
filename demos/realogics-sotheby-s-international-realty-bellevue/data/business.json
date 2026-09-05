@@ -1,0 +1,50 @@
+{
+    "business_name": "Realogics Sotheby'S International Realty",
+    "source_business_name": "Realogics Sotheby'S International Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14258000310",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.rsir.com/offices/bellevue-branch/",
+    "address": "\n10237 Main St, Bellevue, WA 98004, United States",
+    "city": "Bellevue",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Realogics+Sotheby%27s+International+Realty/data=!4m7!3m6!1s0x54906d73ce7f7397:0xf5dc58447c95ccd5!8m2!3d47.6099825!4d-122.2034969!16s%2Fg%2F11j52dxt1g!19sChIJl3N_znNtkFQR1cyVfERY3PU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bellevue"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

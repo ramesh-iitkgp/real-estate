@@ -1,0 +1,50 @@
+{
+    "business_name": "Claire Wen - Kw Bellevue Real Estate",
+    "source_business_name": "Claire Wen - Kw Bellevue Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14256285011",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n10500 NE 8th St Ste 1450, Bellevue, WA 98004, United States",
+    "city": "Bellevue",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Claire+Wen+-+KW+Bellevue+Real+Estate/data=!4m7!3m6!1s0x54906d87c452efd9:0xcb7b038102b4390c!8m2!3d47.6177009!4d-122.1994458!16s%2Fg%2F11z7ngcdjv!19sChIJ2e9SxIdtkFQRDDm0AoEDe8s?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bellevue"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

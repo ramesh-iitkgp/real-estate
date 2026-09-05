@@ -1,0 +1,50 @@
+{
+    "business_name": "Aishwarya Sriraj-Greater Seattle Real Estate",
+    "source_business_name": "Aishwarya Sriraj-Greater Seattle Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14253544991",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n10500 NE 8th St Ste 1450, Bellevue, WA 98004, United States",
+    "city": "Greater Bellevue",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Aishwarya+Sriraj-Greater+Seattle+Real+Estate/data=!4m7!3m6!1s0x54900d4b4657744d:0x6098596da85c209!8m2!3d47.6177009!4d-122.1994458!16s%2Fg%2F11jwfrg3c1!19sChIJTXRXRksNkFQRCcKF2paFCQY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Greater Bellevue"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

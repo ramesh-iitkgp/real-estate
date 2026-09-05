@@ -1,0 +1,50 @@
+{
+    "business_name": "Robert Ott - Raintown Realty",
+    "source_business_name": "Robert Ott - Raintown Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14254099506",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.raintownrealty.com/",
+    "address": "\n15500 SE 30th Pl #102, Bellevue, WA 98007, United States",
+    "city": "Bellevue",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Robert+Ott+-+Raintown+Realty/data=!4m7!3m6!1s0x54906fbe7761f289:0x3bfc8578bc95facd!8m2!3d47.5830538!4d-122.1338257!16s%2Fg%2F11fb0cmnb0!19sChIJifJhd75vkFQRzfqVvHiF_Ds?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bellevue"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

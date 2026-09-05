@@ -1,0 +1,50 @@
+{
+    "business_name": "Guidance Real Estate",
+    "source_business_name": "Guidance Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12065129825",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://guidancere.com/",
+    "address": "\n9 Lake Bellevue Dr #106, Bellevue, WA 98005, United States",
+    "city": "Downtown Bellevue",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Guidance+Real+Estate/data=!4m7!3m6!1s0xa7542d8ead1717ed:0x698a238e81645169!8m2!3d47.6196772!4d-122.1828898!16s%2Fg%2F11tn61j1jg!19sChIJ7RcXrY4tVKcRaVFkgY4jimk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Bellevue"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Trevor N Cook Compass Bellevue Real Estate Broker",
+    "source_business_name": "Trevor N Cook Compass Bellevue Real Estate Broker",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12067945610",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://trevorncook.com/",
+    "address": "\n700 110th Ave NE Ste 270, Bellevue, WA 98004, United States",
+    "city": "North Bellevue",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Trevor+N.+Cook+%7C+Compass+%7C+Bellevue+Real+Estate+Broker/data=!4m7!3m6!1s0x54906db0bafbd607:0xd8765d160d6bd34f!8m2!3d47.616413!4d-122.1927081!16s%2Fg%2F11lhmrswpt!19sChIJB9b7urBtkFQRT9NrDRZddtg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Bellevue"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
