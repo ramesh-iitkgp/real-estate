@@ -1,0 +1,50 @@
+{
+    "business_name": "Marshall Reddick Real Estate",
+    "source_business_name": "Marshall Reddick Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14699029825",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.marshallreddick.com/",
+    "address": "\n5717 Legacy Dr Ste 250, Plano, TX 75024, United States",
+    "city": "Plano",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Marshall+Reddick+Real+Estate/data=!4m7!3m6!1s0x864c3dfdc8345f03:0x5715b5e562b3b991!8m2!3d33.0784133!4d-96.8199644!16s%2Fg%2F11x8jlq2wh!19sChIJA180yP09TIYRkbmzYuW1FVc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Plano"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

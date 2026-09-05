@@ -1,0 +1,50 @@
+{
+    "business_name": "Homesmart Stars",
+    "source_business_name": "Homesmart Stars",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19727985333",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://homesmart.com/real-estate-office/texas/frisco/130-homesmart-stars",
+    "address": "\n5550 Granite Pkwy Ste.120, Plano, TX 75024, United States",
+    "city": "South Plano",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/HomeSmart+Stars/data=!4m7!3m6!1s0x864c3dc6988bca87:0x52d926b540872499!8m2!3d33.0906924!4d-96.8164183!16s%2Fg%2F11hzmssrhj!19sChIJh8qLmMY9TIYRmSSHQLUm2VI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Plano"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

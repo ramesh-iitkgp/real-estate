@@ -1,0 +1,50 @@
+{
+    "business_name": "Drees Custom Homes At Mosaic Townhomes",
+    "source_business_name": "Drees Custom Homes At Mosaic Townhomes",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "469) 942-0627",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n3924 Keya Drive, Prosper, TX 75078",
+    "city": "Plano",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "4.1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Drees+Custom+Homes+at+Mosaic+Townhomes/data=!4m7!3m6!1s0x864c47964d4942f5:0x511b76a8c2d1f57c!8m2!3d33.266297!4d-96.846837!16s%2Fg%2F11ycxsmy5t!19sChIJ9UJJTZZHTIYRfPXRwqh2G1E?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Plano"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

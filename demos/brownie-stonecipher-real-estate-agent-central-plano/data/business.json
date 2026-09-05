@@ -1,0 +1,50 @@
+{
+    "business_name": "Brownie Stonecipher Real Estate Agent",
+    "source_business_name": "Brownie Stonecipher Real Estate Agent",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "940) 206-9318",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n5150 Totem Trail, Denton, TX 76207",
+    "city": "Central Plano",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Brownie+Stonecipher+%7C+Real+Estate+Agent/data=!4m7!3m6!1s0x8afda8cd61827045:0xf5df124d87861762!8m2!3d33.267561!4d-97.113727!16s%2Fg%2F11t610fmdr!19sChIJRXCCYc2o_YoRYheGh00S3_U?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Plano"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

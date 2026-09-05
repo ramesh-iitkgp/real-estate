@@ -1,0 +1,50 @@
+{
+    "business_name": "The Good Home Team",
+    "source_business_name": "The Good Home Team",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19722157653",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.thegoodhometeam.com/",
+    "address": "\n7965 Custer Rd #125, Plano, TX 75025, United States",
+    "city": "Downtown Plano",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "306",
+    "google_maps_url": "https://www.google.com/maps/place/The+Good+Home+Team/data=!4m7!3m6!1s0x864c23cbe50e7f63:0x7da6636236bfb57b!8m2!3d33.0854611!4d-96.7372731!16s%2Fg%2F1tgfds6t!19sChIJY38O5csjTIYRe7W_NmJjpn0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Plano"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

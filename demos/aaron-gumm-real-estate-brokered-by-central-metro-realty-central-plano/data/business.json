@@ -1,0 +1,50 @@
+{
+    "business_name": "Aaron Gumm Real Estate Brokered By Central Metro Realty",
+    "source_business_name": "Aaron Gumm Real Estate Brokered By Central Metro Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19404537880",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://aarongumm.com/",
+    "address": "",
+    "city": "Central Plano",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Aaron+Gumm+Real+Estate+brokered+by+Central+Metro+Realty/data=!4m7!3m6!1s0x864c2342ce8ce0fd:0xf93f1e59841854c9!8m2!3d32.7430719!4d-96.963595!16s%2Fg%2F11s2nfmfbx!19sChIJ_eCMzkIjTIYRyVQYhFkeP_k?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Plano"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

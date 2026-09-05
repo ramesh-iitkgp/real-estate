@@ -1,0 +1,50 @@
+{
+    "business_name": "The Real Estate Mavericks Team",
+    "source_business_name": "The Real Estate Mavericks Team",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19407367390",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://therealestatemavericksteam.kw.com/",
+    "address": "\n3600 Preston Rd #100, Plano, TX 75093, United States",
+    "city": "North Plano",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/The+Real+Estate+Mavericks+Team/data=!4m7!3m6!1s0x47914caf15801673:0x47b0033516c68c5d!8m2!3d33.0469012!4d-96.793844!16s%2Fg%2F11ldjb2q22!19sChIJcxaAFa9MkUcRXYzGFjUDsEc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Plano"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

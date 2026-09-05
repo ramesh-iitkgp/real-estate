@@ -1,0 +1,50 @@
+{
+    "business_name": "Ebby Halliday Realtors In Plano West",
+    "source_business_name": "Ebby Halliday Realtors In Plano West",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19726080300",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.ebby.com/Bio/planowest",
+    "address": "\n3310 Dallas Pkwy Ste 207, Plano, TX 75093, United States",
+    "city": "Plano",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Ebby+Halliday+Realtors+in+Plano+West/data=!4m7!3m6!1s0x864c2480609769b3:0x6a6293073a911e42!8m2!3d33.0476492!4d-96.8287309!16s%2Fg%2F1tjyt_zh!19sChIJs2mXYIAkTIYRQh6ROgeTYmo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Plano"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

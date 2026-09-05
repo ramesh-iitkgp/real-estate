@@ -1,0 +1,50 @@
+{
+    "business_name": "Brent Sells Dfw",
+    "source_business_name": "Brent Sells Dfw",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "817) 874-1602",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1845 Precinct Line Road #111, Hurst, TX 76054",
+    "city": "West Plano",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Brent+Sells+DFW/data=!4m7!3m6!1s0x864e79705e126755:0xbaf018d5e596687!8m2!3d32.849682!4d-97.186833!16s%2Fg%2F11zb5nnhwh!19sChIJVWcSXnB5ToYRh2ZZXo0Brws?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Plano"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

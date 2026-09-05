@@ -1,0 +1,50 @@
+{
+    "business_name": "Cody The Realtor - Great Western Realty",
+    "source_business_name": "Cody The Realtor - Great Western Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12143364956",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://gwrealty.com/team-dallas/cody-weaver",
+    "address": "\n2024 W 15th St Ste. F-109, Plano, TX 75075, United States",
+    "city": "West Plano",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Cody+The+Realtor+-+Great+Western+Realty/data=!4m7!3m6!1s0x864c19c8658c070d:0x11387b7ba34e9b60!8m2!3d33.0188557!4d-96.7330503!16s%2Fg%2F11fwbkx9s0!19sChIJDQeMZcgZTIYRYJtOo3t7OBE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Plano"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
