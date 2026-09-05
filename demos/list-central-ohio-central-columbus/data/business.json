@@ -1,0 +1,50 @@
+{
+    "business_name": "List Central Ohio",
+    "source_business_name": "List Central Ohio",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16144704722",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n700 Morse Rd #100, Columbus, OH 43214, United States",
+    "city": "Central Columbus",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/List+Central+Ohio/data=!4m7!3m6!1s0x88388c8429c08c43:0xc721e7c7832f00bb!8m2!3d40.0620956!4d-83.0004917!16s%2Fg%2F11r8lyhj6!19sChIJQ4zAKYSMOIgRuwAvg8fnIcc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Columbus"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Howard Hanna Real Estate Services",
+    "source_business_name": "Howard Hanna Real Estate Services",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16142407400",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://howardhanna.com/GermanVillage",
+    "address": "\n583 S 3rd St, Columbus, OH 43215, United States",
+    "city": "West Columbus",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "6",
+    "google_maps_url": "https://www.google.com/maps/place/Howard+Hanna+Real+Estate+Services/data=!4m7!3m6!1s0x88388f4b33f9b967:0x6f90e58c14799820!8m2!3d39.9504539!4d-82.9958247!16s%2Fg%2F1xtf26yz!19sChIJZ7n5M0uPOIgRIJh5FIzlkG8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Columbus"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

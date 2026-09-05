@@ -1,0 +1,50 @@
+{
+    "business_name": "Bethel Village Properties",
+    "source_business_name": "Bethel Village Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16142857532",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://webuyohiohousescash.com/",
+    "address": "\n6055 Pasqual Ave, Columbus, OH 43213, United States",
+    "city": "East Columbus",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Bethel+Village+Properties/data=!4m7!3m6!1s0x883863954a4bffff:0x1d238056734b7d37!8m2!3d39.9855397!4d-82.8413224!16s%2Fg%2F11lffdnr2p!19sChIJ__9LSpVjOIgRN31Lc1aAIx0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Columbus"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

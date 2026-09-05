@@ -1,0 +1,50 @@
+{
+    "business_name": "Sell To Sean - Central City Solutions",
+    "source_business_name": "Sell To Sean - Central City Solutions",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16146893652",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://selltosean.com/?utm_source=gbp",
+    "address": "\n3474 N High St, Columbus, OH 43214, United States",
+    "city": "Columbus",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "220",
+    "google_maps_url": "https://www.google.com/maps/place/Sell+To+Sean+-+Central+City+Solutions/data=!4m7!3m6!1s0x883889fec5dd81a1:0xb3668853c8fa17b0!8m2!3d40.0329837!4d-83.0157933!16s%2Fg%2F11jffcm2c8!19sChIJoYHdxf6JOIgRsBf6yFOIZrM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Columbus"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

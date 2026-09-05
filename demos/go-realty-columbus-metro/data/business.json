@@ -1,0 +1,50 @@
+{
+    "business_name": "Go Realty",
+    "source_business_name": "Go Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16144291337",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://gorealty.com/",
+    "address": "\nN High St, Worthington, OH 43085, United States",
+    "city": "Columbus Metro",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "25",
+    "google_maps_url": "https://www.google.com/maps/place/GO+Realty/data=!4m7!3m6!1s0x88388c47137b6815:0x9d0ff1c7354f6605!8m2!3d40.1052156!4d-83.0170639!16s%2Fg%2F11f15mxlf_!19sChIJFWh7E0eMOIgRBWZPNcfxD50?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Columbus Metro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

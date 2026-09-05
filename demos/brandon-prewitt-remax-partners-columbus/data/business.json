@@ -1,0 +1,50 @@
+{
+    "business_name": "Brandon Prewitt - Remax Partners",
+    "source_business_name": "Brandon Prewitt - Remax Partners",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16143942910",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://bprewitt.remax.com/",
+    "address": "\n502 S 3rd St, Columbus, OH 43215, United States",
+    "city": "Columbus",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "138",
+    "google_maps_url": "https://www.google.com/maps/place/Brandon+Prewitt+-+RE%2FMAX+Partners/data=!4m7!3m6!1s0x88388e379fe5160d:0x4b328f67d9222bb9!8m2!3d39.9521728!4d-82.9956391!16s%2Fg%2F11c58nm301!19sChIJDRblnzeOOIgRuSsi2WePMks?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Columbus"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
