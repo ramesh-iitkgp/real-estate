@@ -1,0 +1,50 @@
+{
+    "business_name": "Berkshire Hathaway Homeservices Elite Properties",
+    "source_business_name": "Berkshire Hathaway Homeservices Elite Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17045537777",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.bhhseliteproperties.com/",
+    "address": "\n112 S Tryon St Ste 1250, Charlotte, NC 28284, United States",
+    "city": "Downtown Charlotte",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Berkshire+Hathaway+HomeServices+Elite+Properties/data=!4m7!3m6!1s0x88569f51c91cd0dd:0xec162add6726827f!8m2!3d35.2271187!4d-80.8438451!16s%2Fg%2F11gmg356_7!19sChIJ3dAcyVGfVogRf4ImZ90qFuw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Charlotte"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

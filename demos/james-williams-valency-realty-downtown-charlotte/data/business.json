@@ -1,0 +1,50 @@
+{
+    "business_name": "James Williams - Valency Realty",
+    "source_business_name": "James Williams - Valency Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "704) 796-9866",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n3440 Toringdon Way #444, Charlotte, NC 28277",
+    "city": "Downtown Charlotte",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "4.3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/James+Williams+-+Valency+Realty/data=!4m7!3m6!1s0xa1da22bf23d7c9a5:0xa35c3c0b6212095f!8m2!3d35.067959!4d-80.841325!16s%2Fg%2F11jzqr8zzp!19sChIJpcnXI78i2qERXwkSYgs8XKM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Charlotte"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

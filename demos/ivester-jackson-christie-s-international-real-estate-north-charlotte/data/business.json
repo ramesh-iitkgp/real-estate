@@ -1,0 +1,50 @@
+{
+    "business_name": "Ivester Jackson Christie'S International Real Estate",
+    "source_business_name": "Ivester Jackson Christie'S International Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17046550586",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.ivesterjackson.com/",
+    "address": "\n1515 Mockingbird Ln Ste 900, Charlotte, NC 28209, United States",
+    "city": "North Charlotte",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Ivester+Jackson+Christie%27s+International+Real+Estate/data=!4m7!3m6!1s0x88569e6a2afc1905:0x129c94e92ed11b44!8m2!3d35.1674637!4d-80.849066!16s%2Fg%2F11bym_6xfp!19sChIJBRn8KmqeVogRRBvRLumUnBI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Charlotte"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
