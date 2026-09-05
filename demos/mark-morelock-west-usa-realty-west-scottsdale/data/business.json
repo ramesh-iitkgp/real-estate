@@ -1,0 +1,50 @@
+{
+    "business_name": "Mark Morelock-West Usa Realty",
+    "source_business_name": "Mark Morelock-West Usa Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16025407470",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n14350 N 87th St Ste 170, Scottsdale, AZ 85260, United States",
+    "city": "West Scottsdale",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Mark+Morelock-West+USA+Realty/data=!4m7!3m6!1s0x872b756576a8f7e9:0x26f54c054051145b!8m2!3d33.6153746!4d-111.8943841!16s%2Fg%2F11mmn7g5_z!19sChIJ6feodmV1K4cRWxRRQAVM9SY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Scottsdale"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

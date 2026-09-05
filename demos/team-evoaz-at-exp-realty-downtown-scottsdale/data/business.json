@@ -1,0 +1,50 @@
+{
+    "business_name": "Team Evoaz At Exp Realty",
+    "source_business_name": "Team Evoaz At Exp Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16025366915",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://direct.me/teamevoaz",
+    "address": "\n6991 E Camelback Rd #D300, Scottsdale, AZ 85251, United States",
+    "city": "Downtown Scottsdale",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Team+EvoAZ+at+eXp+Realty/data=!4m7!3m6!1s0x872b0577d3320fcb:0x4646102633ba0eb3!8m2!3d33.5017156!4d-111.9317165!16s%2Fg%2F11gjt60x2y!19sChIJyw8y03cFK4cRsw66MyYQRkY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Scottsdale"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

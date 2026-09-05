@@ -1,0 +1,50 @@
+{
+    "business_name": "Realty Exchange",
+    "source_business_name": "Realty Exchange",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14807717600",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://realtyexchangeaz.com//",
+    "address": "\n6962 E 1st Ave #102, Scottsdale, AZ 85251, United States",
+    "city": "Downtown Scottsdale",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Realty+Exchange/data=!4m7!3m6!1s0x872b0b9506487299:0x6d099acbdc8c9490!8m2!3d33.4942146!4d-111.9307252!16s%2Fg%2F11c7vymty_!19sChIJmXJIBpULK4cRkJSM3MuaCW0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Scottsdale"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

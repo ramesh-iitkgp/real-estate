@@ -1,0 +1,50 @@
+{
+    "business_name": "Mattamy Homes - Sendero Crossing",
+    "source_business_name": "Mattamy Homes - Sendero Crossing",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "480) 418-2146",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n44323 North 43rd Drive, Phoenix, AZ 85087",
+    "city": "North Scottsdale",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Mattamy+Homes+-+Sendero+Crossing/data=!4m7!3m6!1s0x872c9f5be85bc003:0x171ba27ee19420e9!8m2!3d33.886625!4d-112.15268!16s%2Fg%2F11mb5v7stf!19sChIJA8Bb6FufLIcR6SCU4X6iGxc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Scottsdale"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "The Mona Team Real Estate - Greg & Jeannine Mona -West Usa Realty",
+    "source_business_name": "The Mona Team Real Estate - Greg & Jeannine Mona -West Usa Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14803538231",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.jeanninemona.com",
+    "address": "",
+    "city": "West Scottsdale",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/The+Mona+Team+Real+Estate+-+Greg+%26+Jeannine+Mona+-West+USA+Realty/data=!4m7!3m6!1s0x872b0bbd5e4d68c5:0x53b2a4f168a09da2!8m2!3d33.6740745!4d-111.85843!16s%2Fg%2F11c2p_y69z!19sChIJxWhNXr0LK4cRop2gaPGkslM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Scottsdale"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

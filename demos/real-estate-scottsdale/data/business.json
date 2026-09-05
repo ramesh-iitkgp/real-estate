@@ -1,0 +1,50 @@
+{
+    "business_name": "Real Estate",
+    "source_business_name": "Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14809484711",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.arizonabest.com/shared/human/pow.php?return=https%3A%2F%2Fwww.arizonabest.com%2F",
+    "address": "\n11333 N Scottsdale Rd Ste 100, Scottsdale, AZ 85254, United States",
+    "city": "Scottsdale",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Real+Estate/data=!4m7!3m6!1s0x872b74ed8714b5a5:0xc0ddd3248510e033!8m2!3d33.5886953!4d-111.9256615!16s%2Fg%2F1vvdvpc5!19sChIJpbUUh-10K4cRM-AQhSTT3cA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Scottsdale"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
