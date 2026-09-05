@@ -1,0 +1,50 @@
+{
+    "business_name": "Sol Taplin Harcourts Hamilton Real Estate",
+    "source_business_name": "Sol Taplin Harcourts Hamilton Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "6421824294",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n85 Rostrevor Street, Hamilton Central, Hamilton 3204, New Zealand",
+    "city": "Downtown Hamilton",
+    "state": "",
+    "country": "New Zealand",
+    "currency_symbol": "NZ$",
+    "currency_code": "NZD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Sol+Taplin+Harcourts+Hamilton+Real+Estate/data=!4m7!3m6!1s0x6d6d190e46eff19b:0xa4ed81502563fd5a!8m2!3d-37.7827187!4d175.2759806!16s%2Fg%2F11gv0ngx10!19sChIJm_HvRg4ZbW0RWv1jJVCB7aQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Hamilton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
