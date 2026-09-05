@@ -1,0 +1,50 @@
+{
+    "business_name": "Windermere Spokane Valley",
+    "source_business_name": "Windermere Spokane Valley",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15099281991",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.windermerespokanevalley.com/",
+    "address": "\n16201 E Indiana Ave Ste 1250, Spokane Valley, WA 99216, United States",
+    "city": "East Spokane",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Windermere+Spokane+Valley/data=!4m7!3m6!1s0x5361df97db938c99:0x5b75d56f770d9199!8m2!3d47.6690652!4d-117.1871449!16s%2Fg%2F11dxbs4_48!19sChIJmYyT25ffYVMRmZENd2_VdVs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Spokane"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

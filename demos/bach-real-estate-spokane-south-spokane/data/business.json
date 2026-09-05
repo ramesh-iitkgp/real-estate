@@ -1,0 +1,50 @@
+{
+    "business_name": "Bach Real Estate Spokane",
+    "source_business_name": "Bach Real Estate Spokane",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15094963581",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.bachrealestatespokane.com/",
+    "address": "\n534 E Spokane Falls Blvd Ste 300, Spokane, WA 99202, United States",
+    "city": "South Spokane",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Bach+Real+Estate+Spokane/data=!4m7!3m6!1s0x549e19bf50d3201b:0x21b2ccc8f122d2!8m2!3d47.6611936!4d-117.4017286!16s%2Fg%2F11vjgqlvk4!19sChIJGyDTUL8ZnlQR0iLxyMyyIQA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Spokane"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

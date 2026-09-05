@@ -1,0 +1,50 @@
+{
+    "business_name": "Remax Inland Empire",
+    "source_business_name": "Remax Inland Empire",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15092320824",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.remax.com/ind/en/residential/office/spokane/remax-inland-empire-100430728",
+    "address": "\n429 E Sprague Ave, Spokane, WA 99202, United States",
+    "city": "East Spokane",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/RE%2FMAX+Inland+Empire/data=!4m7!3m6!1s0x549e18f0e7a5d0dd:0x90d5f3abb1d5c416!8m2!3d47.6574394!4d-117.4039383!16s%2Fg%2F1hhx4b4dv!19sChIJ3dCl5_AYnlQRFsTVsavz1ZA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Spokane"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

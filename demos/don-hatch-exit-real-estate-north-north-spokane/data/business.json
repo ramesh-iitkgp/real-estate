@@ -1,0 +1,50 @@
+{
+    "business_name": "Don Hatch-Exit Real Estate North",
+    "source_business_name": "Don Hatch-Exit Real Estate North",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15097107339",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1105 W Francis Ave Ste a, Spokane, WA 99205, United States",
+    "city": "North Spokane",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Don+Hatch-EXIT+Real+Estate+North/data=!4m7!3m6!1s0x549e19e3f5878a6d:0xb3b1cacb12e5639a!8m2!3d47.715055!4d-117.4276358!16s%2Fg%2F11h193prwq!19sChIJbYqH9eMZnlQRmmPlEsvKsbM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Spokane"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Barb Christensen Real Estate Broker & Health Coach",
+    "source_business_name": "Barb Christensen Real Estate Broker & Health Coach",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15099792194",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.barbchristensen.com/shared/human/index.php?return=http%3A%2F%2Fwww.barbchristensen.com%2F",
+    "address": "\n4102 S Regal St, Spokane, WA 99223, United States",
+    "city": "South Spokane",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Barb+Christensen+Real+Estate+Broker+%26+Health+Coach/data=!4m7!3m6!1s0x549e23ba1ec2da15:0xe8ec49242f88e70b!8m2!3d47.6169245!4d-117.3696087!16s%2Fg%2F11f6d7vmhw!19sChIJFdrCHrojnlQRC-eILyRJ7Og?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Spokane"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

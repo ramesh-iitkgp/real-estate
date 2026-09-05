@@ -1,0 +1,50 @@
+{
+    "business_name": "Coldwell Banker Tomlinson South",
+    "source_business_name": "Coldwell Banker Tomlinson South",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15095357400",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.cbspokane.com/shared/human/pow.php?return=https%3A%2F%2Fwww.cbspokane.com%2F",
+    "address": "\n3707 S Grand Blvd Ste a, Spokane, WA 99203, United States",
+    "city": "South Spokane",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Coldwell+Banker+Tomlinson+South/data=!4m7!3m6!1s0x549e225658f744bd:0xb6252da34c93e753!8m2!3d47.6203934!4d-117.401049!16s%2Fg%2F1tcyf5jp!19sChIJvUT3WFYinlQRU-eTTKMtJbY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Spokane"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

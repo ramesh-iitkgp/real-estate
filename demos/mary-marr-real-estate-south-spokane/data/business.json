@@ -1,0 +1,50 @@
+{
+    "business_name": "Mary Marr Real Estate",
+    "source_business_name": "Mary Marr Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15093156811",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://marymarrhomes.com/",
+    "address": "\n2829 S Grand Blvd, Spokane, WA 99203, United States",
+    "city": "South Spokane",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Mary+Marr+Real+Estate/data=!4m7!3m6!1s0x549e228e0c055555:0x12c765776c1d4b23!8m2!3d47.6284428!4d-117.4013129!16s%2Fg%2F11f63y3kt1!19sChIJVVUFDI4inlQRI0sdbHdlxxI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Spokane"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

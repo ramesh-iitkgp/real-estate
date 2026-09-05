@@ -1,0 +1,50 @@
+{
+    "business_name": "United Country Real Estate River Rock Realty",
+    "source_business_name": "United Country Real Estate River Rock Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15094813357",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://spokanewashington-realestate.com/",
+    "address": "\n1337 S Grand Blvd #102, Spokane, WA 99202, United States",
+    "city": "East Spokane",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/United+Country+Real+Estate+%7C+River+Rock+Realty/data=!4m7!3m6!1s0x549e23af4fccc68f:0x9344b0288e409750!8m2!3d47.6430667!4d-117.4082926!16s%2Fg%2F11fnqwy73b!19sChIJj8bMT68jnlQRUJdAjiiwRJM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Spokane"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
