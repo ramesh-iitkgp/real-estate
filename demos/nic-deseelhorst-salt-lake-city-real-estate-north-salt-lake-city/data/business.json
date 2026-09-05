@@ -1,0 +1,50 @@
+{
+    "business_name": "Nic Deseelhorst Salt Lake City Real Estate",
+    "source_business_name": "Nic Deseelhorst Salt Lake City Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18015206713",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "",
+    "city": "North Salt Lake City",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Nic+DeSeelhorst+Salt+Lake+City+Real+Estate/data=!4m7!3m6!1s0x87526168d66f5c6b:0xcde6243768ae347b!8m2!3d40.6371504!4d-111.6718615!16s%2Fg%2F11n87d16rm!19sChIJa1xv1mhhUocRezSuaDck5s0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Salt Lake City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

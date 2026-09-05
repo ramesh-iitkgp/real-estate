@@ -1,0 +1,50 @@
+{
+    "business_name": "Lady Martinez Real Estate - Salt Lake City Utah",
+    "source_business_name": "Lady Martinez Real Estate - Salt Lake City Utah",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18015480577",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n11240 S River Heights Dr Ste 150, South Jordan, UT 84095, United States",
+    "city": "South Salt Lake City",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Lady+Martinez+Real+Estate+-+Salt+Lake+City,+Utah/data=!4m7!3m6!1s0x87528bb13ce9a897:0x85c8fa686a66470!8m2!3d40.547561!4d-111.9822646!16s%2Fg%2F11t53n2_8w!19sChIJl6jpPLGLUocRcGSmhqaPXAg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Salt Lake City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

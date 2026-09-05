@@ -1,0 +1,50 @@
+{
+    "business_name": "Jen Bowen Real Estate",
+    "source_business_name": "Jen Bowen Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18015188386",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1245 Brickyard Rd #500, Salt Lake City, UT 84106, United States",
+    "city": "Downtown Salt Lake City",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jen+Bowen+Real+Estate/data=!4m7!3m6!1s0x87528aa14a9e086f:0x50e91e86ae392e3f!8m2!3d40.702912!4d-111.856626!16s%2Fg%2F1pv6z99k5!19sChIJbwieSqGKUocRPy45roYe6VA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Salt Lake City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

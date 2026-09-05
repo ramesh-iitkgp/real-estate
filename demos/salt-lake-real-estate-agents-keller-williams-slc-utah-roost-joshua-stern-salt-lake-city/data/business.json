@@ -1,0 +1,50 @@
+{
+    "business_name": "Salt Lake Real Estate Agents Keller Williams Slc - Utah Roost & Joshua Stern",
+    "source_business_name": "Salt Lake Real Estate Agents Keller Williams Slc - Utah Roost & Joshua Stern",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18016094675",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://utahroostslc.kw.com/",
+    "address": "\n1245 Brickyard Rd #500, Salt Lake City, UT 84106, United States",
+    "city": "Salt Lake City",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Salt+Lake+Real+Estate+Agents+Keller+Williams+SLC+-+Utah+Roost+%26+Joshua+Stern/data=!4m7!3m6!1s0x87528bc8186a997d:0x36a81bdf64e5a7d5!8m2!3d40.702912!4d-111.856626!16s%2Fg%2F11syfqvshj!19sChIJfZlqGMiLUocR1aflZN8bqDY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Salt Lake City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

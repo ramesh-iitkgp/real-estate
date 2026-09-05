@@ -1,0 +1,50 @@
+{
+    "business_name": "Jenni Barber Real Estate",
+    "source_business_name": "Jenni Barber Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18018913628",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.bhhsutah.com/agents/jenni-barber/",
+    "address": "\n1010 N 500 E #310, North Salt Lake, UT 84054, United States",
+    "city": "North Salt Lake City",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jenni+Barber+Real+Estate/data=!4m7!3m6!1s0x8752f70f17428545:0x9e1ac508ad926c27!8m2!3d40.8599491!4d-111.8986204!16s%2Fg%2F11sz4h9k8l!19sChIJRYVCFw_3UocRJ2ySrQjFGp4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Salt Lake City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Signature Precision Haircut & Blowout",
+            "description": "Bespoke consultation, revitalizing shampoo, tailored dry or wet cut, followed by our signature bouncy voluminous blowout.",
+            "image": ""
+        },
+        {
+            "name": "Artisan Balayage & Color Gloss",
+            "description": "Hand-painted dimensional lightening tailored to your natural movement, sealed with a customized acidic toner and gloss.",
+            "image": ""
+        },
+        {
+            "name": "Hydra-Infusion Glow Facial",
+            "description": "Multi-step medical-grade hydra-dermabrasion, ultrasonic pore extraction, botanical peel, and collagen LED rejuvenation.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

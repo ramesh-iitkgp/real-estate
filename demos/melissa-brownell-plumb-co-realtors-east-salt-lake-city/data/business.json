@@ -1,0 +1,50 @@
+{
+    "business_name": "Melissa Brownell Plumb & Co Realtors",
+    "source_business_name": "Melissa Brownell Plumb & Co Realtors",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "801) 661-6212",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1455 East 2100 South, Salt Lake City, Utah 84105",
+    "city": "East Salt Lake City",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "4.7",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Melissa+Brownell+,+Plumb+%26+Co+Realtors/data=!4m7!3m6!1s0x87528aa6a5808bab:0x5d49c14fa733b2c1!8m2!3d40.72616!4d-111.849175!16s%2Fg%2F11c51s37r2!19sChIJq4uApaaKUocRwbIzp0_BSV0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Salt Lake City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
