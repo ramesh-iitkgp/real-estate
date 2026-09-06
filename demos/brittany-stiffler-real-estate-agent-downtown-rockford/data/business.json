@@ -1,0 +1,50 @@
+{
+    "business_name": "Brittany Stiffler- Real Estate Agent",
+    "source_business_name": "Brittany Stiffler- Real Estate Agent",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18159888842",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://brittanystiffler.dickersonnieman.com/shared/human/pow.php?return=https%3A%2F%2Fbrittanystiffler.dickersonnieman.com%2F",
+    "address": "\n6277 E Riverside Blvd, Rockford, IL 61114, United States",
+    "city": "Downtown Rockford",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Brittany+Stiffler-+Real+Estate+Agent/data=!4m7!3m6!1s0x8808bbbb3a0954a5:0x7571825598b97d29!8m2!3d42.318004!4d-88.9941018!16s%2Fg%2F11zcnc2sdx!19sChIJpVQJOru7CIgRKX25mFWCcXU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Rockford"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

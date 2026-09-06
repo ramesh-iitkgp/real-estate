@@ -1,0 +1,50 @@
+{
+    "business_name": "Key Realty",
+    "source_business_name": "Key Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18157131100",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.keyrealtyus.com/",
+    "address": "\n6755 Weaver Rd, Rockford, IL 61114, United States",
+    "city": "Rockford",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "67",
+    "google_maps_url": "https://www.google.com/maps/place/Key+Realty/data=!4m7!3m6!1s0x8808b8d107cbaa6b:0x708bf46281c8ea2a!8m2!3d42.317355!4d-88.9845466!16s%2Fg%2F1tdbxb5p!19sChIJa6rLB9G4CIgRKurIgWL0i3A?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Rockford"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

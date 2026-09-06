@@ -1,0 +1,50 @@
+{
+    "business_name": "Apreda Real Estate Services",
+    "source_business_name": "Apreda Real Estate Services",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18157038783",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n3600 E State St Ste 208, Rockford, IL 61108, United States",
+    "city": "Rockford",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "23",
+    "google_maps_url": "https://www.google.com/maps/place/Apreda+Real+Estate+Services/data=!4m7!3m6!1s0x8808bf1952e125e7:0xb36b5a316db21c13!8m2!3d42.2666776!4d-89.041361!16s%2Fg%2F11g9vss3l8!19sChIJ5yXhUhm_CIgRExyybTFaa7M?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Rockford"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

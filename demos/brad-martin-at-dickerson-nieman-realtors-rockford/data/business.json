@@ -1,0 +1,50 @@
+{
+    "business_name": "Brad Martin At Dickerson & Nieman Realtors",
+    "source_business_name": "Brad Martin At Dickerson & Nieman Realtors",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18155439027",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://bradmartin.dickersonnieman.com/shared/human/index.php?return=http%3A%2F%2Fbradmartin.dickersonnieman.com%2F",
+    "address": "\n6277 E Riverside Blvd, Rockford, IL 61114, United States",
+    "city": "Rockford",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "28",
+    "google_maps_url": "https://www.google.com/maps/place/Brad+Martin+at+Dickerson+%26+Nieman+Realtors/data=!4m7!3m6!1s0x8808bb0f684a15f9:0x1ce942f667b31dbf!8m2!3d42.318004!4d-88.9941018!16s%2Fg%2F11t2ydyl53!19sChIJ-RVKaA-7CIgRvx2zZ_ZC6Rw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Rockford"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

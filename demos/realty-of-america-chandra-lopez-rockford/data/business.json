@@ -1,0 +1,50 @@
+{
+    "business_name": "Realty Of America Chandra Lopez",
+    "source_business_name": "Realty Of America Chandra Lopez",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18156013177",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://agent.realtyofamerica.com/website/chandra-lopez",
+    "address": "\n4855 E State St Ste 21, Rockford, IL 61108, United States",
+    "city": "Rockford",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "26",
+    "google_maps_url": "https://www.google.com/maps/place/Realty+of+America:+Chandra+Lopez/data=!4m7!3m6!1s0x8808b95ce4328b2f:0xbfd88bdb14ed4dde!8m2!3d42.2632126!4d-89.0229405!16s%2Fg%2F11y9nwl3__!19sChIJL4sy5Fy5CIgR3k3tFNuL2L8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Rockford"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

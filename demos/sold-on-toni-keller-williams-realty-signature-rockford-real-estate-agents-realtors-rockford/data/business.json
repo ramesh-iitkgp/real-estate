@@ -1,0 +1,50 @@
+{
+    "business_name": "Sold On Toni Keller Williams Realty Signature - Rockford Real Estate Agents & Realtors",
+    "source_business_name": "Sold On Toni Keller Williams Realty Signature - Rockford Real Estate Agents & Realtors",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18153151110",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.soldontoni.com/",
+    "address": "\n4207 Galleria Dr, Loves Park, IL 61111, United States",
+    "city": "Rockford",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "364",
+    "google_maps_url": "https://www.google.com/maps/place/Sold+On+Toni,+Keller+Williams+Realty+Signature+-+Rockford+Real+Estate+Agents+%26+Realtors/data=!4m7!3m6!1s0x8808b9a99feaaaab:0xd0f2124fb2d00dae!8m2!3d42.322427!4d-88.9727616!16s%2Fg%2F11g0k14x53!19sChIJq6rqn6m5CIgRrg3Qsk8S8tA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Rockford"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
