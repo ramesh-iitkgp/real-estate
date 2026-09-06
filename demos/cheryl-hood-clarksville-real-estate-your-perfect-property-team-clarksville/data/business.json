@@ -1,0 +1,50 @@
+{
+    "business_name": "Cheryl Hood Clarksville Real Estate Your Perfect Property Team",
+    "source_business_name": "Cheryl Hood Clarksville Real Estate Your Perfect Property Team",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19313133333",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.yourperfectproperty.com/",
+    "address": "\n2147 Wilma Rudolph Blvd Ste 101, Clarksville, TN 37040, United States",
+    "city": "Clarksville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Cheryl+Hood,+Clarksville+Real+Estate+%7C+Your+Perfect+Property+Team/data=!4m7!3m6!1s0x8864d9e31b39a9d5:0x240440744db205a!8m2!3d36.564291!4d-87.3097858!16s%2Fg%2F11j2xr5zs0!19sChIJ1ak5G-PZZIgRWiDbRAdEQAI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Clarksville"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Natalie Olcott-Dewey Realtor",
+    "source_business_name": "Natalie Olcott-Dewey Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17174136249",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://nataliedewey.unitedbenchmarkrealty.com/",
+    "address": "\n2421 US-41 ALT #100, Clarksville, TN 37043, United States",
+    "city": "North Clarksville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Natalie+Olcott-Dewey+REALTOR/data=!4m7!3m6!1s0x8864d947a0354977:0x6dd13ce57cfe5350!8m2!3d36.4963324!4d-87.2215318!16s%2Fg%2F11pv33hyf5!19sChIJd0k1oEfZZIgRUFP-fOU80W0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Clarksville"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

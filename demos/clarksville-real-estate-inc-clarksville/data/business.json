@@ -1,0 +1,50 @@
+{
+    "business_name": "Clarksville Real Estate Inc",
+    "source_business_name": "Clarksville Real Estate Inc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19319192913",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.theclarksvillerealestate.com/",
+    "address": "\n2421 US-41A BYP #300, Clarksville, TN 37043, United States",
+    "city": "Clarksville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Clarksville+Real+Estate+Inc/data=!4m7!3m6!1s0x8864dea32ced5031:0xec0cf41fb044ef2f!8m2!3d36.502464!4d-87.2856507!16s%2Fg%2F11f4mc1b3q!19sChIJMVDtLKPeZIgRL-9EsB_0DOw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Clarksville"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

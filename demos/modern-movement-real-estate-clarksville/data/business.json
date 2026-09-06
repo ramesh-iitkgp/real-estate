@@ -1,0 +1,50 @@
+{
+    "business_name": "Modern Movement Real Estate",
+    "source_business_name": "Modern Movement Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19315426077",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n211 S 2nd St Ste 235, Clarksville, TN 37040, United States",
+    "city": "Clarksville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Modern+Movement+Real+Estate/data=!4m7!3m6!1s0x8864d961d66a0953:0x4f0ef201cfd2423a!8m2!3d36.5260067!4d-87.35783!16s%2Fg%2F11rsbmny14!19sChIJUwlq1mHZZIgROkLSzwHyDk8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Clarksville"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Kimberly Harris Homes",
+    "source_business_name": "Kimberly Harris Homes",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19312206207",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.discovertnhomes.com/",
+    "address": "\n2150 Wilma Rudolph Blvd, Clarksville, TN 37040, United States",
+    "city": "Clarksville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Kimberly+Harris+Homes/data=!4m7!3m6!1s0x8864d9310b40d6ed:0x352c3097368e4d61!8m2!3d36.5652096!4d-87.3107603!16s%2Fg%2F11j8m6g0nj!19sChIJ7dZACzHZZIgRYU2ONpcwLDU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Clarksville"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
