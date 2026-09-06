@@ -1,0 +1,50 @@
+{
+    "business_name": "Cape Coral Fl Listings And Midpoint Realty",
+    "source_business_name": "Cape Coral Fl Listings And Midpoint Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12398393945",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n3046 Del Prado Blvd S, Cape Coral, FL 33904, United States",
+    "city": "North Cape Coral",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Cape+Coral+FL+Listings+and+Midpoint+Realty/data=!4m7!3m6!1s0x88db47b31fe32651:0x8068c38af07a570c!8m2!3d26.5950354!4d-81.942106!16s%2Fg%2F11f7b7jn70!19sChIJUSbjH7NH24gRDFd68IrDaIA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Cape Coral"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

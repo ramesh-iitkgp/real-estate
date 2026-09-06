@@ -1,0 +1,50 @@
+{
+    "business_name": "Cape Homes Team Bb&C Realty",
+    "source_business_name": "Cape Homes Team Bb&C Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12397075552",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.searchcapecoralhomes.com/",
+    "address": "\n4706 Chiquita Blvd S #200, Cape Coral, FL 33914, United States",
+    "city": "Cape Coral",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Cape+Homes+Team+@+BB%26C+Realty/data=!4m7!3m6!1s0x88db390f06992f3d:0xc30764a7853c02c7!8m2!3d26.5644568!4d-82.0071566!16s%2Fg%2F11pgc1zj8_!19sChIJPS-ZBg8524gRxwI8hadkB8M?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Cape Coral"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

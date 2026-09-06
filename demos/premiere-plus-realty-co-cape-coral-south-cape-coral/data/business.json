@@ -1,0 +1,50 @@
+{
+    "business_name": "Premiere Plus Realty Co Cape Coral",
+    "source_business_name": "Premiere Plus Realty Co Cape Coral",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12392062777",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://premiereplusrealty.com/",
+    "address": "\n3637 Del Prado Blvd S #201, Cape Coral, FL 33904, United States",
+    "city": "South Cape Coral",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Premiere+Plus+Realty,+Co.+Cape+Coral/data=!4m7!3m6!1s0x88db41c11f9fa54b:0xf5e66c78f88ed3c0!8m2!3d26.5839058!4d-81.941675!16s%2Fg%2F11fjzybnlb!19sChIJS6WfH8FB24gRwNOO-Hhs5vU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Cape Coral"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

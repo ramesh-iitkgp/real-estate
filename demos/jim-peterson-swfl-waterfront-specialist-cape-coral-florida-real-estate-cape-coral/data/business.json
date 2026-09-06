@@ -1,0 +1,50 @@
+{
+    "business_name": "Jim Peterson - Swfl Waterfront Specialist - Cape Coral Florida Real Estate",
+    "source_business_name": "Jim Peterson - Swfl Waterfront Specialist - Cape Coral Florida Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12394702353",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://jimpetersonswflrealtor.com/contact",
+    "address": "\n1105 Cape Coral Pkwy E, Cape Coral, FL 33904, United States",
+    "city": "Cape Coral",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/jim+peterson+-+swfl+waterfront+specialist+-+cape+coral+florida+real+estate/data=!4m7!3m6!1s0x88db3f537f4df5c9:0x2ee08a1b41aa6519!8m2!3d26.562976!4d-81.950797!16s%2Fg%2F11f54tn8_0!19sChIJyfVNf1M_24gRGWWqQRuK4C4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Cape Coral"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

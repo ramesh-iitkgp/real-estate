@@ -1,0 +1,50 @@
+{
+    "business_name": "Century 21 Selling Paradise",
+    "source_business_name": "Century 21 Selling Paradise",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12395425777",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://c21sellingparadise.com/",
+    "address": "\n3409 Del Prado Blvd S, Cape Coral, FL 33904, United States",
+    "city": "Cape Coral",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Century+21+Selling+Paradise/data=!4m7!3m6!1s0x88db40b9cf348979:0x449cffcd05eab729!8m2!3d26.5884765!4d-81.9414732!16s%2Fg%2F1tdzb6rz!19sChIJeYk0z7lA24gRKbfqBc3_nEQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Cape Coral"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

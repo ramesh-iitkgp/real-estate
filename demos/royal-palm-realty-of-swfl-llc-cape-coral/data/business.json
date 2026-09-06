@@ -1,0 +1,50 @@
+{
+    "business_name": "Royal Palm Realty Of Swfl Llc",
+    "source_business_name": "Royal Palm Realty Of Swfl Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12392818111",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.royalpalmrealtyllc.com/",
+    "address": "\n1222 SE 47th St Suite C1, Cape Coral, FL 33904, United States",
+    "city": "Cape Coral",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Royal+Palm+Realty+of+SWFL,+LLC/data=!4m7!3m6!1s0x88db3f5416b3323d:0xb97a910b47674dcb!8m2!3d26.5643027!4d-81.9490261!16s%2Fg%2F11cmq_c18s!19sChIJPTKzFlQ_24gRy01nRwuRerk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Cape Coral"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

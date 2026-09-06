@@ -1,0 +1,50 @@
+{
+    "business_name": "Sharp Homes Realty",
+    "source_business_name": "Sharp Homes Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12395415363",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.thinksouthwestfl.com/",
+    "address": "\n1222 SE 47th St #213, Cape Coral, FL 33904, United States",
+    "city": "Cape Coral",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Sharp+Homes+Realty/data=!4m7!3m6!1s0x88db38aec596ae6f:0x3ac9e5316075117e!8m2!3d26.5643027!4d-81.9490261!16s%2Fg%2F1tf_j6kl!19sChIJb66Wxa4424gRfhF1YDHlyTo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Cape Coral"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
