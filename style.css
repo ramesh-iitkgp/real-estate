@@ -859,3 +859,9 @@ h1, h2, h3, h4, .font-serif {
   color: #10B981 !important;
   font-weight: 700;
 }
+
+/* Performance Optimization: Offscreen Content-Visibility */
+section:not(.hero-section):not(#overview) {
+  content-visibility: auto;
+  contain-intrinsic-size: 1px 650px;
+}
