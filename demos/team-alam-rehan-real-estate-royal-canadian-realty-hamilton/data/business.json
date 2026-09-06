@@ -1,0 +1,50 @@
+{
+    "business_name": "Team Alam Rehan Real Estate Royal Canadian Realty",
+    "source_business_name": "Team Alam Rehan Real Estate Royal Canadian Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19055362353",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.alamrehan.com/",
+    "address": "\n163 Centennial Pkwy N Ste 300, Hamilton, ON L8E 1H8, Canada",
+    "city": "Hamilton",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Team+Alam+Rehan,+Real+Estate,+Royal+Canadian+Realty/data=!4m7!3m6!1s0x882c9958848a5c5d:0xef1d2c1743cd331e!8m2!3d43.2345334!4d-79.7621549!16s%2Fg%2F11tgggc94x!19sChIJXVyKhFiZLIgRHjPNQxcsHe8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hamilton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

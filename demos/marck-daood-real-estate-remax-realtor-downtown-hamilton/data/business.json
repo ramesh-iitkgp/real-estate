@@ -1,0 +1,50 @@
+{
+    "business_name": "Marck Daood Real Estate Remax - Realtor",
+    "source_business_name": "Marck Daood Real Estate Remax - Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19057454959",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.realtor.ca/agent/2024985/marck-daood-unit-101-1595-upper-james-st-hamilton-ontario-l9b0h7",
+    "address": "\n1595 Upper James St, Hamilton, ON L9B 1K8, Canada",
+    "city": "Downtown Hamilton",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Marck+Daood+Real+Estate+RE%2FMAX+-+REALTOR%C2%AE/data=!4m7!3m6!1s0x882c9bd84a60f507:0x40c377b998764eb2!8m2!3d43.2031192!4d-79.8911938!16s%2Fg%2F11qg0qm2gj!19sChIJB_VgStibLIgRsk52mLl3w0A?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Hamilton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

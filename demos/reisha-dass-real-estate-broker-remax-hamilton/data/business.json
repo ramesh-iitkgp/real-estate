@@ -1,0 +1,50 @@
+{
+    "business_name": "Reisha Dass Real Estate Broker Remax",
+    "source_business_name": "Reisha Dass Real Estate Broker Remax",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19053896734",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://reishadass.com/",
+    "address": "\n676 Rymal Rd E, Hamilton, ON L8W 1B3, Canada",
+    "city": "Hamilton",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Reisha+Dass+Real+Estate+Broker+%7C+RE%2FMAX/data=!4m7!3m6!1s0x882c9a707e503199:0x8a0bda303003171f!8m2!3d43.1946762!4d-79.8631921!16s%2Fg%2F11cmq63bqg!19sChIJmTFQfnCaLIgRHxcDMDDaC4o?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hamilton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

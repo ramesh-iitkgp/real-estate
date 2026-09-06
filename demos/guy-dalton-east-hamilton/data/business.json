@@ -1,0 +1,50 @@
+{
+    "business_name": "Guy Dalton",
+    "source_business_name": "Guy Dalton",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19057303811",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1070 Stone Church Rd E, Hamilton, ON L8W 3L3, Canada",
+    "city": "East Hamilton",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Guy+Dalton/data=!4m7!3m6!1s0x882c9b7d0d4c73eb:0xb88f7cd04f7bc41d!8m2!3d43.1991646!4d-79.8430289!16s%2Fg%2F11h8ymmth7!19sChIJ63NMDX2bLIgRHcR7T9B8j7g?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Hamilton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Rocca Sisters",
+    "source_business_name": "Rocca Sisters",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "905) 335-4102",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n530 Brant Street, Burlington, ON L7R 2G7",
+    "city": "Hamilton",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Rocca+Sisters/data=!4m7!3m6!1s0x882b6195ba8fef13:0x11a1a2add3b66f6e!8m2!3d43.32797!4d-79.801679!16s%2Fg%2F12hk91fv7!19sChIJE--PupVhK4gRbm-2062ioRE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hamilton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

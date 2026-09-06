@@ -1,0 +1,50 @@
+{
+    "business_name": "Nicole Smith Sales Representative - Exp Realty",
+    "source_business_name": "Nicole Smith Sales Representative - Exp Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19055189356",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n21 King St W, Hamilton, ON L8P 4W7, Canada",
+    "city": "Downtown Hamilton",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Nicole+Smith,+Sales+Representative+-+eXp+Realty/data=!4m7!3m6!1s0x882c9b540b1313bd:0xa95a581221841d48!8m2!3d43.2566748!4d-79.8701039!16s%2Fg%2F11j8rfymmn!19sChIJvRMTC1SbLIgRSB2EIRJYWqk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Hamilton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

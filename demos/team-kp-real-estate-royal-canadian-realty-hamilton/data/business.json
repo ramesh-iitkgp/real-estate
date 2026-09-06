@@ -1,0 +1,50 @@
+{
+    "business_name": "Team Kp Real Estate Royal Canadian Realty",
+    "source_business_name": "Team Kp Real Estate Royal Canadian Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16477100189",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://teamkp.ca/",
+    "address": "\n163 Centennial Pkwy N, Hamilton, ON L8E 1H8, Canada",
+    "city": "Hamilton",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Team+KP+Real+Estate,+Royal+Canadian+Realty/data=!4m7!3m6!1s0x882c99832fb70679:0xd1be2f0d3c332699!8m2!3d43.2345334!4d-79.7621549!16s%2Fg%2F11vjs8h7wp!19sChIJeQa3L4OZLIgRmSYzPA0vvtE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hamilton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
