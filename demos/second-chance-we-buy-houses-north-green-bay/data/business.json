@@ -1,0 +1,50 @@
+{
+    "business_name": "Second Chance We Buy Houses",
+    "source_business_name": "Second Chance We Buy Houses",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19204423687",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1524 University Ave, Green Bay, WI 54302, United States",
+    "city": "North Green Bay",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "2",
+    "google_maps_url": "https://www.google.com/maps/place/Second+Chance+We+Buy+Houses/data=!4m7!3m6!1s0x8802e5ab20fc5b6f:0x6e56973983b6009c!8m2!3d44.5114971!4d-87.9851242!16s%2Fg%2F11zdrhdq0k!19sChIJb1v8IKvlAogRnAC2gzmXVm4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Green Bay"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

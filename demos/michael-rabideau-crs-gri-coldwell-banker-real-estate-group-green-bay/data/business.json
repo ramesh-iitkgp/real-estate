@@ -1,0 +1,50 @@
+{
+    "business_name": "Michael Rabideau Crs Gri Coldwell Banker Real Estate Group",
+    "source_business_name": "Michael Rabideau Crs Gri Coldwell Banker Real Estate Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19206211103",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://mrabideau.coldwellhomes.com/",
+    "address": "\n745 Ontario Rd Suite 1, Green Bay, WI 54311, United States",
+    "city": "Green Bay",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "68",
+    "google_maps_url": "https://www.google.com/maps/place/Michael+Rabideau+CRS,+GRI,+Coldwell+Banker+Real+Estate+Group/data=!4m7!3m6!1s0x8802e7fad9dbbc17:0xd05aa6baaa2e625b!8m2!3d44.4868728!4d-87.926967!16s%2Fg%2F11j8m3_5l2!19sChIJF7zb2frnAogRW2IuqrqmWtA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Green Bay"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
