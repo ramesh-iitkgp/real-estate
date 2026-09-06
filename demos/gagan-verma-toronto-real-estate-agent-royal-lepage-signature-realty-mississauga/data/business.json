@@ -1,0 +1,50 @@
+{
+    "business_name": "Gagan Verma - Toronto Real Estate Agent - Royal Lepage Signature Realty",
+    "source_business_name": "Gagan Verma - Toronto Real Estate Agent - Royal Lepage Signature Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16479101111",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://realtorgagan.com/",
+    "address": "\n30 Eglinton Ave W #201, Mississauga, ON L5R 3E7, Canada",
+    "city": "Mississauga",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Gagan+Verma+-+Toronto+Real+Estate+Agent+-+Royal+LePage+Signature+Realty/data=!4m7!3m6!1s0x882b3d0403a702a7:0x1ae4a66502ba677b!8m2!3d43.6060407!4d-79.6528606!16s%2Fg%2F11g3024gb_!19sChIJpwKnAwQ9K4gRe2e6AmWm5Bo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mississauga"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/realtorgagan/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

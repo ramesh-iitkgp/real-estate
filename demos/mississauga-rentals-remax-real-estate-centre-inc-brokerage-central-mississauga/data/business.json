@@ -1,0 +1,50 @@
+{
+    "business_name": "Mississauga Rentals Remax Real Estate Centre Inc Brokerage",
+    "source_business_name": "Mississauga Rentals Remax Real Estate Centre Inc Brokerage",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14168886564",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1140 Burnhamthorpe Rd W, Mississauga, ON L5C 0A3, Canada",
+    "city": "Central Mississauga",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Mississauga+Rentals,+RE%2FMAX+Real+Estate+Centre+Inc.+Brokerage/data=!4m7!3m6!1s0x882b4147df155555:0x20701ac740a320c2!8m2!3d43.569034!4d-79.661525!16s%2Fg%2F11hd9qvn8_!19sChIJVVUV30dBK4gRwiCjQMcacCA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Mississauga"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Mississauga Real Estate",
+    "source_business_name": "Mississauga Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14166171219",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n2520 Eglinton Ave W #207, Mississauga, ON L5M 0Y4, Canada",
+    "city": "South Mississauga",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Mississauga+Real+Estate/data=!4m7!3m6!1s0x882b43ee77b97f67:0xcb08249d87f6f833!8m2!3d43.5581557!4d-79.7063688!16s%2Fg%2F11t27n7mts!19sChIJZ3-5d-5DK4gRM_j2h50kCMs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Mississauga"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

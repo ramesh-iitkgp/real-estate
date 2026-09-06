@@ -1,0 +1,50 @@
+{
+    "business_name": "City View Condos",
+    "source_business_name": "City View Condos",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16473669000",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.cityviewcondos.ca/",
+    "address": "\n525 Curran Place, Mississauga, ON L5B 0H4, Canada",
+    "city": "Mississauga",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/City+View+Condos/data=!4m7!3m6!1s0x882b472a75721495:0xd0170adb90bffcf0!8m2!3d43.5857903!4d-79.6470561!16s%2Fg%2F1tfmcwk8!19sChIJlRRydSpHK4gR8Py_kNsKF9A?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mississauga"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

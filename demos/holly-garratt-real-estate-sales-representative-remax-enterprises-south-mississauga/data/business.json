@@ -1,0 +1,50 @@
+{
+    "business_name": "Holly Garratt Real Estate Sales Representative Remax Enterprises",
+    "source_business_name": "Holly Garratt Real Estate Sales Representative Remax Enterprises",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16472049542",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n125 Lakeshore Rd E, Mississauga, ON L6J 1H3, Canada",
+    "city": "South Mississauga",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Holly+Garratt,+real+estate+sales+representative,+Re%2FMax+Enterprises/data=!4m7!3m6!1s0x882b477ed7bbdd8d:0x36124217f9c31ace!8m2!3d43.5541415!4d-79.5825521!16s%2Fg%2F11h8l6dz20!19sChIJjd27135HK4gRzhrD-RdCEjY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Mississauga"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

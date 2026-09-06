@@ -1,0 +1,50 @@
+{
+    "business_name": "Kigo Realty Inc",
+    "source_business_name": "Kigo Realty Inc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14167798800",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://kigo.ca/",
+    "address": "\n7115 Millcreek Dr, Mississauga, ON L5N 3R3, Canada",
+    "city": "North Mississauga",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Kigo+Realty+Inc./data=!4m7!3m6!1s0x882b6bec0156fdf1:0x7a8ba64b5bb17f2a!8m2!3d43.5992782!4d-79.7648092!16s%2Fg%2F11ym_cpmf4!19sChIJ8f1WAexrK4gRKn-xW0umi3o?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Mississauga"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/kigo_realty/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

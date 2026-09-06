@@ -1,0 +1,50 @@
+{
+    "business_name": "Shoreline Realty Corp",
+    "source_business_name": "Shoreline Realty Corp",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19058913300",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://shorelinerealty.ca/",
+    "address": "\n20 Stavebank Rd Unit 104, Mississauga, ON L5G 2T4, Canada",
+    "city": "Mississauga",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Shoreline+Realty+Corp/data=!4m7!3m6!1s0x882b4626084394c9:0x785c4a47cb7071a1!8m2!3d43.5525521!4d-79.5863908!16s%2Fg%2F11dxdgxzxf!19sChIJyZRDCCZGK4gRoXFwy0dKXHg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mississauga"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/shorelinerealtybrokerage/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

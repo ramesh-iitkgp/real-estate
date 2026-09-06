@@ -1,0 +1,50 @@
+{
+    "business_name": "Royal Canadian Realty Brokerage",
+    "source_business_name": "Royal Canadian Realty Brokerage",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19053640727",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.royalcanadianrealty.com/",
+    "address": "\n2896 Slough St Unit 1, Mississauga, ON L4T 1G3, Canada",
+    "city": "North Mississauga",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Royal+Canadian+Realty+Brokerage/data=!4m7!3m6!1s0x882b3c06fb95f1ad:0x50866e43e5acd753!8m2!3d43.711379!4d-79.6548155!16s%2Fg%2F124sxn8vn!19sChIJrfGV-wY8K4gRU9es5UNuhlA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Mississauga"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

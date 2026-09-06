@@ -1,0 +1,50 @@
+{
+    "business_name": "Cedar Valley Real Estate Brokerage",
+    "source_business_name": "Cedar Valley Real Estate Brokerage",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14162705868",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n6733 Mississauga Rd, Mississauga, ON L5N 1V8, Canada",
+    "city": "Central Mississauga",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Cedar+Valley+Real+Estate+Brokerage/data=!4m7!3m6!1s0x882b6b39febff1c5:0xe6676212020e7ac6!8m2!3d43.602807!4d-79.7406009!16s%2Fg%2F11x1z78nvk!19sChIJxfG__jlrK4gRxnoOAhJiZ-Y?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Mississauga"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Smart Real Estate Gta",
+    "source_business_name": "Smart Real Estate Gta",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16479300299",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.smartrealestategta.com/",
+    "address": "\n2171 Dunwin Dr #9, Mississauga, ON L5L 1X2, Canada",
+    "city": "Mississauga Metro",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Smart+Real+Estate+GTA/data=!4m7!3m6!1s0x882b43e651f2a6ad:0x49a9fec2f96add11!8m2!3d43.5349363!4d-79.6724001!16s%2Fg%2F11z8m1f0z4!19sChIJrabyUeZDK4gREd1q-cL-qUk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mississauga Metro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

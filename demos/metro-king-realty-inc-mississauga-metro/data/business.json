@@ -1,0 +1,50 @@
+{
+    "business_name": "Metro King Realty Inc",
+    "source_business_name": "Metro King Realty Inc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14162498282",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n2985 Drew Rd #216, Mississauga, ON L4T 0A4, Canada",
+    "city": "Mississauga Metro",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Metro+King+Realty+Inc/data=!4m7!3m6!1s0x882b39f7314df6af:0xa0e7161af55ee8d1!8m2!3d43.7110367!4d-79.6534998!16s%2Fg%2F1hc2_3bcs!19sChIJr_ZNMfc5K4gR0ehe9RoW56A?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mississauga Metro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

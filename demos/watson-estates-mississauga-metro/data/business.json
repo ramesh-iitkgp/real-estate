@@ -1,0 +1,50 @@
+{
+    "business_name": "Watson Estates",
+    "source_business_name": "Watson Estates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16472069554",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.watsonestates.ca/",
+    "address": "\n#200, 33 Pearl St, Mississauga, ON L5M 1X1, Canada",
+    "city": "Mississauga Metro",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Watson+Estates/data=!4m7!3m6!1s0x882b15ccd4d687e9:0x7616b5237aa0cc31!8m2!3d43.5800147!4d-79.714151!16s%2Fg%2F11bbrnl4hv!19sChIJ6YfW1MwVK4gRMcygeiO1FnY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mississauga Metro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
