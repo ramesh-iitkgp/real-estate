@@ -1,0 +1,50 @@
+{
+    "business_name": "B&L Properties",
+    "source_business_name": "B&L Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12152573853",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://bloomsburgstudenthousing.com/contact-us",
+    "address": "\n138 E Main St, Bloomsburg, PA 17815, United States",
+    "city": "Central Columbia",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/B%26L+Properties/data=!4m7!3m6!1s0x89c58371c6f22053:0x12013e8bf6f61527!8m2!3d41.0040617!4d-76.454245!16s%2Fg%2F11g6bw6ss9!19sChIJUyDyxnGDxYkRJxX29os-ARI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Columbia"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

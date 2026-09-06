@@ -1,0 +1,50 @@
+{
+    "business_name": "Marylil A Tombasco",
+    "source_business_name": "Marylil A Tombasco",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15702040431",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n530 East St, Bloomsburg, PA 17815, United States",
+    "city": "Central Columbia",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Marylil+A.+Tombasco/data=!4m7!3m6!1s0x89c58726deb29e9f:0x8070da6340ca887a!8m2!3d41.0014481!4d-76.4487794!16s%2Fg%2F11xlg19n6w!19sChIJn56y3iaHxYkReojKQGPacIA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Columbia"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

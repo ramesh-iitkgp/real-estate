@@ -1,0 +1,50 @@
+{
+    "business_name": "Wilson Real Estate Sales",
+    "source_business_name": "Wilson Real Estate Sales",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18706427285",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.wilsonrealestatesales.com/",
+    "address": "\n306 Queen St, Columbia, SC 29205, United States",
+    "city": "Downtown Columbia",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/WILSON+Real+Estate+Sales/data=!4m7!3m6!1s0x88f8bac82c863b79:0xd6d000c581a20f93!8m2!3d33.9934784!4d-81.0095913!16s%2Fg%2F11gb3wm9bs!19sChIJeTuGLMi6-IgRkw-igcUA0NY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Columbia"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

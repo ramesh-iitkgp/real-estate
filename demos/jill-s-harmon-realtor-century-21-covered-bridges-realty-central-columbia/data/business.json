@@ -1,0 +1,50 @@
+{
+    "business_name": "Jill S Harmon - Realtor Century 21 Covered Bridges Realty",
+    "source_business_name": "Jill S Harmon - Realtor Century 21 Covered Bridges Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15704418861",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n395 Tenny St, Bloomsburg, PA 17815, United States",
+    "city": "Central Columbia",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jill+S+Harmon+-+Realtor+Century+21+Covered+Bridges+Realty/data=!4m7!3m6!1s0x81222717dcbe2267:0x22a2f47c1a4e9f84!8m2!3d41.0117076!4d-76.4094617!16s%2Fg%2F11t_dm_v70!19sChIJZyK-3BcnIoERhJ9OGnz0oiI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Columbia"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

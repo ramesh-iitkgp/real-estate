@@ -1,0 +1,50 @@
+{
+    "business_name": "South Market Real Estate",
+    "source_business_name": "South Market Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18032388612",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.zillow.com/homedetails/1504-Old-Hilton-Rd-Chapin-SC-29036/55191676_zpid/?view=public",
+    "address": "\n206 Willow Winds Dr, Columbia, SC 29210, United States",
+    "city": "West Columbia",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/South+Market+Real+Estate/data=!4m7!3m6!1s0x88f8baccbd8d7655:0xd2ba288dcb4bad79!8m2!3d34.0475689!4d-81.1346029!16s%2Fg%2F1235bvf3d!19sChIJVXaNvcy6-IgRea1Ly40outI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Columbia"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

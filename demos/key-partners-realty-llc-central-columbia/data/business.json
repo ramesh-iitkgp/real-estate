@@ -1,0 +1,50 @@
+{
+    "business_name": "Key Partners Realty Llc",
+    "source_business_name": "Key Partners Realty Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15703871600",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.keypartnersrealty.com/",
+    "address": "\n530 East St, Bloomsburg, PA 17815, United States",
+    "city": "Central Columbia",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Key+Partners+Realty,+LLC/data=!4m7!3m6!1s0x89c5877916fc0f63:0x275bfc3781cb09b2!8m2!3d41.0014412!4d-76.4487639!16s%2Fg%2F11byp6j8zw!19sChIJYw_8FnmHxYkRsgnLgTf8Wyc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Columbia"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
