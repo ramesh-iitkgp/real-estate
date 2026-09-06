@@ -1,0 +1,50 @@
+{
+    "business_name": "Vista Bonita Realty Llc",
+    "source_business_name": "Vista Bonita Realty Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16022185991",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n817 N 94th Pl, Mesa, AZ 85207, United States",
+    "city": "North Mesa",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Vista+Bonita+Realty+LLC/data=!4m7!3m6!1s0x872b12c3b1693f3d:0xa7f1c74af2ebd298!8m2!3d33.430321!4d-111.6264104!16s%2Fg%2F11dfgpnppn!19sChIJPT9pscMSK4cRmNLr8krH8ac?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Mesa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

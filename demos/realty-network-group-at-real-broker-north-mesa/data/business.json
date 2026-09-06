@@ -1,0 +1,50 @@
+{
+    "business_name": "Realty Network Group At Real Broker",
+    "source_business_name": "Realty Network Group At Real Broker",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14807757700",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://realtynetworkgroupaz.com/",
+    "address": "\n2919 S Ellsworth Rd Ste 133, Mesa, AZ 85212, United States",
+    "city": "North Mesa",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Realty+Network+Group+at+Real+Broker/data=!4m7!3m6!1s0x872ba5fdebb221f7:0x2c9d750f110b26f1!8m2!3d33.3630516!4d-111.6340874!16s%2Fg%2F11s200rx94!19sChIJ9yGy6_2lK4cR8SYLEQ91nSw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Mesa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

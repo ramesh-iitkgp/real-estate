@@ -1,0 +1,50 @@
+{
+    "business_name": "480 Realty & Property Management",
+    "source_business_name": "480 Realty & Property Management",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14802821234",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://480realtypm.com/",
+    "address": "\n7205 E Southern Ave #102, Mesa, AZ 85209, United States",
+    "city": "Mesa",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/480+Realty+%26+Property+Management+Mesa/data=!4m7!3m6!1s0x872baf82cdd15f59:0x164fe4fbbf932b84!8m2!3d33.3927838!4d-111.6750514!16s%2Fg%2F11kswmqt_p!19sChIJWV_RzYKvK4cRhCuTv_vkTxY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mesa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

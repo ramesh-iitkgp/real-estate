@@ -1,0 +1,50 @@
+{
+    "business_name": "Royalty Real Estate Services Llc",
+    "source_business_name": "Royalty Real Estate Services Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14807772003",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n251 N Morris, Mesa, AZ 85201, United States",
+    "city": "Mesa",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Royalty+Real+Estate+Services+LLC./data=!4m7!3m6!1s0x872ba7eb7dd21a15:0x68fdb46dd7fe2302!8m2!3d33.4211516!4d-111.8388739!16s%2Fg%2F1t_hzg5k!19sChIJFRrSfeunK4cRAiP-1220_Wg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mesa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

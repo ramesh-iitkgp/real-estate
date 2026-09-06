@@ -1,0 +1,50 @@
+{
+    "business_name": "Jerry Raviol - Houseaz",
+    "source_business_name": "Jerry Raviol - Houseaz",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16026955478",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.houseaz.com/",
+    "address": "\n1640 S Stapley Dr, Mesa, AZ 85204, United States",
+    "city": "South Mesa",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jerry+Raviol+-+HouseAZ/data=!4m7!3m6!1s0x872ba8f59a8a3443:0x8b6db70e7ef4eb06!8m2!3d33.3830618!4d-111.8082416!16s%2Fg%2F1ptwk1wmg!19sChIJQzSKmvWoK4cRBuv0fg63bYs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Mesa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

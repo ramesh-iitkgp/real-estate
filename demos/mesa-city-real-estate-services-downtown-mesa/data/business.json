@@ -1,0 +1,50 @@
+{
+    "business_name": "Mesa City Real Estate Services",
+    "source_business_name": "Mesa City Real Estate Services",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14806442577",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n20 E Main St #500, Mesa, AZ 85201, United States",
+    "city": "Downtown Mesa",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Mesa+City+Real+Estate+Services/data=!4m7!3m6!1s0x872ba7c2c135b7cb:0x820dd81981537414!8m2!3d33.4155551!4d-111.8310636!16s%2Fg%2F1wf22b0y!19sChIJy7c1wcKnK4cRFHRTgRnYDYI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Mesa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

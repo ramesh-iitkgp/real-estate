@@ -1,0 +1,50 @@
+{
+    "business_name": "American Allstar Realty",
+    "source_business_name": "American Allstar Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16023537375",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.findazhomes.net/",
+    "address": "\n6642 E Baseline Rd Ste 101, Mesa, AZ 85206, United States",
+    "city": "Mesa",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/American+AllStar+Realty/data=!4m7!3m6!1s0x872bae49c128f54f:0xe3c72e74a37a332d!8m2!3d33.3803137!4d-111.6911204!16s%2Fg%2F1tf1c6jz!19sChIJT_UowUmuK4cRLTN6o3Qux-M?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mesa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
