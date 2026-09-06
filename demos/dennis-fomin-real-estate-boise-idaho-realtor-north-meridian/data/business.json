@@ -1,0 +1,50 @@
+{
+    "business_name": "Dennis Fomin Real Estate Boise Idaho Realtor",
+    "source_business_name": "Dennis Fomin Real Estate Boise Idaho Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12083719099",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://dennisfomin.equityrealestateusa.com/",
+    "address": "\n903 N Main St, Meridian, ID 83642, United States",
+    "city": "North Meridian",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Dennis+Fomin+Real+Estate+%7C+Boise+Idaho+Realtor/data=!4m7!3m6!1s0x54ae53202c13fbe3:0x92a100181be03995!8m2!3d43.6121339!4d-116.3918696!16s%2Fg%2F11j2sm9m4r!19sChIJ4_sTLCBTrlQRlTngGxgAoZI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Meridian"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

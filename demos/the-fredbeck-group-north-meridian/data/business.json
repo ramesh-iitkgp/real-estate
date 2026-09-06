@@ -1,0 +1,50 @@
+{
+    "business_name": "The Fredbeck Group",
+    "source_business_name": "The Fredbeck Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13175228785",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://thefredbeckgroup.kw.com/",
+    "address": "\n11595 N Meridian St #200, Carmel, IN 46032, United States",
+    "city": "North Meridian",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/The+Fredbeck+Group/data=!4m7!3m6!1s0x8814ac8bf1dc0539:0xca1f2753d775152a!8m2!3d39.955022!4d-86.156654!16s%2Fg%2F1ygvstd4c!19sChIJOQXc8YusFIgRKhV111MnH8o?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Meridian"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

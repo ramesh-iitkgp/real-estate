@@ -1,0 +1,50 @@
+{
+    "business_name": "Renew Real Estate Group",
+    "source_business_name": "Renew Real Estate Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12086546058",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1120 S Rackham Way Ste 300, Meridian, ID 83642, United States",
+    "city": "North Meridian",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Renew+Real+Estate+Group/data=!4m7!3m6!1s0x54ae572167be7279:0x706913358a780a5f!8m2!3d43.5948831!4d-116.3520886!16s%2Fg%2F11thjjzf5t!19sChIJeXK-ZyFXrlQRXwp4ijUTaXA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Meridian"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Aimee Kane The Agency Boise",
+    "source_business_name": "Aimee Kane The Agency Boise",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12083915310",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://aimidaho.com/",
+    "address": "\n713 N Main St Ste 100, Meridian, ID 83642, United States",
+    "city": "West Meridian",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "51",
+    "google_maps_url": "https://www.google.com/maps/place/Aimee+Kane,+The+Agency+Boise/data=!4m7!3m6!1s0x54ae55af2398124d:0xf4974ec696725c14!8m2!3d43.6102384!4d-116.3919864!16s%2Fg%2F11nxfsmyfp!19sChIJTRKYI69VrlQRFFxylsZOl_Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Meridian"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

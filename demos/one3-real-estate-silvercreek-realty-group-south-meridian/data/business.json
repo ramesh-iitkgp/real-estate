@@ -1,0 +1,50 @@
+{
+    "business_name": "One3 Real Estate Silvercreek Realty Group",
+    "source_business_name": "One3 Real Estate Silvercreek Realty Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12085736007",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.one3ofidaho.com/index.html",
+    "address": "\n1099 S Wells St, Meridian, ID 83642, United States",
+    "city": "South Meridian",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/ONE3+Real+Estate+Silvercreek+Realty+Group/data=!4m7!3m6!1s0x54afad2deb41531d:0x55f26a8ed23fbbfb!8m2!3d43.5946212!4d-116.3642879!16s%2Fg%2F11fjs99fm_!19sChIJHVNB6y2tr1QR-7s_0o5q8lU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Meridian"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

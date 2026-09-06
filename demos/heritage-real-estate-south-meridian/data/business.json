@@ -1,0 +1,50 @@
+{
+    "business_name": "Heritage Real Estate",
+    "source_business_name": "Heritage Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12088559848",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://tamimchugh.silvercreekrealty.com/",
+    "address": "\n1980 S Meridian Rd #130, Meridian, ID 83642, United States",
+    "city": "South Meridian",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Heritage+Real+Estate/data=!4m7!3m6!1s0x54ae53cf3183005d:0x2a6b92564d4c524!8m2!3d43.5866579!4d-116.393242!16s%2Fg%2F1thf88rb!19sChIJXQCDMc9TrlQRJMXUZCW5pgI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Meridian"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

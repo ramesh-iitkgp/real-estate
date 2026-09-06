@@ -1,0 +1,50 @@
+{
+    "business_name": "Mikowski Real Estate At Silvercreek Realty",
+    "source_business_name": "Mikowski Real Estate At Silvercreek Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12085905070",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://mikowskirealestate.com/",
+    "address": "\n1099 S Wells St, Meridian, ID 83642, United States",
+    "city": "South Meridian",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Mikowski+Real+Estate+at+Silvercreek+Realty/data=!4m7!3m6!1s0x54ae51521fe9d931:0x7d18b97b10d2c4!8m2!3d43.5946212!4d-116.3642879!16s%2Fg%2F11h06n4080!19sChIJMdnpH1JRrlQRxNIQe7kYfQA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Meridian"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

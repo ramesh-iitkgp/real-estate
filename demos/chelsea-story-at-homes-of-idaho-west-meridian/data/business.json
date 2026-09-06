@@ -1,0 +1,50 @@
+{
+    "business_name": "Chelsea Story At Homes Of Idaho",
+    "source_business_name": "Chelsea Story At Homes Of Idaho",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12087135415",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n3597 E Monarch Sky Ln Ste 320, Meridian, ID 83646, United States",
+    "city": "West Meridian",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "18",
+    "google_maps_url": "https://www.google.com/maps/place/Chelsea+Story+at+Homes+of+Idaho/data=!4m7!3m6!1s0x54ae55a081117221:0xee7d77a5436685ec!8m2!3d43.6208702!4d-116.3492708!16s%2Fg%2F11fps1x7y5!19sChIJIXIRgaBVrlQR7IVmQ6V3fe4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Meridian"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

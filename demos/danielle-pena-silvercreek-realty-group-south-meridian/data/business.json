@@ -1,0 +1,50 @@
+{
+    "business_name": "Danielle Pena Silvercreek Realty Group",
+    "source_business_name": "Danielle Pena Silvercreek Realty Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12089542397",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://daniellepena.silvercreekrealty.com/",
+    "address": "\n1099 S Wells St Ste 200, Meridian, ID 83642, United States",
+    "city": "South Meridian",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Danielle+Pena+Silvercreek+Realty+Group/data=!4m7!3m6!1s0x54ae578ff103a7a3:0x17243bf23b53d6d6!8m2!3d43.5946497!4d-116.3643453!16s%2Fg%2F11ny8h5lxf!19sChIJo6cD8Y9XrlQR1tZTO_I7JBc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Meridian"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
