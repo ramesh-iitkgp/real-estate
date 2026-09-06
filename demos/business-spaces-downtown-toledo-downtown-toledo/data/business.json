@@ -1,0 +1,50 @@
+{
+    "business_name": "Business Spaces",
+    "source_business_name": "Business Spaces",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14193465803",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n335 N Superior St, Toledo, OH 43604, United States",
+    "city": "Downtown Toledo",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Business+Spaces+Downtown+Toledo/data=!4m7!3m6!1s0x883b8729f9ef77bf:0x549f1bf95730f556!8m2!3d41.6528853!4d-83.5353421!16s%2Fg%2F11fv17w3__!19sChIJv3fv-SmHO4gRVvUwV_kbn1Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Toledo"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

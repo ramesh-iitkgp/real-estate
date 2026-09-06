@@ -1,0 +1,50 @@
+{
+    "business_name": "Monica Craig Real Estate Agent With Howard Hanna",
+    "source_business_name": "Monica Craig Real Estate Agent With Howard Hanna",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17062037301",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://monicacraig.howardhanna.com/",
+    "address": "\n2460 N Reynolds Rd, Toledo, OH 43615, United States",
+    "city": "North Toledo",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Monica+Craig+Real+estate+agent%2F+with+Howard+Hanna/data=!4m7!3m6!1s0x888ccd61e0e08f2b:0xb510df73d5b3df51!8m2!3d41.6675854!4d-83.6673812!16s%2Fg%2F11h6lq1nwx!19sChIJK4_g4GHNjIgRUd-z1XPfELU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Toledo"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "The Fesh Group The Danberry Company",
+    "source_business_name": "The Fesh Group The Danberry Company",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14193464081",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://vickifesh.danberry.com/",
+    "address": "\n3242 Executive Pkwy, Toledo, OH 43606, United States",
+    "city": "Greater Toledo",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/The+Fesh+Group,+The+Danberry+Company/data=!4m7!3m6!1s0x883c7f979344c3b7:0xb69d1212ac3fa705!8m2!3d41.6798856!4d-83.6280777!16s%2Fg%2F11fsn5zqmx!19sChIJt8NEk5d_PIgRBac_rBISnbY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Greater Toledo"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

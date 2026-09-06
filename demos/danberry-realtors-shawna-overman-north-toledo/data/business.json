@@ -1,0 +1,50 @@
+{
+    "business_name": "Danberry Realtors Shawna Overman",
+    "source_business_name": "Danberry Realtors Shawna Overman",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14195086737",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://shawnaoverman.danberry.com/",
+    "address": "\n3242 Executive Pkwy Unit 101, Toledo, OH 43606, United States",
+    "city": "North Toledo",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Danberry+Realtors:+Shawna+Overman/data=!4m7!3m6!1s0x883c7ffde53b48b7:0xd483a482a64d63d0!8m2!3d41.6798855!4d-83.6280775!16s%2Fg%2F11h75ztg0w!19sChIJt0g75f1_PIgR0GNNpoKkg9Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Toledo"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

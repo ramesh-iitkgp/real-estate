@@ -1,0 +1,50 @@
+{
+    "business_name": "John Tyler Adams Blacktree Realty",
+    "source_business_name": "John Tyler Adams Blacktree Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14197794933",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n2428 W Sylvania Ave, Toledo, OH 43613, United States",
+    "city": "Toledo",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/John+Tyler+Adams+%7C+Blacktree+Realty/data=!4m7!3m6!1s0x826394ad6097f0eb:0x696dd9b317693b79!8m2!3d41.6923892!4d-83.6024381!16s%2Fg%2F11wbxsh3ss!19sChIJ6_CXYK2UY4IReTtpF7PZbWk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Toledo"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
