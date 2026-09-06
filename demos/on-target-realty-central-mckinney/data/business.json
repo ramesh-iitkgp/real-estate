@@ -1,0 +1,50 @@
+{
+    "business_name": "On Target Realty",
+    "source_business_name": "On Target Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14694243003",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1500 Central Expy #274, McKinney, TX 75072, United States",
+    "city": "Central McKinney",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/On+Target+Realty/data=!4m7!3m6!1s0x864c13c23ac0c17d:0x8b3618c04bb6f172!8m2!3d33.18776!4d-96.640519!16s%2Fg%2F1v96m5pn!19sChIJfcHAOsITTIYRcvG2S8AYNos?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central McKinney"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

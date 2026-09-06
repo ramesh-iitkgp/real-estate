@@ -1,0 +1,50 @@
+{
+    "business_name": "Courtney Hugghins Realtor",
+    "source_business_name": "Courtney Hugghins Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12142809184",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://courtneyhugghins.remax.com/",
+    "address": "\n7701 Eldorado Pkwy Ste 400, McKinney, TX 75070, United States",
+    "city": "West McKinney",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Courtney+Hugghins,+REALTOR/data=!4m7!3m6!1s0x864c15a328bd4f8f:0x9391b8864d61a9a2!8m2!3d33.173668!4d-96.7179177!16s%2Fg%2F12lt9xygv!19sChIJj0-9KKMVTIYRoqlhTYa4kZM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West McKinney"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

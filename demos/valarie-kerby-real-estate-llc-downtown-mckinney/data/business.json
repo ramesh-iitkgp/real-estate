@@ -1,0 +1,50 @@
+{
+    "business_name": "Valarie Kerby Real Estate Llc",
+    "source_business_name": "Valarie Kerby Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12147185200",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.valariekerby.net/",
+    "address": "\n7701 Eldorado Pkwy Ste 400, McKinney, TX 75070, United States",
+    "city": "Downtown McKinney",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Valarie+Kerby+Real+Estate+LLC+-/data=!4m7!3m6!1s0x864c13b5f36c0001:0xe8e7531cc52b9236!8m2!3d33.1738086!4d-96.7178362!16s%2Fg%2F1wn_6hpz!19sChIJAQBs87UTTIYRNpIrxRxT5-g?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown McKinney"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
