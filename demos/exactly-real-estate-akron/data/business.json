@@ -1,0 +1,50 @@
+{
+    "business_name": "Exactly Real Estate",
+    "source_business_name": "Exactly Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13306151414",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://exactlyusa.com/",
+    "address": "\n2998 W Market St, Fairlawn, OH 44333, United States",
+    "city": "Akron",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Exactly+Real+Estate/data=!4m7!3m6!1s0x8830d713bb1e8367:0x25dd3ab9a20b0096!8m2!3d41.1278522!4d-81.6102077!16s%2Fg%2F11j4ww6nk2!19sChIJZ4MeuxPXMIgRlgALork63SU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Akron"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

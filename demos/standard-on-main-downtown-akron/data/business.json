@@ -1,0 +1,50 @@
+{
+    "business_name": "Standard On Main",
+    "source_business_name": "Standard On Main",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13303751183",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.standardonmain-akron.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=website",
+    "address": "\n22 E Exchange St, Akron, OH 44308, United States",
+    "city": "Downtown Akron",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Standard+on+Main/data=!4m7!3m6!1s0x8830d71c1c902e03:0x54ef6f7cc069a5!8m2!3d41.0759842!4d-81.521189!16s%2Fg%2F11rbdwvd51!19sChIJAy6QHBzXMIgRpWnAfG_vVAA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Akron"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Tony Vallee Berkshire Hathaway Homeservices Simon & Salhany Realty",
+    "source_business_name": "Tony Vallee Berkshire Hathaway Homeservices Simon & Salhany Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13307302151",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n205 W Portage Trl, Cuyahoga Falls, OH 44223, United States",
+    "city": "Central Akron",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Tony+Vallee,+Berkshire+Hathaway+HomeServices+Simon+%26+Salhany+Realty/data=!4m7!3m6!1s0x8831279c14d77101:0xbd7c030051d7c72f!8m2!3d41.1451713!4d-81.5148379!16s%2Fg%2F11jgpd0nbn!19sChIJAXHXFJwnMYgRL8fXUQADfL0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Akron"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Anthony Glasser Greater Akron-Canton Realtor",
+    "source_business_name": "Anthony Glasser Greater Akron-Canton Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13302064576",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.anthonyglasser.kw.com/",
+    "address": "\n4974 Higbee Ave NW Ste 201, Canton, OH 44718, United States",
+    "city": "Greater Akron",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Anthony+Glasser,+Greater+Akron-Canton+REALTOR%C2%AE/data=!4m7!3m6!1s0x8836d72626ed76a9:0x5d526a41174672a5!8m2!3d40.8535223!4d-81.4271437!16s%2Fg%2F11h9gd7ygy!19sChIJqXbtJibXNogRpXJGF0FqUl0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Greater Akron"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

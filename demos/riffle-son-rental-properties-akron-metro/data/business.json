@@ -1,0 +1,50 @@
+{
+    "business_name": "Riffle & Son Rental Properties",
+    "source_business_name": "Riffle & Son Rental Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13307533938",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1922 Manchester Rd, Akron, OH 44314, United States",
+    "city": "Akron Metro",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Riffle+%26+Son+Rental+Properties/data=!4m7!3m6!1s0x8830d5d9939e4f5d:0x41ebff6ce5364b5e!8m2!3d41.046771!4d-81.5473089!16s%2Fg%2F1tw1fgpx!19sChIJXU-ek9nVMIgRXks25Wz_60E?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Akron Metro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Mark Young - Ohio Real Estate Agent - Exp Realty",
+    "source_business_name": "Mark Young - Ohio Real Estate Agent - Exp Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13302899433",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://themarkyoungteam.exprealty.com/",
+    "address": "\n2857 Riviera Dr Ste 201, Fairlawn, OH 44333, United States",
+    "city": "North Akron",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Mark+Young+-+Ohio+Real+Estate+Agent+-+eXp+Realty/data=!4m7!3m6!1s0x8830d0a93c2a0a6d:0xf31f189bd8b94128!8m2!3d41.1282076!4d-81.6127208!16s%2Fg%2F11f15g2nb7!19sChIJbQoqPKnQMIgRKEG52JsYH_M?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Akron"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

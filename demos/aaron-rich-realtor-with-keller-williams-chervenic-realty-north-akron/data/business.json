@@ -1,0 +1,50 @@
+{
+    "business_name": "Aaron Rich Realtor With Keller Williams Chervenic Realty",
+    "source_business_name": "Aaron Rich Realtor With Keller Williams Chervenic Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13302848220",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n300 N Cleveland Massillon Rd #200, Akron, OH 44333, United States",
+    "city": "North Akron",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Aaron+Rich,+REALTOR+with+Keller+Williams+Chervenic+Realty/data=!4m7!3m6!1s0x8830d1b6a832bf07:0xaa78d820dc419281!8m2!3d41.1442895!4d-81.6379717!16s%2Fg%2F11rg315cqj!19sChIJB78yqLbRMIgRgZJB3CDYeKo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Akron"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Allen Albaugh Real Estate Team W Cutler Real Estate",
+    "source_business_name": "Allen Albaugh Real Estate Team W Cutler Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13303233804",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www-allenalbaughteam.cutlerhomes.com/shared/human/pow.php?return=https%3A%2F%2Fwww-allenalbaughteam.cutlerhomes.com%2F",
+    "address": "\n971 East Turkeyfoot Lake Road, Akron, OH 44312, United States",
+    "city": "Central Akron",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Allen+Albaugh+Real+Estate+Team+w%2F+Cutler+Real+Estate/data=!4m7!3m6!1s0x88312bb18932b6d7:0x744af5359321bc85!8m2!3d40.9750553!4d-81.4894129!16s%2Fg%2F11gxk5jfb5!19sChIJ17YyibErMYgRhbwhkzX1SnQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Akron"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

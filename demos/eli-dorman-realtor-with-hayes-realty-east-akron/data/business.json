@@ -1,0 +1,50 @@
+{
+    "business_name": "Eli Dorman Realtor With Hayes Realty",
+    "source_business_name": "Eli Dorman Realtor With Hayes Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13309073891",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.zillow.com/profile/dormansells",
+    "address": "",
+    "city": "East Akron",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Eli+Dorman,+Realtor+with+HAYES+REALTY/data=!4m7!3m6!1s0x80fa888e1e89faa7:0x9ac7b62c330ea57f!8m2!3d41.0841035!4d-81.513217!16s%2Fg%2F11q3_5xp8r!19sChIJp_qJHo6I-oARf6UOMyy2x5o?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Akron"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
