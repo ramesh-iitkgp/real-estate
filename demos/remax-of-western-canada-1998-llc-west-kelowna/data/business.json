@@ -1,0 +1,50 @@
+{
+    "business_name": "Remax Of Western Canada 1998 Llc",
+    "source_business_name": "Remax Of Western Canada 1998 Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12508603628",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.remax.ca/",
+    "address": "\n1060 Manhattan Dr #340, Kelowna, BC V1Y 9X9, Canada",
+    "city": "West Kelowna",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/RE%2FMAX+of+Western+Canada+%281998%29,+LLC/data=!4m7!3m6!1s0x537df35e2f4c6843:0xe6f32568581e492f!8m2!3d49.8970774!4d-119.4962159!16s%2Fg%2F1tdmpqzh!19sChIJQ2hML17zfVMRL0keWGgl8-Y?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Kelowna"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

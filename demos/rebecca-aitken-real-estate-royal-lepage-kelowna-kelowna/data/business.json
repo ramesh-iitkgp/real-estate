@@ -1,0 +1,50 @@
+{
+    "business_name": "Rebecca Aitken Real Estate Royal Lepage",
+    "source_business_name": "Rebecca Aitken Real Estate Royal Lepage",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12503006108",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://rebeccaaitken.royallepage.ca/",
+    "address": "\n1890 Cooper Rd #1, Kelowna, BC V1Y 8K5, Canada",
+    "city": "Kelowna",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Rebecca+Aitken+Real+Estate+%2F+Royal+LePage+Kelowna/data=!4m7!3m6!1s0x537d8d693b86e1af:0x493ddf9be25d7228!8m2!3d49.8795187!4d-119.4436834!16s%2Fg%2F11h3l5s_ll!19sChIJr-GGO2mNfVMRKHJd4pvfPUk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Kelowna"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

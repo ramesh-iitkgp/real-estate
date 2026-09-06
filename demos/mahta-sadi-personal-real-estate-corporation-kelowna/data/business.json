@@ -1,0 +1,50 @@
+{
+    "business_name": "Mahta Sadi Personal Real Estate Corporation",
+    "source_business_name": "Mahta Sadi Personal Real Estate Corporation",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12508638566",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.mahtasadi.com/",
+    "address": "\n473 Bernard Ave, Kelowna, BC V1Y 6N8, Canada",
+    "city": "Kelowna",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Mahta+Sadi+%7C+Personal+Real+Estate+Corporation/data=!4m7!3m6!1s0x537df55e1ea1e18d:0xd65559c3cec2577e!8m2!3d49.886062!4d-119.4938944!16s%2Fg%2F11f7r4dkz6!19sChIJjeGhHl71fVMRflfCzsNZVdY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Kelowna"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Sam Belete Realty",
+    "source_business_name": "Sam Belete Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12503516029",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://sambelete.royallepage.ca/",
+    "address": "\n1890 Cooper Rd, Kelowna, BC V1Y 8V7, Canada",
+    "city": "North Kelowna",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Sam+Belete+Realty/data=!4m7!3m6!1s0xa84a540ef7575b9:0x89d9a86d3aa6547a!8m2!3d49.8796867!4d-119.4440757!16s%2Fg%2F11svwjf9lr!19sChIJuXV170ClhAoRelSmOm2o2Yk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Kelowna"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

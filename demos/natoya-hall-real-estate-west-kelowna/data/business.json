@@ -1,0 +1,50 @@
+{
+    "business_name": "Natoya Hall Real Estate",
+    "source_business_name": "Natoya Hall Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12508646220",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.natoyahallrealestate.ca/",
+    "address": "\n2475 Dobbin Rd #11, West Kelowna, BC V4T 2E9, Canada",
+    "city": "West Kelowna",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Natoya+Hall+Real+Estate/data=!4m7!3m6!1s0x537d8cb7e7de8e4b:0x12deeebdb4a0f101!8m2!3d49.828279!4d-119.6295149!16s%2Fg%2F11fzrwjgp8!19sChIJS47e57eMfVMRAfGgtL3u3hI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Kelowna"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

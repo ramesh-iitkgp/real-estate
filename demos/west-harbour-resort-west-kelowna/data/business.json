@@ -1,0 +1,50 @@
+{
+    "business_name": "West Harbour Resort",
+    "source_business_name": "West Harbour Resort",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12508263623",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://westharbourkelowna.com/",
+    "address": "\n1700 Harbour View Blvd, Kelowna, BC V1Z 4E1, Canada",
+    "city": "West Kelowna",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/West+Harbour+Resort/data=!4m7!3m6!1s0x537df4ebb239a7cd:0x765f05791aff37b4!8m2!3d49.8872868!4d-119.5355108!16s%2Fg%2F1hhx7kv01!19sChIJzac5suv0fVMRtDf_GnkFX3Y?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Kelowna"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

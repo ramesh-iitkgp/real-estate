@@ -1,0 +1,50 @@
+{
+    "business_name": "Ledge On Lakeshore",
+    "source_business_name": "Ledge On Lakeshore",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "833) 574-2501",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n3781 Lakeshore Road #901, Kelowna, BC V1W 0C7",
+    "city": "Kelowna",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Ledge+on+Lakeshore/data=!4m7!3m6!1s0x537d8b305119a94f:0x5bb7958e3faa75be!8m2!3d49.847545!4d-119.482696!16s%2Fg%2F11twcp76pl!19sChIJT6kZUTCLfVMRvnWqP46Vt1s?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Kelowna"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

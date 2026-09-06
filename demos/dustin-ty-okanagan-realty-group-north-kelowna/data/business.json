@@ -1,0 +1,50 @@
+{
+    "business_name": "Dustin & Ty Okanagan Realty Group",
+    "source_business_name": "Dustin & Ty Okanagan Realty Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12508084331",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1631 Dickson Ave 11th floor, Kelowna, BC V1Y 0B5, Canada",
+    "city": "North Kelowna",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Dustin+%26+Ty+Okanagan+Realty+Group/data=!4m7!3m6!1s0x537d8d8b02d9c71b:0x556c5ccb9aecb094!8m2!3d49.8802815!4d-119.4612693!16s%2Fg%2F11fkt6zyq6!19sChIJG8fZAouNfVMRlLDsmstcbFU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Kelowna"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

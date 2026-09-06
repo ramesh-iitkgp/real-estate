@@ -1,0 +1,50 @@
+{
+    "business_name": "Westrich Bay Sales Centre",
+    "source_business_name": "Westrich Bay Sales Centre",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "250) 869-2994",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1665 Ellis Street 101 Suite 101, Kelowna, BC V1Y 2B3",
+    "city": "Kelowna",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Westrich+Bay+Sales+Centre/data=!4m7!3m6!1s0x537df5b20e51a813:0x57b156dd818b7a7!8m2!3d49.884202!4d-119.493088!16s%2Fg%2F11kqd9xspd!19sChIJE6hRDrL1fVMRp7cY2G0VewU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Kelowna"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

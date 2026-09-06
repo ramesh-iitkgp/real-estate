@@ -1,0 +1,50 @@
+{
+    "business_name": "Vantage West Realty Inc - Kelowna Real Estate",
+    "source_business_name": "Vantage West Realty Inc - Kelowna Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12507173133",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.vantagewestrealty.com/",
+    "address": "\n1060 Manhattan Dr Suite 100, Kelowna, BC V1Y 9X9, Canada",
+    "city": "Kelowna",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Vantage+West+Realty+Inc.+-+Kelowna+Real+Estate/data=!4m7!3m6!1s0x537df35898f61d2f:0x2c21dc68d821e123!8m2!3d49.8970454!4d-119.4961379!16s%2Fg%2F1tm29bs_!19sChIJLx32mFjzfVMRI-Eh2GjcISw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Kelowna"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

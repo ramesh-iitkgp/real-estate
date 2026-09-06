@@ -1,0 +1,50 @@
+{
+    "business_name": "Gabriel Makortoff Real Estate Agent",
+    "source_business_name": "Gabriel Makortoff Real Estate Agent",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12505513318",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://gabriel-makortoff.remax-kelowna.ca/",
+    "address": "\n1553 Harvey Ave #100, Kelowna, BC V1Y 6G1, Canada",
+    "city": "Kelowna Metro",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Gabriel+Makortoff+Real+Estate+Agent/data=!4m7!3m6!1s0x537d8dcd02a82bf7:0xb6e2e7622e723224!8m2!3d49.8814122!4d-119.4650495!16s%2Fg%2F11yrbpy3xy!19sChIJ9yuoAs2NfVMRJDJyLmLn4rY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Kelowna Metro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

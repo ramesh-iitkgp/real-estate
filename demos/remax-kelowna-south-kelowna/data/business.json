@@ -1,0 +1,50 @@
+{
+    "business_name": "Remax Kelowna",
+    "source_business_name": "Remax Kelowna",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12507175000",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.remaxkelowna.com/",
+    "address": "\n1553 Harvey Ave #100, Kelowna, BC V1Y 6G1, Canada",
+    "city": "South Kelowna",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/REMAX+Kelowna/data=!4m7!3m6!1s0x537d8cb2844af485:0x445edbd6938836fe!8m2!3d49.88141!4d-119.464937!16s%2Fg%2F1v3drtdt!19sChIJhfRKhLKMfVMR_jaIk9bbXkQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Kelowna"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
