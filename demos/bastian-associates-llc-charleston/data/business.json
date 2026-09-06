@@ -1,0 +1,50 @@
+{
+    "business_name": "Bastian & Associates Llc",
+    "source_business_name": "Bastian & Associates Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18432240771",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://bastianandassociates.com/",
+    "address": "\n308A Gamecock Ave, Charleston, SC 29407, United States",
+    "city": "Charleston",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Bastian+%26+Associates,+LLC/data=!4m7!3m6!1s0x88fe7a0fb379c867:0x4dd3fec8b2ea46a1!8m2!3d32.82077!4d-79.993796!16s%2Fg%2F11c5bstr2n!19sChIJZ8h5sw96_ogRoUbqssj-000?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Charleston"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

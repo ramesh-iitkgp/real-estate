@@ -1,0 +1,50 @@
+{
+    "business_name": "Daniel Island Real Estate",
+    "source_business_name": "Daniel Island Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18439717100",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.danielisland.com/",
+    "address": "\n101 River Landing Dr Dock, Charleston, SC 29492, United States",
+    "city": "Charleston",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Daniel+Island+Real+Estate/data=!4m7!3m6!1s0x88fe6fe40dc5b1fb:0x4c1a9b3d7b84a1cb!8m2!3d32.8560673!4d-79.903692!16s%2Fg%2F1tflyrgw!19sChIJ-7HFDeRv_ogRy6GEez2bGkw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Charleston"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

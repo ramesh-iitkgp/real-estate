@@ -1,0 +1,50 @@
+{
+    "business_name": "Rainbow Row Real Estate",
+    "source_business_name": "Rainbow Row Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18434691338",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.rainbowrowrealestate.com/",
+    "address": "\n4700 Marlboro Rd, North Charleston, SC 29405, United States",
+    "city": "North Charleston",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Rainbow+Row+Real+Estate/data=!4m7!3m6!1s0x88fe659f151281b3:0x37f256bc1c772a48!8m2!3d32.8791853!4d-79.9898668!16s%2Fg%2F11spr6xc5h!19sChIJs4ESFZ9l_ogRSCp3HLxW8jc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Charleston"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

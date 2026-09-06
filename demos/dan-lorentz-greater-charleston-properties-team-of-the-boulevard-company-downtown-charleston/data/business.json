@@ -1,0 +1,50 @@
+{
+    "business_name": "Dan Lorentz- Greater Charleston Properties Team Of The Boulevard Company",
+    "source_business_name": "Dan Lorentz- Greater Charleston Properties Team Of The Boulevard Company",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18435324653",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.charlestonrealestate.properties/",
+    "address": "\n811 Savannah Hwy, Charleston, SC 29407, United States",
+    "city": "Downtown Charleston",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Dan+Lorentz-+Greater+Charleston+Properties+Team+of+The+Boulevard+Company/data=!4m7!3m6!1s0x88fe79707f30c75b:0xe3d814e424c22efe!8m2!3d32.7817116!4d-79.9854022!16s%2Fg%2F113j61skv!19sChIJW8cwf3B5_ogR_i7CJOQU2OM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Charleston"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

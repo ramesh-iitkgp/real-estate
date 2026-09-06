@@ -1,0 +1,50 @@
+{
+    "business_name": "Carolina One Real Estate Charleston Central",
+    "source_business_name": "Carolina One Real Estate Charleston Central",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18435565800",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.carolinaone.com/shared/human/pow.php?return=https%3A%2F%2Fwww.carolinaone.com%2Fcc",
+    "address": "\n873 Orleans Rd #102, Charleston, SC 29407, United States",
+    "city": "Charleston",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Carolina+One+Real+Estate+Charleston+Central/data=!4m7!3m6!1s0x88fe7c6ae2a17c09:0x4a9d862f7cbf6d9d!8m2!3d32.7960132!4d-80.0289022!16s%2Fg%2F1thqhm8x!19sChIJCXyh4mp8_ogRnW2_fC-GnUo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Charleston"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

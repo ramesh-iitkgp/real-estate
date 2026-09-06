@@ -1,0 +1,50 @@
+{
+    "business_name": "Chandler Crenshaw Keller Williams Real Estate Agents",
+    "source_business_name": "Chandler Crenshaw Keller Williams Real Estate Agents",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18437149053",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://greatercharlestonagents.com/",
+    "address": "\n1180 Sam Rittenberg Blvd Ste 300, Charleston, SC 29407, United States",
+    "city": "Charleston",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Chandler+Crenshaw+Keller+Williams+Real+Estate+Agents/data=!4m7!3m6!1s0x88fc2d43764789fb:0x1bbd588e874b953c!8m2!3d32.8176919!4d-79.99434!16s%2Fg%2F11vwd87j2k!19sChIJ-4lHdkMt_IgRPJVLh45YvRs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Charleston"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
