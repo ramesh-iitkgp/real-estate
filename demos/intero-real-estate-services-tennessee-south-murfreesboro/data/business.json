@@ -1,0 +1,50 @@
+{
+    "business_name": "Intero Real Estate Services Tennessee",
+    "source_business_name": "Intero Real Estate Services Tennessee",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16152781700",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.intero.com/",
+    "address": "\n3173 S Church St, Murfreesboro, TN 37127, United States",
+    "city": "South Murfreesboro",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Intero+Real+Estate+Services+Tennessee/data=!4m7!3m6!1s0x8863f9f31f68d77d:0x1f16908aa2b141da!8m2!3d35.7823078!4d-86.3998025!16s%2Fg%2F11d_x51252!19sChIJfddoH_P5Y4gR2kGxooqQFh8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Murfreesboro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

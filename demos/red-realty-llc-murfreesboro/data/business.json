@@ -1,0 +1,50 @@
+{
+    "business_name": "Red Realty Llc",
+    "source_business_name": "Red Realty Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16158962733",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.redrealty.com/",
+    "address": "\n1574 Medical Center Pkwy Ste 202, Murfreesboro, TN 37129, United States",
+    "city": "Murfreesboro",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Red+Realty,+LLC/data=!4m7!3m6!1s0x8864079b8ff383cb:0x355b734792d7dba3!8m2!3d35.8609611!4d-86.4203917!16s%2Fg%2F1tfjrfkq!19sChIJy4Pzj5sHZIgRo9vXkkdzWzU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Murfreesboro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

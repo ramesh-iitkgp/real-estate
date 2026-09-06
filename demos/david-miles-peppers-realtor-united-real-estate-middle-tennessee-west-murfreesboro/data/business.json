@@ -1,0 +1,50 @@
+{
+    "business_name": "David Miles-Peppers Realtor- United Real Estate Middle Tennessee",
+    "source_business_name": "David Miles-Peppers Realtor- United Real Estate Middle Tennessee",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16155547734",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://davidmiles-peppers.homesforsalemiddletn.com/",
+    "address": "\n1602 W Northfield Blvd Ste 1, Murfreesboro, TN 37129, United States",
+    "city": "West Murfreesboro",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/David+Miles-Peppers,+Realtor-+United+Real+Estate+Middle+Tennessee/data=!4m7!3m6!1s0x8864077db275ac5f:0x28d5e90710ee3dcd!8m2!3d35.8715362!4d-86.4136406!16s%2Fg%2F11ksnvdv1_!19sChIJX6x1sn0HZIgRzT3uEAfp1Sg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Murfreesboro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

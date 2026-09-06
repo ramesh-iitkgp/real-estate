@@ -1,0 +1,50 @@
+{
+    "business_name": "Ole South Homes - Corporate Offices",
+    "source_business_name": "Ole South Homes - Corporate Offices",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16152195644",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.olesouth.com/",
+    "address": "\n262 Robert Rose Dr Ste 300, Murfreesboro, TN 37129, United States",
+    "city": "South Murfreesboro",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Ole+South+Homes+-+Corporate+Offices/data=!4m7!3m6!1s0x8863f86f3db35cd9:0xf78317a4f12d59fa!8m2!3d35.8513987!4d-86.4249786!16s%2Fg%2F1tj9cqxw!19sChIJ2VyzPW_4Y4gR-lkt8aQXg_c?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Murfreesboro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

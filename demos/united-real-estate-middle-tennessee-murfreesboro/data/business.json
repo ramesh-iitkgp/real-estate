@@ -1,0 +1,50 @@
+{
+    "business_name": "United Real Estate Middle Tennessee",
+    "source_business_name": "United Real Estate Middle Tennessee",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16156248380",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.homesforsalemiddletn.com/",
+    "address": "\n1602 W Northfield Blvd #1, Murfreesboro, TN 37129, United States",
+    "city": "Murfreesboro",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/United+Real+Estate+Middle+Tennessee/data=!4m7!3m6!1s0x886407fb5c702c5b:0xbef1c27bbf00bf94!8m2!3d35.87167!4d-86.4130982!16s%2Fg%2F11f0_fxq04!19sChIJWyxwXPsHZIgRlL8Av3vC8b4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Murfreesboro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
