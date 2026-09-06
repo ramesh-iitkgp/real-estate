@@ -1,0 +1,50 @@
+{
+    "business_name": "Eric Mitchell Real Estate - Greenville Sc Realtor",
+    "source_business_name": "Eric Mitchell Real Estate - Greenville Sc Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18643257054",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.ericmitchellrealestate.com/",
+    "address": "\n1016 Woods Crossing Rd Ste 7054, Greenville, SC 29607, United States",
+    "city": "Downtown Greenville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Eric+Mitchell+Real+Estate+-+Greenville+SC+Realtor/data=!4m7!3m6!1s0x88582f2604d90df7:0x117db3b16e98ae78!8m2!3d34.8477196!4d-82.3310519!16s%2Fg%2F11fwbjgl9f!19sChIJ9w3ZBCYvWIgReK6YbrGzfRE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Greenville"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

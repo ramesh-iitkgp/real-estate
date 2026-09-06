@@ -1,0 +1,50 @@
+{
+    "business_name": "Reznik Real Estate Llc",
+    "source_business_name": "Reznik Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18647475561",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://tanyac.homes/",
+    "address": "\n301 N Main St #1121, Greenville, SC 29601, United States",
+    "city": "Downtown Greenville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Reznik+Real+Estate+LLC/data=!4m7!3m6!1s0x242666df4180e13d:0xac21281f7cbff315!8m2!3d34.8546729!4d-82.3981508!16s%2Fg%2F11vprxy692!19sChIJPeGAQd9mJiQRFfO_fB8oIaw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Greenville"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

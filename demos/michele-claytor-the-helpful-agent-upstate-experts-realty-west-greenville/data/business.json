@@ -1,0 +1,50 @@
+{
+    "business_name": "Michele Claytor The Helpful Agent Upstate Experts Realty",
+    "source_business_name": "Michele Claytor The Helpful Agent Upstate Experts Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18643992583",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n582 Perry Ave, Greenville, SC 29611, United States",
+    "city": "West Greenville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Michele+Claytor+The+helpful+Agent@+Upstate+Experts+Realty/data=!4m7!3m6!1s0x885831d93b05ffa5:0xe5d4c9728d8b79d6!8m2!3d34.8477161!4d-82.4297706!16s%2Fg%2F11h1vb_wnj!19sChIJpf8FO9kxWIgR1nmLjXLJ1OU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Greenville"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Realestatern",
+    "source_business_name": "Realestatern",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12525603692",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://mistyandrews.bhhsprimepropertiesgreenvillenc.com/",
+    "address": "\n2625 Charles Blvd, Greenville, NC 27858, United States",
+    "city": "North Greenville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/RealEstateRN/data=!4m7!3m6!1s0x89aedd8d0ea60f9b:0x8a25ee8b3c4b4443!8m2!3d35.5800356!4d-77.3562957!16s%2Fg%2F11ymnbz150!19sChIJmw-mDo3drokRQ0RLPIvuJYo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Greenville"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

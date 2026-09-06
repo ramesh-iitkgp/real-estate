@@ -1,0 +1,50 @@
+{
+    "business_name": "Christy Wallace Realty",
+    "source_business_name": "Christy Wallace Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12527145888",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://christywallace.exprealty.com/",
+    "address": "",
+    "city": "North Greenville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Christy+Wallace+Realty/data=!4m7!3m6!1s0x89aeddac5a927e7d:0xe9e56a634a194fb6!8m2!3d34.995528!4d-77.335789!16s%2Fg%2F11nn01sxfn!19sChIJfX6SWqzdrokRtk8ZSmNq5ek?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Greenville"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
