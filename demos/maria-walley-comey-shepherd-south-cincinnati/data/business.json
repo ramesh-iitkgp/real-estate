@@ -1,0 +1,50 @@
+{
+    "business_name": "Maria Walley Comey & Shepherd",
+    "source_business_name": "Maria Walley Comey & Shepherd",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15134475858",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n2200 Victory Pkwy Apt 501, Cincinnati, OH 45206, United States",
+    "city": "South Cincinnati",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Maria+Walley+,+Comey+%26+Shepherd/data=!4m7!3m6!1s0x8841b3cdd6e2d217:0xa3ec16cf8a2ff01b!8m2!3d39.119893!4d-84.4853066!16s%2Fg%2F11gbwvv1y2!19sChIJF9Li1s2zQYgRG_Avis8W7KM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Cincinnati"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

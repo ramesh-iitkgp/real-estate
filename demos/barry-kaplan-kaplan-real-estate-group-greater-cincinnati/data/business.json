@@ -1,0 +1,50 @@
+{
+    "business_name": "Barry Kaplan Kaplan Real Estate Group",
+    "source_business_name": "Barry Kaplan Kaplan Real Estate Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15133689000",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n7870 E Kemper Rd Ste 100, Cincinnati, OH 45249, United States",
+    "city": "Greater Cincinnati",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Barry+Kaplan:+Kaplan+Real+Estate+Group/data=!4m7!3m6!1s0x8841ac8aba15aca9:0xf09f957358e1cf09!8m2!3d39.2810684!4d-84.3490147!16s%2Fg%2F1tm2bbyd!19sChIJqawVuoqsQYgRCc_hWHOVn_A?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Greater Cincinnati"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

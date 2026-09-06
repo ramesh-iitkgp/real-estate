@@ -1,0 +1,50 @@
+{
+    "business_name": "We Buy Houses Cincinnati",
+    "source_business_name": "We Buy Houses Cincinnati",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15138781677",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://cincinnati.webuyhouses.com/?utm_source=gbp",
+    "address": "\n230 Northland Blvd Ste 312, Cincinnati, OH 45246, United States",
+    "city": "Cincinnati Metro",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/We+Buy+Houses+Cincinnati/data=!4m7!3m6!1s0x88404f1e8dc752b5:0x4774d6ffcac8e3ef!8m2!3d39.2834378!4d-84.4786863!16s%2Fg%2F11nrvj9nr5!19sChIJtVLHjR5PQIgR7-PIyv_WdEc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Cincinnati Metro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

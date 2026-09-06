@@ -1,0 +1,50 @@
+{
+    "business_name": "Exp Realty - Bobby Kelly",
+    "source_business_name": "Exp Realty - Bobby Kelly",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15135352427",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://bobbysellscincy.com/",
+    "address": "\n2752 Erie Ave Ste 11, Cincinnati, OH 45208, United States",
+    "city": "Cincinnati",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/eXp+Realty+-+Bobby+Kelly/data=!4m7!3m6!1s0x8840ff2eed215ce7:0xf5838175b29a645e!8m2!3d39.1397865!4d-84.4408683!16s%2Fg%2F11jr6wwbcv!19sChIJ51wh7S7_QIgRXmSasnWBg_U?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Cincinnati"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
