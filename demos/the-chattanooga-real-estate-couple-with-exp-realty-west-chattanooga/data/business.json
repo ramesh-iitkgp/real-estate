@@ -1,0 +1,50 @@
+{
+    "business_name": "The Chattanooga Real Estate Couple With Exp Realty",
+    "source_business_name": "The Chattanooga Real Estate Couple With Exp Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14237084663",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://patricksholl.exprealty.com",
+    "address": "",
+    "city": "West Chattanooga",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/The+Chattanooga+Real+Estate+Couple+with+eXp+Realty/data=!4m7!3m6!1s0x88605f7305b6cf7b:0xd9f451c7b0e2d0ce!8m2!3d33.517006!4d-85.5467256!16s%2Fg%2F11fwbkdcty!19sChIJe8-2BXNfYIgRztDisMdR9Nk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Chattanooga"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

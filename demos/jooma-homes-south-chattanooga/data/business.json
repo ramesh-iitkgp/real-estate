@@ -1,0 +1,50 @@
+{
+    "business_name": "Jooma Homes",
+    "source_business_name": "Jooma Homes",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14234328121",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://joomahomeschattanooga.com/",
+    "address": "\n101 W 21st St Suite C, Chattanooga, TN 37408, United States",
+    "city": "South Chattanooga",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jooma+Homes/data=!4m7!3m6!1s0x8860641e6bededb1:0x3df580d158091af3!8m2!3d35.0317619!4d-85.3111738!16s%2Fg%2F11f9xms5f5!19sChIJse3tax5kYIgR8xoJWNGA9T0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Chattanooga"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

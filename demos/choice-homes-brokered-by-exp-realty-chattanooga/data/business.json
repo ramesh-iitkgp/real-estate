@@ -1,0 +1,50 @@
+{
+    "business_name": "Choice Homes Brokered By Exp Realty",
+    "source_business_name": "Choice Homes Brokered By Exp Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14232433198",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.choicehomes.co/",
+    "address": "\n400 E Main St, Chattanooga, TN 37408, United States",
+    "city": "Chattanooga",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Choice+Homes+%7C+Brokered+by+EXP+Realty/data=!4m7!3m6!1s0x886064692730c769:0x6f44c4cd485b46a9!8m2!3d35.0340114!4d-85.3023519!16s%2Fg%2F11f__7497h!19sChIJaccwJ2lkYIgRqUZbSM3ERG8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Chattanooga"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
