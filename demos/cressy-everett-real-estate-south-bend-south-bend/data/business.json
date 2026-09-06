@@ -1,0 +1,50 @@
+{
+    "business_name": "Cressy & Everett Real Estate",
+    "source_business_name": "Cressy & Everett Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15742336141",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.cressyeverett.com/shared/human/pow.php?return=https%3A%2F%2Fwww.cressyeverett.com%2Fsouth-bend-realtors%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "address": "\n332 N Ironwood Dr, South Bend, IN 46615, United States",
+    "city": "South Bend",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Cressy+%26+Everett+Real+Estate+-+South+Bend/data=!4m7!3m6!1s0x8816cd9fd1454e95:0x94277d7981d24704!8m2!3d41.6805927!4d-86.2154049!16s%2Fg%2F1wcxdq3t!19sChIJlU5F0Z_NFogRBEfSgXl9J5Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Bend"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

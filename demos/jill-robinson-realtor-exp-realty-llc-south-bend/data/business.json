@@ -1,0 +1,50 @@
+{
+    "business_name": "Jill Robinson Realtor Exp Realty Llc",
+    "source_business_name": "Jill Robinson Realtor Exp Realty Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15742509980",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.jillrobinson.net/",
+    "address": "\n1251 N Eddy St #200, South Bend, IN 46617, United States",
+    "city": "South Bend",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jill+Robinson+REALTOR%C2%AE+eXp+Realty,+LLC/data=!4m7!3m6!1s0x8816cd8190f6ee63:0x1d113a918b17254c!8m2!3d41.692419!4d-86.2360649!16s%2Fg%2F11f3r5lg1w!19sChIJY-72kIHNFogRTCUXi5E6ER0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Bend"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/realtorjillrobinson/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
