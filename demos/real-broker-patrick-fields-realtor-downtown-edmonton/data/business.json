@@ -1,0 +1,50 @@
+{
+    "business_name": "Real Broker Patrick Fields Realtor",
+    "source_business_name": "Real Broker Patrick Fields Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17809152056",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://patrickfields.com/",
+    "address": "\n10180 101 St NW #3400, Edmonton, AB T5J 3S4, Canada",
+    "city": "Downtown Edmonton",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/REAL+Broker,+Patrick+Fields,+Realtor/data=!4m7!3m6!1s0x53a0246759c5d47f:0xaf57bc72ab9e4379!8m2!3d53.5426277!4d-113.494684!16s%2Fg%2F11gh09rg15!19sChIJf9TFWWckoFMReUOeq3K8V68?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Edmonton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

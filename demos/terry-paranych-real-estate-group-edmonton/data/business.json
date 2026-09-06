@@ -1,0 +1,50 @@
+{
+    "business_name": "Terry Paranych Real Estate Group",
+    "source_business_name": "Terry Paranych Real Estate Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17804574777",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.paranych.com/",
+    "address": "\n5603 199 St NW, Edmonton, AB T6M 0M8, Canada",
+    "city": "Edmonton",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Terry+Paranych+Real+Estate+Group/data=!4m7!3m6!1s0x53a0228d337be0fb:0xccc5e3c7b51fc7ac!8m2!3d53.4916175!4d-113.6641128!16s%2Fg%2F1yglpczj3!19sChIJ--B7M40ioFMRrMcftcfjxcw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Edmonton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

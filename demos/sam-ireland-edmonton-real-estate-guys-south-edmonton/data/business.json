@@ -1,0 +1,50 @@
+{
+    "business_name": "Sam Ireland Edmonton Real Estate Guys",
+    "source_business_name": "Sam Ireland Edmonton Real Estate Guys",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17808935483",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://samireland.edmontonhomesforsaleremaxrivercity.ca/",
+    "address": "\n10328 81 Ave NW Suite 304, Edmonton, AB T6E 1X3, Canada",
+    "city": "South Edmonton",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Sam+Ireland+%7C+Edmonton+Real+Estate+Guys/data=!4m7!3m6!1s0x53a01ff198f9cc07:0x7769f0c8b8bd6902!8m2!3d53.517283!4d-113.4960682!16s%2Fg%2F11j7fb90k1!19sChIJB8z5mPEfoFMRAmm9uMjwaXc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Edmonton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

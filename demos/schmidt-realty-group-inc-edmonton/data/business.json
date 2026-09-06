@@ -1,0 +1,50 @@
+{
+    "business_name": "Schmidt Realty Group Inc",
+    "source_business_name": "Schmidt Realty Group Inc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "780) 437-2030",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n4736 99 Street Northwest, Edmonton, Alberta T6E 5H5",
+    "city": "Edmonton",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Schmidt+Realty+Group+Inc/data=!4m7!3m6!1s0x53a018cae985aec7:0x45c8cfca57751575!8m2!3d53.485545!4d-113.486761!16s%2Fg%2F1tvrzdjv!19sChIJx66F6coYoFMRdRV1V8rPyEU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Edmonton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Michael Pelley Real Estate-Edmonton Realtor-Remax River City",
+    "source_business_name": "Michael Pelley Real Estate-Edmonton Realtor-Remax River City",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17809648866",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://michaelpelley.edmontonhomesforsaleremaxrivercity.ca/",
+    "address": "\n13120 St Albert Trail NW, Edmonton, AB T5L 4P6, Canada",
+    "city": "North Edmonton",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Michael+Pelley+Real+Estate-Edmonton+REALTOR-RE%2FMAX+River+City/data=!4m7!3m6!1s0x53a02554025ce273:0x3c818916b8f93d49!8m2!3d53.590999!4d-113.5677326!16s%2Fg%2F11n_91dvt7!19sChIJc-JcAlQloFMRST35uBaJgTw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Edmonton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

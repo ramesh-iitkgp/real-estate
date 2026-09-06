@@ -1,0 +1,50 @@
+{
+    "business_name": "Liv Real Estate",
+    "source_business_name": "Liv Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17804868655",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.livrealestate.ca/",
+    "address": "\n18831 111 Ave NW, Edmonton, AB T5S 2X4, Canada",
+    "city": "Edmonton",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Liv+Real+Estate%C2%AE/data=!4m7!3m6!1s0x53a021194db5730d:0xa031d1c6ba1434ae!8m2!3d53.55808!4d-113.6472942!16s%2Fg%2F1tt0qtd5!19sChIJDXO1TRkhoFMRrjQUusbRMaA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Edmonton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

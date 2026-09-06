@@ -1,0 +1,50 @@
+{
+    "business_name": "Remax Excellence",
+    "source_business_name": "Remax Excellence",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17804812950",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.excellenceyeg.com/",
+    "address": "\n5607 199 St NW #201, Edmonton, AB T6M 0M8, Canada",
+    "city": "West Edmonton",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/REMAX+Excellence/data=!4m7!3m6!1s0x53a02013bde17d79:0xe0e357a658166491!8m2!3d53.4916524!4d-113.664222!16s%2Fg%2F1v_0jfcz!19sChIJeX3hvRMgoFMRkWQWWKZX4-A?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Edmonton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

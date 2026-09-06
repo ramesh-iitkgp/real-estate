@@ -1,0 +1,50 @@
+{
+    "business_name": "Aaron Dulmage-Real Estate Agent- Exp Realty",
+    "source_business_name": "Aaron Dulmage-Real Estate Agent- Exp Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17809831575",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://aarondulmage.exprealty.com/index.php?advanced=1&display=&min=0&max=100000000&beds=0&baths=0&minfootage=0&maxfootage=30000&minacres=0&maxacres=0&yearbuilt=0&maxyearbuilt=0&walkscore=0&keywords=&sortby=listings.price+ASC&rtype=map&leadid=121140771",
+    "address": "\n10050 112 St NW STE 904, Edmonton, AB T5K 2J1, Canada",
+    "city": "Downtown Edmonton",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Aaron+Dulmage-Real+Estate+Agent-+Exp+Realty/data=!4m7!3m6!1s0x53a023bda3be89c1:0x651e62d19c93eb0b!8m2!3d53.5401537!4d-113.5144267!16s%2Fg%2F11ghpm7vry!19sChIJwYm-o70joFMRC-uTnNFiHmU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Edmonton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

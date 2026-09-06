@@ -1,0 +1,50 @@
+{
+    "business_name": "Amrit Deol - Edmonton & Area Realtor",
+    "source_business_name": "Amrit Deol - Edmonton & Area Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15879883886",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n10665 Jasper Ave Suite 1400, Edmonton, AB T5J 1G1, Canada",
+    "city": "Downtown Edmonton",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/AMRIT+DEOL+-+EDMONTON+%26+AREA+REALTOR/data=!4m7!3m6!1s0x53a023686880df69:0xdbb5cba24df1fa6e!8m2!3d53.5405774!4d-113.5041602!16s%2Fg%2F11stq3tjtv!19sChIJad-AaGgjoFMRbvrxTaLLtds?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Edmonton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

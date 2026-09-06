@@ -1,0 +1,50 @@
+{
+    "business_name": "Lizotte And Associates Real Estate Inc",
+    "source_business_name": "Lizotte And Associates Real Estate Inc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17804880888",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://lizotterealestate.com/",
+    "address": "\n10117 Jasper Ave #1200, Edmonton, AB T5J 1W8, Canada",
+    "city": "Downtown Edmonton",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Lizotte+and+Associates+Real+Estate+Inc./data=!4m7!3m6!1s0x4163a32fcd84d765:0xee087a401ed8064e!8m2!3d53.54072!4d-113.49434!16s%2Fg%2F11b6_k7cl7!19sChIJZdeEzS-jY0ERTgbYHkB6CO4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Edmonton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
