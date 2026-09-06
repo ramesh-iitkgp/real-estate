@@ -1,0 +1,50 @@
+{
+    "business_name": "Goldy Chatha-Remax Real Estate Centre Inc Brokerage",
+    "source_business_name": "Goldy Chatha-Remax Real Estate Centre Inc Brokerage",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14163175100",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.goldychatha.com/",
+    "address": "\n2 County Ct Blvd # 150, Brampton, ON L6W 3W8, Canada",
+    "city": "South Brampton",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Goldy+Chatha-Re%2Fmax+Real+Estate+Centre+Inc.+Brokerage/data=!4m7!3m6!1s0x882b3f8cddefb843:0xa9302574a1b22516!8m2!3d43.6628794!4d-79.7277186!16s%2Fg%2F11clhr3ntd!19sChIJQ7jv3Yw_K4gRFiWyoXQlMKk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Brampton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

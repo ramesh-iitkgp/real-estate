@@ -1,0 +1,50 @@
+{
+    "business_name": "Team Jassi & Paul Real Estate Professionals",
+    "source_business_name": "Team Jassi & Paul Real Estate Professionals",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16476182548",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://jassiandpaul.business.site/",
+    "address": "\n2720 N Park Dr #50, Brampton, ON L6S 0E9, Canada",
+    "city": "North Brampton",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Team+Jassi+%26+Paul+Real+Estate+Professionals/data=!4m7!3m6!1s0x882b22d2642dd495:0x2622532bedd8f7b0!8m2!3d43.7588276!4d-79.7169203!16s%2Fg%2F11f1xdkqcn!19sChIJldQtZNIiK4gRsPfY7StTIiY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Brampton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

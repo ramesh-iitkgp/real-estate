@@ -1,0 +1,50 @@
+{
+    "business_name": "Gopal Ranu Remax Gold",
+    "source_business_name": "Gopal Ranu Remax Gold",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16472940567",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://gopalranu.remaxgoldgta.com/",
+    "address": "\n2720 N Park Dr Unit# 50, Brampton, ON L6S 0E9, Canada",
+    "city": "North Brampton",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Gopal+Ranu+Re%2FMax+Gold/data=!4m7!3m6!1s0x882b3f0fde02e63d:0xd07c8868f2c50c45!8m2!3d43.7588847!4d-79.7168218!16s%2Fg%2F11gslrmv97!19sChIJPeYC3g8_K4gRRQzF8miIfNA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Brampton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

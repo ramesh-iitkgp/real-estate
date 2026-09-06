@@ -1,0 +1,50 @@
+{
+    "business_name": "Jagdeesh Kang Real Estate",
+    "source_business_name": "Jagdeesh Kang Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16475341828",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.homesbykang.com/",
+    "address": "\n201 County Ct Blvd #401, Brampton, ON L6W 4L2, Canada",
+    "city": "Brampton",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jagdeesh+Kang+Real+Estate/data=!4m7!3m6!1s0x882b3dc1e0855555:0xb62971ba5160c251!8m2!3d43.6602327!4d-79.7222052!16s%2Fg%2F11f5524n_1!19sChIJVVWF4ME9K4gRUcJgUbpxKbY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Brampton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Team Dave Merat Realty",
+    "source_business_name": "Team Dave Merat Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16479849694",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.davemerat.com/",
+    "address": "\n10 Cottrelle Blvd #302, Brampton, ON L6S 0E2, Canada",
+    "city": "Brampton",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Team+Dave+Merat+Realty/data=!4m7!3m6!1s0x882b3f96113ffff9:0x40302b78bf1377ce!8m2!3d43.7592582!4d-79.7162807!16s%2Fg%2F11f6625z4d!19sChIJ-f8_EZY_K4gRzncTv3grMEA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Brampton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

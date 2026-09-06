@@ -1,0 +1,50 @@
+{
+    "business_name": "Rabel Bhimani Real Estate Agent",
+    "source_business_name": "Rabel Bhimani Real Estate Agent",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16477131650",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n2 County Ct Blvd #2, Brampton, ON L6W 4V1, Canada",
+    "city": "Downtown Brampton",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Rabel+Bhimani,+Real+Estate+Agent/data=!4m7!3m6!1s0x882b3d7be7c792a5:0xc8d7112722512f2!8m2!3d43.6629165!4d-79.727803!16s%2Fg%2F11jmdt9yk2!19sChIJpZLH53s9K4gR8hIlchJxjQw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Brampton"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
