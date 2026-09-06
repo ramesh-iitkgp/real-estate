@@ -1,0 +1,50 @@
+{
+    "business_name": "Ryan And Bell Realty Partners",
+    "source_business_name": "Ryan And Bell Realty Partners",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12142728989",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.ryanandbell.com/",
+    "address": "\n2300 Valley View Ln Ste 509, Irving, TX 75062, United States",
+    "city": "Downtown Irving",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Ryan+and+Bell+Realty+Partners/data=!4m7!3m6!1s0x864e9f0d8d22276b:0xb483927d3619c732!8m2!3d32.8398359!4d-97.0208324!16s%2Fg%2F11bx2kbhp0!19sChIJaycijQ2fToYRMscZNn2Sg7Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Irving"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

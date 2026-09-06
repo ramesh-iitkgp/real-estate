@@ -1,0 +1,50 @@
+{
+    "business_name": "Las Colinas Heights",
+    "source_business_name": "Las Colinas Heights",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18664794239",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.liveatlascolinasheights.com/?switch_cls[id]=63388&utm_source=gmb",
+    "address": "\n3701 N O'Connor Rd, Irving, TX 75062, United States",
+    "city": "Central Irving",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "588",
+    "google_maps_url": "https://www.google.com/maps/place/Las+Colinas+Heights/data=!4m7!3m6!1s0x864e82ee5f58ad17:0xfba0b1cdb50dcab0!8m2!3d32.8568293!4d-96.951973!16s%2Fg%2F1tfk9f4r!19sChIJF61YX-6CToYRsMoNtc2xoPs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Irving"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Millennium Realtors Corporation",
+    "source_business_name": "Millennium Realtors Corporation",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19725507755",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.millenniumrealtors.com/",
+    "address": "\n1825 W Walnut Hill Ln #120, Irving, TX 75038, United States",
+    "city": "West Irving",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "6",
+    "google_maps_url": "https://www.google.com/maps/place/Millennium+Realtors+Corporation/data=!4m7!3m6!1s0x864e827b2a9e5877:0x94557d6e5182bb79!8m2!3d32.8736676!4d-96.9720863!16s%2Fg%2F1tdrxqjv!19sChIJd1ieKnuCToYRebuCUW59VZQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Irving"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

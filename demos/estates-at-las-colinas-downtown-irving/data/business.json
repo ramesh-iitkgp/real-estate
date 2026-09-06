@@ -1,0 +1,50 @@
+{
+    "business_name": "Estates At Las Colinas",
+    "source_business_name": "Estates At Las Colinas",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19723579335",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.estateslascolinas.com/?switch_cls[id]=65617",
+    "address": "\n4809 N O'Connor Rd, Irving, TX 75062, United States",
+    "city": "Downtown Irving",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Estates+at+Las+Colinas/data=!4m7!3m6!1s0x864e82ed10c9e4db:0xddd33da134b269c1!8m2!3d32.8642664!4d-96.9506677!16s%2Fg%2F1tcw40gx!19sChIJ2-TJEO2CToYRwWmyNKE9090?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Irving"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

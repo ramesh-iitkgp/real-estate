@@ -1,0 +1,50 @@
+{
+    "business_name": "Yami Realty Group",
+    "source_business_name": "Yami Realty Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17864201964",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n3018 N Belt Line Rd, Irving, TX 75062, United States",
+    "city": "Irving",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Yami+Realty+Group/data=!4m7!3m6!1s0x864e835981fe84a3:0xa8c95d6068ddbf40!8m2!3d32.8482982!4d-96.9911184!16s%2Fg%2F11zcyz8ygx!19sChIJo4T-gVmDToYRQL_daGBdyag?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Irving"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

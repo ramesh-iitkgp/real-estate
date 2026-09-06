@@ -1,0 +1,50 @@
+{
+    "business_name": "Sellstate Metro Realty",
+    "source_business_name": "Sellstate Metro Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18178818578",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.sellstatemetro.com/",
+    "address": "\n2121 W Airport Fwy Ste 360, Irving, TX 75062, United States",
+    "city": "Irving",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Sellstate+Metro+Realty/data=!4m7!3m6!1s0x864e879b6747ae49:0xb7ff80b07747a7b5!8m2!3d32.8386003!4d-96.9743098!16s%2Fg%2F11jmyxg6ns!19sChIJSa5HZ5uHToYRtadHd7CA_7c?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Irving"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

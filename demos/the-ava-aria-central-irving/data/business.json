@@ -1,0 +1,50 @@
+{
+    "business_name": "The Ava & Aria",
+    "source_business_name": "The Ava & Aria",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19729542203",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.theavaariairving.com/?utm_knock=g",
+    "address": "\n3800 N Belt Line Rd, Irving, TX 75038, United States",
+    "city": "Central Irving",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "372",
+    "google_maps_url": "https://www.google.com/maps/place/The+Ava+%26+Aria/data=!4m7!3m6!1s0x864e823dd8e7d5dd:0xc9d19d060e350ea3!8m2!3d32.8588334!4d-96.9916517!16s%2Fg%2F1td3gf7w!19sChIJ3dXn2D2CToYRow41Dgad0ck?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Irving"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
