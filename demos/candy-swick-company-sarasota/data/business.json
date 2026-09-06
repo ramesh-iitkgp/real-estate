@@ -1,0 +1,50 @@
+{
+    "business_name": "Candy Swick & Company",
+    "source_business_name": "Candy Swick & Company",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19419549000",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.candyswick.com/",
+    "address": "\n2063 Main St, Sarasota, FL 34237, United States",
+    "city": "Sarasota",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Candy+Swick+%26+Company/data=!4m7!3m6!1s0x88c34065678c1c87:0x82c2e30cf17bc35f!8m2!3d27.3366618!4d-82.5288526!16s%2Fg%2F1vnrltdm!19sChIJhxyMZ2VAw4gRX8N78QzjwoI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Sarasota"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

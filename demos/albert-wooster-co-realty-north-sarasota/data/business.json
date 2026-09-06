@@ -1,0 +1,50 @@
+{
+    "business_name": "Albert Wooster & Co Realty",
+    "source_business_name": "Albert Wooster & Co Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19413501220",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.sarasotawowhomes.com/?utm_source=googlemybusiness&utm_medium=organic&utm_campaign=Google+My+Business",
+    "address": "\n2912 Bee Ridge Rd, Sarasota, FL 34239, United States",
+    "city": "North Sarasota",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Albert+Wooster+%26+Co+Realty/data=!4m7!3m6!1s0x88c340556d3dba09:0xf3c5f6190b15f625!8m2!3d27.2984008!4d-82.5116006!16s%2Fg%2F11bxfyz0k2!19sChIJCbo9bVVAw4gRJfYVCxn2xfM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Sarasota"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

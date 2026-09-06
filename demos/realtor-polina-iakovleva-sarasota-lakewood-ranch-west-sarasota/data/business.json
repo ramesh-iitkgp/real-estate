@@ -1,0 +1,50 @@
+{
+    "business_name": "Realtor Polina Iakovleva Sarasota & Lakewood Ranch",
+    "source_business_name": "Realtor Polina Iakovleva Sarasota & Lakewood Ranch",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19413201243",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.homeinsarasotafl.com/",
+    "address": "",
+    "city": "West Sarasota",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Realtor+Polina+Iakovleva+Sarasota+%26+Lakewood+Ranch/data=!4m7!3m6!1s0x3c6fb7a2d9ef473:0xfe918b640bbfec98!8m2!3d27.196351!4d-82.377386!16s%2Fg%2F11thjglklx!19sChIJc_SeLXr7xgMRmOy_C2SLkf4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Sarasota"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

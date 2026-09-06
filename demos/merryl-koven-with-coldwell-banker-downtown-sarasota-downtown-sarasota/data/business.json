@@ -1,0 +1,50 @@
+{
+    "business_name": "Merryl Koven With Coldwell Banker",
+    "source_business_name": "Merryl Koven With Coldwell Banker",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19415265913",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://merrylkoven.com/",
+    "address": "\n100 N Tamiami Trl, Sarasota, FL 34236, United States",
+    "city": "Downtown Sarasota",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Merryl+Koven+with+Coldwell+Banker+Downtown+Sarasota/data=!4m7!3m6!1s0x88c315dba7f7cb25:0x286c35174c3d80cc!8m2!3d27.3375314!4d-82.54653!16s%2Fg%2F11fw5rn2_m!19sChIJJcv3p9sVw4gRzIA9TBc1bCg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Sarasota"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
