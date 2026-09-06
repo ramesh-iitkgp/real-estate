@@ -1,0 +1,50 @@
+{
+    "business_name": "Kristie Manny - More Realty",
+    "source_business_name": "Kristie Manny - More Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13602658176",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.homes.com/real-estate-agents/kristie-manny/js365h4/",
+    "address": "\n8308 E Mill Plain Blvd Ste Suite 103, Vancouver, WA 98664, United States",
+    "city": "Vancouver",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Kristie+Manny+-+MORE+Realty/data=!4m7!3m6!1s0x5495add97b796c55:0xa8dbd98c83923117!8m2!3d45.6242279!4d-122.5868248!16s%2Fg%2F11hfc4vnxw!19sChIJVWx5e9mtlVQRFzGSg4zZ26g?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Vancouver"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

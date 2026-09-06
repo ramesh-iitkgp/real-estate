@@ -1,0 +1,50 @@
+{
+    "business_name": "Remax Equity Group - Vancouver Mall",
+    "source_business_name": "Remax Equity Group - Vancouver Mall",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13608826000",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.equitygroup.com/",
+    "address": "\n7701 NE Greenwood Dr Ste 100, Vancouver, WA 98662, United States",
+    "city": "South Vancouver",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "11",
+    "google_maps_url": "https://www.google.com/maps/place/RE%2FMAX+Equity+Group+-+Vancouver+Mall/data=!4m7!3m6!1s0x5495ba9000000001:0xb91162e8a58d6317!8m2!3d45.6526132!4d-122.5938544!16s%2Fg%2F1tftf0mh!19sChIJAQAAAJC6lVQRF2ONpehiEbk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Vancouver"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

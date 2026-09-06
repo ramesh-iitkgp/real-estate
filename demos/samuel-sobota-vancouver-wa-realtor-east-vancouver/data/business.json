@@ -1,0 +1,50 @@
+{
+    "business_name": "Samuel Sobota - Vancouver Wa Realtor",
+    "source_business_name": "Samuel Sobota - Vancouver Wa Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15033587498",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://samuel.kw.com/",
+    "address": "\n2211 E Mill Plain Blvd, Vancouver, WA 98661, United States",
+    "city": "East Vancouver",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Samuel+Sobota+-+Vancouver,+WA+Realtor/data=!4m7!3m6!1s0x5495af42de6e9999:0xc5a036ae1b5ce5f!8m2!3d45.6278251!4d-122.6480306!16s%2Fg%2F11zgczvlxd!19sChIJmZlu3kKvlVQRX8614WoDWgw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Vancouver"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

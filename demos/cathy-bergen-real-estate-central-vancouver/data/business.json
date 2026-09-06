@@ -1,0 +1,50 @@
+{
+    "business_name": "Cathy Bergen Real Estate",
+    "source_business_name": "Cathy Bergen Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13606078980",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.cathybergen.com/",
+    "address": "\n1220 Main St Suit 400, Vancouver, WA 98660, United States",
+    "city": "Central Vancouver",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "10",
+    "google_maps_url": "https://www.google.com/maps/place/Cathy+Bergen+Real+Estate/data=!4m7!3m6!1s0x5495af5bc46d0223:0x991e52e8dfddb682!8m2!3d45.6306989!4d-122.6717148!16s%2Fg%2F11v0lwd505!19sChIJIwJtxFuvlVQRgrbd3-hSHpk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Vancouver"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

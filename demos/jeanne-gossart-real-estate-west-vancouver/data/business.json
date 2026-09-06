@@ -1,0 +1,50 @@
+{
+    "business_name": "Jeanne Gossart Real Estate",
+    "source_business_name": "Jeanne Gossart Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16043609797",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://jeannegossart.com/",
+    "address": "\n2479 Bellevue Ave, West Vancouver, BC V7V 1E1, Canada",
+    "city": "West Vancouver",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jeanne+Gossart+Real+Estate/data=!4m7!3m6!1s0x54866f9c721b99d5:0x115cbacf13934f05!8m2!3d49.3339535!4d-123.1817411!16s%2Fg%2F11mn1m7vwk!19sChIJ1ZkbcpxvhlQRBU-TE8-6XBE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Vancouver"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

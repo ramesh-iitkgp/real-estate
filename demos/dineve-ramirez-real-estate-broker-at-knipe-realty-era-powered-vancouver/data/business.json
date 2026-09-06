@@ -1,0 +1,50 @@
+{
+    "business_name": "Dineve Ramirez Real Estate Broker At Knipe Realty Era Powered",
+    "source_business_name": "Dineve Ramirez Real Estate Broker At Knipe Realty Era Powered",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15037290065",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.dineve.sites.erarealestate.com/",
+    "address": "\n900 Washington St #1030, Vancouver, WA 98660, United States",
+    "city": "Vancouver",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Dineve+Ramirez,+Real+Estate+Broker+at+Knipe+Realty+ERA+Powered/data=!4m7!3m6!1s0x5495a4cea66111df:0x8f6d26fb9772b092!8m2!3d45.6283793!4d-122.6731579!16s%2Fg%2F1pp2vj4sy!19sChIJ3xFhps6klVQRkrByl_smbY8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Vancouver"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Collin Petersen - Trailhead Realty",
+    "source_business_name": "Collin Petersen - Trailhead Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13602248391",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n2211 E Mill Plain Blvd, Vancouver, WA 98661, United States",
+    "city": "Central Vancouver",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "70",
+    "google_maps_url": "https://www.google.com/maps/place/Collin+Petersen+-+Trailhead+Realty/data=!4m7!3m6!1s0x5495af7e4be20ed3:0xfbde9d21e0f45543!8m2!3d45.6278251!4d-122.6480306!16s%2Fg%2F11q8frvr1v!19sChIJ0w7iS36vlVQRQ1X04CGd3vs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Vancouver"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

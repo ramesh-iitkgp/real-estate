@@ -1,0 +1,50 @@
+{
+    "business_name": "Jordan Ballantyne - Vancouver Realtor",
+    "source_business_name": "Jordan Ballantyne - Vancouver Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16047194069",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://jordanballantyne.com/",
+    "address": "\n701 W Georgia St #1500, Vancouver, BC V6B 2Y5, Canada",
+    "city": "Downtown Vancouver",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jordan+Ballantyne+-+Vancouver+Realtor/data=!4m7!3m6!1s0x54867361efcd6f67:0x2cc18993d6b1fec!8m2!3d49.282825!4d-123.1182053!16s%2Fg%2F11fph9mzg3!19sChIJZ2_N72FzhlQR7B9rPZkYzAI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Vancouver"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
