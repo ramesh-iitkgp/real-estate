@@ -1,0 +1,50 @@
+{
+    "business_name": "Downtown Realty",
+    "source_business_name": "Downtown Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18655885535",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.knoxvilledowntownrealty.com/",
+    "address": "\n411 S Gay St F, Knoxville, TN 37902, United States",
+    "city": "Knoxville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Downtown+Realty/data=!4m7!3m6!1s0x885c234ee3e76aa5:0x5035e5928b7bcc2d!8m2!3d35.9656883!4d-83.9186886!16s%2Fg%2F1vcjmznj!19sChIJpWrn404jXIgRLcx7i5LlNVA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Knoxville"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/knoxvilledowntownrealty/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

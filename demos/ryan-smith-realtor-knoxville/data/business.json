@@ -1,0 +1,50 @@
+{
+    "business_name": "Ryan Smith Realtor",
+    "source_business_name": "Ryan Smith Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16155846709",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://ryansmith.realtor/",
+    "address": "\n9420 S Northshore Dr Suite 101, Knoxville, TN 37922, United States",
+    "city": "Knoxville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Ryan+Smith,+REALTOR%C2%AE/data=!4m7!3m6!1s0x885c251200d27e93:0x548af8a74fd52a53!8m2!3d35.8622761!4d-84.0655949!16s%2Fg%2F11h_z7rkk7!19sChIJk37SABIlXIgRUyrVT6f4ilQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Knoxville"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/ryansmithrealtortn/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

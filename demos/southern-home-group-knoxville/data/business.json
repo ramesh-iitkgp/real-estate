@@ -1,0 +1,50 @@
+{
+    "business_name": "Southern Home Group",
+    "source_business_name": "Southern Home Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18656617175",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.southernhomegroup.com/",
+    "address": "\n4823 Old Kingston Pike, Knoxville, TN 37919, United States",
+    "city": "Knoxville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Southern+Home+Group/data=!4m7!3m6!1s0x885c3de236dc4d9f:0xd4fca342d3767af1!8m2!3d35.9394558!4d-83.9833671!16s%2Fg%2F11fcqt3c8f!19sChIJn03cNuI9XIgR8Xp200Kj_NQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Knoxville"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

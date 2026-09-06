@@ -1,0 +1,50 @@
+{
+    "business_name": "Knoxville Real Estate Professionals Inc",
+    "source_business_name": "Knoxville Real Estate Professionals Inc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18657664090",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.knoxvillerealestateprofessionals.com/",
+    "address": "\n800 S Gay St #700, Knoxville, TN 37929, United States",
+    "city": "Knoxville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Knoxville+Real+Estate+Professionals+Inc./data=!4m7!3m6!1s0x885c17c155069cd9:0xabd77478252e288!8m2!3d35.9624536!4d-83.9160582!16s%2Fg%2F11ggb809vj!19sChIJ2ZwGVcEXXIgRiOJSgkd3vQo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Knoxville"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

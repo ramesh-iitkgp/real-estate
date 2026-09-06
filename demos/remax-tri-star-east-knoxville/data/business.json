@@ -1,0 +1,50 @@
+{
+    "business_name": "Remax Tri Star",
+    "source_business_name": "Remax Tri Star",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18652191443",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.865tristar.com/",
+    "address": "\n729 N, 729 Hall of Fame Dr, Knoxville, TN 37917, United States",
+    "city": "East Knoxville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/REMAX+Tri+Star/data=!4m7!3m6!1s0x885c176c9cb87a45:0x9f36e8275ec809a!8m2!3d35.9779107!4d-83.9168418!16s%2Fg%2F11g1rqhnhr!19sChIJRXq4nGwXXIgRmoDsdYJu8wk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Knoxville"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

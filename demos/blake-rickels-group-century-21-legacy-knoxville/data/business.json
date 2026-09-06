@@ -1,0 +1,50 @@
+{
+    "business_name": "Blake Rickels Group Century 21 Legacy",
+    "source_business_name": "Blake Rickels Group Century 21 Legacy",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "865-207-4283",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.blakerickels.com/",
+    "address": "\n11167 Kingston Pike, Farragut, TN 37934, United States",
+    "city": "Knoxville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Blake+Rickels+Group,+Century+21+Legacy/data=!4m7!3m6!1s0x885c2ee4181f1901:0xd6845c0eb1e5567e!8m2!3d35.8852377!4d-84.1527675!16s%2Fg%2F1vnnk3j4!19sChIJARkfGOQuXIgRflblsQ5chNY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Knoxville"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/blakerickels/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

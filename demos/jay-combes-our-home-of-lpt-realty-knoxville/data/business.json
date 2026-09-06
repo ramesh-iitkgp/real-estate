@@ -1,0 +1,50 @@
+{
+    "business_name": "Jay Combes Our Home Of Lpt Realty",
+    "source_business_name": "Jay Combes Our Home Of Lpt Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18655004663",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://jaycombeshomes.com/",
+    "address": "\n215 Center Park Dr St 400, Knoxville, TN 37922, United States",
+    "city": "Knoxville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jay+Combes+%7C+Our+Home+of+LPT+Realty/data=!4m7!3m6!1s0x885c31eadabc1a51:0x1f218ce0085efe2e!8m2!3d35.906707!4d-84.1217169!16s%2Fg%2F11f9j2qwbl!19sChIJURq82uoxXIgRLv5eCOCMIR8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Knoxville"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
