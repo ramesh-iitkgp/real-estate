@@ -1,0 +1,50 @@
+{
+    "business_name": "Steven Montgomery Realtor",
+    "source_business_name": "Steven Montgomery Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13368179142",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n110 Oakwood Dr #110, Winston-Salem, NC 27103, United States",
+    "city": "Greater Winston-Salem",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Steven+Montgomery+Realtor/data=!4m7!3m6!1s0x8853b1e4ff636c5f:0x1b491e8b893871cd!8m2!3d36.0901388!4d-80.2829694!16s%2Fg%2F11h6tm9kyk!19sChIJX2xj_-SxU4gRzXE4iYseSRs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Greater Winston-Salem"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

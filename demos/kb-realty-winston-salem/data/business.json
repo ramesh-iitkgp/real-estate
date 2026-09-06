@@ -1,0 +1,50 @@
+{
+    "business_name": "Kb Realty",
+    "source_business_name": "Kb Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13363983055",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n11212 Old U.S. Hwy 52 Ste 5, Winston-Salem, NC 27107, United States",
+    "city": "Winston-Salem",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/KB+Realty/data=!4m7!3m6!1s0x8853a5ae911b6e0b:0x50669a0998d00046!8m2!3d35.9703724!4d-80.2231053!16s%2Fg%2F11hjwxzg5h!19sChIJC24bka6lU4gRRgDQmAmaZlA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Winston-Salem"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

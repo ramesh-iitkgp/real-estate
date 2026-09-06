@@ -1,0 +1,50 @@
+{
+    "business_name": "Blue Door Group Real Estate",
+    "source_business_name": "Blue Door Group Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13367473245",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.openthebluedoor.com/",
+    "address": "\n101 Olive St, Winston-Salem, NC 27103, United States",
+    "city": "South Winston-Salem",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Blue+Door+Group+Real+Estate/data=!4m7!3m6!1s0x8853ae47467cf1d7:0x34374573fc639c92!8m2!3d36.0815024!4d-80.2980016!16s%2Fg%2F11ghr0mtk2!19sChIJ1_F8RkeuU4gRkpxj_HNFNzQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Winston-Salem"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

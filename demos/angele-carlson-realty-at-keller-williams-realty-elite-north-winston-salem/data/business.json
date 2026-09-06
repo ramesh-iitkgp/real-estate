@@ -1,0 +1,50 @@
+{
+    "business_name": "Angele Carlson Realty At Keller Williams Realty Elite",
+    "source_business_name": "Angele Carlson Realty At Keller Williams Realty Elite",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13363999600",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://angelecarlson.kw.com/",
+    "address": "\n1100 S Stratford Rd, Winston-Salem, NC 27103, United States",
+    "city": "North Winston-Salem",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Angele+Carlson+Realty+at+Keller+Williams+Realty+Elite/data=!4m7!3m6!1s0x8853b1cf2f5acb5d:0xece724257a4124fc!8m2!3d36.0803751!4d-80.2995816!16s%2Fg%2F11ptxtgd8m!19sChIJXctaL8-xU4gR_CRBeiUk5-w?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Winston-Salem"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

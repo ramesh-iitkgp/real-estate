@@ -1,0 +1,50 @@
+{
+    "business_name": "Leonard Ryden Burr Real Estate",
+    "source_business_name": "Leonard Ryden Burr Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13367799200",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.lrbrealestate.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "address": "\n201 S Stratford Rd #200, Winston-Salem, NC 27103, United States",
+    "city": "Winston-Salem",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Leonard+Ryden+Burr+Real+Estate/data=!4m7!3m6!1s0x8853b1d6fce1e1dd:0x9bc39d5d0e3be739!8m2!3d36.0930529!4d-80.2793429!16s%2Fg%2F1yh9sqmty!19sChIJ3eHh_NaxU4gROec7Dl2dw5s?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Winston-Salem"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

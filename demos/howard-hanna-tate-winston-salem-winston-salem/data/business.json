@@ -1,0 +1,50 @@
+{
+    "business_name": "Howard Hanna Tate",
+    "source_business_name": "Howard Hanna Tate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13367783990",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.howardhanna.com/Office/Detail/Winston-Salem/3289912312",
+    "address": "\n370 Knollwood St, Winston-Salem, NC 27103, United States",
+    "city": "Winston-Salem",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Howard+Hanna+Tate+Winston-Salem/data=!4m7!3m6!1s0x8853b0f3435e22bf:0x73de310624f389fd!8m2!3d36.0910781!4d-80.2873007!16s%2Fg%2F11c67ssqsk!19sChIJvyJeQ_OwU4gR_YnzJAYx3nM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Winston-Salem"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

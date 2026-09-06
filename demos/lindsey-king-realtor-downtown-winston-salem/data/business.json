@@ -1,0 +1,50 @@
+{
+    "business_name": "Lindsey King Realtor",
+    "source_business_name": "Lindsey King Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15802844317",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.zillow.com/profile/lindseykinglegacy",
+    "address": "\n632 W 4th St, Winston-Salem, NC 27101, United States",
+    "city": "Downtown Winston-Salem",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "7",
+    "google_maps_url": "https://www.google.com/maps/place/Lindsey+King,+Realtor/data=!4m7!3m6!1s0x8853b10edd0eae2b:0xfbfe248ed5aa92cf!8m2!3d36.0975559!4d-80.2506476!16s%2Fg%2F11ldrj_zs5!19sChIJK64O3Q6xU4gRz5Kq1Y4k_vs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Winston-Salem"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

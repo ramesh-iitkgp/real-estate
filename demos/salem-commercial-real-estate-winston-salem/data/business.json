@@ -1,0 +1,50 @@
+{
+    "business_name": "Salem Commercial Real Estate",
+    "source_business_name": "Salem Commercial Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13369721815",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n102 W 3rd St #475, Winston-Salem, NC 27101, United States",
+    "city": "Winston-Salem",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Salem+Commercial+Real+Estate/data=!4m7!3m6!1s0x8853ae46a92fa707:0x141b81a4e67bd1ae!8m2!3d36.0971467!4d-80.2451936!16s%2Fg%2F11c0t0nj93!19sChIJB6cvqUauU4gRrtF75qSBGxQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Winston-Salem"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
