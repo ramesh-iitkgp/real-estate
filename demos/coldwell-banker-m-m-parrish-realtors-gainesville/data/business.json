@@ -1,0 +1,50 @@
+{
+    "business_name": "Coldwell Banker M M Parrish Realtors",
+    "source_business_name": "Coldwell Banker M M Parrish Realtors",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13523354999",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.mmparrish.com/?utm_source=gbp-listing&utm_medium=organic",
+    "address": "\n5830 NW 39th Ave, Gainesville, FL 32606, United States",
+    "city": "Gainesville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "501",
+    "google_maps_url": "https://www.google.com/maps/place/Coldwell+Banker+M.+M.+Parrish+Realtors/data=!4m7!3m6!1s0x88e8bc8f8a53a0e3:0x63c958290fed9cd!8m2!3d29.6890959!4d-82.4037045!16s%2Fg%2F1tffvs0x!19sChIJ46BTio-86IgRzdn-kIKVPAY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Gainesville"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

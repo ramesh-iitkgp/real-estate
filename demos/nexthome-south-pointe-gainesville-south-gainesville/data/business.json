@@ -1,0 +1,50 @@
+{
+    "business_name": "Nexthome South Pointe - Gainesville",
+    "source_business_name": "Nexthome South Pointe - Gainesville",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18333930069",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://gainesville.nexthomesouthpointe.com/",
+    "address": "\n4915 NW 43rd St, Gainesville, FL 32606, United States",
+    "city": "South Gainesville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/NextHome+South+Pointe+-+Gainesville/data=!4m7!3m6!1s0x88e8bd5203103655:0xc5bf791dc8f5ceaf!8m2!3d29.7002656!4d-82.3885359!16s%2Fg%2F11j9kgnx55!19sChIJVTYQA1K96IgRr871yB15v8U?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Gainesville"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Watson Realty Corp",
+    "source_business_name": "Watson Realty Corp",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13523778899",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.watsonrealtycorp.com/offices/gainesville/",
+    "address": "\n4516 NW 23rd Ave, Gainesville, FL 32606, United States",
+    "city": "Gainesville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "141",
+    "google_maps_url": "https://www.google.com/maps/place/Watson+Realty+Corp+Gainesville/data=!4m7!3m6!1s0x88e8bb527ff97195:0xc3c0adde801039e7!8m2!3d29.6745204!4d-82.3912963!16s%2Fg%2F11cn0qzmd4!19sChIJlXH5f1K76IgR5zkQgN6twMM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Gainesville"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

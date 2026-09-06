@@ -1,0 +1,50 @@
+{
+    "business_name": "Secure Investments Realty & Property Management - Gainesville Fl",
+    "source_business_name": "Secure Investments Realty & Property Management - Gainesville Fl",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13524788029",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.secureinvestmentsrealty.com/",
+    "address": "\n3520 NW 43rd St, Gainesville, FL 32606, United States",
+    "city": "Gainesville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "112",
+    "google_maps_url": "https://www.google.com/maps/place/Secure+Investments+Realty+%26+Property+Management+-+Gainesville,+FL/data=!4m7!3m6!1s0x88e8bb4abd692ef7:0x10e07381ef06958!8m2!3d29.6853547!4d-82.3898163!16s%2Fg%2F1hdzrcmyv!19sChIJ9y5pvUq76IgRWGnwHjgHDgE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Gainesville"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Freddy Pearson Realtor",
+    "source_business_name": "Freddy Pearson Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13523751002",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.remaxprofessionals.us/",
+    "address": "\n4011 NW 43rd St Ste C, Gainesville, FL 32606, United States",
+    "city": "North Gainesville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Freddy+Pearson,+Realtor/data=!4m7!3m6!1s0x88e8bb2d2b7f3169:0xa1ff32781477679e!8m2!3d29.6897555!4d-82.3884622!16s%2Fg%2F1pp2tg_mt!19sChIJaTF_Ky276IgRnmd3FHgy_6E?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Gainesville"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

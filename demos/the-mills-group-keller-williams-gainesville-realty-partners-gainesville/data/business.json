@@ -1,0 +1,50 @@
+{
+    "business_name": "The Mills Group - Keller Williams Gainesville Realty Partners",
+    "source_business_name": "The Mills Group - Keller Williams Gainesville Realty Partners",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13525592140",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.themillsgroupkw.com/",
+    "address": "\n5310 NW 8th Ave #2, Gainesville, FL 32605, United States",
+    "city": "Gainesville",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "290",
+    "google_maps_url": "https://www.google.com/maps/place/The+Mills+Group+-+Keller+Williams+Gainesville+Realty+Partners/data=!4m7!3m6!1s0x88e8bd0ff2dc29d1:0x886c862ffa891a94!8m2!3d29.6593978!4d-82.4000914!16s%2Fg%2F11q1vnmm__!19sChIJ0Snc8g-96IgRlBqJ-i-GbIg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Gainesville"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
