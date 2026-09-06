@@ -1,0 +1,50 @@
+{
+    "business_name": "Homes On The Lake Realty Llc",
+    "source_business_name": "Homes On The Lake Realty Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19404537754",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.homesonthelakerealty.com/default.asp.f-contactme",
+    "address": "\n2831 Eldorado Pkwy, Frisco, TX 75033, United States",
+    "city": "Downtown Frisco",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Homes+on+the+Lake+Realty,+LLC/data=!4m7!3m6!1s0x864c399923eaaaab:0x49d2f5f2cc840f3e!8m2!3d33.1776406!4d-96.8844457!16s%2Fg%2F11g0k1x6sb!19sChIJq6rqI5k5TIYRPg-EzPL10kk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Frisco"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

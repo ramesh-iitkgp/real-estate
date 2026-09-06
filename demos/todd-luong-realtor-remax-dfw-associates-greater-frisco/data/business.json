@@ -1,0 +1,50 @@
+{
+    "business_name": "Todd Luong Realtor Remax Dfw Associates",
+    "source_business_name": "Todd Luong Realtor Remax Dfw Associates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12146366218",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://todd-luong.remax.com/",
+    "address": "\n6959 Lebanon Rd Suit #201, Frisco, TX 75034, United States",
+    "city": "Greater Frisco",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Todd+Luong,+REALTOR%C2%AE,+RE%2FMAX+DFW+Associates/data=!4m7!3m6!1s0x864c23d1c3c69625:0x10076a8b5962f00!8m2!3d33.1217529!4d-96.8247789!16s%2Fg%2F11b6y06cdq!19sChIJJZbGw9EjTIYRAC-Wtah2AAE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Greater Frisco"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

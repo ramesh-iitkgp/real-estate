@@ -1,0 +1,50 @@
+{
+    "business_name": "E5 Realty",
+    "source_business_name": "E5 Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19725036441",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.e5realty.com/",
+    "address": "\n5570 FM 423 Ste 250-2120, Frisco, TX 75036, United States",
+    "city": "Frisco",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/E5+Realty/data=!4m7!3m6!1s0x864c399923010a97:0x7caee6f269ff9418!8m2!3d33.1256506!4d-96.8886544!16s%2Fg%2F11c5z98cdn!19sChIJlwoBI5k5TIYRGJT_afLmrnw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Frisco"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
