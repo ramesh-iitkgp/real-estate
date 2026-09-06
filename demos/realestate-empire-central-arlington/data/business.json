@@ -1,0 +1,50 @@
+{
+    "business_name": "Realestate Empire",
+    "source_business_name": "Realestate Empire",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13182308281",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://realestate-empire.ueniweb.com/?utm_campaign=gmb",
+    "address": "\n601 S Cooper St, Arlington, TX 76013, United States",
+    "city": "Central Arlington",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Realestate+Empire/data=!4m7!3m6!1s0x864e7dec3c9147b7:0x84f8ad4bb7c02e30!8m2!3d32.7316708!4d-97.1134303!16s%2Fg%2F11mn5jdx8x!19sChIJt0eRPOx9ToYRMC7At0ut-IQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Arlington"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

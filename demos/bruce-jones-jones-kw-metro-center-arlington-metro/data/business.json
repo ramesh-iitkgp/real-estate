@@ -1,0 +1,50 @@
+{
+    "business_name": "Bruce Jones Jones Kw Metro Center",
+    "source_business_name": "Bruce Jones Jones Kw Metro Center",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12404720349",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n2111 Wilson Blvd Ste 1050, Arlington, VA 22201, United States",
+    "city": "Arlington Metro",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "10",
+    "google_maps_url": "https://www.google.com/maps/place/Bruce+Jones+Jones,+KW+Metro+Center/data=!4m7!3m6!1s0x89b7b70d9f7ab4f9:0x732b2c250b301bfd!8m2!3d38.8923019!4d-77.0848589!16s%2Fg%2F11pym79sb_!19sChIJ-bR6nw23t4kR_RswCyUsK3M?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Arlington Metro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

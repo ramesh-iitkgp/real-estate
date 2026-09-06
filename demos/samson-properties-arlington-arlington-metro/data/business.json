@@ -1,0 +1,50 @@
+{
+    "business_name": "Samson Properties Arlington",
+    "source_business_name": "Samson Properties Arlington",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15716772900",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://samsonproperties.net/",
+    "address": "\n4720A Langston Blvd., Arlington, VA 22207, United States",
+    "city": "Arlington Metro",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "16",
+    "google_maps_url": "https://www.google.com/maps/place/Samson+Properties+Arlington/data=!4m7!3m6!1s0x89b7b73fcefa9239:0x5b7868ab3edec372!8m2!3d38.89745!4d-77.1224049!16s%2Fg%2F11fmv2pwsy!19sChIJOZL6zj-3t4kRcsPePqtoeFs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Arlington Metro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

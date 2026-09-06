@@ -1,0 +1,50 @@
+{
+    "business_name": "Southpoint Villas",
+    "source_business_name": "Southpoint Villas",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "877) 812-8457",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n5700 Median Way, Arlington, Texas 76017",
+    "city": "Central Arlington",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Southpoint+Villas/data=!4m7!3m6!1s0x864e648e97085ddd:0x1030c4df87547be7!8m2!3d32.654706!4d-97.194562!16s%2Fg%2F1tj4hg57!19sChIJ3V0Il45kToYR53tUh9_EMBA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Arlington"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

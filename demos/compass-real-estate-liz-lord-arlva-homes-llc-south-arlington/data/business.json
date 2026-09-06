@@ -1,0 +1,50 @@
+{
+    "business_name": "Compass Real Estate Liz Lord Arlva Homes Llc",
+    "source_business_name": "Compass Real Estate Liz Lord Arlva Homes Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15713319213",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n3001 Washington Blvd, Arlington, VA 22201, United States",
+    "city": "South Arlington",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Compass+Real+Estate:+Liz+Lord+%28Arlva+Homes+LLC%29/data=!4m7!3m6!1s0x89b7b55b9db15fef:0x8a3fed1167fb9481!8m2!3d38.8856392!4d-77.0940606!16s%2Fg%2F11c1q8mnvh!19sChIJ71-xnVu1t4kRgZT7ZxHtP4o?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Arlington"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

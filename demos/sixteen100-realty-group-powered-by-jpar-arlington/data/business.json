@@ -1,0 +1,50 @@
+{
+    "business_name": "Sixteen100 Realty Group Powered By Jpar",
+    "source_business_name": "Sixteen100 Realty Group Powered By Jpar",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18175058173",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.sixteen100realtygroup.com/",
+    "address": "\n2301 E Lamar Blvd #175, Arlington, TX 76006, United States",
+    "city": "Arlington",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Sixteen100+Realty+Group+powered+by+JPAR/data=!4m7!3m6!1s0x864e7d4bf9fbd7e9:0xb076ca7857684e7d!8m2!3d32.76239!4d-97.0689447!16s%2Fg%2F11mvpgxlff!19sChIJ6df7-Ut9ToYRfU5oV3jKdrA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Arlington"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

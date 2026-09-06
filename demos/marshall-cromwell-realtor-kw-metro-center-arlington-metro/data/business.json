@@ -1,0 +1,50 @@
+{
+    "business_name": "Marshall Cromwell - Realtor - Kw Metro Center",
+    "source_business_name": "Marshall Cromwell - Realtor - Kw Metro Center",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17036753278",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://marshall-cromwell.kw.com/",
+    "address": "\n2111 Wilson Blvd Ste 1050, Arlington, VA 22201, United States",
+    "city": "Arlington Metro",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "7",
+    "google_maps_url": "https://www.google.com/maps/place/Marshall+Cromwell+-+Realtor+-+KW+Metro+Center/data=!4m7!3m6!1s0x89b7b7cee1df2405:0x7be623aad119403!8m2!3d38.8918341!4d-77.0854041!16s%2Fg%2F11jp7m44hy!19sChIJBSTf4c63t4kRA5QRrTpivgc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Arlington Metro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

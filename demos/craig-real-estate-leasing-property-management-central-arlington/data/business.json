@@ -1,0 +1,50 @@
+{
+    "business_name": "Craig Real Estate Leasing & Property Management",
+    "source_business_name": "Craig Real Estate Leasing & Property Management",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18178086813",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.craig-realestate.com/",
+    "address": "\n1309A W Abram St, Arlington, TX 76013, United States",
+    "city": "Central Arlington",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Craig+Real+Estate+%7C+Leasing+%26+Property+Management/data=!4m7!3m6!1s0x864e63beaaaaaaab:0x47c827f2013028b4!8m2!3d32.7362386!4d-97.1260379!16s%2Fg%2F1td6b8mb!19sChIJq6qqqr5jToYRtCgwAfInyEc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Arlington"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
