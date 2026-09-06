@@ -1,0 +1,50 @@
+{
+    "business_name": "Rebeca Recio John Greene Realtor",
+    "source_business_name": "Rebeca Recio John Greene Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16307231104",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.rebecareciorealtor.com/",
+    "address": "\n245 Genesis Way, North Aurora, IL 60542, United States",
+    "city": "North Aurora",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "30",
+    "google_maps_url": "https://www.google.com/maps/place/Rebeca+Recio,+john+greene+Realtor/data=!4m7!3m6!1s0x880ee583a53537a3:0x59a6a55f661cac3f!8m2!3d41.8006904!4d-88.3757666!16s%2Fg%2F11t8p0s_zy!19sChIJozc1pYPlDogRP6wcZl-lplk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Aurora"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

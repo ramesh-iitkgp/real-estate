@@ -1,0 +1,50 @@
+{
+    "business_name": "Century 21 Gold Standard",
+    "source_business_name": "Century 21 Gold Standard",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17166520232",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://c21-goldstandard.sites.c21.homes/",
+    "address": "\n164 Quaker Rd, East Aurora, NY 14052, United States",
+    "city": "East Aurora",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/CENTURY+21+Gold+Standard/data=!4m7!3m6!1s0x89d3a7dfed75dfe1:0xb4a3c0725b6cbced!8m2!3d42.7639163!4d-78.63289!16s%2Fg%2F1vysxhyc!19sChIJ4d917d-n04kR7bxsW3LAo7Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Aurora"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

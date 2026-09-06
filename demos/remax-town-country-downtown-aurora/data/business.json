@@ -1,0 +1,50 @@
+{
+    "business_name": "Remax Town & Country",
+    "source_business_name": "Remax Town & Country",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16305383802",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1128 Prairie St, Aurora, IL 60506, United States",
+    "city": "Downtown Aurora",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/RE%2FMAX+Town+%26+Country/data=!4m7!3m6!1s0x880ee5609029163f:0x7ec0890de911b25d!8m2!3d41.7519831!4d-88.3440135!16s%2Fg%2F1tfjwwjh!19sChIJPxYpkGDlDogRXbIR6Q2JwH4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Aurora"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
