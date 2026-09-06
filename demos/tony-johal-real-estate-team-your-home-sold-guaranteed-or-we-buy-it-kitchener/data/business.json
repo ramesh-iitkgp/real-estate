@@ -1,0 +1,50 @@
+{
+    "business_name": "Tony Johal Real Estate Team - Your Home Sold Guaranteed Or We Buy It",
+    "source_business_name": "Tony Johal Real Estate Team - Your Home Sold Guaranteed Or We Buy It",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15196505800",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.tonyjohal.com/",
+    "address": "\n901 Victoria St N, Kitchener, ON N2B 2C6, Canada",
+    "city": "Kitchener",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Tony+Johal+Real+Estate+Team+-+Your+Home+SOLD+GUARANTEED+Or+We+Buy+It!/data=!4m7!3m6!1s0x882b890765a86e11:0x9d5645cb6215b164!8m2!3d43.4633473!4d-80.4648526!16s%2Fg%2F1tmbwrq8!19sChIJEW6oZQeJK4gRZLEVYstFVp0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Kitchener"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Machado & Company",
+    "source_business_name": "Machado & Company",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15195749567",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://machadoandcompany.com/",
+    "address": "\n640 Riverbend Dr, Kitchener, ON N2K 3S2, Canada",
+    "city": "South Kitchener",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Machado+%26+Company/data=!4m7!3m6!1s0x882bf3219991a373:0xcd7bbde71593cb77!8m2!3d43.4768341!4d-80.4816232!16s%2Fg%2F11pcpvkyd6!19sChIJc6ORmSHzK4gRd8uTFee9e80?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Kitchener"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

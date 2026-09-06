@@ -1,0 +1,50 @@
+{
+    "business_name": "The Reitzels",
+    "source_business_name": "The Reitzels",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15195706299",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://thereitzels.com/",
+    "address": "\n640 Riverbend Dr, Kitchener, ON N2K 3S2, Canada",
+    "city": "East Kitchener",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/The+Reitzels/data=!4m7!3m6!1s0x882bf456dd052021:0xd87b4ba0fe75b2b4!8m2!3d43.4768018!4d-80.4816044!16s%2Fg%2F11b6nm7pgv!19sChIJISAF3Vb0K4gRtLJ1_qBLe9g?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Kitchener"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

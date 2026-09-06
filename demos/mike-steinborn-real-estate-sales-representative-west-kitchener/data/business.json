@@ -1,0 +1,50 @@
+{
+    "business_name": "Mike Steinborn - Real Estate Sales Representative",
+    "source_business_name": "Mike Steinborn - Real Estate Sales Representative",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15199982390",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n515 Riverbend Dr, Kitchener, ON N2K 3S3, Canada",
+    "city": "West Kitchener",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Mike+Steinborn+-+Real+Estate+Sales+Representative/data=!4m7!3m6!1s0x882bf335fe9e66f5:0x9fc3dcf005ff01d5!8m2!3d43.4740721!4d-80.4775816!16s%2Fg%2F11j138ktbf!19sChIJ9Wae_jXzK4gR1QH_BfDcw58?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Kitchener"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

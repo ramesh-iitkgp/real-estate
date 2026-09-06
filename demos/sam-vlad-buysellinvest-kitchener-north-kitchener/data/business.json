@@ -1,0 +1,50 @@
+{
+    "business_name": "Sam Vlad - Buysellinvest -Kitchener",
+    "source_business_name": "Sam Vlad - Buysellinvest -Kitchener",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15196351867",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.samvlad.com/",
+    "address": "\n901 Victoria St N, Kitchener, ON N2B 2C6, Canada",
+    "city": "North Kitchener",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Sam+Vlad+-+Buy%2FSell%2FInvest+-Kitchener/data=!4m7!3m6!1s0x882bf51dcb20983d:0x922816ff5ec24d36!8m2!3d43.4633473!4d-80.4648526!16s%2Fg%2F11mx7pbmxn!19sChIJPZggyx31K4gRNk3CXv8WKJI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Kitchener"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Pooja Devgan - Real Estate Broker",
+    "source_business_name": "Pooja Devgan - Real Estate Broker",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15195733362",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://poojadevgan.remaxrecentre.ca/",
+    "address": "\n720 Westmount Rd E, Kitchener, ON N2E 2M6, Canada",
+    "city": "East Kitchener",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Pooja+Devgan+-+Real+Estate+Broker/data=!4m7!3m6!1s0x882bf58689b8626b:0x7ceae4fbaaebcacc!8m2!3d43.4185799!4d-80.5002264!16s%2Fg%2F11g0zn8257!19sChIJa2K4iYb1K4gRzMrrqvvk6nw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Kitchener"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Affluence Real Estate Group - Exp Realty",
+    "source_business_name": "Affluence Real Estate Group - Exp Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15195743532",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.realestatekwc.com/",
+    "address": "\n7, 871 Victoria St N Unit: 335, Kitchener, ON N2B 3S4, Canada",
+    "city": "Kitchener",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Affluence+Real+Estate+Group+-+EXP+Realty/data=!4m7!3m6!1s0x882bf30f2159f53f:0x84b70dfb595e227d!8m2!3d43.4631145!4d-80.4656346!16s%2Fg%2F11f9zmdbbc!19sChIJP_VZIQ_zK4gRfSJeWfsNt4Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Kitchener"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

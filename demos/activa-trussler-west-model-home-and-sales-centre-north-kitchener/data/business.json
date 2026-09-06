@@ -1,0 +1,50 @@
+{
+    "business_name": "Activa - Trussler West Model Home And Sales Centre",
+    "source_business_name": "Activa - Trussler West Model Home And Sales Centre",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "519) 968-3689",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n62 Nathalie Street, Kitchener, ON N2E 0H8",
+    "city": "North Kitchener",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Activa+-+Trussler+West+Model+Home+and+Sales+Centre/data=!4m7!3m6!1s0x882bf57aa2c9ce37:0x8041ebfbd1808af9!8m2!3d43.40375!4d-80.538438!16s%2Fg%2F11sv3gzhfs!19sChIJN87Jonr1K4gR-YqA0fvrQYA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Kitchener"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

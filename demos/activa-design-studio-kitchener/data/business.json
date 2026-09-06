@@ -1,0 +1,50 @@
+{
+    "business_name": "Activa Design Studio",
+    "source_business_name": "Activa Design Studio",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "519) 570-4211",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n55 Columbia Street East Suite 3, Waterloo, ON N2R 1S1",
+    "city": "Kitchener",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Activa+Design+Studio/data=!4m7!3m6!1s0x882bf57b96a4fba3:0x4f4044417c1cfbbe!8m2!3d43.482778!4d-80.521922!16s%2Fg%2F11c1sk3cbd!19sChIJo_uklnv1K4gRvvscfEFEQE8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Kitchener"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

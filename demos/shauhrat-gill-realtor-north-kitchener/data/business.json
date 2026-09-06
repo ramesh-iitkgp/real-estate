@@ -1,0 +1,50 @@
+{
+    "business_name": "Shauhrat Gill - Realtor",
+    "source_business_name": "Shauhrat Gill - Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15199804417",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n137 Glasgow St #210, Kitchener, ON N2G 4X8, Canada",
+    "city": "North Kitchener",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Shauhrat+Gill+-+REALTOR%C2%AE/data=!4m7!3m6!1s0x882bf537b6c45e09:0x55c1df45ec21d98d!8m2!3d43.4509118!4d-80.5135779!16s%2Fg%2F11yvvt908l!19sChIJCV7Etjf1K4gRjdkh7EXfwVU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Kitchener"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Cc Realty Group - Roy Cleeves Mila Kolovic Skyler Cleeves Ryan Moore Realtors",
+    "source_business_name": "Cc Realty Group - Roy Cleeves Mila Kolovic Skyler Cleeves Ryan Moore Realtors",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15197723759",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.ccrealtygroup.ca/",
+    "address": "\n640 Riverbend Dr, Kitchener, ON N2K 3S2, Canada",
+    "city": "West Kitchener",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/CC+Realty+Group+-+Roy+Cleeves,+Mila+Kolovic,+Skyler+Cleeves,+Ryan+Moore+Realtors/data=!4m7!3m6!1s0x882bf3669667a4a7:0xfed1480120fe88e3!8m2!3d43.4767025!4d-80.4817467!16s%2Fg%2F11cnq4s6rv!19sChIJp6RnlmbzK4gR44j-IAFI0f4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Kitchener"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
