@@ -1,0 +1,50 @@
+{
+    "business_name": "Basia Caire First Time Home Buyer Specialist",
+    "source_business_name": "Basia Caire First Time Home Buyer Specialist",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16309918658",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://basiacaire.realpeoplerealty.com/",
+    "address": "\n621 Western Ave, Joliet, IL 60435, United States",
+    "city": "Joliet",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Basia+Caire+%7C+First+Time+Home+Buyer+Specialist/data=!4m7!3m6!1s0x2dab5886d7699709:0x69d5ee9e3e4b305b!8m2!3d41.5285121!4d-88.0978671!16s%2Fg%2F11lylql6tp!19sChIJCZdp14ZYqy0RWzBLPp7u1Wk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Joliet"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

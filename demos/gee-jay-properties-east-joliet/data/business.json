@@ -1,0 +1,50 @@
+{
+    "business_name": "Gee Jay Properties",
+    "source_business_name": "Gee Jay Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18157234595",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n301 Barr Elms Ave, Joliet, IL 60433, United States",
+    "city": "East Joliet",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "8",
+    "google_maps_url": "https://www.google.com/maps/place/Gee+Jay+Properties/data=!4m7!3m6!1s0x880e666ed70388a1:0xe9a44e5584dbac0a!8m2!3d41.5190752!4d-88.0386557!16s%2Fg%2F1tdpb5_5!19sChIJoYgD125mDogRCqzbhFVOpOk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Joliet"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

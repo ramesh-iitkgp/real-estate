@@ -1,0 +1,50 @@
+{
+    "business_name": "Herencia Residential & Commercial Keller Williams Infinity",
+    "source_business_name": "Herencia Residential & Commercial Keller Williams Infinity",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18152009214",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://herencia.kw.com/",
+    "address": "\n310 N Ottawa St, Joliet, IL 60432, United States",
+    "city": "Joliet",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Herencia+Residential+%26+Commercial,+Keller+Williams+Infinity/data=!4m7!3m6!1s0x880e679f851315ef:0x8b8abf77bfd0a15c!8m2!3d41.5304848!4d-88.0828983!16s%2Fg%2F11xl6b4080!19sChIJ7xUThZ9nDogRXKHQv3e_ios?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Joliet"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
