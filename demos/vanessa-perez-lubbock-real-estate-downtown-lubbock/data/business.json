@@ -1,0 +1,50 @@
+{
+    "business_name": "Vanessa Perez Lubbock Real Estate",
+    "source_business_name": "Vanessa Perez Lubbock Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18065772131",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://searchlubbockproperties.com/",
+    "address": "\n5707 114th St, Lubbock, TX 79424, United States",
+    "city": "Downtown Lubbock",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Vanessa+Perez,+Lubbock+Real+Estate/data=!4m7!3m6!1s0x86fe73c246e6ec95:0x229befedc2dc8398!8m2!3d33.4901715!4d-101.9364357!16s%2Fg%2F11q259_mz6!19sChIJlezmRsJz_oYRmIPcwu3vmyI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Lubbock"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

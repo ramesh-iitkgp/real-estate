@@ -1,0 +1,50 @@
+{
+    "business_name": "Michelle Kauffman Real Estate Agency",
+    "source_business_name": "Michelle Kauffman Real Estate Agency",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18065359110",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.mylubbockrealtors.com/",
+    "address": "\n2320 100th St, Lubbock, TX 79423, United States",
+    "city": "Downtown Lubbock",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Michelle+Kauffman+Real+Estate+Agency/data=!4m7!3m6!1s0x86fe726019369abf:0xe7a4c354000aa6bf!8m2!3d33.5034976!4d-101.8675078!16s%2Fg%2F11b6hs9f7f!19sChIJv5o2GWBy_oYRv6YKAFTDpOc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Lubbock"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

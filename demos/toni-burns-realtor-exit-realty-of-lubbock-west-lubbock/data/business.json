@@ -1,0 +1,50 @@
+{
+    "business_name": "Toni Burns Realtor - Exit Realty Of Lubbock",
+    "source_business_name": "Toni Burns Realtor - Exit Realty Of Lubbock",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18062245911",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.exitlubbock.com/toni-burns",
+    "address": "\n2405 W Loop 289 Acc Rd, Lubbock, TX 79407, United States",
+    "city": "West Lubbock",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Toni+Burns,+Realtor+-+EXIT+Realty+of+Lubbock/data=!4m7!3m6!1s0x86fe73fec597b1f5:0xfa5080e83d7f2ee!8m2!3d33.571904!4d-101.9432856!16s%2Fg%2F11rj44m_07!19sChIJ9bGXxf5z_oYR7vLXgw4IpQ8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Lubbock"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
