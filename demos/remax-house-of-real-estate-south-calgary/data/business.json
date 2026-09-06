@@ -1,0 +1,50 @@
+{
+    "business_name": "Remax House Of Real Estate",
+    "source_business_name": "Remax House Of Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14032873880",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://remaxhouse.ab.ca/",
+    "address": "\n4034 16 St SW, Calgary, AB T2T 6T8, Canada",
+    "city": "South Calgary",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/RE%2FMAX+House+of+Real+Estate/data=!4m7!3m6!1s0x537171bc2e82a75d:0xf50907198b8a3de!8m2!3d51.0183649!4d-114.1003387!16s%2Fg%2F1thn55ly!19sChIJXaeCLrxxcVMR3qO4mHGQUA8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Calgary"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

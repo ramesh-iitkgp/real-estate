@@ -1,0 +1,50 @@
+{
+    "business_name": "Calgary Real Estate Directory",
+    "source_business_name": "Calgary Real Estate Directory",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14038135522",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.calgaryrealestate.directory/",
+    "address": "\n7707 Martha's Haven Park NE Unit 131 C, Calgary, AB T3J 4H5, Canada",
+    "city": "North Calgary",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Calgary+Real+Estate+Directory/data=!4m7!3m6!1s0x5371630b0357e15d:0x27509773eff84669!8m2!3d51.122377!4d-113.9688211!16s%2Fg%2F11frswhq3h!19sChIJXeFXAwtjcVMRaUb473OXUCc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Calgary"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

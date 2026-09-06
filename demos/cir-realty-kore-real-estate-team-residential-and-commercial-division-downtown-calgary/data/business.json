@@ -1,0 +1,50 @@
+{
+    "business_name": "Cir Realty Kore Real Estate Team - Residential And Commercial Division",
+    "source_business_name": "Cir Realty Kore Real Estate Team - Residential And Commercial Division",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14038009182",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n707 10 Ave SW #100, Calgary, AB T2R 0B3, Canada",
+    "city": "Downtown Calgary",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/CIR+Realty+%7C+KORE+Real+Estate+Team+-+Residential+and+Commercial+Division/data=!4m7!3m6!1s0x53716fe22beb2361:0x7b447cefad4ec2a6!8m2!3d51.0434603!4d-114.0769839!16s%2Fg%2F1tf6lwpj!19sChIJYSPrK-JvcVMRpsJOre98RHs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Calgary"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

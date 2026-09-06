@@ -1,0 +1,50 @@
+{
+    "business_name": "Reeves & Associates Real Estate",
+    "source_business_name": "Reeves & Associates Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15872002728",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://reevesrealty.ca/",
+    "address": "\n135, 808 42 Ave SE, Calgary, AB T2G 1Y9, Canada",
+    "city": "East Calgary",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "227",
+    "google_maps_url": "https://www.google.com/maps/place/Reeves+%26+Associates+Real+Estate/data=!4m7!3m6!1s0x22c443ece89f3b23:0x2bf3fa4d81bdf07a!8m2!3d51.0165767!4d-114.04358!16s%2Fg%2F11q2y1zy2v!19sChIJIzuf6OxDxCIRevC9gU368ys?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Calgary"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

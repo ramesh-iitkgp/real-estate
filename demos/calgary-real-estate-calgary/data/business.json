@@ -1,0 +1,50 @@
+{
+    "business_name": "Calgary Real Estate",
+    "source_business_name": "Calgary Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14034449198",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n3509 International Ave #203, Calgary, AB T2B 0W6, Canada",
+    "city": "Calgary",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Calgary+Real+Estate/data=!4m7!3m6!1s0x53716662be003125:0xcdc486c9e3c7f649!8m2!3d51.0374153!4d-113.9835287!16s%2Fg%2F1tfwd4zt!19sChIJJTEAvmJmcVMRSfbH48mGxM0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Calgary"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

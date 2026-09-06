@@ -1,0 +1,50 @@
+{
+    "business_name": "Kirby Cox & Associates",
+    "source_business_name": "Kirby Cox & Associates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14032475555",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.kirbycox.com/",
+    "address": "\n5149 Country Hills Blvd NW #308, Calgary, AB T3A 5K8, Canada",
+    "city": "North Calgary",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Kirby+Cox+%26+Associates/data=!4m7!3m6!1s0x5371689725ef72d7:0xc74176d2ea3b752b!8m2!3d51.137448!4d-114.1575939!16s%2Fg%2F1tdclmww!19sChIJ13LvJZdocVMRK3U76tJ2Qcc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Calgary"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

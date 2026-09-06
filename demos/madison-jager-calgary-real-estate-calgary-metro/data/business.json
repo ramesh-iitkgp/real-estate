@@ -1,0 +1,50 @@
+{
+    "business_name": "Madison Jager - Calgary Real Estate",
+    "source_business_name": "Madison Jager - Calgary Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14039781599",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.madisonjager.ca/",
+    "address": "\n264 Midpark Way SE #205, Calgary, AB T2X 1J6, Canada",
+    "city": "Calgary Metro",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Madison+Jager+-+Calgary+Real+Estate/data=!4m7!3m6!1s0x537177eda7cd6245:0xcfd823a054ee2424!8m2!3d50.9114507!4d-114.0653528!16s%2Fg%2F11h7ptstdj!19sChIJRWLNp-13cVMRJCTuVKAj2M8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Calgary Metro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

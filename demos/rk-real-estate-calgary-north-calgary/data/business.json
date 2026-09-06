@@ -1,0 +1,50 @@
+{
+    "business_name": "Rk Real Estate Calgary",
+    "source_business_name": "Rk Real Estate Calgary",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14033366663",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://rkre.ca/",
+    "address": "\n70 Saddlestone Dr NE, Calgary, AB T3J 0W4, Canada",
+    "city": "North Calgary",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/RK+Real+Estate+Calgary/data=!4m7!3m6!1s0x537163006fe2fed9:0x9c333db48a73fbf2!8m2!3d51.1289727!4d-113.9269288!16s%2Fg%2F11vxljdqy9!19sChIJ2f7ibwBjcVMR8vtzirQ9M5w?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Calgary"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

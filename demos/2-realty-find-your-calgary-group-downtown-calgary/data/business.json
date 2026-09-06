@@ -1,0 +1,50 @@
+{
+    "business_name": "2 Realty Find Your Calgary Group",
+    "source_business_name": "2 Realty Find Your Calgary Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14038281120",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.findyourcalgary.ca/",
+    "address": "\n909 17 Ave SW Ste 400, Calgary, AB T2T 0A4, Canada",
+    "city": "Downtown Calgary",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/2%25+Realty+Find+Your+Calgary+Group/data=!4m7!3m6!1s0x537171368c7b1fed:0xcd43de7f5400743a!8m2!3d51.0376323!4d-114.0824431!16s%2Fg%2F11frt52zc2!19sChIJ7R97jDZxcVMROnQAVH_eQ80?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Calgary"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Westcreek Developments Ltd",
+    "source_business_name": "Westcreek Developments Ltd",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "403) 263-8111",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n30 Glendeer Circle Southeast Suite #100, Calgary, AB T2H 2Z7",
+    "city": "Calgary",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "3.3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/WestCreek+Developments+Ltd./data=!4m7!3m6!1s0x53716fe6df449123:0xa507ddb271973b3!8m2!3d50.987485!4d-114.028567!16s%2Fg%2F1tfsmnv2!19sChIJI5FE3-ZvcVMRs3MZJ9t9UAo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Calgary"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

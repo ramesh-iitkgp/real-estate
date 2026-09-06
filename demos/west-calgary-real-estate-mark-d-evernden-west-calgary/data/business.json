@@ -1,0 +1,50 @@
+{
+    "business_name": "West Calgary Real Estate - Mark D Evernden",
+    "source_business_name": "West Calgary Real Estate - Mark D Evernden",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14038293776",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1612 17 Ave SW, Calgary, AB T2T 0E3, Canada",
+    "city": "West Calgary",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/West+Calgary+Real+Estate+-+Mark+D.+Evernden/data=!4m7!3m6!1s0x53716ddb5356ea77:0x705402c6dee9f233!8m2!3d51.0380564!4d-114.098166!16s%2Fg%2F11h0j58nhk!19sChIJd-pWU9ttcVMRM_Lp3sYCVHA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Calgary"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

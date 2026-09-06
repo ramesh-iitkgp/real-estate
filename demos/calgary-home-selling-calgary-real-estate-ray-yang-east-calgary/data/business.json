@@ -1,0 +1,50 @@
+{
+    "business_name": "Calgary Home Selling Calgary Real Estate Ray Yang",
+    "source_business_name": "Calgary Home Selling Calgary Real Estate Ray Yang",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14036543377",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://calgaryhomeselling.ca/",
+    "address": "",
+    "city": "East Calgary",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "44",
+    "google_maps_url": "https://www.google.com/maps/place/Calgary+Home+Selling+%7C+Calgary+Real+Estate+%7C+Ray+Yang/data=!4m7!3m6!1s0x88d50945ba16faf3:0x5ab3333fccf8927e!8m2!3d51.0125833!4d-114.087835!16s%2Fg%2F11y434hkh9!19sChIJ8_oWukUJ1YgRfpL4zD8zs1o?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Calgary"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Rob&Kim Calgary Real Estate Agents Coldwell Banker Mountain Central",
+    "source_business_name": "Rob&Kim Calgary Real Estate Agents Coldwell Banker Mountain Central",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14034837253",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.robandkim.ca/",
+    "address": "\n4033 Garrison Blvd SW, Calgary, AB T2T 6H4, Canada",
+    "city": "Calgary",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Rob%26Kim+%7C+Calgary+Real+Estate+Agents,+Coldwell+Banker+Mountain+Central/data=!4m7!3m6!1s0x5371704313faaaab:0x607038602b005e53!8m2!3d51.0198139!4d-114.1142529!16s%2Fg%2F11gh2r7qyx!19sChIJq6r6E0NwcVMRU14AK2A4cGA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Calgary"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

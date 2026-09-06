@@ -1,0 +1,50 @@
+{
+    "business_name": "Chamberlain Real Estate Group",
+    "source_business_name": "Chamberlain Real Estate Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15873165400",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.chamberlaingroup.ca/",
+    "address": "\n515 23 Ave NW, Calgary, AB T2M 1S7, Canada",
+    "city": "Calgary",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Chamberlain+Real+Estate+Group/data=!4m7!3m6!1s0x53716897262838f7:0x1855784901c36f06!8m2!3d51.0730149!4d-114.0726227!16s%2Fg%2F12hnypp3y!19sChIJ9zgoJpdocVMRBm_DAUl4VRg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Calgary"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

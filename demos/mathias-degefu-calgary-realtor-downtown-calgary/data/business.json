@@ -1,0 +1,50 @@
+{
+    "business_name": "Mathias Degefu - Calgary Realtor",
+    "source_business_name": "Mathias Degefu - Calgary Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14039033775",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://teammdrealty.com/",
+    "address": "\n400 5 Ave SW #300, Calgary, AB T2P 0L6, Canada",
+    "city": "Downtown Calgary",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Mathias+Degefu+-+Calgary+Realtor/data=!4m7!3m6!1s0x53716fc9ab4703d5:0xb50032037e38a5cb!8m2!3d51.048905!4d-114.0706346!16s%2Fg%2F11w1tjt_vn!19sChIJ1QNHq8lvcVMRy6U4fgMyALU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Calgary"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
