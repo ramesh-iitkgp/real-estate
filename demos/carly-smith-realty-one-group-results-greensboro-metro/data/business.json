@@ -1,0 +1,50 @@
+{
+    "business_name": "Carly Smith - Realty One Group Results",
+    "source_business_name": "Carly Smith - Realty One Group Results",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13365011815",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://carlysmith.myrealtyonegroup.com/Default.aspx",
+    "address": "\n1250 Revolution Mill Dr #151, Greensboro, NC 27405, United States",
+    "city": "Greensboro Metro",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Carly+Smith+-+Realty+One+Group+Results/data=!4m7!3m6!1s0x88531df95d09cbc5:0x967dd5e203521b59!8m2!3d36.0992417!4d-79.7779323!16s%2Fg%2F11kc40fv27!19sChIJxcsJXfkdU4gRWRtSA-LVfZY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Greensboro Metro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

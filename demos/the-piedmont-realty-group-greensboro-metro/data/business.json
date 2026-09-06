@@ -1,0 +1,50 @@
+{
+    "business_name": "The Piedmont Realty Group",
+    "source_business_name": "The Piedmont Realty Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13362680588",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1201 Battleground Ave, Greensboro, NC 27408, United States",
+    "city": "Greensboro Metro",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/The+Piedmont+Realty+Group/data=!4m7!3m6!1s0x88531961b7c59c27:0xe4ee43a67fd77c91!8m2!3d36.084521!4d-79.8055536!16s%2Fg%2F11zjjg8l85!19sChIJJ5zFt2EZU4gRkXzXf6ZD7uQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Greensboro Metro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

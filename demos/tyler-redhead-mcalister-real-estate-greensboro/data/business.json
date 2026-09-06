@@ -1,0 +1,50 @@
+{
+    "business_name": "Tyler Redhead & Mcalister Real Estate",
+    "source_business_name": "Tyler Redhead & Mcalister Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13362741717",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.trmrealestate.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "address": "\n3601 Lawndale Dr Suite #1, Greensboro, NC 27408, United States",
+    "city": "Greensboro",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Tyler+Redhead+%26+McAlister+Real+Estate/data=!4m7!3m6!1s0x88531eb169388a69:0x47011b0b9bbf55cf!8m2!3d36.1173078!4d-79.8282537!16s%2Fg%2F1tc_4t19!19sChIJaYo4abEeU4gRz1W_mwsbAUc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Greensboro"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/trmhomes/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

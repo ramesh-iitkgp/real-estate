@@ -1,0 +1,50 @@
+{
+    "business_name": "Greensboro Nc Real Estate",
+    "source_business_name": "Greensboro Nc Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18433384898",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n4233 Princeton Ave, Greensboro, NC 27407, United States",
+    "city": "Greensboro",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Greensboro+NC+Real+Estate/data=!4m7!3m6!1s0x88531bbb7ed9f5c7:0x957754d1ba3591da!8m2!3d36.0659087!4d-79.8527971!16s%2Fg%2F11k6b82ytb!19sChIJx_XZfrsbU4gR2pE1utFUd5U?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Greensboro"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/kristenhaynesrealtor/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
