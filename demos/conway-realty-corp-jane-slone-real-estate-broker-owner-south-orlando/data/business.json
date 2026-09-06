@@ -1,0 +1,50 @@
+{
+    "business_name": "Conway Realty Corp Jane Slone Real Estate Broker & Owner",
+    "source_business_name": "Conway Realty Corp Jane Slone Real Estate Broker & Owner",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14075408888",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.conwayrealtyorlando.com/",
+    "address": "\n3206 Conway Rd #4, Orlando, FL 32812, United States",
+    "city": "South Orlando",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Conway+Realty+Corp+~Jane+Slone+Real+Estate+Broker+%26+Owner/data=!4m7!3m6!1s0x88e764b0fbe3e281:0xb1edf302f43948d5!8m2!3d28.504484!4d-81.3313693!16s%2Fg%2F1tdgl26g!19sChIJgeLj-7Bk54gR1Ug59ALz7bE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Orlando"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Craig Finzel - Orlando Real Estate Agent With Atrium Realty Llc",
+    "source_business_name": "Craig Finzel - Orlando Real Estate Agent With Atrium Realty Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14078082990",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n301 N Hiawassee Rd, Orlando, FL 32835, United States",
+    "city": "North Orlando",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "39",
+    "google_maps_url": "https://www.google.com/maps/place/Craig+Finzel+-+Orlando+Real+Estate+Agent+with+Atrium+Realty,+LLC/data=!4m7!3m6!1s0x6d8c1b0928561851:0x3dc4a88f9f2d7012!8m2!3d28.5450579!4d-81.4739621!16s%2Fg%2F11pzx996hj!19sChIJURhWKAkbjG0REnAtn4-oxD0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Orlando"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

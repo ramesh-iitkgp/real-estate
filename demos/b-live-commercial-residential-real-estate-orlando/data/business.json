@@ -1,0 +1,50 @@
+{
+    "business_name": "B Live Commercial & Residential Real Estate",
+    "source_business_name": "B Live Commercial & Residential Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13212977264",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://bliverealestate.com/",
+    "address": "\n20 N Orange Ave Suite1100, Orlando, FL 32801, United States",
+    "city": "Orlando",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/B+Live+Commercial+%26+Residential+Real+Estate/data=!4m7!3m6!1s0x88e78051cca85f0f:0x848e1b2edb7545b6!8m2!3d28.5424203!4d-81.3794083!16s%2Fg%2F11c605l26t!19sChIJD1-ozFGA54gRtkV12y4bjoQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Orlando"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Loveland Properties",
+    "source_business_name": "Loveland Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14073528118",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.lovelandreport.com/",
+    "address": "\n6000 Turkey Lake Rd, Orlando, FL 32819, United States",
+    "city": "North Orlando",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "122",
+    "google_maps_url": "https://www.google.com/maps/place/Loveland+Properties/data=!4m7!3m6!1s0x88e77f21c6b80e17:0x9971ff5722df3b15!8m2!3d28.4767358!4d-81.47557!16s%2Fg%2F1tl_mjxq!19sChIJFw64xiF_54gRFTvfIlf_cZk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Orlando"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
