@@ -1,0 +1,50 @@
+{
+    "business_name": "Victoria Premier Property Group - Remax Camosun",
+    "source_business_name": "Victoria Premier Property Group - Remax Camosun",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12508824242",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://vicppg.com/",
+    "address": "\n4440 Chatterton Way, Victoria, BC V8X 5J2, Canada",
+    "city": "East Victoria",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Victoria+Premier+Property+Group+-+Remax+Camosun/data=!4m7!3m6!1s0x548f731d4fbff7b9:0xebcf3274d250ffd4!8m2!3d48.4889424!4d-123.3838701!16s%2Fg%2F11qq4sgqj4!19sChIJufe_Tx1zj1QR1P9Q0nQyz-s?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Victoria"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

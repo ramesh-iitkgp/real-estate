@@ -1,0 +1,50 @@
+{
+    "business_name": "Best Realtor Victoria Steve Axford",
+    "source_business_name": "Best Realtor Victoria Steve Axford",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12508588947",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.axfordrealty.com/",
+    "address": "\n1321 Blanshard St, Victoria, BC V8Z 1J9, Canada",
+    "city": "Victoria",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Best+Realtor+Victoria+%7C+Steve+Axford/data=!4m7!3m6!1s0x548f75c7cb4c33ab:0xef3ddf96b75ac927!8m2!3d48.4264955!4d-123.3614993!16s%2Fg%2F11h1kyqgk9!19sChIJqzNMy8d1j1QRJ8lat5bfPe8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Victoria"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

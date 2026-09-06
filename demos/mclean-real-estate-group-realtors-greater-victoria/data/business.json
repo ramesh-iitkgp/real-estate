@@ -1,0 +1,50 @@
+{
+    "business_name": "Mclean Real Estate Group - Realtors",
+    "source_business_name": "Mclean Real Estate Group - Realtors",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12507445551",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.mcleanrealestategroup.ca/",
+    "address": "\n4440 Chatterton Way, Victoria, BC V8X 5J2, Canada",
+    "city": "Greater Victoria",
+    "state": "",
+    "country": "Canada",
+    "currency_symbol": "C$",
+    "currency_code": "CAD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/McLean+Real+Estate+Group+-+REALTOR%28s%29/data=!4m7!3m6!1s0x548f723973235c67:0xdde471e87014b2a5!8m2!3d48.4888477!4d-123.3841129!16s%2Fg%2F1tt0qtvv!19sChIJZ1wjczlyj1QRpbIUcOhx5N0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Greater Victoria"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
