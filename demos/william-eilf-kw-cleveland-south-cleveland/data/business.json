@@ -1,0 +1,50 @@
+{
+    "business_name": "William Eilf - Kw Cleveland",
+    "source_business_name": "William Eilf - Kw Cleveland",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14238139800",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://williameilf.kw.com/",
+    "address": "",
+    "city": "South Cleveland",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/William+Eilf+-+KW+Cleveland/data=!4m7!3m6!1s0xa4380295c4faa027:0x1722ff57366b8f3c!8m2!3d35.36791!4d-84.883979!16s%2Fg%2F11sbvkhf__!19sChIJJ6D6xJUCOKQRPI9rNlf_Ihc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Cleveland"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

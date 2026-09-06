@@ -1,0 +1,50 @@
+{
+    "business_name": "Select Realty Professionals",
+    "source_business_name": "Select Realty Professionals",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14235595590",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n201 1st St NW, Cleveland, TN 37311, United States",
+    "city": "South Cleveland",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Select+Realty+Professionals/data=!4m7!3m6!1s0x885e2b9770d5080b:0xcb8a6d9428a86da8!8m2!3d35.1605662!4d-84.8774298!16s%2Fg%2F1tff8b8h!19sChIJCwjVcJcrXogRqG2oKJRtiss?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Cleveland"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

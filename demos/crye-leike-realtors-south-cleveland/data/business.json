@@ -1,0 +1,50 @@
+{
+    "business_name": "Crye-Leike Realtors",
+    "source_business_name": "Crye-Leike Realtors",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14234739545",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.crye-leike.com/shared/human/pow.php?return=https%3A%2F%2Fwww.crye-leike.com%2F",
+    "address": "\n4627 N Lee Hwy Suite 3, Cleveland, TN 37312, United States",
+    "city": "South Cleveland",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Crye-Leike,+Realtors/data=!4m7!3m6!1s0x885e2ea4d285fd4b:0x80297e4f11cd6074!8m2!3d35.2041757!4d-84.8430699!16s%2Fg%2F1thfg4xr!19sChIJS_2F0qQuXogRdGDNEU9-KYA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Cleveland"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

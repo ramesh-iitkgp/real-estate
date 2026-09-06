@@ -1,0 +1,50 @@
+{
+    "business_name": "New Venture Realty",
+    "source_business_name": "New Venture Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14236140051",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n490 Central Ave NW, Cleveland, TN 37311, United States",
+    "city": "South Cleveland",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/New+Venture+Realty/data=!4m7!3m6!1s0x885e2bbd14cda9df:0x7bf97e8287ec7840!8m2!3d35.1633766!4d-84.8790188!16s%2Fg%2F1tgw5rp1!19sChIJ36nNFL0rXogRQHjsh4J--Xs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Cleveland"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

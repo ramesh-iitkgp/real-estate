@@ -1,0 +1,50 @@
+{
+    "business_name": "The Golden Group Keller Williams Greater Metropolitan",
+    "source_business_name": "The Golden Group Keller Williams Greater Metropolitan",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14408217985",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.thegoldengrp.com/",
+    "address": "\n14701 Detroit Ave Fl 4 / ST #400, Lakewood, OH 44107, United States",
+    "city": "Cleveland Metro",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/The+Golden+Group,+Keller+Williams+Greater+Metropolitan/data=!4m7!3m6!1s0x8830f2904f439ba3:0x55c7de91779b1a51!8m2!3d41.4850107!4d-81.7986397!16s%2Fg%2F11fy4tlmfc!19sChIJo5tDT5DyMIgRURqbd5Hex1U?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Cleveland Metro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

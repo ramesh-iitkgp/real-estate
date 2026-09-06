@@ -1,0 +1,50 @@
+{
+    "business_name": "Jennifer Hoff Realtor",
+    "source_business_name": "Jennifer Hoff Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17138255890",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://jenniferhoff.jlarealty.com/",
+    "address": "\n119 N San Jacinto Ave, Cleveland, TX 77327, United States",
+    "city": "North Cleveland",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jennifer+Hoff,+Realtor/data=!4m7!3m6!1s0x86475fe01f394bfd:0xce38ef0b46e54854!8m2!3d30.3433368!4d-95.0888527!16s%2Fg%2F11kj843vgz!19sChIJ_Us5H-BfR4YRVEjlRgvvOM4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Cleveland"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

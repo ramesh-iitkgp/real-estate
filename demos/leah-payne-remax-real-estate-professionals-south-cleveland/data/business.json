@@ -1,0 +1,50 @@
+{
+    "business_name": "Leah Payne - Remax Real Estate Professionals",
+    "source_business_name": "Leah Payne - Remax Real Estate Professionals",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18653070994",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.leahpayne.remaxagent.com/",
+    "address": "\n1727 Mt Vernon Dr NW, Cleveland, TN 37311, United States",
+    "city": "South Cleveland",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Leah+Payne+-+Remax+Real+Estate+Professionals/data=!4m7!3m6!1s0x885e2b4e4022f525:0xab3f93dd0e313463!8m2!3d35.1882714!4d-84.8871947!16s%2Fg%2F11gm7qh_w2!19sChIJJfUiQE4rXogRYzQxDt2TP6s?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Cleveland"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

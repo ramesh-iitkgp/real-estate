@@ -1,0 +1,50 @@
+{
+    "business_name": "Antoine Perry",
+    "source_business_name": "Antoine Perry",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12165773580",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://homesmart.com/real-estate-agent/ohio/beachwood/80988-antoine-perry/Welcome",
+    "address": "",
+    "city": "East Cleveland",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "25",
+    "google_maps_url": "https://www.google.com/maps/place/Antoine+Perry/data=!4m7!3m6!1s0x2559cb0720582f9:0xb74c77b83b9a85!8m2!3d41.2371723!4d-81.7358205!16s%2Fg%2F11t58nnx57!19sChIJ-YIFcrCcVQIRhZo7uHdMtwA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Cleveland"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Remax Crossroads Cleveland Heights",
+    "source_business_name": "Remax Crossroads Cleveland Heights",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12162499886",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.remaxcrossroadsohio.com/",
+    "address": "\n2216 Lee Rd, Cleveland Heights, OH 44118, United States",
+    "city": "North Cleveland",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/RE%2FMAX+Crossroads+Cleveland+Heights/data=!4m7!3m6!1s0x8830fd24e2f8c38f:0xcc66c7f1b81d7a9b!8m2!3d41.499155!4d-81.5656209!16s%2Fg%2F11lcbhtq_v!19sChIJj8P44iT9MIgRm3oduPHHZsw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Cleveland"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Kim Kelly- Cleveland Realtor",
+    "source_business_name": "Kim Kelly- Cleveland Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14403764987",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://kimkelly.bhhspro.com/agents/1524965/Kim+Kelly",
+    "address": "\n27211 Wolf Rd Unit 2, Bay Village, OH 44140, United States",
+    "city": "West Cleveland",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Kim+Kelly-+Cleveland+Realtor/data=!4m7!3m6!1s0x88308d10811563c9:0x136a3d1dd76a9a6f!8m2!3d41.4847444!4d-81.9214032!16s%2Fg%2F11z200pjxf!19sChIJyWMVgRCNMIgRb5pq1x09ahM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Cleveland"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

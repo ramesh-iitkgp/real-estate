@@ -1,0 +1,50 @@
+{
+    "business_name": "Residences At Leader",
+    "source_business_name": "Residences At Leader",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12162417706",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.residencesatleader.com/",
+    "address": "\n526 Superior Ave, Cleveland, OH 44114, United States",
+    "city": "Downtown Cleveland",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Residences+at+Leader/data=!4m7!3m6!1s0x8830fa7fef84e22f:0xc5147c5b42c43f!8m2!3d41.5010369!4d-81.6904607!16s%2Fg%2F1tknl2jw!19sChIJL-KE73_6MIgRP8RCW3wUxQA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Cleveland"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

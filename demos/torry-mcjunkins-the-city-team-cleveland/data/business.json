@@ -1,0 +1,50 @@
+{
+    "business_name": "Torry Mcjunkins The City Team",
+    "source_business_name": "Torry Mcjunkins The City Team",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12164695227",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.torrymcjunkins.com/",
+    "address": "\n7414 Herman Ave, Cleveland, OH 44102, United States",
+    "city": "Cleveland",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Torry+McJunkins,+The+City+Team/data=!4m7!3m6!1s0x8830937e17140ead:0xedebc8b6b1df475e!8m2!3d41.4847309!4d-81.7359855!16s%2Fg%2F11j8lgh9md!19sChIJrQ4UF36TMIgRXkffsbbI6-0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Cleveland"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

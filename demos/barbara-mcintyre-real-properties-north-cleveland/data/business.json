@@ -1,0 +1,50 @@
+{
+    "business_name": "Barbara Mcintyre Real Properties",
+    "source_business_name": "Barbara Mcintyre Real Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12816876947",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n106 Plum Grove Rd, Cleveland, TX 77327, United States",
+    "city": "North Cleveland",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Barbara+McIntyre+Real+Properties/data=!4m7!3m6!1s0x86475f34a7ca434b:0xd02d23bc82a987d3!8m2!3d30.3377243!4d-95.0858526!16s%2Fg%2F11f19mp3fp!19sChIJS0PKpzRfR4YR04epgrwjLdA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Cleveland"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
