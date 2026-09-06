@@ -1,0 +1,50 @@
+{
+    "business_name": "Mt Real Estate",
+    "source_business_name": "Mt Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14804269220",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n71 W Boston St #200, Chandler, AZ 85225, United States",
+    "city": "South Chandler",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/MT+Real+Estate/data=!4m7!3m6!1s0x872baa104cad863b:0xf15bdc7806181434!8m2!3d33.3007251!4d-111.8418198!16s%2Fg%2F11b5qssqgz!19sChIJO4atTBCqK4cRNBQYBnjcW_E?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Chandler"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

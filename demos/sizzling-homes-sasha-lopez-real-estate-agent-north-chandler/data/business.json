@@ -1,0 +1,50 @@
+{
+    "business_name": "Sizzling Homes - Sasha Lopez Real Estate Agent",
+    "source_business_name": "Sizzling Homes - Sasha Lopez Real Estate Agent",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14804427584",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://sashalopez.kw.com",
+    "address": "\n3910 S Alma School Rd #1, Chandler, AZ 85248, United States",
+    "city": "North Chandler",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Sizzling+Homes+-+Sasha+Lopez+Real+Estate+Agent/data=!4m7!3m6!1s0x872b089fdd3781a3:0xc80ea3e83462c27a!8m2!3d33.2487202!4d-111.8650097!16s%2Fg%2F1hd_vp4jw!19sChIJo4E33Z8IK4cResJiNOijDsg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Chandler"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

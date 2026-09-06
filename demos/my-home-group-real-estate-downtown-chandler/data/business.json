@@ -1,0 +1,50 @@
+{
+    "business_name": "My Home Group Real Estate",
+    "source_business_name": "My Home Group Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14809920454",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n55 N Arizona Pl, Chandler, AZ 85225, United States",
+    "city": "Downtown Chandler",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/My+Home+Group+Real+Estate/data=!4m7!3m6!1s0x872baa10ea6fffff:0x8b359580d2b712aa!8m2!3d33.3040793!4d-111.8405097!16s%2Fg%2F11p0vxv2f1!19sChIJ__9v6hCqK4cRqhK30oCVNYs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Chandler"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

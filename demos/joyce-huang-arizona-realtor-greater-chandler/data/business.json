@@ -1,0 +1,50 @@
+{
+    "business_name": "Joyce Huang - Arizona Realtor",
+    "source_business_name": "Joyce Huang - Arizona Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14808680328",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://joycehuang.exprealty.com/",
+    "address": "\n2301 S Stearman Dr, Chandler, AZ 85286, United States",
+    "city": "Greater Chandler",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Joyce+Huang+-+Arizona+Realtor+%E4%BA%9E%E5%88%A9%E6%A1%91%E9%82%A3%E5%B7%9E%E6%88%BF%E5%9C%B0%E7%94%A2%E7%B6%93%E7%B4%80/data=!4m7!3m6!1s0x8400d19b9e11dc01:0x5215778f1a10da6d!8m2!3d33.2724067!4d-111.7926737!16s%2Fg%2F11ld3qxqvk!19sChIJAdwRnpvRAIQRbdoQGo93FVI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Greater Chandler"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

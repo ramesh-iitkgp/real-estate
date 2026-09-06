@@ -1,0 +1,50 @@
+{
+    "business_name": "Mcnelly Real Estate Team",
+    "source_business_name": "Mcnelly Real Estate Team",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14804054450",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://westusaagents.com/agent/morgan-mcnelly",
+    "address": "\n1870 E Northrop Blvd Ste 170, Chandler, AZ 85286, United States",
+    "city": "East Chandler",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/McNelly+Real+Estate+Team/data=!4m7!3m6!1s0x872baa8902ad95b9:0xcbf533e4ace5b721!8m2!3d33.2806034!4d-111.8101203!16s%2Fg%2F11gbxb57h2!19sChIJuZWtAomqK4cRIbflrOQz9cs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Chandler"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

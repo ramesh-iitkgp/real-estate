@@ -1,0 +1,50 @@
+{
+    "business_name": "Crown Key Real Estate Marci Burgoyne",
+    "source_business_name": "Crown Key Real Estate Marci Burgoyne",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14803892700",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://crownkeyhomes.com/",
+    "address": "\n1256 W Chandler Blvd #30, Chandler, AZ 85224, United States",
+    "city": "Downtown Chandler",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Crown+Key+Real+Estate:+Marci+Burgoyne/data=!4m7!3m6!1s0x872b00ae9dc25e2d:0x762fd7b70632e3d3!8m2!3d33.306418!4d-111.8646708!16s%2Fg%2F11cm0hkqt_!19sChIJLV7Cna4AK4cR0-MyBrfXL3Y?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Chandler"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
