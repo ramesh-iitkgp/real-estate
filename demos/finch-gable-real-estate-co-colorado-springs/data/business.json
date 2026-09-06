@@ -1,0 +1,50 @@
+{
+    "business_name": "Finch & Gable Real Estate Co",
+    "source_business_name": "Finch & Gable Real Estate Co",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17199998900",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://finchandgable.com/",
+    "address": "\n13540 Meadowgrass Dr Ste 205, Colorado Springs, CO 80921, United States",
+    "city": "Colorado Springs",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Finch+%26+Gable+Real+Estate+Co/data=!4m7!3m6!1s0x87134be507d787f7:0x77aef75c95220229!8m2!3d39.0280911!4d-104.8236741!16s%2Fg%2F11f10ff5cr!19sChIJ94fXB-VLE4cRKQIilVz3rnc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Colorado Springs"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

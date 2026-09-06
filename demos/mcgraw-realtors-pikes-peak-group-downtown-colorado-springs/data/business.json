@@ -1,0 +1,50 @@
+{
+    "business_name": "Mcgraw Realtors Pikes Peak Group",
+    "source_business_name": "Mcgraw Realtors Pikes Peak Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17196340500",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.mcgrawcolorado.com/",
+    "address": "\n411 S Tejon St # A, Colorado Springs, CO 80903, United States",
+    "city": "Downtown Colorado Springs",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/McGraw,+REALTORS+Pikes+Peak+Group/data=!4m7!3m6!1s0x8713478c68f4f0a9:0xf9f4f975d879a226!8m2!3d38.8276945!4d-104.8236317!16s%2Fg%2F11qh3qj7yn!19sChIJqfD0aIxHE4cRJqJ52HX59Pk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Colorado Springs"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

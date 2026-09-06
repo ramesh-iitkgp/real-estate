@@ -1,0 +1,50 @@
+{
+    "business_name": "Challenger Homes",
+    "source_business_name": "Challenger Homes",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "719) 598-5192",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n8605 Explorer Drive, Colorado Springs, CO 80920",
+    "city": "Colorado Springs",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Challenger+Homes/data=!4m7!3m6!1s0x87134d33a98af0e1:0xa6584e59118850a3!8m2!3d38.961324!4d-104.789877!16s%2Fg%2F1tfshw0l!19sChIJ4fCKqTNNE4cRo1CIEVlOWKY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Colorado Springs"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
