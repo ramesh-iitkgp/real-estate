@@ -1,0 +1,50 @@
+{
+    "business_name": "Ascaya",
+    "source_business_name": "Ascaya",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17029785800",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.ascaya.com/",
+    "address": "\n1 Ascaya Blvd, Henderson, NV 89012, United States",
+    "city": "Henderson Metro",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/ASCAYA/data=!4m7!3m6!1s0x80c8d2238b0e8699:0x81b6a148ed7e32fb!8m2!3d35.9977006!4d-115.0632097!16s%2Fg%2F124sxw48t!19sChIJmYYOiyPSyIAR-zJ-7UihtoE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Henderson Metro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

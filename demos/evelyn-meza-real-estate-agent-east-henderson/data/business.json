@@ -1,0 +1,50 @@
+{
+    "business_name": "Evelyn Meza- Real Estate Agent",
+    "source_business_name": "Evelyn Meza- Real Estate Agent",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16027219970",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://evelynmeza.com/",
+    "address": "\n2200 Paseo Verde Pkwy suite 300, Henderson, NV 89052, United States",
+    "city": "East Henderson",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Evelyn+Meza-+Real+Estate+Agent/data=!4m7!3m6!1s0x80c8d1cbf39f30ab:0xb042bc9edd0b21d!8m2!3d36.020908!4d-115.084547!16s%2Fg%2F11wj3w53dy!19sChIJqzCf88vRyIARHbLQ7ckrBAs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Henderson"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

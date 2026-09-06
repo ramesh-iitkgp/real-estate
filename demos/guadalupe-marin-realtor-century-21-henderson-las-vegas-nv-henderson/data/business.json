@@ -1,0 +1,50 @@
+{
+    "business_name": "Guadalupe Marin Realtor Century 21 Henderson Las Vegas Nv",
+    "source_business_name": "Guadalupe Marin Realtor Century 21 Henderson Las Vegas Nv",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17024233429",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://guadalupemarin.sites.c21.homes/",
+    "address": "\n2580 St Rose Pkwy Ste 120, Henderson, NV 89074, United States",
+    "city": "Henderson",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Guadalupe+Marin+Realtor+%2F+Century+21+%2F+Henderson+%2F+Las+Vegas+NV/data=!4m7!3m6!1s0x80c8cf7ca141c921:0x2e04ffdacd870f75!8m2!3d36.0165836!4d-115.1023494!16s%2Fg%2F11rz4qz4vb!19sChIJIclBoXzPyIARdQ-Hzdr_BC4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Henderson"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

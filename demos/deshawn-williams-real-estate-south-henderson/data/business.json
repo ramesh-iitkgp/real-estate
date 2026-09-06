@@ -1,0 +1,50 @@
+{
+    "business_name": "Deshawn Williams Real Estate",
+    "source_business_name": "Deshawn Williams Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17022865863",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://deshawnwilliams.myrealtyonegroup.com/?_ga=2.220668190.706209310.1686693763-320096270.1686693763",
+    "address": "\n2831 St Rose Pkwy #100, Henderson, NV 89052, United States",
+    "city": "South Henderson",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Deshawn+Williams+Real+Estate/data=!4m7!3m6!1s0x80c8c160474a171d:0xf7c633b0715a9182!8m2!3d36.008448!4d-115.1112313!16s%2Fg%2F11t2c_d7mx!19sChIJHRdKR2DByIARgpFacbAzxvc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Henderson"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

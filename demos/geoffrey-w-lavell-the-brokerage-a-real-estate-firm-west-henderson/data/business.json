@@ -1,0 +1,50 @@
+{
+    "business_name": "Geoffrey W Lavell - The Brokerage A Real Estate Firm",
+    "source_business_name": "Geoffrey W Lavell - The Brokerage A Real Estate Firm",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17022716868",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.thebrokerage.vegas/",
+    "address": "\n1090 Wigwam Pkwy, Henderson, NV 89074, United States",
+    "city": "West Henderson",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Geoffrey+W.+Lavell+-+THE+Brokerage,+A+Real+Estate+Firm/data=!4m7!3m6!1s0x80c8ce115c8da4b5:0x5a2295dd58760599!8m2!3d36.0339982!4d-115.0347829!16s%2Fg%2F12hl6w32n!19sChIJtaSNXBHOyIARmQV2WN2VIlo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Henderson"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

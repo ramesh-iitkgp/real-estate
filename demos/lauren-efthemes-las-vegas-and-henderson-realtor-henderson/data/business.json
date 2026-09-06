@@ -1,0 +1,50 @@
+{
+    "business_name": "Lauren Efthemes Las Vegas And Henderson Realtor",
+    "source_business_name": "Lauren Efthemes Las Vegas And Henderson Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19095570245",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.stewartlvrealestate.com/team/lauren-efthemes",
+    "address": "\n2200 Paseo Verde Pkwy suite 300, Henderson, NV 89052, United States",
+    "city": "Henderson",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Lauren+Efthemes+Las+Vegas+and+Henderson+Realtor/data=!4m7!3m6!1s0x80c8b947e35409f1:0xbe9b2e63c44f212a!8m2!3d36.0208527!4d-115.0848617!16s%2Fg%2F11ss8h2l60!19sChIJ8QlU40e5yIARKiFPxGMum74?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Henderson"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

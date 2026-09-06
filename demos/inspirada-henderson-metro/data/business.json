@@ -1,0 +1,50 @@
+{
+    "business_name": "Inspirada",
+    "source_business_name": "Inspirada",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17022607939",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.kbhome.com/new-homes-las-vegas/1136001?utm_source=google_gmb&utm_medium=organic",
+    "address": "\n2000 Via Firenze, Henderson, NV 89044, United States",
+    "city": "Henderson Metro",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Inspirada/data=!4m7!3m6!1s0x80c8cda4211494d9:0x1d584614348582a3!8m2!3d35.9555371!4d-115.125353!16s%2Fg%2F11g_6kxzg!19sChIJ2ZQUIaTNyIARo4KFNBRGWB0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Henderson Metro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

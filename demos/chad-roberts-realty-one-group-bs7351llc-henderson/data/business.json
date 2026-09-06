@@ -1,0 +1,50 @@
+{
+    "business_name": "Chad Roberts Realty One Group Bs7351Llc",
+    "source_business_name": "Chad Roberts Realty One Group Bs7351Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17025795677",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.topvegasrealty.com/",
+    "address": "\n2831 St Rose Pkwy #100, Henderson, NV 89052, United States",
+    "city": "Henderson",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Chad+Roberts,+Realty+One+Group,+%23BS.7351.LLC/data=!4m7!3m6!1s0x80c8ce115d237609:0x4ae51dfe9456c55d!8m2!3d36.0083494!4d-115.1111126!16s%2Fg%2F11bbrgkwr2!19sChIJCXYjXRHOyIARXcVWlP4d5Uo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Henderson"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
