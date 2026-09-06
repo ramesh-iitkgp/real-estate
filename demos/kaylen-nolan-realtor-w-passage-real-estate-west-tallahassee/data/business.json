@@ -1,0 +1,50 @@
+{
+    "business_name": "Kaylen Nolan- Realtor W Passage Real Estate",
+    "source_business_name": "Kaylen Nolan- Realtor W Passage Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18503220952",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1725 Capital Cir NE Ste 303, Tallahassee, FL 32308, United States",
+    "city": "West Tallahassee",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Kaylen+Nolan-+Realtor+w%2F+Passage+Real+Estate/data=!4m7!3m6!1s0x88ec5f034b1f4999:0x9c956ca5ec41f613!8m2!3d30.4655512!4d-84.2275241!16s%2Fg%2F11vdkr94ts!19sChIJmUkfSwNf7IgRE_ZB7KVslZw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Tallahassee"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

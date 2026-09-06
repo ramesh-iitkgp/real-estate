@@ -1,0 +1,50 @@
+{
+    "business_name": "Mandy O'Callaghan With Sellstate Clover Key Realty",
+    "source_business_name": "Mandy O'Callaghan With Sellstate Clover Key Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18503397639",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.cloverkeyrealty.com/",
+    "address": "\n3058 Highland Oaks Terrace Suite 200, Tallahassee, FL 32301, United States",
+    "city": "West Tallahassee",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Mandy+O%27Callaghan+with+Sellstate+Clover+Key+Realty/data=!4m7!3m6!1s0x88ec58c64999e5f3:0x98174658495af6cc!8m2!3d30.435898!4d-84.228677!16s%2Fg%2F11h5q81_1x!19sChIJ8-WZScZY7IgRzPZaSVhGF5g?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Tallahassee"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

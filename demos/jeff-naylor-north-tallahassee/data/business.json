@@ -1,0 +1,50 @@
+{
+    "business_name": "Jeff Naylor",
+    "source_business_name": "Jeff Naylor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18505672447",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://jeffnaylor.remaxagent.com/",
+    "address": "\n1901 Capital Cir NE, Tallahassee, FL 32308, United States",
+    "city": "North Tallahassee",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jeff+Naylor/data=!4m7!3m6!1s0x88ec5f217a02a147:0x9553a979c6a96324!8m2!3d30.4730496!4d-84.2325588!16s%2Fg%2F1tv24zq8!19sChIJR6ECeiFf7IgRJGOpxnmpU5U?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Tallahassee"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
