@@ -1,0 +1,50 @@
+{
+    "business_name": "Nw Elite Home Brokers",
+    "source_business_name": "Nw Elite Home Brokers",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12538889592",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.soundhomebroker.com",
+    "address": "\n401 Broadway Ste 100, Tacoma, WA 98402, United States",
+    "city": "Tacoma",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "17",
+    "google_maps_url": "https://www.google.com/maps/place/NW+Elite+Home+Brokers/data=!4m7!3m6!1s0x549055b8b910b943:0x36e8378a64ab33d2!8m2!3d47.260859!4d-122.4427331!16s%2Fg%2F11jb9gx30y!19sChIJQ7kQubhVkFQR0jOrZIo36DY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Tacoma"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

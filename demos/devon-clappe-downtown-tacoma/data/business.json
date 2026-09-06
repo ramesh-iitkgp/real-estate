@@ -1,0 +1,50 @@
+{
+    "business_name": "Devon Clappe'",
+    "source_business_name": "Devon Clappe'",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12062359748",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.devonclapperealestate.com/",
+    "address": "\n2604 6th Ave, Tacoma, WA 98406, United States",
+    "city": "Downtown Tacoma",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "20",
+    "google_maps_url": "https://www.google.com/maps/place/Devon+Clappe%27/data=!4m7!3m6!1s0x5491aaf2777d93fb:0x96e34baaca41e696!8m2!3d47.2552802!4d-122.4704782!16s%2Fg%2F11gffdw1bm!19sChIJ-5N9d_KqkVQRluZByqpL45Y?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Tacoma"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

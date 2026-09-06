@@ -1,0 +1,50 @@
+{
+    "business_name": "Katy Smith Real Estate Remax Northwest Tacoma",
+    "source_business_name": "Katy Smith Real Estate Remax Northwest Tacoma",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12532223282",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n4801 S 19th St Ste 200, Tacoma, WA 98405, United States",
+    "city": "Central Tacoma",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Katy+Smith+Real+Estate+%7C+RE%2FMAX+Northwest+Tacoma/data=!4m7!3m6!1s0x5490556f8705d18d:0x79f33dedd13ba758!8m2!3d47.2433157!4d-122.5016328!16s%2Fg%2F11fwbl_nlh!19sChIJjdEFh29VkFQRWKc70e0983k?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Tacoma"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

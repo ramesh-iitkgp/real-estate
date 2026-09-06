@@ -1,0 +1,50 @@
+{
+    "business_name": "Remax Northwest - Tacoma Wa",
+    "source_business_name": "Remax Northwest - Tacoma Wa",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12534722122",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://northwest-realtors-fircrest-tacoma-wa.remax.com/",
+    "address": "\n4801 S 19th St Ste 200, Tacoma, WA 98405, United States",
+    "city": "Tacoma",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "11",
+    "google_maps_url": "https://www.google.com/maps/place/RE%2FMAX+Northwest+-+Tacoma,+WA/data=!4m7!3m6!1s0x54905532a80d5993:0x6f52599918541952!8m2!3d47.2432778!4d-122.5015763!16s%2Fg%2F1wc47n_0!19sChIJk1kNqDJVkFQRUhlUGJlZUm8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Tacoma"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

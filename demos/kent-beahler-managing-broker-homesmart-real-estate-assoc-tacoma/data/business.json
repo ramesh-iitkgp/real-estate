@@ -1,0 +1,50 @@
+{
+    "business_name": "Kent Beahler Managing Broker Homesmart Real Estate Assoc",
+    "source_business_name": "Kent Beahler Managing Broker Homesmart Real Estate Assoc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12532285247",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://homesmart.com/real-estate-agent/washington/tacoma/41874-kent-beahler",
+    "address": "\n1201 Pacific Ave Ste 600, Tacoma, WA 98402, United States",
+    "city": "Tacoma",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "54",
+    "google_maps_url": "https://www.google.com/maps/place/Kent+Beahler,+Managing+Broker+HomeSmart+Real+Estate+Assoc/data=!4m7!3m6!1s0x54905502d55287df:0xe87bfd9e93e7755a!8m2!3d47.2521599!4d-122.4373977!16s%2Fg%2F11fmq02c_5!19sChIJ34dS1QJVkFQRWnXnk579e-g?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Tacoma"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
