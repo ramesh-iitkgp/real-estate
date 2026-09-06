@@ -1,0 +1,50 @@
+{
+    "business_name": "Pamela Everitt Lane Everitt Realtor At The Group Inc",
+    "source_business_name": "Pamela Everitt Lane Everitt Realtor At The Group Inc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19703108291",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://everittrealestate.com/",
+    "address": "\nThe Group, Inc, 2803 E Harmony Rd, Fort Collins, CO 80528, United States",
+    "city": "East Fort Collins",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Pamela+Everitt+Lane+Everitt+Realtor+at+The+Group,+Inc/data=!4m7!3m6!1s0xacb34e5d2549c7b5:0x84f54569bdeec4bb!8m2!3d40.5225532!4d-105.0264694!16s%2Fg%2F11w7d2kb51!19sChIJtcdJJV1Os6wRu8TuvWlF9YQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Fort Collins"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

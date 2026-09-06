@@ -1,0 +1,50 @@
+{
+    "business_name": "Remax Alliance Fort Collins South Office",
+    "source_business_name": "Remax Alliance Fort Collins South Office",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19702263990",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://remax-alliance-south-fort-collins.remax.com/",
+    "address": "\n4703-A Boardwalk Dr, Fort Collins, CO 80525, United States",
+    "city": "Fort Collins",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/RE%2FMAX+Alliance+Fort+Collins+South+Office/data=!4m7!3m6!1s0x87694c9b1a3bdb2b:0x9387b481c50601eb!8m2!3d40.5220066!4d-105.0658608!16s%2Fg%2F12mm83_r4!19sChIJK9s7GptMaYcR6wEGxYG0h5M?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Fort Collins"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

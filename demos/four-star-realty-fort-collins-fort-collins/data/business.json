@@ -1,0 +1,50 @@
+{
+    "business_name": "Four Star Realty",
+    "source_business_name": "Four Star Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19709720218",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://fourstarrealty.com/fort-collins-apartments/?utm_source=gbp&utm_medium=organic",
+    "address": "",
+    "city": "Fort Collins",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Four+Star+Realty+Fort+Collins/data=!4m7!3m6!1s0x87694bc6b65c1d41:0x9246f68116d9533a!8m2!3d40.5557434!4d-105.072209!16s%2Fg%2F11rc4m4r48!19sChIJQR1ctsZLaYcROlPZFoH2RpI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Fort Collins"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

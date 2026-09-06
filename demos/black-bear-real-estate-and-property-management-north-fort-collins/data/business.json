@@ -1,0 +1,50 @@
+{
+    "business_name": "Black Bear Real Estate And Property Management",
+    "source_business_name": "Black Bear Real Estate And Property Management",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19705569063",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://blackbear-re.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "address": "\n500 E Vine Dr #2, Fort Collins, CO 80524, United States",
+    "city": "North Fort Collins",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "27",
+    "google_maps_url": "https://www.google.com/maps/place/Black+Bear+Real+Estate+and+Property+Management/data=!4m7!3m6!1s0x876953809620c313:0x31dbd88e7f4fed0d!8m2!3d40.5960693!4d-105.0699651!16s%2Fg%2F11k9p66dzy!19sChIJE8MgloBTaYcRDe1Pf47Y2zE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Fort Collins"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

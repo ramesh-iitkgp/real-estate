@@ -1,0 +1,50 @@
+{
+    "business_name": "Morgan Merriman Realtor With C3 Real Estate Solutions",
+    "source_business_name": "Morgan Merriman Realtor With C3 Real Estate Solutions",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19706926353",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.c3realestatesolutions.com/agent/morgan-merriman/",
+    "address": "\n2720 Council Tree Ave Ste 178, Fort Collins, CO 80525, United States",
+    "city": "Greater Fort Collins",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Morgan+Merriman,+Realtor+with+C3+Real+Estate+Solutions/data=!4m7!3m6!1s0x2d5b9dadaf3d0309:0xf20e21ecc2b1e7db!8m2!3d40.5257522!4d-105.0260629!16s%2Fg%2F11nxnq1wv3!19sChIJCQM9r62dWy0R2-exwuwhDvI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Greater Fort Collins"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

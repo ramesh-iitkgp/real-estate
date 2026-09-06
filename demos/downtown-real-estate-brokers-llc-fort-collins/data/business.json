@@ -1,0 +1,50 @@
+{
+    "business_name": "Downtown Real Estate Brokers Llc",
+    "source_business_name": "Downtown Real Estate Brokers Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19709889367",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://downtownre.com/",
+    "address": "\n528 S Howes St, Fort Collins, CO 80521, United States",
+    "city": "Fort Collins",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Downtown+Real+Estate+Brokers,+LLC/data=!4m7!3m6!1s0x87694a89e2a5e0a7:0x1021a54ad866403c!8m2!3d40.5803653!4d-105.0804126!16s%2Fg%2F1pzs2sbn2!19sChIJp-Cl4olKaYcRPEBm2EqlIRA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Fort Collins"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

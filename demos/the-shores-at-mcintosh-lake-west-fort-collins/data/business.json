@@ -1,0 +1,50 @@
+{
+    "business_name": "The Shores At Mcintosh Lake",
+    "source_business_name": "The Shores At Mcintosh Lake",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13037748000",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.shoresapts.com/",
+    "address": "\n2450 Airport Rd, Longmont, CO 80503, United States",
+    "city": "West Fort Collins",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/The+Shores+at+McIntosh+Lake/data=!4m7!3m6!1s0x876bfc74b14d5609:0xd67f121e03de316f!8m2!3d40.20231!4d-105.148723!16s%2Fg%2F1wg5yhb2!19sChIJCVZNsXT8a4cRbzHeAx4Sf9Y?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Fort Collins"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
