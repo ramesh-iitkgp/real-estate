@@ -1,0 +1,50 @@
+{
+    "business_name": "B&M Amarillo Homes Builders And Home Construction Contractors",
+    "source_business_name": "B&M Amarillo Homes Builders And Home Construction Contractors",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18065573813",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.bmamarillohomes.com/",
+    "address": "\n5454 E Village Square, Amarillo, TX 79119, United States",
+    "city": "Amarillo",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/B%26M+Amarillo+Homes+%7C+Builders+and+Home+Construction+Contractors/data=!4m7!3m6!1s0x8701503cb153d1db:0x868baa94128020d0!8m2!3d35.152036!4d-101.941293!16s%2Fg%2F1tqtyb5f!19sChIJ29FTsTxQAYcR0CCAEpSqi4Y?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Amarillo"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

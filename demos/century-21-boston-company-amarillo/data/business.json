@@ -1,0 +1,50 @@
+{
+    "business_name": "Century 21 Boston & Company",
+    "source_business_name": "Century 21 Boston & Company",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18063539878",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.century21amarillo.com/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=2160410001",
+    "address": "\n4300 Teckla Blvd Ste 2A, Amarillo, TX 79109, United States",
+    "city": "Amarillo",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/CENTURY+21+Boston+%26+Company/data=!4m7!3m6!1s0x8701503b5c86d7db:0x1e1cf45f660cc051!8m2!3d35.1653399!4d-101.889627!16s%2Fg%2F1tf3ztpv!19sChIJ29eGXDtQAYcRUcAMZl_0HB4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Amarillo"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Bretta Kotara Realtor Gri Lyons Realty",
+    "source_business_name": "Bretta Kotara Realtor Gri Lyons Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18066719790",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n7701 W 34th St, Amarillo, TX 79119, United States",
+    "city": "West Amarillo",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Bretta+Kotara,+Realtor,+GRI+Lyons+Realty/data=!4m7!3m6!1s0x870151cf95a4514f:0x507c4a955b1447ac!8m2!3d35.1762302!4d-101.9263934!16s%2Fg%2F11lsnkfwwg!19sChIJT1Gklc9RAYcRrEcUW5VKfFA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Amarillo"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

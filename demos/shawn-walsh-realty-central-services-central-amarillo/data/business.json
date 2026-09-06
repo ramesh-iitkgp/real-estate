@@ -1,0 +1,50 @@
+{
+    "business_name": "Shawn Walsh Realty Central Services",
+    "source_business_name": "Shawn Walsh Realty Central Services",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18062362710",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.shawnwalsh.realtor/",
+    "address": "\n4804 Lexington Square, Amarillo, TX 79119, United States",
+    "city": "Central Amarillo",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Shawn+Walsh,+Realty+Central+Services/data=!4m7!3m6!1s0x87015154046c8289:0x81871912d16d6365!8m2!3d35.157511!4d-101.9362779!16s%2Fg%2F11sz4nh9jw!19sChIJiYJsBFRRAYcRZWNt0RIZh4E?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Amarillo"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
