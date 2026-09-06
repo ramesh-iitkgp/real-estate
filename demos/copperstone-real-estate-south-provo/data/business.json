@@ -1,0 +1,50 @@
+{
+    "business_name": "Copperstone Real Estate",
+    "source_business_name": "Copperstone Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14356609280",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://copperstonerealestate.com/",
+    "address": "\n50 N Main St, Mona, UT 84645, United States",
+    "city": "South Provo",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "28",
+    "google_maps_url": "https://www.google.com/maps/place/CopperStone+Real+Estate/data=!4m7!3m6!1s0x874dabfa79984221:0xa7d8c14541c59612!8m2!3d39.8168734!4d-111.8549149!16s%2Fg%2F11m5c4kg_l!19sChIJIUKYefqrTYcREpbFQUXB2Kc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Provo"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

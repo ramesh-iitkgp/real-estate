@@ -1,0 +1,50 @@
+{
+    "business_name": "Tys Real Estate Utah",
+    "source_business_name": "Tys Real Estate Utah",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18016995161",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://realestateessentials.com/agent/ty-larson/",
+    "address": "\n3149 W 1530 N, Provo, UT 84601, United States",
+    "city": "North Provo",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Ty%E2%80%99s+Real+Estate+Utah/data=!4m7!3m6!1s0x874d9bd3a8202b83:0xc9439c95754a4752!8m2!3d40.253476!4d-111.7144457!16s%2Fg%2F11mkvh9h0z!19sChIJgysgqNObTYcRUkdKdZWcQ8k?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Provo"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
