@@ -1,0 +1,50 @@
+{
+    "business_name": "First Weber Realtors - Madison West",
+    "source_business_name": "First Weber Realtors - Madison West",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16088333711",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.firstweber.com/bio/westmadison",
+    "address": "\n429 Gammon Pl, Madison, WI 53719, United States",
+    "city": "West Madison",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/First+Weber+Realtors+-+Madison+West/data=!4m7!3m6!1s0x8807aef7ea9ce39d:0xf48ca494503cee9!8m2!3d43.0585384!4d-89.5013835!16s%2Fg%2F113hsnd0w!19sChIJneOc6veuB4gR6c4DRUnKSA8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Madison"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

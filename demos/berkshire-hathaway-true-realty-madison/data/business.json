@@ -1,0 +1,50 @@
+{
+    "business_name": "Berkshire Hathaway True Realty",
+    "source_business_name": "Berkshire Hathaway True Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16088196060",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.bhhstruerealty.com/",
+    "address": "\n2230 Fordem Ave, Madison, WI 53704, United States",
+    "city": "Madison",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Berkshire+Hathaway+True+Realty/data=!4m7!3m6!1s0x880655924af6a949:0x7b60b5f5465f7a4c!8m2!3d43.1020802!4d-89.3643142!16s%2Fg%2F11tbtv0h07!19sChIJSan2SpJVBogRTHpfRvW1YHs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Madison"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
