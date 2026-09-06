@@ -1,0 +1,50 @@
+{
+    "business_name": "Windsor Homes",
+    "source_business_name": "Windsor Homes",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12604901302",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.mywindsorhome.com/",
+    "address": "\n7505 Westfield Dr, Fort Wayne, IN 46825, United States",
+    "city": "Fort Wayne",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Windsor+Homes/data=!4m7!3m6!1s0x8815e2f00a232af3:0x6b2be2c7fa7ef28d!8m2!3d41.148435!4d-85.138578!16s%2Fg%2F1tcysfhp!19sChIJ8yojCvDiFYgRjfJ--sfiK2s?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Fort Wayne"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
