@@ -1,0 +1,50 @@
+{
+    "business_name": "Candy Lopez Real Estate Agent Of Nebraska Realty",
+    "source_business_name": "Candy Lopez Real Estate Agent Of Nebraska Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14026155418",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://candynebraskarealty.com/",
+    "address": "\n7321 Plaza Ct #201, Lincoln, NE 68516, United States",
+    "city": "Lincoln",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Candy+Lopez+Real+Estate+Agent+of+Nebraska+Realty/data=!4m7!3m6!1s0x8796973b9e40945f:0x43a0e65e8f9a174e!8m2!3d40.737146!4d-96.6065802!16s%2Fg%2F11rght4nfk!19sChIJX5RAnjuXlocRTheaj17moEM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Lincoln"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

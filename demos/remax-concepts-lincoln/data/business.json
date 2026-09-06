@@ -1,0 +1,50 @@
+{
+    "business_name": "Remax Concepts",
+    "source_business_name": "Remax Concepts",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14024414120",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.myhomeinlincoln.com/",
+    "address": "\n4141 Pioneer Woods Dr Ste 114, Lincoln, NE 68506, United States",
+    "city": "Lincoln",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/REMAX+Concepts/data=!4m7!3m6!1s0x879695c4f7cad03d:0x2b79495f7fdeb08d!8m2!3d40.771046!4d-96.624628!16s%2Fg%2F1w0r0dvb!19sChIJPdDK98SVlocRjbDef19JeSs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Lincoln"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

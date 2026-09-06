@@ -1,0 +1,50 @@
+{
+    "business_name": "Matt Kirkland Owner The Matt Kirkland Groupgiving Realty",
+    "source_business_name": "Matt Kirkland Owner The Matt Kirkland Groupgiving Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14028027018",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.mattkirklandrealtor.com/",
+    "address": "\n1205 High St, Lincoln, NE 68502, United States",
+    "city": "Lincoln",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Matt+Kirkland,+Owner,+The+Matt+Kirkland+Group%2FGiving+Realty/data=!4m7!3m6!1s0x8796be34f4c450cf:0xaac2d9470db175f6!8m2!3d40.7806148!4d-96.7041377!16s%2Fg%2F11f4qmqqfy!19sChIJz1DE9DS-locR9nWxDUfZwqo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Lincoln"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Meranda Wente Home Real Estate",
+    "source_business_name": "Meranda Wente Home Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14028024775",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://merandawente.homerealestate.com/",
+    "address": "\n5322 O St, Lincoln, NE 68510, United States",
+    "city": "Lincoln",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Meranda+Wente+HOME+Real+Estate/data=!4m7!3m6!1s0x8796bd762bc5aead:0xbc4d8f3157db1965!8m2!3d40.8141642!4d-96.6469253!16s%2Fg%2F11y73_kwvn!19sChIJra7FK3a9locRZRnbVzGPTbw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Lincoln"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

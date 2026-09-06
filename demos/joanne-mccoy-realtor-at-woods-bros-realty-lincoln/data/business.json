@@ -1,0 +1,50 @@
+{
+    "business_name": "Joanne Mccoy Realtor At Woods Bros Realty",
+    "source_business_name": "Joanne Mccoy Realtor At Woods Bros Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14026130613",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://joannemccoy.woodsbros.com/",
+    "address": "\n3737 S 27th St, Lincoln, NE 68502, United States",
+    "city": "Lincoln",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Joanne+McCoy+%2F+Realtor+at+Woods+Bros.+Realty/data=!4m7!3m6!1s0x8796be18282ae13f:0x3a5392d6e13d8c76!8m2!3d40.775601!4d-96.682927!16s%2Fg%2F1tdq1mtz!19sChIJP-EqKBi-locRdow94daSUzo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Lincoln"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

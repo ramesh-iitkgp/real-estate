@@ -1,0 +1,50 @@
+{
+    "business_name": "Nexthome Integrity",
+    "source_business_name": "Nexthome Integrity",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14022177917",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.nexthomeintegrityre.com/",
+    "address": "\n2001 N St #114, Lincoln, NE 68510, United States",
+    "city": "Lincoln Metro",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/NextHome+Integrity/data=!4m7!3m6!1s0x879695294a1cf223:0xb21a105da1f38cc9!8m2!3d40.8120967!4d-96.6922876!16s%2Fg%2F11rk2f1gj8!19sChIJI_IcSimVlocRyYzzoV0QGrI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Lincoln Metro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
