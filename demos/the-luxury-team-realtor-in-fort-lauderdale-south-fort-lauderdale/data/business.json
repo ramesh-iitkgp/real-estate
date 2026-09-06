@@ -1,0 +1,50 @@
+{
+    "business_name": "The Luxury Team Realtor In Fort Lauderdale",
+    "source_business_name": "The Luxury Team Realtor In Fort Lauderdale",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19548811081",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.theluxuryteam.com/",
+    "address": "\n901 E Las Olas Blvd #204, Fort Lauderdale, FL 33301, United States",
+    "city": "South Fort Lauderdale",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/The+Luxury+Team,+Realtor+in+Fort+Lauderdale/data=!4m7!3m6!1s0x88d901edb78a937d:0xbda71b73ac8c45de!8m2!3d26.1195341!4d-80.1337427!16s%2Fg%2F11bx5p923q!19sChIJfZOKt-0B2YgR3kWMrHMbp70?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Fort Lauderdale"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

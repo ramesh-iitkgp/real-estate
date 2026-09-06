@@ -1,0 +1,50 @@
+{
+    "business_name": "Beckett Realty - Realtors In",
+    "source_business_name": "Beckett Realty - Realtors In",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19549009811",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.beckettrealty.com/?utm_source=google&utm_medium=gmb&utm_campaign=fort_lauderdale",
+    "address": "\n611 S Federal Hwy, Fort Lauderdale, FL 33301, United States",
+    "city": "Fort Lauderdale",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Beckett+Realty+-+Realtors+in+Fort+Lauderdale/data=!4m7!3m6!1s0x88d9004db9a7980b:0x6d5cf441e917c11!8m2!3d26.1144269!4d-80.137296!16s%2Fg%2F1v5_b6wb!19sChIJC5inuU0A2YgREXyRHkTP1QY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Fort Lauderdale"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

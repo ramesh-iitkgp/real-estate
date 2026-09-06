@@ -1,0 +1,50 @@
+{
+    "business_name": "Daniela Melaniti - Daniela Melaniti Fort Lauderdale Luxury Realtor Waterfront & Intracoastal Homes",
+    "source_business_name": "Daniela Melaniti - Daniela Melaniti Fort Lauderdale Luxury Realtor Waterfront & Intracoastal Homes",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17862120375",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.sflluxuryhomes.com/",
+    "address": "\n901 E Las Olas Blvd Ste 101, Fort Lauderdale, FL 33301, United States",
+    "city": "Fort Lauderdale",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Daniela+Melaniti+-+Daniela+Melaniti+%7C+Fort+Lauderdale+Luxury+Realtor+%7C+Waterfront+%26+Intracoastal+Homes/data=!4m7!3m6!1s0x88d901785a90e4db:0x3930e05c19fd1894!8m2!3d26.1195139!4d-80.1337128!16s%2Fg%2F11gv16bddl!19sChIJ2-SQWngB2YgRlBj9GVzgMDk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Fort Lauderdale"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

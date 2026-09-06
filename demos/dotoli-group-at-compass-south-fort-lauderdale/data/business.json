@@ -1,0 +1,50 @@
+{
+    "business_name": "Dotoli Group At Compass",
+    "source_business_name": "Dotoli Group At Compass",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19547996349",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://joshdotoligroup.com/?utm_campaign=gmb",
+    "address": "\n1200 E Las Olas Blvd Ste Suite 103, Fort Lauderdale, FL 33301, United States",
+    "city": "South Fort Lauderdale",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/DOTOLI+Group+at+Compass/data=!4m7!3m6!1s0x88d90056ef333725:0x19b931f032a98ced!8m2!3d26.1188486!4d-80.131082!16s%2Fg%2F11cjpb8md6!19sChIJJTcz71YA2YgR7YypMvAxuRk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Fort Lauderdale"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

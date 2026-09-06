@@ -1,0 +1,50 @@
+{
+    "business_name": "Jason Read Realtor Charles Rutenberg Realty Fort Lauderdale",
+    "source_business_name": "Jason Read Realtor Charles Rutenberg Realty Fort Lauderdale",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19542789495",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.livinginsouthfloridajasonread.com/",
+    "address": "\n2201 Prospect Rd #200, Fort Lauderdale, FL 33309, United States",
+    "city": "North Fort Lauderdale",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jason+Read+Realtor,+Charles+Rutenberg+Realty+Fort+Lauderdale/data=!4m7!3m6!1s0x88d903408f13387f:0x27895ad113722b75!8m2!3d26.1843987!4d-80.1728219!16s%2Fg%2F11kyy0tdkq!19sChIJfzgTj0AD2YgRdStyE9FaiSc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Fort Lauderdale"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

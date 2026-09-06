@@ -1,0 +1,50 @@
+{
+    "business_name": "Jenni Sosnow Pet Friendly Fort Lauderdale Real Estate Agent",
+    "source_business_name": "Jenni Sosnow Pet Friendly Fort Lauderdale Real Estate Agent",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13862277106",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://jennifer-sosnow.weicherthallmark.com/",
+    "address": "\n5200 N Federal Hwy Unit 7, Fort Lauderdale, FL 33308, United States",
+    "city": "North Fort Lauderdale",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jenni+Sosnow,+Pet+Friendly+Fort+Lauderdale+Real+Estate+Agent/data=!4m7!3m6!1s0x88e69724069763f9:0x81f6b9cc1fe5d13c!8m2!3d26.1923726!4d-80.1129782!16s%2Fg%2F11h6g1ln9f!19sChIJ-WOXBiSX5ogRPNHlH8y59oE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Fort Lauderdale"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
