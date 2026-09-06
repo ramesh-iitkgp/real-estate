@@ -1,0 +1,50 @@
+{
+    "business_name": "Marie Austin Realty",
+    "source_business_name": "Marie Austin Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19192865611",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1204 Broad St, Durham, NC 27705, United States",
+    "city": "Durham",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "14",
+    "google_maps_url": "https://www.google.com/maps/place/Marie+Austin+Realty/data=!4m7!3m6!1s0x89ace304779cca53:0x9b63c9ced9ebf716!8m2!3d36.0176148!4d-78.9188014!16s%2Fg%2F11ty4n494n!19sChIJU8qcdwTjrIkRFvfr2c7JY5s?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Durham"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Keller Williams Elite Realty",
+    "source_business_name": "Keller Williams Elite Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19842445830",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.durhamkw.com/",
+    "address": "\n245 NC-54 Ste 101, Durham, NC 27713, United States",
+    "city": "Central Durham",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Keller+Williams+Elite+Realty/data=!4m7!3m6!1s0x89ace8ab3e11af2f:0xe431a995416c499a!8m2!3d35.9105534!4d-78.930218!16s%2Fg%2F11crzj9f73!19sChIJL68RPqvorIkRmklsQZWpMeQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Durham"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

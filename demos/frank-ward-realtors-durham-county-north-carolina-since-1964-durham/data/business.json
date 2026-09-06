@@ -1,0 +1,50 @@
+{
+    "business_name": "Frank Ward Realtors Durham County North Carolina Since 1964",
+    "source_business_name": "Frank Ward Realtors Durham County North Carolina Since 1964",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19196885811",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.frankwardrealtors.com/",
+    "address": "\n518 S Duke St, Durham, NC 27701, United States",
+    "city": "Durham",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "3",
+    "google_maps_url": "https://www.google.com/maps/place/Frank+Ward,+REALTORS%C2%AE+Durham+County,+North+Carolina+since+1964/data=!4m7!3m6!1s0x89ace413ab407b6b:0x894d499ffbf6dd33!8m2!3d35.9943881!4d-78.9092769!16s%2Fg%2F1ttyxlvy!19sChIJa3tAqxPkrIkRM932-59JTYk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Durham"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

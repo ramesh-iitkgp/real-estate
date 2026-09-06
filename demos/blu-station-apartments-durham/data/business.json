@@ -1,0 +1,50 @@
+{
+    "business_name": "Blu Station Apartments",
+    "source_business_name": "Blu Station Apartments",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19196828426",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.blustationapartments.com/?lvcode=1200972",
+    "address": "\n518 N Hardee St, Durham, NC 27703, United States",
+    "city": "Durham",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "296",
+    "google_maps_url": "https://www.google.com/maps/place/BLU+Station+Apartments/data=!4m7!3m6!1s0x89ace49e8f875fd3:0x3ed98d461b3d63ad!8m2!3d35.998482!4d-78.864049!16s%2Fg%2F1w347gyf!19sChIJ01-Hj57krIkRrWM9G0aN2T4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Durham"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

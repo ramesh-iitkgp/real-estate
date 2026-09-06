@@ -1,0 +1,50 @@
+{
+    "business_name": "Steed Rollins Realtor Real Estate Agent In Durham Nc",
+    "source_business_name": "Steed Rollins Realtor Real Estate Agent In Durham Nc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19193069767",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.steedrollins.com/",
+    "address": "\n112 Montrose Dr, Durham, NC 27707, United States",
+    "city": "Durham",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "25",
+    "google_maps_url": "https://www.google.com/maps/place/Steed+Rollins+REALTOR+%7C+Real+Estate+Agent+in+Durham+NC/data=!4m7!3m6!1s0x89ace504731bc437:0xcbd1ef2d75bfb53!8m2!3d35.9636745!4d-78.9282274!16s%2Fg%2F11trfr0st0!19sChIJN8QbcwTlrIkRU_tb1_IevQw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Durham"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

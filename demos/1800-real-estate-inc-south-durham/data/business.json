@@ -1,0 +1,50 @@
+{
+    "business_name": "1800 Real Estate Inc",
+    "source_business_name": "1800 Real Estate Inc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19193005144",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://1800realestatenc.com/",
+    "address": "\n2310 S Miami Blvd #132, Durham, NC 27703, United States",
+    "city": "South Durham",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/1800+Real+Estate+Inc/data=!4m7!3m6!1s0x89ace5370b4d9527:0x8a2663e8dc1dcfb0!8m2!3d35.9369455!4d-78.8426014!16s%2Fg%2F11h3nj9mx1!19sChIJJ5VNCzflrIkRsM8d3OhjJoo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Durham"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
