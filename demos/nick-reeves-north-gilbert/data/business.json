@@ -1,0 +1,50 @@
+{
+    "business_name": "Nick Reeves",
+    "source_business_name": "Nick Reeves",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14806851014",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://nicholasreeves.forth-right-team-gilbert-az.remax.com/?rmxaid=102279851&rmxv=1692931593",
+    "address": "\n4365 E Pecos Rd Ste 103, Gilbert, AZ 85295, United States",
+    "city": "North Gilbert",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "86",
+    "google_maps_url": "https://www.google.com/maps/place/Nick+Reeves/data=!4m7!3m6!1s0x872badba4fb02caf:0xc4278ccf8d69e024!8m2!3d33.2901912!4d-111.6964665!16s%2Fg%2F11stk3k5jy!19sChIJryywT7qtK4cRJOBpjc-MJ8Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Gilbert"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

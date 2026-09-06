@@ -1,0 +1,50 @@
+{
+    "business_name": "Kindra Weston Realtor - West Usa Realty",
+    "source_business_name": "Kindra Weston Realtor - West Usa Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18132838577",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://westusaagents.com/agent/kindra-weston/?aid=1339",
+    "address": "",
+    "city": "West Gilbert",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Kindra+Weston,+REALTOR%C2%AE+-+West+USA+Realty/data=!4m7!3m6!1s0x872ba9f25ed575df:0x80f94d80bef05461!8m2!3d33.518261!4d-111.8950935!16s%2Fg%2F11ydqsbf4b!19sChIJ33XVXvKpK4cRYVTwvoBN-YA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Gilbert"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

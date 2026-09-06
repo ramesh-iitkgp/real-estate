@@ -1,0 +1,50 @@
+{
+    "business_name": "We Deal Real Estate Wdre",
+    "source_business_name": "We Deal Real Estate Wdre",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14807880329",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://wedealrealestate.kw.com",
+    "address": "\n830 S Higley Rd, Gilbert, AZ 85296, United States",
+    "city": "Gilbert",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/We+Deal+Real+Estate+%23WDRE/data=!4m7!3m6!1s0x872bae3f36c2a3bb:0xc322d4f7d42c3506!8m2!3d33.3352482!4d-111.7222607!16s%2Fg%2F1v8x2ntg!19sChIJu6PCNj-uK4cRBjUs1PfUIsM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Gilbert"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

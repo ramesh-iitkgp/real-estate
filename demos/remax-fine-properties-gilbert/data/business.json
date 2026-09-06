@@ -1,0 +1,50 @@
+{
+    "business_name": "Remax Fine Properties",
+    "source_business_name": "Remax Fine Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14804057715",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://gilbert.fineprop.com/",
+    "address": "\n355 E Germann Rd, Gilbert, AZ 85297, United States",
+    "city": "Gilbert",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/RE%2FMAX+Fine+Properties/data=!4m7!3m6!1s0x872bac6be362f683:0x267e5f454c091fb6!8m2!3d33.2770513!4d-111.7832554!16s%2Fg%2F1264g838l!19sChIJg_Zi42usK4cRth8JTEVffiY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Gilbert"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
