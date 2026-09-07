@@ -1,0 +1,50 @@
+{
+    "business_name": "Vision Of Onaizah Hotel",
+    "source_business_name": "Vision Of Onaizah Hotel",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966556282822",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://visionofonaizah.com/",
+    "address": "\nشارع السلسلة, Ad Dulayah, Unaizah 56219, Saudi Arabia",
+    "city": "Unaizah",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Vision+of+Onaizah+Hotel/data=!4m7!3m6!1s0x1581ed381bf02221:0xc408bfac12efbd9f!8m2!3d26.08858!4d43.9802553!16s%2Fg%2F11f65bngf3!19sChIJISLwGzjtgRURn73vEqy_CMQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Unaizah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
