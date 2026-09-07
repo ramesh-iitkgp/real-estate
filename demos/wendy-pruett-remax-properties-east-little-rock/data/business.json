@@ -1,0 +1,50 @@
+{
+    "business_name": "Wendy Pruett Remax Properties",
+    "source_business_name": "Wendy Pruett Remax Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15012244111",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://wendypruett.remaxarkansas.com/",
+    "address": "\n8201 Cantrell Rd #225, Little Rock, AR 72227, United States",
+    "city": "East Little Rock",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Wendy+Pruett,+RE%2FMAX+Properties/data=!4m7!3m6!1s0x87d2a3c1790da651:0x3203b256ccaed6d9!8m2!3d34.7762076!4d-92.3660923!16s%2Fg%2F1tqtb68l!19sChIJUaYNecGj0ocR2dauzFayAzI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Little Rock"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

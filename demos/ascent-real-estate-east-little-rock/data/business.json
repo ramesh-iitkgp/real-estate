@@ -1,0 +1,50 @@
+{
+    "business_name": "Ascent Real Estate",
+    "source_business_name": "Ascent Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15015908659",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1202 Main St Ste 203, Little Rock, AR 72202, United States",
+    "city": "East Little Rock",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Ascent+Real+Estate/data=!4m7!3m6!1s0x87d2bb15184eaaab:0xb941a74d20d888fa!8m2!3d34.7370895!4d-92.27279!16s%2Fg%2F11h3vc9vww!19sChIJq6pOGBW70ocR-ojYIE2nQbk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Little Rock"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
