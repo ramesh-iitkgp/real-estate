@@ -1,0 +1,50 @@
+{
+    "business_name": "Almousa Real Estate Office",
+    "source_business_name": "Almousa Real Estate Office",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966579397367",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nالاصفر, Dammam 32426, Saudi Arabia",
+    "city": "Dammam",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/%D9%85%D9%83%D8%AA%D8%A8+%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%89+%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A,+Almousa+real+estate+office%E2%80%AD/data=!4m7!3m6!1s0x3e49fdae63911e75:0xbd4c767f27b4d22b!8m2!3d26.4456292!4d50.0799795!16s%2Fg%2F11z5wpl_gg!19sChIJdR6RY679ST4RK9K0J392TL0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dammam"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Nesaj Town 1 1",
+    "source_business_name": "Nesaj Town 1 1",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "9668003011888",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.nesajtown.com/",
+    "address": "\n82M2+88 D36, Dammam 31952, Saudi Arabia",
+    "city": "Dammam",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Nesaj+Town+1+%7C+%D9%86%D8%B3%D8%A7%D8%AC+%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85+1%E2%80%AD/data=!4m7!3m6!1s0x3e361dc0d475ab49:0xa09ffd4967778539!8m2!3d26.3333125!4d50.0008125!16s%2Fg%2F11h1sqpzhd!19sChIJSat11MAdNj4ROYV3Z0n9n6A?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dammam"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

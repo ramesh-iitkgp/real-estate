@@ -1,0 +1,50 @@
+{
+    "business_name": "Masadr Real Estate Co",
+    "source_business_name": "Masadr Real Estate Co",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966138287999",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.masadar.com.sa/",
+    "address": "\nC437+6X9, Prince Mohammed Bin Fahd Road, Al Shifa, Dammam 32236, Saudi Arabia",
+    "city": "Dammam",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Masadr+Real+Estate+Co/data=!4m7!3m6!1s0x3e49fb4c3e338285:0xfef43ef4f012bb2b!8m2!3d26.403049!4d50.114974!16s%2Fg%2F11bbt8q4pn!19sChIJhYIzPkz7ST4RK7sS8PQ-9P4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dammam"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Dana Real Estate Office Towers",
+    "source_business_name": "Dana Real Estate Office Towers",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966138373482",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nF27R+CGM, Hamza Ibn Abdulmuttaleb St, Al Danah, Dammam 32437, Saudi Arabia",
+    "city": "Dammam",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "27",
+    "google_maps_url": "https://www.google.com/maps/place/Dana+real+estate+office+towers/data=!4m7!3m6!1s0x3e49fe6d7baf0d37:0xa267e27f880cebb6!8m2!3d26.4635784!4d50.0413044!16s%2Fg%2F11bw7fd100!19sChIJNw2ve23-ST4RtusMiH_iZ6I?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dammam"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

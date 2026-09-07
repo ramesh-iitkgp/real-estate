@@ -1,0 +1,50 @@
+{
+    "business_name": "Demarcation Of The Real Estate Company",
+    "source_business_name": "Demarcation Of The Real Estate Company",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966539211111",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://tarseem.sa/",
+    "address": "\n7680 ابو بكر الصديق, An Nada, Dammam 32273, Saudi Arabia",
+    "city": "Dammam",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Demarcation+of+the+Real+Estate+Company/data=!4m7!3m6!1s0x3e49e3242d3bdfc1:0x876d2fd702b6b469!8m2!3d26.370148!4d50.0655901!16s%2Fg%2F11c7_wtz30!19sChIJwd87LSTjST4RabS2AtcvbYc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dammam"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "East & West Real Estate Development Company",
+    "source_business_name": "East & West Real Estate Development Company",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966138096289",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nAl Qashlah, 2nd Floor Ali Abdelhadi & Partners Co, Dhahran 34232, Saudi Arabia",
+    "city": "Dammam",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/East+%26+West+Real+Estate+Development+Company/data=!4m7!3m6!1s0x3e49e5b010641175:0x35d6fa8719764c9f!8m2!3d26.3734657!4d50.16963!16s%2Fg%2F11svck4qxq!19sChIJdRFkELDlST4Rn0x2GYf61jU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dammam"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
