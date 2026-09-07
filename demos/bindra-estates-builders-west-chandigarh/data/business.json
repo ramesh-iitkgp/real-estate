@@ -1,0 +1,50 @@
+{
+    "business_name": "Bindra Estates & Builders",
+    "source_business_name": "Bindra Estates & Builders",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918054545475",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nQuiet Office No 3 , Ground Floor & First Floor (Cabin No.2 Sector 35A, Chandigarh 160022",
+    "city": "West Chandigarh",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Bindra+Estates+%26+Builders/data=!4m7!3m6!1s0x390fedb9efffffff:0x2c8b8b28b50ea901!8m2!3d30.7297296!4d76.7616143!16s%2Fg%2F1tfc0dn9!19sChIJ____77ntDzkRAakOtSiLiyw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Chandigarh"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

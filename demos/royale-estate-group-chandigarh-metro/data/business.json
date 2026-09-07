@@ -1,0 +1,50 @@
+{
+    "business_name": "Royale Estate Group",
+    "source_business_name": "Royale Estate Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918558825588",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.royaleestategroup.in/cgi-sys/suspendedpage.cgi",
+    "address": "\nUnder Flyover, Royale Estate Group Corporate office Royale Estate Society, Gate No.1 Chd, Ambala Road, opposite NK sharma Office, Zirakpur, Punjab 140603",
+    "city": "Chandigarh Metro",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "611",
+    "google_maps_url": "https://www.google.com/maps/place/Royale+Estate+Group/data=!4m7!3m6!1s0x390febdf81e964eb:0x84af8c677f6b35f8!8m2!3d30.6487867!4d76.8238024!16s%2Fg%2F1vh_6s6q!19sChIJ62Tpgd_rDzkR-DVrf2eMr4Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Chandigarh Metro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
