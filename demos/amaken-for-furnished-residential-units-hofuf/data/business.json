@@ -1,0 +1,50 @@
+{
+    "business_name": "Amaken For Furnished Residential Units",
+    "source_business_name": "Amaken For Furnished Residential Units",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966597644411",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nحي الرفعة الجنوبية،, Al Hofuf 36361, Saudi Arabia",
+    "city": "Hofuf",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/%D8%A3%D9%85%D8%A7%D9%83%D9%86+%D9%84%D9%84%D9%88%D8%AD%D8%AF%D8%A7%D8%AA+%D8%A7%D9%84%D8%B3%D9%83%D9%86%D9%8A%D8%A9+%D8%A7%D9%84%D9%85%D9%81%D8%B1%D9%88%D8%B4%D8%A9+Amaken+for+furnished+residential+units%E2%80%AD/data=!4m10!3m9!1s0x3e3796c63f1759e9:0xe8c539ca48f86385!5m2!4m1!1i2!8m2!3d25.3694835!4d49.5862015!16s%2Fg%2F11ft763jd9!19sChIJ6VkXP8aWNz4RhWP4SMo5xeg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hofuf"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Hasana Real Estate Office",
+    "source_business_name": "Hasana Real Estate Office",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966503900790",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n7497، 2472, Aynmusa، الهفوف والمبرز, Al Hufuf and Al Mubarraz 36364, Saudi Arabia",
+    "city": "Hofuf",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Hasana+Real+Estate+Office/data=!4m7!3m6!1s0x3e3796af96e8ada5:0x4733aa9981510824!8m2!3d25.3723782!4d49.6010988!16s%2Fg%2F11c710zb7b!19sChIJpa3olq-WNz4RJAhRgZmqM0c?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hofuf"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

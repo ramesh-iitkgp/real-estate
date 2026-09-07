@@ -1,0 +1,50 @@
+{
+    "business_name": "Dar Alsharq",
+    "source_business_name": "Dar Alsharq",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966595122333",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nKing Fahd Rd, Almasudi, Al Hofuf 36341, Saudi Arabia",
+    "city": "Hofuf",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/%D8%AF%D8%A7%D8%B1+%D8%A7%D9%84%D8%B4%D8%B1%D9%82+Dar+alsharq%E2%80%AD/data=!4m7!3m6!1s0x3e3797a5ac6654d5:0xf2aea35cc3390ad0!8m2!3d25.3947084!4d49.5919145!16s%2Fg%2F11yvhg18tz!19sChIJ1VRmrKWXNz4R0Ao5w1yjrvI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hofuf"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
