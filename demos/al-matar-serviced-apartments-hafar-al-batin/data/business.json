@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Matar Serviced Apartments",
+    "source_business_name": "Al Matar Serviced Apartments",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966137236000",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nطريق فيصل بن عبدالعزيز, Al Wahah, Hafar Al Batin 39913, Saudi Arabia",
+    "city": "Hafar Al-Batin",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Al+Matar+Serviced+Apartments/data=!4m7!3m6!1s0x3fd73f5529a556cd:0x7e68b842fb274fab!8m2!3d28.4099711!4d45.9796768!16s%2Fg%2F119vl0thv!19sChIJzValKVU_1z8Rq08n-0K4aH4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hafar Al-Batin"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

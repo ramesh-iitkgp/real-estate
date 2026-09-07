@@ -1,0 +1,50 @@
+{
+    "business_name": "Nelover Hotel Suites",
+    "source_business_name": "Nelover Hotel Suites",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966560832000",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nNear Banque Saudi Fransi, King Abdullah Rd, Al Baladiyah, Hafar Al Batin 39921, Saudi Arabia",
+    "city": "Hafar Al-Batin",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Nelover+Hotel+Suites/data=!4m7!3m6!1s0x3fd738aaafd1f141:0xc575f2a9492a1424!8m2!3d28.4120625!4d45.9805625!16s%2Fg%2F1pty9kgd4!19sChIJQfHRr6o41z8RJBQqSanydcU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hafar Al-Batin"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

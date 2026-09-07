@@ -1,0 +1,50 @@
+{
+    "business_name": "Banan Apartment",
+    "source_business_name": "Banan Apartment",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966550899566",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nامتداد طريق الكويت، شارع المعهد العلمي, Al Aziziyah، CXM8+9XR، حي, Hafar Al Batin Saudi Arabia",
+    "city": "Hafar Al-Batin",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Banan+Apartment/data=!4m7!3m6!1s0x3fd740c4f198803b:0x6d6baf56c2120c7!8m2!3d28.4334375!4d45.9674375!16s%2Fg%2F11b6dpb_w2!19sChIJO4CY8cRA1z8RxyAhbPW61gY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hafar Al-Batin"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Silk Hotel Suites",
+    "source_business_name": "Silk Hotel Suites",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966137244333",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nبجوار مطاعم ومتحف بيت العقيلات، 3610 الملك عبدالله بن عبدالعزيز, Al Baladiyah, Hafar Al Batin 39921, Saudi Arabia",
+    "city": "Hafar Al-Batin",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Silk+Hotel+Suites/data=!4m7!3m6!1s0x3fd738aa21f832ef:0x4d286251b319d497!8m2!3d28.4128602!4d45.984702!16s%2Fg%2F11dzf10qkj!19sChIJ7zL4Iao41z8Rl9QZs1FiKE0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hafar Al-Batin"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

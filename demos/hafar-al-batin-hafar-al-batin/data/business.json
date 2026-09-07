@@ -1,0 +1,50 @@
+{
+    "business_name": "Hafar Al Batin",
+    "source_business_name": "Hafar Al Batin",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966503861428",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n6624 الصناعية 25, As Sinaiyah, CNDB3768، 3768, Hafar Al Batin 39925, Saudi Arabia",
+    "city": "Hafar Al-Batin",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Hafar+Al+Batin/data=!4m7!3m6!1s0x3fd739cf1fd15ced:0xa99ddbc2f212fc0e!8m2!3d28.4264658!4d46.034228!16s%2Fg%2F11vklk5yf5!19sChIJ7VzRH8851z8RDvwS8sLbnak?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hafar Al-Batin"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
