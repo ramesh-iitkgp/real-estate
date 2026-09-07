@@ -1,0 +1,50 @@
+{
+    "business_name": "Teresa Cowart Team At Remax Accent",
+    "source_business_name": "Teresa Cowart Team At Remax Accent",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19125250900",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://teresacowartteam.com/",
+    "address": "\n7001 Chatham Center Dr Ste 2400, Savannah, GA 31405, United States",
+    "city": "Savannah",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Teresa+Cowart+Team+at+RE%2FMAX+Accent/data=!4m7!3m6!1s0x88fb0f17e1779229:0xa625619eb30be5b3!8m2!3d32.0722634!4d-81.1474479!16s%2Fg%2F11bw473sgl!19sChIJKZJ34RcP-4gRs-ULs55hJaY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Savannah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

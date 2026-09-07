@@ -1,0 +1,50 @@
+{
+    "business_name": "Leo At Port Wentworth",
+    "source_business_name": "Leo At Port Wentworth",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17622310832",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.advenirliving.com/leoatportwentworth",
+    "address": "\n1100 Meinhard Rd, Port Wentworth, GA 31407, United States",
+    "city": "South Savannah",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/LEO+at+Port+Wentworth/data=!4m7!3m6!1s0x88fba32a6867c2b5:0x8c6daf674892119e!8m2!3d32.189643!4d-81.224301!16s%2Fg%2F11z9pchk9s!19sChIJtcJnaCqj-4gRnhGSSGevbYw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Savannah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Tricounty Real Estate Llc",
+    "source_business_name": "Tricounty Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19123519737",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.tricountysavannah.com/",
+    "address": "\n513 E 63rd St, Savannah, GA 31405, United States",
+    "city": "North Savannah",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/TriCounty+Real+Estate+LLC/data=!4m7!3m6!1s0x88fb75a53812d619:0xc288a5f821bf6cd2!8m2!3d32.0327545!4d-81.0962378!16s%2Fg%2F1wb8vk32!19sChIJGdYSOKV1-4gR0my_IfiliMI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Savannah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Team Callahan At Keller Williams Realty Savannah Ga",
+    "source_business_name": "Team Callahan At Keller Williams Realty Savannah Ga",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19122003897",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.realestateinsavannah.net",
+    "address": "\n3107 Waters Ave, Savannah, GA 31404, United States",
+    "city": "Savannah",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Team+Callahan+at+Keller+Williams+Realty,+Savannah,+GA/data=!4m7!3m6!1s0x14fa5cd0db38d6f7:0x610b926df371b352!8m2!3d32.0447426!4d-81.0867643!16s%2Fg%2F1q5bw9fcb!19sChIJ99Y429Bc-hQRUrNx822SC2E?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Savannah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

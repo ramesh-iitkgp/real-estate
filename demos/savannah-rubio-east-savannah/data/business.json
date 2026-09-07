@@ -1,0 +1,50 @@
+{
+    "business_name": "Savannah Rubio",
+    "source_business_name": "Savannah Rubio",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "12293259080",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.evrealestate.com/en/shops/savannah/our-advisors/savannahrubio/94d39088-e714-4b5d-9afe-1b9e75f8c00a",
+    "address": "\n1650 E Victory Dr, Savannah, GA 31404, United States",
+    "city": "East Savannah",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Savannah+Rubio/data=!4m7!3m6!1s0x6910897f5247874b:0xe42cf4068d51bad4!8m2!3d32.0453795!4d-81.0736772!16s%2Fg%2F11vt7y_cpr!19sChIJS4dHUn-JEGkR1LpRjQb0LOQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Savannah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Scott Shippy Realtor Broker Owner Savannah Properties Rental Home Management",
+    "source_business_name": "Scott Shippy Realtor Broker Owner Savannah Properties Rental Home Management",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19128561797",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.savannahprettyhomes.com/",
+    "address": "\n231 Stephenson Ave, Savannah, GA 31405, United States",
+    "city": "Central Savannah",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Scott+Shippy+Realtor%2F+Broker+Owner+Savannah+Properties+Rental+Home+Management/data=!4m7!3m6!1s0x88fb75a525c4d369:0x948649eba65f0358!8m2!3d32.0125105!4d-81.1092424!16s%2Fg%2F1pzvzz_ln!19sChIJadPEJaV1-4gRWANfputJhpQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Savannah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

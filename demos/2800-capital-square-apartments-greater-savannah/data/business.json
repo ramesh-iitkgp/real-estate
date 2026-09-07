@@ -1,0 +1,50 @@
+{
+    "business_name": "2800 Capital Square Apartments",
+    "source_business_name": "2800 Capital Square Apartments",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "912) 221-4354",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n2800 Capital Street Apt, Savannah, GA 31404",
+    "city": "Greater Savannah",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/2800+Capital+Square+Apartments/data=!4m7!3m6!1s0x88fb9dbfb41920ef:0xc3d852ce5cc740d2!8m2!3d32.062795!4d-81.052065!16s%2Fg%2F11gfmx3glv!19sChIJ7yAZtL-d-4gR0kDHXM5S2MM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Greater Savannah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
