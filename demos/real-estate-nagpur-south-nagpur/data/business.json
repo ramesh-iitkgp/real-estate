@@ -1,0 +1,50 @@
+{
+    "business_name": "Real Estate Nagpur",
+    "source_business_name": "Real Estate Nagpur",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919325393296",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nBharatwada Rd, Pardi, Nagpur, Maharashtra 440035",
+    "city": "South Nagpur",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Real+Estate+Nagpur/data=!4m7!3m6!1s0x3bd4c7c5e23588ff:0xc264c2d4b9b2d417!8m2!3d21.163885!4d79.1641322!16s%2Fg%2F11nq1mlwjh!19sChIJ_4g14sXH1DsRF9SyudTCZMI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Nagpur"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

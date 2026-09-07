@@ -1,0 +1,50 @@
+{
+    "business_name": "Shree Hari Realtors",
+    "source_business_name": "Shree Hari Realtors",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917875006633",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://shreeharirealtors.com/",
+    "address": "\n1st Floor, Suyog Apartment, Wardha Rd, beside Nav-Bharat Building, near Chhatrapati Square, New Sneh Nagar, Nagpur, Maharashtra 440015",
+    "city": "Nagpur",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Shree+Hari+Realtors/data=!4m7!3m6!1s0x3bd4bf0a02805f43:0x49a8b2b32a12f7af!8m2!3d21.1080801!4d79.0689357!16s%2Fg%2F11y433161b!19sChIJQ1-AAgq_1DsRr_cSKrOyqEk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Nagpur"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

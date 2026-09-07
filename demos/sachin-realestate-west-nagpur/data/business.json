@@ -1,0 +1,50 @@
+{
+    "business_name": "Sachin Realestate",
+    "source_business_name": "Sachin Realestate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918208885450",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.sachinrealestate.com/",
+    "address": "\nPLOT NO 90, Saibaba Nagar, Anmol Nagar, Wathoda Layout, Nagpur, Maharashtra 440035",
+    "city": "West Nagpur",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/SACHIN+REALESTATE/data=!4m7!3m6!1s0x3bd4c7dfb3790fc9:0x6c76e40c133ca699!8m2!3d21.1286658!4d79.1453528!16s%2Fg%2F11s1pljkrs!19sChIJyQ95s9_H1DsRmaY8Ewzkdmw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Nagpur"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

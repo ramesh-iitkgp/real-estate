@@ -1,0 +1,50 @@
+{
+    "business_name": "Homzhub-Real Estate Investment & Property Management",
+    "source_business_name": "Homzhub-Real Estate Investment & Property Management",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918088900900",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.homzhub.com/",
+    "address": "\n209, Himshikar Apartments 11, Shivaji Nagar, Nagpur, Maharashtra 440010",
+    "city": "Nagpur",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Homzhub-Real+estate+investment+%26+Property+Management/data=!4m7!3m6!1s0x3bd4c0646ee144f7:0x68607287eaab9c01!8m2!3d21.1353358!4d79.0577459!16s%2Fg%2F11gczj64qz!19sChIJ90ThbmTA1DsRAZyr6odyYGg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Nagpur"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Nagpurpropertycom",
+    "source_business_name": "Nagpurpropertycom",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919028570555",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://nagpurproperty.com/",
+    "address": "\nVighneshwar Aptts, Renuka Colony, 57/1, Beltarodi Rd, Ring Road, Joginagar, Badil Kheda, Nagpur, Maharashtra 440027",
+    "city": "Nagpur",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/NAGPURPROPERTY.COM/data=!4m7!3m6!1s0x3bd4bf420ec2539f:0x92bad5fd49f6c272!8m2!3d21.1048226!4d79.0876321!16s%2Fg%2F11b5vyyv9n!19sChIJn1PCDkK_1DsRcsL2Sf3VupI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Nagpur"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

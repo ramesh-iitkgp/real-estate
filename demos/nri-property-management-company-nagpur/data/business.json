@@ -1,0 +1,50 @@
+{
+    "business_name": "Nri Property Management Company",
+    "source_business_name": "Nri Property Management Company",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917875006655",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.nripmc.com/",
+    "address": "\nFlat No.101, 1st Floor, Suyog Apartment, Wardha Rd, beside Nav-Bharat Building, near Chhatrapati Square, New Sneh Nagar, Nagpur, Maharashtra 440015",
+    "city": "Nagpur",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/NRI+Property+Management+Company/data=!4m7!3m6!1s0x3bd4bf14c7956939:0x65a57216f968297c!8m2!3d21.1080739!4d79.0689325!16s%2Fg%2F11qppvd2f3!19sChIJOWmVxxS_1DsRfClo-RZypWU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Nagpur"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

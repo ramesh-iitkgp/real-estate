@@ -1,0 +1,50 @@
+{
+    "business_name": "Sr Real Estate",
+    "source_business_name": "Sr Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917620113070",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nShop No. 105, Fortune Empire, Manish Nagar, Besa, Nagpur, Besa Pipla, Maharashtra 440037",
+    "city": "Nagpur",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/SR+Real+Estate/data=!4m7!3m6!1s0x3bd4bf5ad7eee295:0x754304c1ebd67500!8m2!3d21.0911192!4d79.0825671!16s%2Fg%2F11yn_b54t9!19sChIJleLu11q_1DsRAHXW68EEQ3U?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Nagpur"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

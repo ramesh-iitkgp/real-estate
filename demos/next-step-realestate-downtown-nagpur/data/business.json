@@ -1,0 +1,50 @@
+{
+    "business_name": "Next Step Realestate",
+    "source_business_name": "Next Step Realestate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919370722330",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n2nd Floor, Chawhan Bhawan, opposite Batukbhai sons jewellers, Dharampeth Extension, Dharampeth, Nagpur, Maharashtra 440010",
+    "city": "Downtown Nagpur",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Next+Step+RealEstate/data=!4m7!3m6!1s0x4254e79e0ef57557:0xd006fd3cf94319c!8m2!3d21.1389665!4d79.0601709!16s%2Fg%2F11l5jcnswn!19sChIJV3X1Dp7nVEIRnDGUz9NvAA0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Nagpur"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

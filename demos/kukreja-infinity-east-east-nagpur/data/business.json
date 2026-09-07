@@ -1,0 +1,50 @@
+{
+    "business_name": "Kukreja Infinity East",
+    "source_business_name": "Kukreja Infinity East",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917888019977",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.kinfra.in/",
+    "address": "\nMiddle Ring Rd, opposite Bharat Petroleum Pump, Kharbi, Nagpur, Maharashtra 440024",
+    "city": "East Nagpur",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Kukreja+Infinity+East/data=!4m7!3m6!1s0x3bd4c74e3dbb0ac5:0xaa780184e216d1f4!8m2!3d21.1368407!4d79.1331572!16s%2Fg%2F11nxqmvp9z!19sChIJxQq7PU7H1DsR9NEW4oQBeKo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Nagpur"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

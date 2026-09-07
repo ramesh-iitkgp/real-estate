@@ -1,0 +1,50 @@
+{
+    "business_name": "Global Associates",
+    "source_business_name": "Global Associates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919822579499",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nGlobal Associates, Plot no 16, W High Ct Rd, next to Parekh Jwellers, Shankar Nagar, East Shankar Nagar, Dharampeth, Nagpur, Maharashtra 440010",
+    "city": "Downtown Nagpur",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Global+Associates/data=!4m7!3m6!1s0x3bd4c1c1c5cc25cf:0xbd06bd105994e10e!8m2!3d21.1319489!4d79.0621976!16s%2Fg%2F11glglx3mc!19sChIJzyXMxcHB1DsRDuGUWRC9Br0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Nagpur"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

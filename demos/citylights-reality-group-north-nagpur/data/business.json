@@ -1,0 +1,50 @@
+{
+    "business_name": "Citylights Reality Group",
+    "source_business_name": "Citylights Reality Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918485893055",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nPlot no. 94D,Opposite White House, Near Haldiram Food Planet, Awasthi Square, Mansarovar Colony, Jafar Nagar, Police Line Takli, Nagpur, Maharashtra 440013",
+    "city": "North Nagpur",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "25",
+    "google_maps_url": "https://www.google.com/maps/place/CITYLIGHTS+Reality+Group/data=!4m7!3m6!1s0x3bd4c10900d7e761:0x8849079999e44baf!8m2!3d21.1847858!4d79.06971!16s%2Fg%2F11f01p51c_!19sChIJYefXAAnB1DsRr0vkmZkHSYg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Nagpur"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

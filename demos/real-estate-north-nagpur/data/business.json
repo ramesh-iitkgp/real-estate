@@ -1,0 +1,50 @@
+{
+    "business_name": "Real Estate",
+    "source_business_name": "Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919923399833",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nshop no. 9, regal celebration, Ranidurgawati sq, Kanji House Rd, Nagpur, Maharashtra 440017",
+    "city": "North Nagpur",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "309",
+    "google_maps_url": "https://www.google.com/maps/place/Real+Estate/data=!4m7!3m6!1s0x3bd4c6d79291bdad:0x42b7397812bd1867!8m2!3d21.1722359!4d79.1202603!16s%2Fg%2F1q64clbqr!19sChIJrb2RktfG1DsRZxi9Eng5t0I?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Nagpur"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

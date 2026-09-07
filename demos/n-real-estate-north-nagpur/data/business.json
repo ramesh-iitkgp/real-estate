@@ -1,0 +1,50 @@
+{
+    "business_name": "N Real Estate",
+    "source_business_name": "N Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917038986310",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nZingabai Takli, road, Godhni, Nagpur, Maharashtra 440030",
+    "city": "North Nagpur",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "10",
+    "google_maps_url": "https://www.google.com/maps/place/N+Real+Estate/data=!4m7!3m6!1s0x3bd4c1369461e82d:0x64f762aa008ae49c!8m2!3d21.1936423!4d79.0703397!16s%2Fg%2F11h_0nrrxb!19sChIJLehhlDbB1DsRnOSKAKpi92Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Nagpur"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
