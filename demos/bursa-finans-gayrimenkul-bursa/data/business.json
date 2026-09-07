@@ -1,0 +1,50 @@
+{
+    "business_name": "Bursa Finans Gayrimenkul",
+    "source_business_name": "Bursa Finans Gayrimenkul",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "905512559181",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n75.yıl mah, Bağlaraltı, A302 Sk. NO:22/C, 16300 Yıldırım/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Bursa+Finans+Gayrimenkul/data=!4m7!3m6!1s0x14ca39aa7dcaa5e9:0x4acfe8eeb3f48ad4!8m2!3d40.1853492!4d29.1423259!16s%2Fg%2F11fn0lc1s4!19sChIJ6aXKfao5yhQR1Ir0s-7oz0o?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

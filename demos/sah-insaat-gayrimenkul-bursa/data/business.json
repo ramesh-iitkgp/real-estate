@@ -1,0 +1,50 @@
+{
+    "business_name": "Sah Insaat Gayrimenkul",
+    "source_business_name": "Sah Insaat Gayrimenkul",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "902163980988",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nAkhisar, 209. Sk. No:6, 16000 İnegöl/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/%C5%9EAH+%C4%B0N%C5%9EAAT+GAYR%C4%B0MENKUL/data=!4m7!3m6!1s0x14cad07d75c957e7:0xedefb3ae5e88b417!8m2!3d40.1155937!4d29.4682487!16s%2Fg%2F11b_3h7d5g!19sChIJ51fJdX3QyhQRF7SIXq6z7-0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Tirpan Gayrimenkul Insaat Mudanya",
+    "source_business_name": "Tirpan Gayrimenkul Insaat Mudanya",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "905050192916",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.tirpan.gayrimenkul.com/",
+    "address": "\nÖmerbey, 1. Şirin Sk. 40/C, 16940 Mudanya/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "11",
+    "google_maps_url": "https://www.google.com/maps/place/TIRPAN+GAYR%C4%B0MENKUL+%C4%B0N%C5%9EAAT+MUDANYA/data=!4m7!3m6!1s0x14ca6de1731d34ed:0xd3ee5a6e209b8ed7!8m2!3d40.3737134!4d28.8860616!16s%2Fg%2F11s7c7xw07!19sChIJ7TQdc-FtyhQR146bIG5a7tM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

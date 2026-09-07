@@ -1,0 +1,50 @@
+{
+    "business_name": "Sag Emlak Gayrimenkul Danismanlik Hizmetleri",
+    "source_business_name": "Sag Emlak Gayrimenkul Danismanlik Hizmetleri",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "905412101660",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://secure.sahibinden.com/login?return_url=https%3A%2F%2Fsagemlak.sahibinden.com%2F",
+    "address": "\nBağlarbaşı 2. Güzel Sokak no4A, 16160 Osmangazi̇/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/SA%C4%9E+EMLAK+GAYR%C4%B0MENK%C3%9CL+DANI%C5%9EMANLIK+H%C4%B0ZMETLER%C4%B0/data=!4m7!3m6!1s0x14ca14502ec636cb:0x9ac9356601bcc852!8m2!3d40.235562!4d28.9901837!16s%2Fg%2F11f3zfnw3g!19sChIJyzbGLlAUyhQRUsi8AWY1yZo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Nish Broker Gayrimenkul Inegol Esyal Kiralk Daire",
+    "source_business_name": "Nish Broker Gayrimenkul Inegol Esyal Kiralk Daire",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "905327301460",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nyeni mahalle,alanyurt yeni mahalle merkez camii,5, 16400 İnegöl/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Nish+Broker+Gayrimenkul+%E2%80%93+%C4%B0neg%C3%B6l+E%C5%9Fyal%C4%B1+Kiral%C4%B1k+Daire/data=!4m7!3m6!1s0x14cbc969e5ed0d59:0x2e6539907d9d6630!8m2!3d40.1038324!4d29.5196262!16s%2Fg%2F11s39ktjxx!19sChIJWQ3t5WnJyxQRMGadfZA5ZS4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Sb",
+    "source_business_name": "Sb",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "905443853019",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nGörükle Mah. Üçoluk Cad. Gençocak sitesi Murat Apt. No:22 Dük :11, 16285 Ni̇lüfer/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/SB/data=!4m7!3m6!1s0x14ca0e3de39c5c7d:0xcc741ab354c9c791!8m2!3d40.2270846!4d28.8485326!16s%2Fg%2F11dfgx0ksg!19sChIJfVyc4z0OyhQRkcfJVLMadMw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

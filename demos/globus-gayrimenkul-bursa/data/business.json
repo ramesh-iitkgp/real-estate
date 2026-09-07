@@ -1,0 +1,50 @@
+{
+    "business_name": "Globus Gayrimenkul",
+    "source_business_name": "Globus Gayrimenkul",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "905413674635",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nGLOBUS GAYRİMENKUL GAYRİMENKUL, GÖRÜKLE DUMLUPINAR MAHALLESİ ATATÜRK 500 bulvarı, TRENDBULVAR EVLERİ A blok 101 AB, 16240 Ni̇lüfer/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/GLOBUS+GAYR%C4%B0MENKUL/data=!4m7!3m6!1s0x14ca0f479739c635:0x43d2cbb2af8028b6!8m2!3d40.2289342!4d28.8292457!16s%2Fg%2F11y7nhq049!19sChIJNcY5l0cPyhQRtiiAr7LL0kM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

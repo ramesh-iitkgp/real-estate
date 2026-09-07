@@ -1,0 +1,50 @@
+{
+    "business_name": "Reis Emlak",
+    "source_business_name": "Reis Emlak",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "905380235512",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://secure.sahibinden.com/login?return_url=https%3A%2F%2Freisinsaatemlak.sahibinden.com%2F",
+    "address": "\nYeşil, Çelebi Mehmet Blv. No:25/B, 16360 Yıldırım/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Reis+Emlak/data=!4m7!3m6!1s0x14ca3dde9477cb53:0x59c7deb9a04f0443!8m2!3d40.180362!4d29.073314!16s%2Fg%2F1q66zjy52!19sChIJU8t3lN49yhQRQwRPoLnex1k?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

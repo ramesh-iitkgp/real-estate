@@ -1,0 +1,50 @@
+{
+    "business_name": "Bursa Trend Yapi Gayrimenkul",
+    "source_business_name": "Bursa Trend Yapi Gayrimenkul",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "905427177477",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.bursatrendyapigayrimenkul.com/",
+    "address": "\nHarbiyeli Apartmanı, Demirtaşpaşa, Celal Bayar Cd. No: 5/B, 16040 Osmangazi̇/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/BURSA+TREND+YAPI+GAYR%C4%B0MENKUL/data=!4m7!3m6!1s0x14ca3f678fe59aa9:0x1ae042210c6cf9a2!8m2!3d40.1887702!4d29.0702942!16s%2Fg%2F11fqzvg828!19sChIJqZrlj2c_yhQRovlsDCFC4Bo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/bursatrendyapi/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

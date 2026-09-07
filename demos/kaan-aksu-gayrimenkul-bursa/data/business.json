@@ -1,0 +1,50 @@
+{
+    "business_name": "Kaan Aksu Gayrimenkul",
+    "source_business_name": "Kaan Aksu Gayrimenkul",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "905392555962",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://secure.sahibinden.com/login?return_url=https%3A%2F%2Fkaanaksugayrimenkul.sahibinden.com%2F",
+    "address": "\nÇekirge, Dobruca Cd No:39 D:1A, 16090 Osmangazi̇/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Kaan+Aksu+Gayrimenkul/data=!4m7!3m6!1s0x14ca17b73daa1b71:0x6b0ec50db97e66d0!8m2!3d40.1974944!4d29.0133281!16s%2Fg%2F11rsr90vld!19sChIJcRuqPbcXyhQR0GZ-uQ3FDms?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

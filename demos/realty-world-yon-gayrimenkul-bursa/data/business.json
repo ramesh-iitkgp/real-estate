@@ -1,0 +1,50 @@
+{
+    "business_name": "Realty World Yon Gayrimenkul",
+    "source_business_name": "Realty World Yon Gayrimenkul",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "902242428181",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nİhsaniye Mahallesi, İzmir Yolu Cad. Efe Plaza K:3 Ofis No:5(Odeabank Üzeri, 16130 Ni̇lüfer/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Realty+World+Y%C3%B6n+Gayrimenkul/data=!4m7!3m6!1s0x14ca1469ceb14bd5:0x77aea71056251052!8m2!3d40.2119477!4d28.9821922!16s%2Fg%2F119wvghg0!19sChIJ1UuxzmkUyhQRUhAlVhCnrnc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/realtyworldborsagayrimenkul/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Kukurtlu Emlak",
+    "source_business_name": "Kukurtlu Emlak",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "905334268444",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nKükürtlü, Kükürtlü Cd. No:44, 16080 Osmangazi̇/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/K%C3%BCk%C3%BCrtl%C3%BC+Emlak+Bursa/data=!4m7!3m6!1s0x14ca15e5d5f71859:0x9a1f9cef18e0940e!8m2!3d40.2039766!4d29.0286023!16s%2Fg%2F11cn9zb3zt!19sChIJWRj31eUVyhQRDpTgGO-cH5o?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

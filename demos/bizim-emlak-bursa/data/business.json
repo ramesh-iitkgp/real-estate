@@ -1,0 +1,50 @@
+{
+    "business_name": "Bizim Emlak",
+    "source_business_name": "Bizim Emlak",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "905336660094",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.bizimemlakmudanya.sahibinden.com/",
+    "address": "\nGüzelyalı Mudanya, Yalı mh, Atatürk Cd. 94/B, 16950 Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "46",
+    "google_maps_url": "https://www.google.com/maps/place/Bizim+Emlak/data=!4m7!3m6!1s0x14ca148ac26340df:0xbd4eb6d95186168c!8m2!3d40.3590406!4d28.9145343!16s%2Fg%2F113k2x9gw!19sChIJ30BjwooUyhQRjBaGUdm2Tr0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

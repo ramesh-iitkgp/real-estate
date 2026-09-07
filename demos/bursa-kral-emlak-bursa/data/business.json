@@ -1,0 +1,50 @@
+{
+    "business_name": "Bursa Kral Emlak",
+    "source_business_name": "Bursa Kral Emlak",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "905333625244",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://secure.sahibinden.com/login?return_url=https%3A%2F%2Fbursakralemlak.sahibinden.com%2F",
+    "address": "\nEsenevler, Erdoğan Cd. 5a, 16300 Yıldırım/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Bursa+Kral+Emlak/data=!4m7!3m6!1s0x14ca393462335e2f:0xb46cfd7bd45b8c13!8m2!3d40.1882338!4d29.142064!16s%2Fg%2F11ggb7d9j0!19sChIJL14zYjQ5yhQRE4xb1Hv9bLQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

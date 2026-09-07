@@ -1,0 +1,50 @@
+{
+    "business_name": "Korkmaz Emlak Gayrimenkul Dansmanlk",
+    "source_business_name": "Korkmaz Emlak Gayrimenkul Dansmanlk",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "905332535365",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nBağlaraltı, 4. Cd. No:8/A A-Blok, 16298 Yıldırım/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Korkmaz+Emlak+Gayrimenkul+Dan%C4%B1%C5%9Fmanl%C4%B1k/data=!4m7!3m6!1s0x14ca3f002bc7ce01:0x88b22aab69b65e0!8m2!3d40.1799908!4d29.1348148!16s%2Fg%2F11myzmgx07!19sChIJAc7HKwA_yhQR4GWbtqoiiwg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

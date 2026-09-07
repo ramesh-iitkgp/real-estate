@@ -1,0 +1,50 @@
+{
+    "business_name": "Bursa Gayrimenkul 25 Yldr Nilufer'De Emlak Ofisi",
+    "source_business_name": "Bursa Gayrimenkul 25 Yldr Nilufer'De Emlak Ofisi",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "905468989489",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.bursagayrimenkul.com/",
+    "address": "\nKonak, Konak Cd. No: 95, 16110 Ni̇lüfer/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Bursa+Gayrimenkul+%7C+25+Y%C4%B1ld%C4%B1r+Nil%C3%BCfer%27de+Emlak+Ofisi/data=!4m7!3m6!1s0x14ca1698956c7bdf:0x3ac1db3ea90afbdb!8m2!3d40.2045437!4d28.9773571!16s%2Fg%2F12hm3ncs6!19sChIJ33tslZgWyhQR2_sKqT7bwTo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Yurtkur Gayrimenkul Ve Mulk Yonetimi",
+    "source_business_name": "Yurtkur Gayrimenkul Ve Mulk Yonetimi",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "905353465629",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://secure.sahibinden.com/login?return_url=https%3A%2F%2Fyurtkurrealestategayrimenkul.sahibinden.com%2F",
+    "address": "\nDoğanbey, Yentürk Sk. No:1, 16220 Osmangazi̇/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/YURTKUR+GAYR%C4%B0MENKUL+VE+M%C3%9CLK+Y%C3%96NET%C4%B0M%C4%B0/data=!4m7!3m6!1s0x14ca3e093b3fd3ab:0x1539ef2c5684c861!8m2!3d40.1888256!4d29.0631181!16s%2Fg%2F1w6gn4r0!19sChIJq9M_Owk-yhQRYciEVizvORU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

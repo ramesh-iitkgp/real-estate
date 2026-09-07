@@ -1,0 +1,50 @@
+{
+    "business_name": "All Star Gayrimenkul",
+    "source_business_name": "All Star Gayrimenkul",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "905385601256",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://allstargayrimenkul.com/",
+    "address": "\nGörükle Mahallesi Tütün Sokak Tekmen-2, No:8D, 16285 Ni̇lüfer/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/All+Star+Gayrimenkul/data=!4m7!3m6!1s0x14ca0f7e7cc40195:0x672631cd5e474772!8m2!3d40.2288611!4d28.8405873!16s%2Fg%2F11vz8dpqs1!19sChIJlQHEfH4PyhQRckdHXs0xJmc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

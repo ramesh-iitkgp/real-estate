@@ -1,0 +1,50 @@
+{
+    "business_name": "Gorukle Zen Yap Gayrimenkul",
+    "source_business_name": "Gorukle Zen Yap Gayrimenkul",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "905069361669",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nDumlupınar mah. Anafartalar cad. Yakut sok Hasan Bozdemir Sitesi 8/B, 16285 Ni̇lüfer/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/G%C3%B6r%C3%BCkle+Zen+Yap%C4%B1+Gayrimenkul/data=!4m7!3m6!1s0x14ca0f19383fc9f3:0x20fcbd0bd84959b7!8m2!3d40.2236462!4d28.835946!16s%2Fg%2F11tnk1fkw3!19sChIJ88k_OBkPyhQRt1lJ2Au9_CA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

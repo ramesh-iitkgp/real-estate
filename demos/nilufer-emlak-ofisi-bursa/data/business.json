@@ -1,0 +1,50 @@
+{
+    "business_name": "Nilufer Emlak Ofisi",
+    "source_business_name": "Nilufer Emlak Ofisi",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "905327001217",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nKonak mahallesi yaz sokak no=17/A Beşevler, Konak, Yaz Sk. 17/A, 16110 Ni̇lüfer/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/N%C4%B0L%C3%9CFER+EMLAK+OF%C4%B0S%C4%B0/data=!4m7!3m6!1s0x14ca1698c04ee87d:0xbd08b9cfbab66e54!8m2!3d40.2068731!4d28.978322!16s%2Fg%2F11f3wb6d9g!19sChIJfehOwJgWyhQRVG62us-5CL0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

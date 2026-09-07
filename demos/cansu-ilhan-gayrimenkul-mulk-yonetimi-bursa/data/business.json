@@ -1,0 +1,50 @@
+{
+    "business_name": "Cansu Ilhan Gayrimenkul&Mulk Yonetimi",
+    "source_business_name": "Cansu Ilhan Gayrimenkul&Mulk Yonetimi",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "905305124205",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nCansu İlhan Gayrimenkul&Mülk Yönetimi, Görükle, Asım Bey Cd. NO:21 B BLOK, 16285 Ni̇lüfer/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Cansu+%C4%B0lhan+Gayrimenkul%26M%C3%BClk+Y%C3%B6netimi/data=!4m7!3m6!1s0x14ca0f01d410e041:0x1418d46d37a0d4f!8m2!3d40.2283785!4d28.8406163!16s%2Fg%2F11ld02g3tj!19sChIJQeAQ1AEPyhQRTw1600aNQQE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

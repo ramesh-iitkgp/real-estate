@@ -1,0 +1,50 @@
+{
+    "business_name": "61 Gayrimenkul Mulk Yonetimi",
+    "source_business_name": "61 Gayrimenkul Mulk Yonetimi",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "905352218006",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nGörükle, Zafer Cd. no1/a, 16000 Ni̇lüfer/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/61+GAYR%C4%B0MENKUL+M%C3%9CLK+Y%C3%96NET%C4%B0Mi/data=!4m7!3m6!1s0x14ca0e14e1ea51cf:0x2a18bb7996c6f5b3!8m2!3d40.2321853!4d28.8382063!16s%2Fg%2F11s546bjvb!19sChIJz1Hq4RQOyhQRs_XGlnm7GCo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

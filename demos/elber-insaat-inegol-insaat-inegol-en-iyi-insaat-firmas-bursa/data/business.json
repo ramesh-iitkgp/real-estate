@@ -1,0 +1,50 @@
+{
+    "business_name": "Elber Insaat - Inegol Insaat Inegol En Iyi Insaat Firmas",
+    "source_business_name": "Elber Insaat - Inegol Insaat Inegol En Iyi Insaat Firmas",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "902244050559",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nErtuğrulgazi, Bülbül Sk. No:8, 16400 İnegöl/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Elber+%C4%B0n%C5%9Faat+-+%C4%B0neg%C3%B6l+%C4%B0n%C5%9Faat,+%C4%B0neg%C3%B6l+En+%C4%B0yi+%C4%B0n%C5%9Faat+Firmas%C4%B1/data=!4m7!3m6!1s0x14cbcb8a5f102d01:0x1b0872a8be08724c!8m2!3d40.1005102!4d29.5226059!16s%2Fg%2F11r99s8ps9!19sChIJAS0QX4rLyxQRTHIIvqhyCBs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

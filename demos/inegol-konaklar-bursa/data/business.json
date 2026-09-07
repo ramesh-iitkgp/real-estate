@@ -1,0 +1,50 @@
+{
+    "business_name": "Inegol Konaklar",
+    "source_business_name": "Inegol Konaklar",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "905327482137",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nYeni, Hamzabey Cd. No:55, 16400 İnegöl/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/%C4%B0neg%C3%B6l+Konaklar%C4%B1/data=!4m7!3m6!1s0x14cbc9bed64e8d4d:0x552149285698b2b2!8m2!3d40.1050782!4d29.5219602!16s%2Fg%2F11h02cl7cb!19sChIJTY1O1r7JyxQRsrKYVihJIVU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

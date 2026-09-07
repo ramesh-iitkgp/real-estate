@@ -1,0 +1,50 @@
+{
+    "business_name": "Arslan Polat Gayrimenkul Emlak Bursa Nilufer Nurettin Polat",
+    "source_business_name": "Arslan Polat Gayrimenkul Emlak Bursa Nilufer Nurettin Polat",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "905422455445",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.arslanpolatgayrimenkul.com.tr/",
+    "address": "\nAKARE OFİS, Odunluk, İbrahim İşsevenler Cd. NO:12 K:3 D:23, 16265 Ni̇lüfer/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/ARSLAN+POLAT+GAYR%C4%B0MENKUL+%2F+EMLAK+%2F+Bursa+%2F+Nil%C3%BCfer+%2F+Nurettin+POLAT/data=!4m7!3m6!1s0x14ca1724a52952f7:0xf09b145dc7f56d1d!8m2!3d40.2041857!4d28.9948955!16s%2Fg%2F11lybk5qsc!19sChIJ91IppSQXyhQRHW31x10Um_A?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

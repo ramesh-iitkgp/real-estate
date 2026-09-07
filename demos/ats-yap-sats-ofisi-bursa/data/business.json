@@ -1,0 +1,50 @@
+{
+    "business_name": "Ats Yap Sats Ofisi",
+    "source_business_name": "Ats Yap Sats Ofisi",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "904449016",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.atisyapi.com.tr/",
+    "address": "\nİstiklal, Fuat Kuşçuoğlu Cd. No:13, 16160 Osmangazi̇/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/At%C4%B1%C5%9F+Yap%C4%B1+Sat%C4%B1%C5%9F+Ofisi/data=!4m7!3m6!1s0x14ca1181868c72b3:0x9d5a92c12a0fd3d!8m2!3d40.2207705!4d29.0128132!16s%2Fg%2F11cn5nzftd!19sChIJs3KMhoERyhQRPf2gEiyp1Qk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

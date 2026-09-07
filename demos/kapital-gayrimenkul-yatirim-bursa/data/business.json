@@ -1,0 +1,50 @@
+{
+    "business_name": "Kapital Gayrimenkul Yatirim",
+    "source_business_name": "Kapital Gayrimenkul Yatirim",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "905551597555",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nHalitpaşa, Yeni Cd. Gamze Apt No:15/C, 16940 Mudanya/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "8",
+    "google_maps_url": "https://www.google.com/maps/place/KAP%C4%B0TAL+GAYR%C4%B0MENKUL+YATIRIM/data=!4m7!3m6!1s0x14ca6de7d2c197b7:0xc4454476e41d682e!8m2!3d40.3807489!4d28.8738248!16s%2Fg%2F11gh00k99l!19sChIJt5fB0udtyhQRLmgd5HZERcQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

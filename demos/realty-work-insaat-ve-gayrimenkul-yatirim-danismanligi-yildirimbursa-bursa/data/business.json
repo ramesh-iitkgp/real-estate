@@ -1,0 +1,50 @@
+{
+    "business_name": "Realty Work Insaat Ve Gayrimenkul Yatirim Danismanligi Yildirimbursa",
+    "source_business_name": "Realty Work Insaat Ve Gayrimenkul Yatirim Danismanligi Yildirimbursa",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "905370465283",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nAnadolu mahallesi 3.yavuz sokak, Vişne Cd. 17/A, 16000 Yıldırım/Bursa, Türkiye",
+    "city": "Bursa",
+    "state": "",
+    "country": "Turkey",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/REALTY+WORK+%C4%B0N%C5%9EAAT+VE+GAYR%C4%B0MENKUL+YATIRIM+DANI%C5%9EMANLI%C4%9EI+YILDIRIM%2FBURSA/data=!4m7!3m6!1s0x14ca39c107ab802f:0x294c0bf09df1c999!8m2!3d40.1951821!4d29.0927991!16s%2Fg%2F11jyk2p_4c!19sChIJL4CrB8E5yhQRmcnxnfALTCk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bursa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
