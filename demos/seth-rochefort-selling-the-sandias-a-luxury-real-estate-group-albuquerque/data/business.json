@@ -1,0 +1,50 @@
+{
+    "business_name": "Seth Rochefort - Selling The Sandias A Luxury Real Estate Group",
+    "source_business_name": "Seth Rochefort - Selling The Sandias A Luxury Real Estate Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "14047028218",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://sellingthesandias.com/",
+    "address": "\n100 Sun Ave NE #650, Albuquerque, NM 87109, United States",
+    "city": "Albuquerque",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Seth+Rochefort+-+Selling+The+Sandias:+A+Luxury+Real+Estate+Group/data=!4m7!3m6!1s0x872275ba3fd25385:0x6dc33d7a9df884ce!8m2!3d35.166315!4d-106.5866796!16s%2Fg%2F11q268w93q!19sChIJhVPSP7p1IocRzoT4nXo9w20?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Albuquerque"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

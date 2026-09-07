@@ -1,0 +1,50 @@
+{
+    "business_name": "Campbell & Campbell Real Estate",
+    "source_business_name": "Campbell & Campbell Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15058217666",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://metrohomesearch.com/",
+    "address": "\n5716 Osuna Rd NE, Albuquerque, NM 87109, United States",
+    "city": "Albuquerque",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Campbell+%26+Campbell+Real+Estate/data=!4m7!3m6!1s0x8718a02ea1b3c9a5:0xaa623dd69d5120b2!8m2!3d35.14449!4d-106.584277!16s%2Fg%2F1262s78xh!19sChIJpcmzoS6gGIcRsiBRndY9Yqo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Albuquerque"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

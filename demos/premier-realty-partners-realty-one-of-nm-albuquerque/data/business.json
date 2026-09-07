@@ -1,0 +1,50 @@
+{
+    "business_name": "Premier Realty Partners - Realty One Of Nm",
+    "source_business_name": "Premier Realty Partners - Realty One Of Nm",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15053881918",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.nmhousesearch.com/",
+    "address": "\n4121 Wyoming Blvd NE, Albuquerque, NM 87111, United States",
+    "city": "Albuquerque",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Premier+Realty+Partners+-+Realty+One+of+NM/data=!4m7!3m6!1s0x8722717db6be3007:0xc4deebc073d2e0b5!8m2!3d35.1273789!4d-106.5515634!16s%2Fg%2F11fx8f7q9r!19sChIJBzC-tn1xIocRteDSc8Dr3sQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Albuquerque"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

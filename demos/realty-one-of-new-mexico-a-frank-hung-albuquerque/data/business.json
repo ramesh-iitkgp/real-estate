@@ -1,0 +1,50 @@
+{
+    "business_name": "Realty One Of New Mexico A Frank Hung",
+    "source_business_name": "Realty One Of New Mexico A Frank Hung",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19099575777",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.zillow.com/profile/Pacofh/",
+    "address": "\n7441 Alameda Blvd NE, Albuquerque, NM 87113, United States",
+    "city": "Albuquerque",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Realty+One+of+New+Mexico:+A.+Frank+Hung/data=!4m7!3m6!1s0x87227512fe1e246b:0xfe85cf3439e5927e!8m2!3d35.1849294!4d-106.5617447!16s%2Fg%2F11jmyr05zm!19sChIJayQe_hJ1IocRfpLlOTTPhf4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Albuquerque"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
