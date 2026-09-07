@@ -1,0 +1,50 @@
+{
+    "business_name": "Office Varhin Urbanism",
+    "source_business_name": "Office Varhin Urbanism",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966556878879",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nالدعوة, Ar Rabie, Khamis Mushait 62454, Saudi Arabia",
+    "city": "Khamis Mushait",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Office+Varhin+Urbanism/data=!4m7!3m6!1s0x15fb50c97b9baf33:0x38256a421b091bdd!8m2!3d18.3183969!4d42.68498!16s%2Fg%2F11b7lcqxlj!19sChIJM6-be8lQ-xUR3RsJG0JqJTg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Khamis Mushait"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

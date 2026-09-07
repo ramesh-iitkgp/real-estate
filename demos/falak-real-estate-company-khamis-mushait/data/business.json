@@ -1,0 +1,50 @@
+{
+    "business_name": "Falak Real Estate Company",
+    "source_business_name": "Falak Real Estate Company",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966560568086",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n8251 Ash Shiykh Saed Ibn Mushayt, Al Khaldiyah, Khamis Mushait 62461, Saudi Arabia",
+    "city": "Khamis Mushait",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Falak+Real+Estate+Company/data=!4m7!3m6!1s0x15fb5a1ff3b67411:0xd782aaf3f95c03b7!8m2!3d18.3022651!4d42.7267207!16s%2Fg%2F11cs68y5r9!19sChIJEXS28x9a-xURtwNc-fOqgtc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Khamis Mushait"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

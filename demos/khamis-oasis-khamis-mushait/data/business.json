@@ -1,0 +1,50 @@
+{
+    "business_name": "Khamis Oasis",
+    "source_business_name": "Khamis Oasis",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966552555184",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n5379، خميس مشيط 62484 7584، 62484, Saudi Arabia",
+    "city": "Khamis Mushait",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.7",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Khamis+Oasis/data=!4m7!3m6!1s0x15fb5b62226a355b:0x9dc9bdbb297d5885!8m2!3d18.3576549!4d42.7533184!16s%2Fg%2F11fkt70v83!19sChIJWzVqImJb-xURhVh9Kbu9yZ0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Khamis Mushait"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

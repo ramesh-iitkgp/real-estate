@@ -1,0 +1,50 @@
+{
+    "business_name": "Rose Nayifat Furnished Apartments",
+    "source_business_name": "Rose Nayifat Furnished Apartments",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966509399461",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nKhamis Mushait 62458, Saudi Arabia",
+    "city": "Khamis Mushait",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Rose+Nayifat+Furnished+Apartments/data=!4m7!3m6!1s0x15fb5af6730ac5b9:0x8975a9c0ec891031!8m2!3d18.3390256!4d42.7322204!16s%2Fg%2F11fx8b4q8b!19sChIJucUKc_Za-xURMRCJ7MCpdYk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Khamis Mushait"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
