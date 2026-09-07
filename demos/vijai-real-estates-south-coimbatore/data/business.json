@@ -1,0 +1,50 @@
+{
+    "business_name": "Vijai Real Estates",
+    "source_business_name": "Vijai Real Estates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918220044180",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nNo.21, Siva Subramaniam St, R.S. Puram, Coimbatore, Tamil Nadu 641002",
+    "city": "South Coimbatore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Vijai+Real+Estates/data=!4m7!3m6!1s0x3ba85977b56ba849:0xb25016ac75f76464!8m2!3d11.0060222!4d76.9540528!16s%2Fg%2F11rxzh0x5l!19sChIJSahrtXdZqDsRZGT3dawWULI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Coimbatore"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/vijay_reality/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

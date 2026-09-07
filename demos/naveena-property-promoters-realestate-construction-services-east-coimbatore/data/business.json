@@ -1,0 +1,50 @@
+{
+    "business_name": "Naveena Property Promoters Realestate & Construction Services",
+    "source_business_name": "Naveena Property Promoters Realestate & Construction Services",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918754923111",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1st Floor, Sathy Rd, Saravanampatti Post, Chitra Nagar, Saravanampatti, Siranandha Puram, Coimbatore, Tamil Nadu 641035",
+    "city": "East Coimbatore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Naveena+Property+Promoters+%28+RealEstate+%26+Construction+Services+%29/data=!4m7!3m6!1s0x3ba8580eb48911a1:0x7afe91c1b6c9dc97!8m2!3d11.0667096!4d77.0014167!16s%2Fg%2F1q67d2zkr!19sChIJoRGJtA5YqDsRl9zJtsGR_no?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Coimbatore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

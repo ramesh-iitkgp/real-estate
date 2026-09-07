@@ -1,0 +1,50 @@
+{
+    "business_name": "Praveen Kumar",
+    "source_business_name": "Praveen Kumar",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n2X37+C2X, North Coimbatore, Sukrawar Pettai, R.S. Puram, Coimbatore, Tamil Nadu 641001",
+    "city": "North Coimbatore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Praveen+Kumar/data=!4m7!3m6!1s0x3ba859003eb037c1:0xe40af5c0651c820f!8m2!3d11.0036039!4d76.9625957!16s%2Fg%2F11zct5sjvm!19sChIJwTewPgBZqDsRD4IcZcD1CuQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Coimbatore"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/praveenn__kumar/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

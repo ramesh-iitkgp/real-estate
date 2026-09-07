@@ -1,0 +1,50 @@
+{
+    "business_name": "The 10Th Mile Metro",
+    "source_business_name": "The 10Th Mile Metro",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919787979797",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.metroholdings.co.in/",
+    "address": "\nAdmin Block, The 10th Mile Metro, Ravathur, Chinniampalayam, Tamil Nadu 641103",
+    "city": "Coimbatore Metro",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/The+10th+Mile+Metro/data=!4m7!3m6!1s0x3ba857e9d1198c07:0xecee4cfde4f451f7!8m2!3d11.031292!4d77.101132!16s%2Fg%2F11sszcl0zf!19sChIJB4wZ0elXqDsR91H05P1M7uw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Coimbatore Metro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

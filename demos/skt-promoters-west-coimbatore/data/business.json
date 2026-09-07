@@ -1,0 +1,50 @@
+{
+    "business_name": "Skt Promoters",
+    "source_business_name": "Skt Promoters",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "914224374866",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nNo. 5,6,7 Venugopal Swamy Kovil west, Ganapathy Housing Unit, Coimbatore, Tamil Nadu 641006",
+    "city": "West Coimbatore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/SKT+Promoters/data=!4m7!3m6!1s0x3ba85986912d9a1d:0x60e348b8e08e9064!8m2!3d11.0357763!4d76.9758896!16s%2Fg%2F11fszcscbr!19sChIJHZotkYZZqDsRZJCO4LhI42A?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Coimbatore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

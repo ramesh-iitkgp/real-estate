@@ -1,0 +1,50 @@
+{
+    "business_name": "Covai Realestate",
+    "source_business_name": "Covai Realestate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nMaruthamalai Rd, IOB Colony, vadavalli, Coimbatore, Tamil Nadu 641041",
+    "city": "Coimbatore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/covai+realestate/data=!4m7!3m6!1s0x3ba85f3a711c94af:0xbbcd08119b88d774!8m2!3d11.0274038!4d76.9043015!16s%2Fg%2F11y_2jy6l5!19sChIJr5QccTpfqDsRdNeImxEIzbs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Coimbatore"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/thecovairealtors/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

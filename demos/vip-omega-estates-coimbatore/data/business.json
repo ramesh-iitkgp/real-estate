@@ -1,0 +1,50 @@
+{
+    "business_name": "Vip Omega Estates",
+    "source_business_name": "Vip Omega Estates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nnear Government Veterinary Hospital, In, Kanjikonaampalayam, Vellalur, Coimbatore, Tamil Nadu 641111",
+    "city": "Coimbatore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/VIP+OMEGA+ESTATES/data=!4m7!3m6!1s0x3ba851d05dc67abb:0x9313978c2e218f0!8m2!3d10.9661501!4d77.0278383!16s%2Fg%2F11zf41k8ms!19sChIJu3rGXdBRqDsR8Bjiwng5MQk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Coimbatore"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/realestate_coimbatore_vip/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
