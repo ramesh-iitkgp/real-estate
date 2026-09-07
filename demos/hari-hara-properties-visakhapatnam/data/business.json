@@ -1,0 +1,50 @@
+{
+    "business_name": "Hari Hara Properties",
+    "source_business_name": "Hari Hara Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919856621234",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://hariharapropertiesvizag.com/city/visakhapatnam/",
+    "address": "\nP.G.P Raju's enclave,1st floor Above kanakamaha lakshmi co-operative bank,Police quarters road Visalakshi nagar, road, Kailasagiri, Visakhapatnam, Andhra Pradesh 530043",
+    "city": "Visakhapatnam",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Hari+Hara+Properties/data=!4m7!3m6!1s0x3a394566e9535527:0x499d13675a2b76cd!8m2!3d17.755095!4d83.3373261!16s%2Fg%2F11thl6yn2j!19sChIJJ1VT6WZFOToRzXYrWmcTnUk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Visakhapatnam"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

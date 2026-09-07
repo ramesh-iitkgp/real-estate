@@ -1,0 +1,50 @@
+{
+    "business_name": "Aa Groups Realtors Union Traders & Exports",
+    "source_business_name": "Aa Groups Realtors Union Traders & Exports",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919493239339",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nSarada St, Daba Gardens, 104 Area, Visakhapatnam, Andhra Pradesh 530004",
+    "city": "Visakhapatnam",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/AA+Groups+Realtors+union+traders+%26+Exports/data=!4m7!3m6!1s0x3a3966e092b75f49:0x3e83c8cb82e45ed9!8m2!3d17.7155428!4d83.2971029!16s%2Fg%2F11gg6bknyr!19sChIJSV-3kuBmOToR2V7kgsvIgz4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Visakhapatnam"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

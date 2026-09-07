@@ -1,0 +1,50 @@
+{
+    "business_name": "Property In",
+    "source_business_name": "Property In",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917997233388",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nSubhodaya Estates, B.Srinivas, D.No. - 49-14-11/C, opposite sony centre sakshi office road, first right, Lalitha Nagar, Visakhapatnam, Andhra Pradesh 530016",
+    "city": "Visakhapatnam",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Property+in+Visakhapatnam/data=!4m7!3m6!1s0x3a39436b82a3766b:0x15025732e779511c!8m2!3d17.7321766!4d83.3035198!16s%2Fg%2F11gj4qs96q!19sChIJa3ajgmtDOToRHFF55zJXAhU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Visakhapatnam"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Quality Homes Reality",
+    "source_business_name": "Quality Homes Reality",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919553513366",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.qualityhomesreality.com/",
+    "address": "\nDoor no.50-92-36, 2nd Floor, Sankara Matam Rd, opp. canara Bank, Visakhapatnam, Andhra Pradesh 530016",
+    "city": "Visakhapatnam",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/QUALITY+HOMES+REALITY/data=!4m7!3m6!1s0x3a3943f0ac70f107:0xfb934c403be0bb1e!8m2!3d17.7366886!4d83.3047831!16s%2Fg%2F11j8whd6cs!19sChIJB_FwrPBDOToRHrvgO0BMk_s?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Visakhapatnam"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Vishwanadh Avenues India Pvt Ltd",
+    "source_business_name": "Vishwanadh Avenues India Pvt Ltd",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918912539939",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.vishwanadhavenues.com/",
+    "address": "\nRK Estates, Vishwanadh Avenues, beside Omni RK Hospital, Ram Nagar, Visakhapatnam, Andhra Pradesh 530002",
+    "city": "Greater Visakhapatnam",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/VISHWANADH+AVENUES+%28INDIA%29+PVT+LTD/data=!4m7!3m6!1s0x3a39432cba277db9:0x8b75f22a2cdbb5a3!8m2!3d17.7181592!4d83.3108131!16s%2Fg%2F11f3xghx8n!19sChIJuX0nuixDOToRo7XbLCrydYs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Greater Visakhapatnam"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

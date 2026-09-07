@@ -1,0 +1,50 @@
+{
+    "business_name": "Lotuss Projects",
+    "source_business_name": "Lotuss Projects",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918858859989",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nFlat no.201, Talat Mansions, Main Road, Sector 1, MVP Colony, Visakhapatnam, Andhra Pradesh 530017",
+    "city": "Visakhapatnam",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Lotuss+Projects/data=!4m7!3m6!1s0x3a39432c83a4becb:0x36f94b816b14e6fd!8m2!3d17.7461284!4d83.3316402!16s%2Fg%2F11t7xx3vm_!19sChIJy76kgyxDOToR_eYUa4FL-TY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Visakhapatnam"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

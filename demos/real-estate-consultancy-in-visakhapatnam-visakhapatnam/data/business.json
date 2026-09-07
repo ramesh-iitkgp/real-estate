@@ -1,0 +1,50 @@
+{
+    "business_name": "Real Estate Consultancy In",
+    "source_business_name": "Real Estate Consultancy In",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919492928787",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n46-20-1Kummari Vari Street,, Railway Station Road, Opposite D.R.M Office Hotel Talasila Back side, Dondaparthy, Railway New Colony, Visakhapatnam, Andhra Pradesh 530016",
+    "city": "Visakhapatnam",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Real+Estate+Consultancy+in+Visakhapatnam/data=!4m7!3m6!1s0x3a39431d1fccaae3:0x74b705cf4cf30647!8m2!3d17.7257655!4d83.3001868!16s%2Fg%2F11j4t8200g!19sChIJ46rMHx1DOToRRwbzTM8Ft3Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Visakhapatnam"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

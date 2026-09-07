@@ -1,0 +1,50 @@
+{
+    "business_name": "Swathi Promoters",
+    "source_business_name": "Swathi Promoters",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919355558899",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://swathipromoters.in/cgi-sys/suspendedpage.cgi",
+    "address": "\n50-121, 63/3, Port Stadium Area, North Extension, Balayya Sastri Layout, Seethammadara, Visakhapatnam, Andhra Pradesh 530013",
+    "city": "North Visakhapatnam",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "146",
+    "google_maps_url": "https://www.google.com/maps/place/Swathi+Promoters/data=!4m7!3m6!1s0x3a39433258ade255:0xe88749f61044ed63!8m2!3d17.74119!4d83.3058373!16s%2Fg%2F1q62gcd14!19sChIJVeKtWDJDOToRY-1EEPZJh-g?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Visakhapatnam"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

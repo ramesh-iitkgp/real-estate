@@ -1,0 +1,50 @@
+{
+    "business_name": "Highwayy Ventures",
+    "source_business_name": "Highwayy Ventures",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919505893333",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n49-54-9/3, 1st FLOOR Opp. Sitarama Heights, Chathrapati St, Double Road, Balayya Sastri Layout, Seethammadara, Visakhapatnam, Andhra Pradesh 530013",
+    "city": "North Visakhapatnam",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "45",
+    "google_maps_url": "https://www.google.com/maps/place/HIGHWAYY+VENTURES/data=!4m7!3m6!1s0x3a394332a1009fb7:0x2db1afb6229630ed!8m2!3d17.7418631!4d83.3047766!16s%2Fg%2F11rqxs2pwb!19sChIJt58AoTJDOToR7TCWIravsS0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Visakhapatnam"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

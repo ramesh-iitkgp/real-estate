@@ -1,0 +1,50 @@
+{
+    "business_name": "Manam Group",
+    "source_business_name": "Manam Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919666658678",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nSector 10, MVP Colony, Visakhapatnam, Andhra Pradesh 530013",
+    "city": "Downtown Visakhapatnam",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/MANAM+GROUP/data=!4m7!3m6!1s0x3a3943ee387b203f:0x9be17019edbfa90c!8m2!3d17.7403968!4d83.3388037!16s%2Fg%2F11fsw8y_by!19sChIJPyB7OO5DOToRDKm_7Rlw4Zs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Visakhapatnam"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
