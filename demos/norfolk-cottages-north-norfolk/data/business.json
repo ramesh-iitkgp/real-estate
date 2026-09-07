@@ -1,0 +1,50 @@
+{
+    "business_name": "Norfolk Cottages",
+    "source_business_name": "Norfolk Cottages",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "441263715779",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.norfolkcottages.co.uk/",
+    "address": "\n6 High St, Holt NR25 6BQ, United Kingdom",
+    "city": "North Norfolk",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Norfolk+Cottages/data=!4m7!3m6!1s0x47d76f6ac22b0cff:0xd44c6e1852cfda13!8m2!3d52.905979!4d1.0883431!16s%2Fg%2F11kxkgy1sj!19sChIJ_wwrwmpv10cRE9rPUhhuTNQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Norfolk"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

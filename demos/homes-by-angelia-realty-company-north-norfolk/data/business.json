@@ -1,0 +1,50 @@
+{
+    "business_name": "Homes By Angelia Realty Company",
+    "source_business_name": "Homes By Angelia Realty Company",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17575244941",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.homesbyangeliarealty.com/",
+    "address": "\n5121 E Virginia Beach Blvd A1, Norfolk, VA 23502, United States",
+    "city": "North Norfolk",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Homes+by+Angelia+Realty+Company/data=!4m7!3m6!1s0x89ba998240e4d875:0x8a0d139cd57afcc9!8m2!3d36.855887!4d-76.2263364!16s%2Fg%2F11jmywcljb!19sChIJddjkQIKZuokRyfx61ZwTDYo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Norfolk"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

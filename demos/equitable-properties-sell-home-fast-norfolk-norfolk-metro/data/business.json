@@ -1,0 +1,50 @@
+{
+    "business_name": "Equitable Properties - Sell Home Fast Norfolk",
+    "source_business_name": "Equitable Properties - Sell Home Fast Norfolk",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17574611318",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n5802 E Virginia Beach Blvd, Norfolk, VA 23502, United States",
+    "city": "Norfolk Metro",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Equitable+Properties+-+Sell+Home+Fast+Norfolk/data=!4m7!3m6!1s0x89ba96440a311875:0x95a27db2a315c08!8m2!3d36.8584365!4d-76.2072634!16s%2Fg%2F1tdh05v2!19sChIJdRgxCkSWuokRCFwxKtsnWgk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Norfolk Metro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Atlantic Sotheby'S International Realty",
+    "source_business_name": "Atlantic Sotheby'S International Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17573064695",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.atlanticsir.com/",
+    "address": "\n4005 Granby St, Norfolk, VA 23504, United States",
+    "city": "Downtown Norfolk",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Atlantic+Sotheby%27s+International+Realty/data=!4m7!3m6!1s0x89ba993862c69f27:0x72af9d1fe3ad8e6a!8m2!3d36.8833657!4d-76.282001!16s%2Fg%2F11zbr30bhn!19sChIJJ5_GYjiZuokRao6t4x-dr3I?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Norfolk"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

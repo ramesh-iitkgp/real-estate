@@ -1,0 +1,50 @@
+{
+    "business_name": "Marilyn Lipieko Realtor",
+    "source_business_name": "Marilyn Lipieko Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17574782894",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://marilynl.howardhanna.com/Agent/Content/63864/about_me",
+    "address": "\n1208 E Little Creek Rd, Norfolk, VA 23518, United States",
+    "city": "East Norfolk",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Marilyn+Lipieko,+REALTOR%C2%AE/data=!4m7!3m6!1s0x89ba972753400061:0xd902f1fc1faf13bb!8m2!3d36.9156029!4d-76.2381845!16s%2Fg%2F11t7cvv82p!19sChIJYQBAUyeXuokRuxOvH_zxAtk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Norfolk"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

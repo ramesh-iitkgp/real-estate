@@ -1,0 +1,50 @@
+{
+    "business_name": "Big Skies Estates Ltd - North Norfolk Estate Agents",
+    "source_business_name": "Big Skies Estates Ltd - North Norfolk Estate Agents",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "441263586686",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.bigskiesestates.co.uk/",
+    "address": "\n3 Church St, Holt NR25 6BB, United Kingdom",
+    "city": "North Norfolk",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Big+Skies+Estates+Ltd+-+North+Norfolk+Estate+Agents/data=!4m7!3m6!1s0x47d777f05c75fb35:0x252a6bcb705201f7!8m2!3d52.9062205!4d1.0916356!16s%2Fg%2F11h0t20v0d!19sChIJNft1XPB310cR9wFScMtrKiU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Norfolk"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
