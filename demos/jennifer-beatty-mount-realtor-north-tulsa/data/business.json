@@ -1,0 +1,50 @@
+{
+    "business_name": "Jennifer Beatty Mount Realtor",
+    "source_business_name": "Jennifer Beatty Mount Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19186716836",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.jennifermount.com/",
+    "address": "\n4880 S Lewis Ave, Tulsa, OK 74105, United States",
+    "city": "North Tulsa",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jennifer+Beatty+Mount+REALTOR%C2%AE/data=!4m7!3m6!1s0x87b693cdb7952c77:0x73b237a91fa518cc!8m2!3d36.0926164!4d-95.9586662!16s%2Fg%2F11ylrsh6r7!19sChIJdyyVt82TtocRzBilH6k3snM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Tulsa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

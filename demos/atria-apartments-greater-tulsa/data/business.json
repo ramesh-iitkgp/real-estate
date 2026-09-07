@@ -1,0 +1,50 @@
+{
+    "business_name": "Atria Apartments",
+    "source_business_name": "Atria Apartments",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18442170964",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.atriaapartmentstulsa.com/?rcstdid=Mg%3D%3D-YRjTEizZPgM%3D",
+    "address": "\n8601 S Mingo Rd, Tulsa, OK 74133, United States",
+    "city": "Greater Tulsa",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Atria+Apartments/data=!4m7!3m6!1s0x87b68dda1e1d2dfd:0xffa7bbfbd0e364da!8m2!3d36.038748!4d-95.867997!16s%2Fg%2F11b6t1n33f!19sChIJ_S0dHtqNtocR2mTj0Pu7p_8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Greater Tulsa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

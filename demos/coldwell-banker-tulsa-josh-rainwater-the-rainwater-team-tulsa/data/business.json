@@ -1,0 +1,50 @@
+{
+    "business_name": "Coldwell Banker Tulsa Josh Rainwater & The Rainwater Team",
+    "source_business_name": "Coldwell Banker Tulsa Josh Rainwater & The Rainwater Team",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19188528500",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.joshrainwater.cbtulsa.com/",
+    "address": "\n8909 S Yale Ave, Tulsa, OK 74137, United States",
+    "city": "Tulsa",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Coldwell+Banker+Tulsa+~+Josh+Rainwater+%26+The+Rainwater+Team/data=!4m7!3m6!1s0x87b69372c5122c85:0x984f19e5e85f9d7!8m2!3d36.0335548!4d-95.9195954!16s%2Fg%2F11h2k2xnpk!19sChIJhSwSxXKTtocR1_mFXp7xhAk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Tulsa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Solid Rock Realtors Midtown",
+    "source_business_name": "Solid Rock Realtors Midtown",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19185537625",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.solidrockrealtors.com/shared/human/pow.php?return=https%3A%2F%2Fsolidrockrealtors.com%2F",
+    "address": "\n5634 E Skelly Dr, Tulsa, OK 74135, United States",
+    "city": "Tulsa",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Solid+Rock+Realtors,+Midtown+Tulsa/data=!4m7!3m6!1s0x87b692bc74a73c49:0x67ad5eb49147d2!8m2!3d36.099045!4d-95.9139902!16s%2Fg%2F11sf022pkk!19sChIJSTyndLyStocR0keRtF6tZwA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Tulsa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
