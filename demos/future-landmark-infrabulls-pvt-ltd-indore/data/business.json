@@ -1,0 +1,50 @@
+{
+    "business_name": "Future Landmark Infrabulls Pvt Ltd",
+    "source_business_name": "Future Landmark Infrabulls Pvt Ltd",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918410646464",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nnear Vrindawan restaurant, near Prestige College, Scheme Number 78, Vijay Nagar, Part II, Scheme 78, Vijay Nagar, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "67",
+    "google_maps_url": "https://www.google.com/maps/place/Future+Landmark+Infrabulls+Pvt+Ltd/data=!4m7!3m6!1s0x396303addeb28d2b:0x8913728acc73ebf9!8m2!3d22.7622008!4d75.8858516!16s%2Fg%2F11tb50m5lg!19sChIJK42y3q0DYzkR-etzzIpyE4k?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Indore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

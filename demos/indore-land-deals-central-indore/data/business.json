@@ -1,0 +1,50 @@
+{
+    "business_name": "Indore Land Deals",
+    "source_business_name": "Indore Land Deals",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919131091319",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://indorelanddeals.com/",
+    "address": "\n308, Shekhar central, Palasia Square, New Palasia, Indore, Madhya Pradesh 452001",
+    "city": "Central Indore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Indore+Land+Deals/data=!4m7!3m6!1s0x3962fd3c9acfd8d1:0x4d81a2e11ae4fd54!8m2!3d22.7240653!4d75.8859825!16s%2Fg%2F11h3l4dw66!19sChIJ0djPmjz9YjkRVP3kGuGigU0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Indore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

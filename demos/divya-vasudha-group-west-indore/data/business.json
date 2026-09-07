@@ -1,0 +1,50 @@
+{
+    "business_name": "Divya Vasudha Group",
+    "source_business_name": "Divya Vasudha Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919993952777",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.divyavasudha.com/",
+    "address": "\nFF21, MR 10 Rd, opposite HOTEL MARRIOTT, Vijay Nagar, Scheme No 54, Indore, Madhya Pradesh 452010",
+    "city": "West Indore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Divya+Vasudha+Group/data=!4m7!3m6!1s0x3963037ecaf75a9d:0x29d9c2669c006c19!8m2!3d22.7537329!4d75.8848407!16s%2Fg%2F11wv2_xxgt!19sChIJnVr3yn4DYzkRGWwAnGbC2Sk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Indore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

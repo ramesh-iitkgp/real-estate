@@ -1,0 +1,50 @@
+{
+    "business_name": "Real Estate Company In Indore - Moti Mangal",
+    "source_business_name": "Real Estate Company In Indore - Moti Mangal",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919109102727",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n505 Om Gurudev Plaza, near Nai Duniya, Madhya Pradesh 452011",
+    "city": "Greater Indore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Real+Estate+Company+in+Indore+-+Moti+Mangal/data=!4m7!3m6!1s0x3962fd6ea5e873f3:0x76a298b1c395e1bb!8m2!3d22.7479771!4d75.8901907!16s%2Fg%2F11q4k95r17!19sChIJ83PopW79YjkRu-GVw7GYonY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Greater Indore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

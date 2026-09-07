@@ -1,0 +1,50 @@
+{
+    "business_name": "Shri Giriraj Real Estate",
+    "source_business_name": "Shri Giriraj Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919111108088",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://shrigirirajrealty.com/",
+    "address": "\n35, Arpan Apartment, Saket Square, Saket Nagar, Indore, Madhya Pradesh 452018",
+    "city": "Indore",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "101",
+    "google_maps_url": "https://www.google.com/maps/place/Shri+Giriraj+Real+Estate/data=!4m7!3m6!1s0x3962fd3c366e90b1:0xf78a2eed27e7327d!8m2!3d22.724839!4d75.8967534!16s%2Fg%2F11fl0cmnc3!19sChIJsZBuNjz9YjkRfTLnJ-0uivc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Indore"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
