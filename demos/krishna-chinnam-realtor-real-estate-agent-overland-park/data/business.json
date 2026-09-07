@@ -1,0 +1,50 @@
+{
+    "business_name": "Krishna Chinnam Realtor Real Estate Agent",
+    "source_business_name": "Krishna Chinnam Realtor Real Estate Agent",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16013013579",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://krishna.kw.com/",
+    "address": "\n15254 Lowell Ave, Overland Park, KS 66223, United States",
+    "city": "Overland Park",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Krishna+Chinnam+Realtor+%28Real+Estate+Agent%29/data=!4m7!3m6!1s0x677c99d246c4153b:0x2d36f61610f830a7!8m2!3d38.8504191!4d-94.6787183!16s%2Fg%2F11nmqsbm4z!19sChIJOxXERtKZfGcRpzD4EBb2Ni0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Overland Park"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

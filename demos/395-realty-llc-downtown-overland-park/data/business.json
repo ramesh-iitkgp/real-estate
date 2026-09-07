@@ -1,0 +1,50 @@
+{
+    "business_name": "395 Realty Llc",
+    "source_business_name": "395 Realty Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19139444000",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://395realty.com/",
+    "address": "\n8101 College Blvd #100, Overland Park, KS 66210, United States",
+    "city": "Downtown Overland Park",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/395+Realty+LLC/data=!4m7!3m6!1s0x87c0e98487a45319:0xb34e90ffe2cd808e!8m2!3d38.927072!4d-94.6808069!16s%2Fg%2F11g4ds4kzt!19sChIJGVOkh4TpwIcRjoDN4v-QTrM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Overland Park"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

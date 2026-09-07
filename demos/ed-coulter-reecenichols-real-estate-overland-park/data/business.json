@@ -1,0 +1,50 @@
+{
+    "business_name": "Ed Coulter Reecenichols Real Estate",
+    "source_business_name": "Ed Coulter Reecenichols Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "19134881581",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://ed.reecenichols.com/",
+    "address": "\n11901 W 119th St, Overland Park, KS 66213, United States",
+    "city": "Overland Park",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Ed+Coulter+ReeceNichols+Real+Estate/data=!4m7!3m6!1s0x87c0eb8c86f53dd5:0x12fedf0c83e3796b!8m2!3d38.912459!4d-94.724392!16s%2Fg%2F11jn_sn85m!19sChIJ1T31hozrwIcRa3njgwzf_hI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Overland Park"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
