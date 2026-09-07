@@ -1,0 +1,50 @@
+{
+    "business_name": "Madina Eye Real Estate",
+    "source_business_name": "Madina Eye Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966540264422",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://ain.com/",
+    "address": "\n7116 بن عبيد الاسدى, Al Jumuah, Madinah 42315, Saudi Arabia",
+    "city": "Medina",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/%D9%85%D9%83%D8%AA%D8%A8+%D8%B9%D9%82%D8%A7%D8%B1+%D8%B9%D9%8A%D9%86+%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9+Madina+Eye+Real+Estate%E2%80%AD/data=!4m7!3m6!1s0x15bdbf9f53d63565:0xfd2f8625b1ea667e!8m2!3d24.4503589!4d39.6151496!16s%2Fg%2F11fx9012_s!19sChIJZTXWU5-_vRURfmbqsSWGL_0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Medina"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

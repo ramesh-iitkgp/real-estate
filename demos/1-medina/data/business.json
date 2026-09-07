@@ -1,0 +1,50 @@
+{
+    "business_name": "1",
+    "source_business_name": "1",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966579830118",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nBani Harithah, Madinah 42313, Saudi Arabia",
+    "city": "Medina",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/%D9%86%D8%AE%D9%84%D8%A9+%D9%84%D9%84%D9%88%D8%AD%D8%AF%D8%A7%D8%AA+%D8%A7%D9%84%D8%B3%D9%83%D9%86%D9%8A%D8%A9+1%E2%80%AD/data=!4m7!3m6!1s0x15bdbf2d81b9f8f3:0x7f2e49283721f8d0!8m2!3d24.4907569!4d39.6376906!16s%2Fg%2F11y_qw9rjf!19sChIJ8_i5gS2_vRUR0PghNyhJLn8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Medina"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

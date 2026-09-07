@@ -1,0 +1,50 @@
+{
+    "business_name": "Home Cleaning Services",
+    "source_business_name": "Home Cleaning Services",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966561505219",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n9347 عبدالرحمن ابن يعقوب، حي السقيا, Madinah 42315, Saudi Arabia",
+    "city": "Medina",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/%D8%B3%D9%82%D9%8A%D8%A7+%D8%B7%D9%8A%D8%A8%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x15bdbf002ea442b5:0xec009c574f469a1d!8m2!3d24.4667918!4d39.6016835!16s%2Fg%2F11yvntlgyk!19sChIJtUKkLgC_vRURHZpGT1ecAOw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Medina"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

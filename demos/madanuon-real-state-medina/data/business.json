@@ -1,0 +1,50 @@
+{
+    "business_name": "Madanuon Real State",
+    "source_business_name": "Madanuon Real State",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966590005958",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nمخطط الطارق, Ayn Al Khif, Madinah 42369, Saudi Arabia",
+    "city": "Medina",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86+%D9%84%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82+%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A+Madanuon+Real+State%E2%80%AD/data=!4m7!3m6!1s0x15bdbf4a6a538c71:0xb2b49d5a499be99c!8m2!3d24.4390619!4d39.6852863!16s%2Fg%2F11hzjh3s7l!19sChIJcYxTakq_vRURnOmbSVqdtLI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Medina"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
