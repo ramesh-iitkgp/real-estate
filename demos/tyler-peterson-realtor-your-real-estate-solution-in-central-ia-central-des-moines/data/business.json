@@ -1,0 +1,50 @@
+{
+    "business_name": "Tyler Peterson - Realtor - Your Real Estate Solution In Central Ia",
+    "source_business_name": "Tyler Peterson - Realtor - Your Real Estate Solution In Central Ia",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15152304743",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n6150 Village View Dr #103, West Des Moines, IA 50266, United States",
+    "city": "Central Des Moines",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Tyler+Peterson+-+Realtor+-+Your+Real+Estate+Solution+in+Central+IA/data=!4m7!3m6!1s0x87ec21f93f834cb5:0xed326356768d5301!8m2!3d41.5630722!4d-93.7925234!16s%2Fg%2F11h3kwtq9g!19sChIJtUyDP_kh7IcRAVONdlZjMu0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Des Moines"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

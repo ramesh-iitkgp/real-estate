@@ -1,0 +1,50 @@
+{
+    "business_name": "Chinh Nguyen Realtor",
+    "source_business_name": "Chinh Nguyen Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15154942005",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://chinh-nguyen.remax.com/",
+    "address": "\n2203 Grand Ave, Des Moines, IA 50312, United States",
+    "city": "Des Moines",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Chinh+Nguyen+Realtor/data=!4m7!3m6!1s0x87ee999de7662239:0x6c3d532ab7adbbee!8m2!3d41.5848265!4d-93.6474706!16s%2Fg%2F11vzxxkqzn!19sChIJOSJm552Z7ocR7ruttypTPWw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Des Moines"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

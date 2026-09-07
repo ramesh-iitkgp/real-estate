@@ -1,0 +1,50 @@
+{
+    "business_name": "Griffith Homebuilders",
+    "source_business_name": "Griffith Homebuilders",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "515) 493-9027",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n10573 R57 Highway, Indianola, IA 50125",
+    "city": "Des Moines",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "4.1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Griffith+Homebuilders/data=!4m7!3m6!1s0x87eea54cc3377ae1:0x5b1b19f23c643bd4!8m2!3d41.374016!4d-93.642201!16s%2Fg%2F11sd1q3qpd!19sChIJ4Xo3w0yl7ocR1DtkPPIZG1s?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Des Moines"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

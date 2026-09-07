@@ -1,0 +1,50 @@
+{
+    "business_name": "Heather Wright & Associates With Remax Concepts",
+    "source_business_name": "Heather Wright & Associates With Remax Concepts",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15154002994",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.desmoineshousehunters.com/",
+    "address": "\n6600 University Ave, Des Moines, IA 50324, United States",
+    "city": "Des Moines",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Heather+Wright+%26+Associates+with+RE%2FMAX+Concepts/data=!4m7!3m6!1s0x87ee9c1bf5aa46cb:0xc87b1ac721eb3bbe!8m2!3d41.6000819!4d-93.7095207!16s%2Fg%2F1w665zk4!19sChIJy0aq9Ruc7ocRvjvrIccae8g?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Des Moines"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

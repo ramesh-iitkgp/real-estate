@@ -1,0 +1,50 @@
+{
+    "business_name": "Des Moines Home Buyers Llc",
+    "source_business_name": "Des Moines Home Buyers Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15153444341",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://desmoineshomebuyers.net/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "address": "\n2643 Beaver Ave #176, Des Moines, IA 50310, United States",
+    "city": "Des Moines",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Des+Moines+Home+Buyers,+LLC/data=!4m7!3m6!1s0x87ee9c0400000001:0xe8f5034bd8e633a9!8m2!3d41.6189913!4d-93.6728017!16s%2Fg%2F1tdcgy28!19sChIJAQAAAASc7ocRqTPm2EsD9eg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Des Moines"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

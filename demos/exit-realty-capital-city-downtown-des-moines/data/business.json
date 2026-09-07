@@ -1,0 +1,50 @@
+{
+    "business_name": "Exit Realty Capital City",
+    "source_business_name": "Exit Realty Capital City",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15156815677",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.exitrealtycc.com/",
+    "address": "\n400 Walnut St #4, Des Moines, IA 50309, United States",
+    "city": "Downtown Des Moines",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "7",
+    "google_maps_url": "https://www.google.com/maps/place/EXIT+Realty+Capital+City/data=!4m7!3m6!1s0x87ee990065502ff9:0xc8342652fc493cf2!8m2!3d41.5861035!4d-93.6224456!16s%2Fg%2F11c6vdnxqq!19sChIJ-S9QZQCZ7ocR8jxJ_FImNMg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Des Moines"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

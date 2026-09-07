@@ -1,0 +1,50 @@
+{
+    "business_name": "Iowa Realty",
+    "source_business_name": "Iowa Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15154536200",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.iowarealty.com/",
+    "address": "\n3501 Westown Pkwy, West Des Moines, IA 50266, United States",
+    "city": "West Des Moines",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Iowa+Realty/data=!4m7!3m6!1s0x87ec2099f60801d9:0x122a9d01721be339!8m2!3d41.5956528!4d-93.7528155!16s%2Fg%2F1tdh8_mf!19sChIJ2QEI9pkg7IcROeMbcgGdKhI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Des Moines"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
