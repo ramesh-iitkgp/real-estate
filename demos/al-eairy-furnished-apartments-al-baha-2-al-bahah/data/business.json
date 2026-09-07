@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Eairy Furnished Apartments Al Baha 2",
+    "source_business_name": "Al Eairy Furnished Apartments Al Baha 2",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966177233800",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n2CRX+799, King Abdulaziz Rd, Raghadan, Al Bahah 65731, Saudi Arabia",
+    "city": "Al Bahah",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Al+Eairy+Furnished+Apartments+Al+Baha+2/data=!4m7!3m6!1s0x15ef4606f94454eb:0x89882147f71e4186!8m2!3d20.0406595!4d41.4484951!16s%2Fg%2F11b7c2ztv4!19sChIJ61RE-QZG7xURhkEe90chiIk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Bahah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

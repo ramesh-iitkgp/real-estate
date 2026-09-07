@@ -1,0 +1,50 @@
+{
+    "business_name": "Al-Sawadi Office For Real Estate Public And Student Services",
+    "source_business_name": "Al-Sawadi Office For Real Estate Public And Student Services",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966177226224",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n4369 King Fahd Rd، حي الباهر، BADB6646، 6646, Al Bahah 65525, Saudi Arabia",
+    "city": "Al Bahah",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Al-Sawadi+Office+for+Real+Estate,+Public+and+Student+Services/data=!4m7!3m6!1s0x15ef450037b78ffb:0x6e02ed2e1f099225!8m2!3d20.0173663!4d41.4717797!16s%2Fg%2F11vxw10m04!19sChIJ-4-3NwBF7xURJZIJHy7tAm4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Bahah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

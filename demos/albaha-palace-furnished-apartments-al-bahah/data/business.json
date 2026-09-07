@@ -1,0 +1,50 @@
+{
+    "business_name": "Albaha Palace Furnished Apartments",
+    "source_business_name": "Albaha Palace Furnished Apartments",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966177250076",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nKing Fahd Rd, Albaher, Al Bahah 65525, Saudi Arabia",
+    "city": "Al Bahah",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Albaha+Palace+Furnished+Apartments/data=!4m7!3m6!1s0x15ef45c640d0c27f:0x4fd4ed799a1e50ca!8m2!3d20.018132!4d41.472696!16s%2Fg%2F11c1s6r_6t!19sChIJf8LQQMZF7xURylAemnnt1E8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Bahah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

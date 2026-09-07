@@ -1,0 +1,50 @@
+{
+    "business_name": "Almeswari Swiss For Serviced Apartment",
+    "source_business_name": "Almeswari Swiss For Serviced Apartment",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966177273001",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nalshafa، King Fahd Road, Town Center, Al Bahah 65524, Saudi Arabia",
+    "city": "Al Bahah",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Almeswari+Swiss+for+Serviced+Apartment/data=!4m7!3m6!1s0x15ef45a25f8e8aeb:0x208d285ee0e161d8!8m2!3d20.0026346!4d41.4622357!16s%2Fg%2F11f4wt46j3!19sChIJ64qOX6JF7xUR2GHh4F4ojSA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Bahah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

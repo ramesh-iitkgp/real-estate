@@ -1,0 +1,50 @@
+{
+    "business_name": "Second Home",
+    "source_business_name": "Second Home",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966538629686",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nابو الصفاء الحسيني, Alnuzhah, Al Bahah 65711, Saudi Arabia",
+    "city": "Al Bahah",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Second+Home/data=!4m7!3m6!1s0x15ef478823940c15:0x8f36bea2d9ef64ad!8m2!3d20.0341315!4d41.4878999!16s%2Fg%2F11kqlywkmf!19sChIJFQyUI4hH7xURrWTv2aK-No8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Bahah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

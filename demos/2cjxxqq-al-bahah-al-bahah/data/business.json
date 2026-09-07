@@ -1,0 +1,50 @@
+{
+    "business_name": "2Cjxxqq",
+    "source_business_name": "2Cjxxqq",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966507058118",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n5649 King Abdulaziz Rd, حي الضباب, BAGA6620, 6620, Al Bahah 65731, Saudi Arabia",
+    "city": "Al Bahah",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/2CJX%2BXQQ+Al+Bahah/data=!4m7!3m6!1s0x15ef45774eb10853:0x621980408b885c04!8m2!3d20.0324783!4d41.4494126!16s%2Fg%2F11kjpsz1jy!19sChIJUwixTndF7xURBFyIi0CAGWI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Bahah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

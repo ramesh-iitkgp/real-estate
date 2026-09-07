@@ -1,0 +1,50 @@
+{
+    "business_name": "2",
+    "source_business_name": "2",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966531060950",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nسلمة بن ابي سلمة, Alnuzhah, Al Bahah 65528, Saudi Arabia",
+    "city": "Al Bahah",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/%D8%AA%D9%88%D9%84%D9%8A%D9%86+%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A%D8%A9+%D9%84%D9%84%D8%B4%D9%82%D9%82+%D8%A7%D9%84%D9%81%D9%86%D8%AF%D9%82%D9%8A%D8%A9+2%E2%80%AD/data=!4m7!3m6!1s0x15ef45425cdddc8d:0x261617c4a3adbd56!8m2!3d20.0178408!4d41.4739824!16s%2Fg%2F11njwdkszs!19sChIJjdzdXEJF7xURVr2to8QXFiY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Bahah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

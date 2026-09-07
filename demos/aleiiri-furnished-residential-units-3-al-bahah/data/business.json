@@ -1,0 +1,50 @@
+{
+    "business_name": "Aleiiri Furnished Residential Units 3",
+    "source_business_name": "Aleiiri Furnished Residential Units 3",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966177242266",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.aleairygroup.com/",
+    "address": "\n15 King Abdulaziz Rd, Al Zarqa, Al Bahah 65521, Saudi Arabia",
+    "city": "Al Bahah",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Aleiiri+Furnished+Residential+Units+3/data=!4m7!3m6!1s0x15ef45931131ee2f:0x51ca66c4ee519a87!8m2!3d20.0153623!4d41.4546339!16s%2Fg%2F11f4wspk8c!19sChIJL-4xEZNF7xURh5pR7sRmylE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Bahah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
