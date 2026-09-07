@@ -1,0 +1,50 @@
+{
+    "business_name": "Kayan",
+    "source_business_name": "Kayan",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966501837770",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nAl Mukhayyam District, Najran 66251, Saudi Arabia",
+    "city": "Najran",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/%D9%83%D9%8A%D8%A7%D9%86+%D8%A7%D9%84%D9%85%D8%AE%D9%8A%D9%85+%D9%84%D9%84%D8%B4%D9%82%D9%82+%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D9%88%D9%85%D8%A9+Kayan%E2%80%AD/data=!4m7!3m6!1s0x15fec33ba8f2787b:0xf429b16a38f11e3d!8m2!3d17.5533904!4d44.2184288!16s%2Fg%2F11ghdv7y9d!19sChIJe3jyqDvD_hURPR7xOGqxKfQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Najran"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
