@@ -1,0 +1,50 @@
+{
+    "business_name": "Sandbridge Beach Real Estate And Virginia Beach Real Estate",
+    "source_business_name": "Sandbridge Beach Real Estate And Virginia Beach Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17576192247",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://sandbridgecoastalhomes.com/",
+    "address": "\n601 Sandbridge Rd, Virginia Beach, VA 23456, United States",
+    "city": "Downtown Virginia Beach",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Sandbridge+Beach+Real+Estate+and+Virginia+Beach+Real+Estate/data=!4m7!3m6!1s0x89bac3d9817a3ad3:0xd9aefbbe1e232261!8m2!3d36.7428169!4d-75.9587068!16s%2Fg%2F11k4v4pd3v!19sChIJ0zp6gdnDuokRYSIjHr77rtk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Virginia Beach"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

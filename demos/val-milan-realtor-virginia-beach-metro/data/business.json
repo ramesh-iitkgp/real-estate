@@ -1,0 +1,50 @@
+{
+    "business_name": "Val Milan Realtor",
+    "source_business_name": "Val Milan Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17575124299",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.valmilanrealtor.com/",
+    "address": "\n2122 General Booth Blvd Ste 104, Virginia Beach, VA 23454, United States",
+    "city": "Virginia Beach Metro",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Val+Milan+Realtor/data=!4m7!3m6!1s0x89ba958b43e4c15b:0x70c005b386c68cf0!8m2!3d36.7672561!4d-76.0129055!16s%2Fg%2F11j8g3brt7!19sChIJW8HkQ4uVuokR8IzGhrMFwHA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Virginia Beach Metro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

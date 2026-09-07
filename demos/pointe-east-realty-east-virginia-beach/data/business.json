@@ -1,0 +1,50 @@
+{
+    "business_name": "Pointe East Realty",
+    "source_business_name": "Pointe East Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17577251951",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.pointeeastrealty.com/",
+    "address": "\n616 Village Dr Ste I, Virginia Beach, VA 23454, United States",
+    "city": "East Virginia Beach",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Pointe+East+Realty/data=!4m7!3m6!1s0x89baebe2e21d73d1:0xcaf00e2227cd45c9!8m2!3d36.848368!4d-76.0277446!16s%2Fg%2F11g0l99gh4!19sChIJ0XMd4uLruokRyUXNJyIO8Mo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Virginia Beach"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
