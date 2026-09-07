@@ -1,0 +1,50 @@
+{
+    "business_name": "Hana Yanbu Furnished Apartments",
+    "source_business_name": "Hana Yanbu Furnished Apartments",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966556083538",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nشقق هنا ينبع، 8511، عمر بن الخطاب، 4355, Al Bahjah, Yanbu 46512, Saudi Arabia",
+    "city": "Yanbu",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Hana+Yanbu+Furnished+Apartments/data=!4m10!3m9!1s0x15b9086d1ece9d53:0x5044e339eba7dd2a!5m2!4m1!1i2!8m2!3d24.1308171!4d38.0011835!16s%2Fg%2F11f5lyc184!19sChIJU53OHm0IuRURKt2n6znjRFA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Yanbu"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

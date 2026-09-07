@@ -1,0 +1,50 @@
+{
+    "business_name": "Nama",
+    "source_business_name": "Nama",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966502066676",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n6438 Prince Muqrin Bin Abdulaziz St, 5493، جنوب،، 5493, Yanbu 46429, Saudi Arabia",
+    "city": "Yanbu",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87+%D9%86%D9%85%D8%A7%D8%A1+%D9%8A%D9%86%D8%A8%D8%B9+%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D9%87+Nama+Yanbu%E2%80%AD/data=!4m7!3m6!1s0x15b9056b2227ae2d:0x4b31be7122359436!8m2!3d24.0801204!4d38.1008953!16s%2Fg%2F11ghpyppv7!19sChIJLa4nImsFuRURNpQ1InG-MUs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Yanbu"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Al-Zahrani Real Estate",
+    "source_business_name": "Al-Zahrani Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966573600717",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n6486 Al-Hizam, 3998, Yanbu Saudi Arabia",
+    "city": "Yanbu",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/%D9%85%D9%83%D8%AA%D8%A8+%D8%A7%D9%84%D8%B2%D9%87%D8%B1%D8%A7%D9%86%D9%8A+%D9%84%D9%84%D8%B9%D9%82%D8%A7%D8%B1+%7C+Al-Zahrani+Real+Estate+%D8%A8%D9%8A%D8%B9+%E2%80%93+%D8%B4%D8%B1%D8%A7%D8%A1+%E2%80%93+%D8%AA%D8%A3%D8%AC%D9%8A%D8%B1+%E2%80%93+%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9+%D8%A3%D9%85%D9%84%D8%A7%D9%83%E2%80%AD/data=!4m7!3m6!1s0x15b91bcb166b7633:0xbb4f80d8632e6370!8m2!3d24.0145668!4d38.2150114!16s%2Fg%2F11d_d1k8s9!19sChIJM3ZrFssbuRURcGMuY9iAT7s?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Yanbu"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

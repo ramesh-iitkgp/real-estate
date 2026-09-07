@@ -1,0 +1,50 @@
+{
+    "business_name": "B2 Homes",
+    "source_business_name": "B2 Homes",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966541959555",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nPrince Muqrin Bin Abdulaziz Rd, Al Jabriyah, Yanbu 46428, Saudi Arabia",
+    "city": "Yanbu",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/B2+homes/data=!4m10!3m9!1s0x15b90f6d32270c57:0x410487cfdc6876cb!5m2!4m1!1i2!8m2!3d24.1115996!4d38.0930773!16s%2Fg%2F11cs1szr4w!19sChIJVwwnMm0PuRURy3Zo3M-HBEE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Yanbu"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

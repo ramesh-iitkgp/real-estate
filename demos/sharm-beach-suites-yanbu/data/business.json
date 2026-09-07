@@ -1,0 +1,50 @@
+{
+    "business_name": "Sharm Beach Suites",
+    "source_business_name": "Sharm Beach Suites",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966530696060",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nsharm beach suites, اسيد بن الخضير 7739-حي النزهه:101 46515-3981, Yanbu 46515, Saudi Arabia",
+    "city": "Yanbu",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/SHARM+BEACH+SUITES/data=!4m7!3m6!1s0x15b9a760aacaa1ef:0xa223fd7b534ce198!8m2!3d24.1476775!4d37.9510957!16s%2Fg%2F11mvrnkyks!19sChIJ76HKqmCnuRURmOFMU3v9I6I?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Yanbu"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

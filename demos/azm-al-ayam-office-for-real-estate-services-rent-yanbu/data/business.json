@@ -1,0 +1,50 @@
+{
+    "business_name": "Azm Al-Ayam Office For Real Estate Services Rent",
+    "source_business_name": "Azm Al-Ayam Office For Real Estate Services Rent",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966501192592",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n33V5+HX8, Al Saharij, Yanbu 46424, Saudi Arabia",
+    "city": "Yanbu",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Azm+Al-Ayam+Office+for+Real+Estate+Services+Rent/data=!4m7!3m6!1s0x15b9070058139f71:0xdecf2e85559f9a87!8m2!3d24.0939605!4d38.0599293!16s%2Fg%2F11lns59zyq!19sChIJcZ8TWAAHuRURh5qfVYUuz94?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Yanbu"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
