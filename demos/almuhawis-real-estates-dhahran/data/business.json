@@ -1,0 +1,50 @@
+{
+    "business_name": "Almuhawis Real Estates",
+    "source_business_name": "Almuhawis Real Estates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966558968866",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nSaeed Ibn Al Museeb St, Aljamiah District, Dhahran 34257, Saudi Arabia",
+    "city": "Dhahran",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Almuhawis+Real+Estates+%D9%85%D9%83%D8%AA%D8%A8+%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%85%D9%87%D9%88%D8%B3%E2%80%AD/data=!4m7!3m6!1s0x3e49e5cad2631b09:0x748c8ec3e5487264!8m2!3d26.3472227!4d50.1422541!16s%2Fg%2F11f38d_35d!19sChIJCRtj0srlST4RZHJI5cOOjHQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dhahran"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Telal Residence 1",
+    "source_business_name": "Telal Residence 1",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966507060044",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n85R2+JXC, Al Qusur, Dhahran 31471, Saudi Arabia",
+    "city": "Dhahran",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Telal+Residence+1/data=!4m7!3m6!1s0x3e49e5daa06ba51d:0xb5dcc747fc4fc09e!8m2!3d26.34156!4d50.1524037!16s%2Fg%2F11f32gshs2!19sChIJHaVroNrlST4RnsBP_EfH3LU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dhahran"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
