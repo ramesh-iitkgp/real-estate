@@ -1,0 +1,50 @@
+{
+    "business_name": "Bhagwat Dham Real Estate Llp",
+    "source_business_name": "Bhagwat Dham Real Estate Llp",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919672206222",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.bhagwatdhamrealestate.com/",
+    "address": "\nShop No.12, Khushi Enclave, A Block, Narayan Vihar, Jaipur, Rajasthan 302020",
+    "city": "South Jaipur",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Bhagwat+Dham+Real+Estate+LLP/data=!4m7!3m6!1s0x396db520e4f7969d:0xe577e6c15f5004e8!8m2!3d26.8484765!4d75.7183276!16s%2Fg%2F11p9n2vngr!19sChIJnZb35CC1bTkR6ARQX8Hmd-U?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Jaipur"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Precize Realestate Hub",
+    "source_business_name": "Precize Realestate Hub",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919116111142",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://precizepropertyhub.in/",
+    "address": "\n244, Vaishali Marg, Nemi Sagar Colony, Vaishali Nagar, Jaipur, Rajasthan 302021",
+    "city": "Central Jaipur",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/PRECIZE+REALESTATE+HUB/data=!4m7!3m6!1s0x396db37d9e6cc735:0x8a209d7ad3068f0f!8m2!3d26.915459!4d75.7517626!16s%2Fg%2F1q64lj9wz!19sChIJNcdsnn2zbTkRD48G03qdIIo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Jaipur"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
