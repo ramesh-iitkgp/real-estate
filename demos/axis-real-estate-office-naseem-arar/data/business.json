@@ -1,0 +1,50 @@
+{
+    "business_name": "Axis Real Estate Office Naseem",
+    "source_business_name": "Axis Real Estate Office Naseem",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966536565233",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nX3G6+7GF, al amir mishal ibn abdul aziz, Naseem, Arar 73245, Saudi Arabia",
+    "city": "Arar",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Axis+Real+Estate+Office+Naseem/data=!4m7!3m6!1s0x156c0e5e5303209d:0xe287de94492c1643!8m2!3d30.9756827!4d41.0612949!16s%2Fg%2F11c31p0lm5!19sChIJnSADU14ObBURQxYsSZTeh-I?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Arar"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/axisrealestates/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

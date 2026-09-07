@@ -1,0 +1,50 @@
+{
+    "business_name": "Arar Home",
+    "source_business_name": "Arar Home",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n4228 شارع الأمير تركى بن عبدالعزيز, Almatar, SHAB7263، 7263, Arar 73312, Saudi Arabia",
+    "city": "Arar",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Arar+home/data=!4m7!3m6!1s0x156c0d005cbfb4c9:0xfdd06e3cfc2c7912!8m2!3d30.9821752!4d40.994882!16s%2Fg%2F11vwgg3mjt!19sChIJybS_XAANbBUREnks_Dxu0P0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Arar"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/arar_homes/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
