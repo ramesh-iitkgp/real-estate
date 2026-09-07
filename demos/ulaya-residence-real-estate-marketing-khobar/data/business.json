@@ -1,0 +1,50 @@
+{
+    "business_name": "Ulaya Residence Real Estate Marketing",
+    "source_business_name": "Ulaya Residence Real Estate Marketing",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966133316666",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nZaid Bin Al Khatab St, Olaya, Al Khobar 34447, Saudi Arabia",
+    "city": "Khobar",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Ulaya+Residence+Real+Estate+Marketing/data=!4m7!3m6!1s0x3e49e62b87410cfb:0x1ec2648176fc76bc!8m2!3d26.3046504!4d50.178385!16s%2Fg%2F11c603j5yd!19sChIJ-wxBhyvmST4RvHb8doFkwh4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Khobar"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Real Estate Makers",
+    "source_business_name": "Real Estate Makers",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966138811199",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n6537 4th St, 3888, Madinat Al Umal, 3888, Al Khobar 34443, Saudi Arabia",
+    "city": "Khobar",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/%D8%B5%D9%86%D8%A7%D8%B9+%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1+Real+Estate+Makers%E2%80%AD/data=!4m7!3m6!1s0x3e49e8149b3b9313:0x363a022ba186dd1c!8m2!3d26.2873167!4d50.1991532!16s%2Fg%2F11cnctrx__!19sChIJE5M7mxToST4RHN2GoSsCOjY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Khobar"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

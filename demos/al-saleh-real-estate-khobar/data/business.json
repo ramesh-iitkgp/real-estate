@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Saleh Real Estate",
+    "source_business_name": "Al Saleh Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966502865988",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n22nd St, Al Khobar Al Shamalia، الملك فيصل تقاطع 34425, Saudi Arabia",
+    "city": "Khobar",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Al+Saleh+Real+Estate/data=!4m7!3m6!1s0x3e49e930bf9b866d:0xc4dfcab67f6d31e5!8m2!3d26.2967091!4d50.2175127!16s%2Fg%2F11z51q16gb!19sChIJbYabvzDpST4R5TFtf7bK38Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Khobar"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
