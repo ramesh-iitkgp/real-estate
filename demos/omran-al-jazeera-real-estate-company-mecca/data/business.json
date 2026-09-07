@@ -1,0 +1,50 @@
+{
+    "business_name": "Omran Al Jazeera Real Estate Company",
+    "source_business_name": "Omran Al Jazeera Real Estate Company",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966556629055",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://omranaljazeera.com/",
+    "address": "\nافيحاء, شارع أم المؤمنين عائشة رضي الله عنها, Makkah 24226, Saudi Arabia",
+    "city": "Mecca",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "20",
+    "google_maps_url": "https://www.google.com/maps/place/%D8%B4%D8%B1%D9%83%D8%A9+%D8%B9%D9%85%D8%B1%D8%A7%D9%86+%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9+%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9+%7C+Omran+Al+Jazeera+Real+Estate+Company%E2%80%AD/data=!4m7!3m6!1s0x15c21bc8fd61db5f:0xadbdc520e83865eb!8m2!3d21.4522623!4d39.7616516!16s%2Fg%2F11tm_rkg4y!19sChIJX9th_cgbwhUR62U46CDFva0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mecca"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

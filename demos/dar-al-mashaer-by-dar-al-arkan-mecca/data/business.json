@@ -1,0 +1,50 @@
+{
+    "business_name": "Dar Al Mashaer By Dar Al Arkan",
+    "source_business_name": "Dar Al Mashaer By Dar Al Arkan",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "9668001233333",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.daralarkan.com/ar/project/dar-al-mashaer-ksa",
+    "address": "\nJamia, 4995 At Taif Rd, 7096, Mecca Saudi Arabia",
+    "city": "Mecca",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Dar+Al+Mashaer+by+Dar+Al+Arkan+-+%D8%AF%D8%A7%D8%B1+%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B9%D8%B1+%D9%85%D9%86+%D8%AF%D8%A7%D8%B1+%D8%A7%D9%84%D8%A3%D8%B1%D9%83%D8%A7%D9%86%E2%80%AD/data=!4m7!3m6!1s0x15c2045a6a6b34a3:0x8e991121759a6142!8m2!3d21.398311!4d39.864681!16s%2Fg%2F11hd23jb71!19sChIJozRraloEwhURQmGadSERmY4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mecca"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

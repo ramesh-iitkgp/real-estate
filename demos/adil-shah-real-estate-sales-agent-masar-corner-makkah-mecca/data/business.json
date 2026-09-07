@@ -1,0 +1,50 @@
+{
+    "business_name": "Adil Shah Real Estate Sales Agent Masar Corner Makkah",
+    "source_business_name": "Adil Shah Real Estate Sales Agent Masar Corner Makkah",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "923339015852",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nMasar Corner, Makkah 🇸🇦 Saudi Arabia",
+    "city": "Mecca",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Adil+shah+Real+Estate+Sales+Agent+%7C+Masar+Corner,+Makkah+%F0%9F%87%B8%F0%9F%87%A6/data=!4m7!3m6!1s0x15c205e650b991b1:0x44076d53a6d81bf9!8m2!3d21.4240968!4d39.8173364!16s%2Fg%2F11zh29cqbv!19sChIJsZG5UOYFwhUR-RvYplNtB0Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mecca"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

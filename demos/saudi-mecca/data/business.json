@@ -1,0 +1,50 @@
+{
+    "business_name": "Saudi",
+    "source_business_name": "Saudi",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966504415728",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n3391-3439 Al Iman, Al Jamiah, Makkah 24242, Saudi Arabia",
+    "city": "Mecca",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "37",
+    "google_maps_url": "https://www.google.com/maps/place/Saudi/data=!4m7!3m6!1s0x15c2051fc4ee0417:0x37c00e96f26a642f!8m2!3d21.3955849!4d39.8719536!16s%2Fg%2F11v0xrxsdc!19sChIJFwTuxB8FwhURL2Rq8pYOwDc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mecca"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
