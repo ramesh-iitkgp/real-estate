@@ -1,0 +1,50 @@
+{
+    "business_name": "Savage Homes Real Estate Exp Realty",
+    "source_business_name": "Savage Homes Real Estate Exp Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16203824231",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://pattysavage.exprealty.com/",
+    "address": "\n5025 E Kellogg Dr, Wichita, KS 67218, United States",
+    "city": "East Wichita",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Savage+Homes+Real+Estate,+eXp+Realty/data=!4m7!3m6!1s0x87baef55f125f59d:0xac78217678ea460f!8m2!3d37.6787924!4d-97.2773543!16s%2Fg%2F11mhg39d_p!19sChIJnfUl8VXvuocRD0bqeHYheKw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Wichita"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

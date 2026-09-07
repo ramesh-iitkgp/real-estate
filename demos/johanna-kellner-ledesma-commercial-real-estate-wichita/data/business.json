@@ -1,0 +1,50 @@
+{
+    "business_name": "Johanna Kellner-Ledesma Commercial Real Estate",
+    "source_business_name": "Johanna Kellner-Ledesma Commercial Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13163123385",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nThe Colony, 659 N Market St, Wichita, KS 67203, United States",
+    "city": "Wichita",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Johanna+Kellner-Ledesma+Commercial+Real+Estate/data=!4m7!3m6!1s0x87badfb5e3bca411:0xe27975c0112a78b2!8m2!3d37.6959426!4d-97.3372474!16s%2Fg%2F11vqp3k5hy!19sChIJEaS847XfuocRsngqEcB1eeI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Wichita"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

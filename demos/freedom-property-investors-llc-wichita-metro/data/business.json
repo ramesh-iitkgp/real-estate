@@ -1,0 +1,50 @@
+{
+    "business_name": "Freedom Property Investors Llc",
+    "source_business_name": "Freedom Property Investors Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "13164482800",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://freedompropertyinvestorsllc.com/",
+    "address": "\n410 S St Francis Ave, Wichita, KS 67202, United States",
+    "city": "Wichita Metro",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "45",
+    "google_maps_url": "https://www.google.com/maps/place/Freedom+Property+Investors,+LLC/data=!4m7!3m6!1s0x87bae3de1ff0085f:0x33c7583bc94daa03!8m2!3d37.681774!4d-97.3312256!16s%2Fg%2F11kjkdlstw!19sChIJXwjwH97juocRA6pNyTtYxzM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Wichita Metro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
