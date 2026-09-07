@@ -1,0 +1,50 @@
+{
+    "business_name": "Rajeshwar Properties Amrutbhai Joshi",
+    "source_business_name": "Rajeshwar Properties Amrutbhai Joshi",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919426420871",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nRajworld shopping center, G 88, Palanpur, Surat, Gujarat 395009",
+    "city": "Downtown Surat",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Rajeshwar+Properties+%2F+Amrutbhai+Joshi/data=!4m7!3m6!1s0x3be04dcc9b676f39:0x6fc94b85f25373a7!8m2!3d21.2116576!4d72.7728434!16s%2Fg%2F11rg2n2lv_!19sChIJOW9nm8xN4DsRp3NT8oVLyW8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Surat"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

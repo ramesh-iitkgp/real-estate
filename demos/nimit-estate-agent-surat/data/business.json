@@ -1,0 +1,50 @@
+{
+    "business_name": "Nimit Estate Agent",
+    "source_business_name": "Nimit Estate Agent",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919726528024",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nDiamond Market, railway station, Kansara Sheri Rd, near surat, Mahidharpura, Haripura, Surat, Gujarat 395003",
+    "city": "Surat",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "35",
+    "google_maps_url": "https://www.google.com/maps/place/Nimit+Estate+Agent/data=!4m7!3m6!1s0x3be04fbc70bbc3f7:0x45ccc393f353fe4d!8m2!3d21.2039582!4d72.8343487!16s%2Fg%2F11l01cvd5p!19sChIJ98O7cLxP4DsRTf5T85PDzEU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Surat"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

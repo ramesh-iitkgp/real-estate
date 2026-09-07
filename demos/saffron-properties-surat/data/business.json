@@ -1,0 +1,50 @@
+{
+    "business_name": "Saffron Properties",
+    "source_business_name": "Saffron Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919825059234",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nOrchid Harmony, Fire Station, 247, Gaurav Path Road, opp. Palanpor, Palanpur, Surat, Gujarat 395009",
+    "city": "Surat",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "65",
+    "google_maps_url": "https://www.google.com/maps/place/Saffron+Properties/data=!4m7!3m6!1s0x3be04c449ec33c6b:0x283b3c7c3fb98965!8m2!3d21.2058681!4d72.7663889!16s%2Fg%2F1q62gzt70!19sChIJazzDnkRM4DsRZYm5P3w8Oyg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Surat"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

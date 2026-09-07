@@ -1,0 +1,50 @@
+{
+    "business_name": "Vinayak Property",
+    "source_business_name": "Vinayak Property",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919377793075",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nShopping BOB Bank, City Light Town, Athwa, Surat, Gujarat 395007",
+    "city": "Surat",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "24",
+    "google_maps_url": "https://www.google.com/maps/place/Vinayak+Property+SURAT/data=!4m7!3m6!1s0x3be05271938dda73:0xdd47cd7006a52b6c!8m2!3d21.1640853!4d72.7942799!16s%2Fg%2F11dflk2hz7!19sChIJc9qNk3FS4DsRbCulBnDNR90?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Surat"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

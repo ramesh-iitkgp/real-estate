@@ -1,0 +1,50 @@
+{
+    "business_name": "Property Dhundho",
+    "source_business_name": "Property Dhundho",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919664686516",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1st Floor, Square One, 135, 2nd VIP Road, near Dhiraj Sons store, Apcha Nagar, Althan, Bhimrad, Surat, Gujarat 395007",
+    "city": "North Surat",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Property+Dhundho/data=!4m7!3m6!1s0x3be0531f03b80943:0xb6c92f5d7370bb5a!8m2!3d21.1392382!4d72.8031469!16s%2Fg%2F11mw4w1_6l!19sChIJQwm4Ax9T4DsRWrtwc10vybY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Surat"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

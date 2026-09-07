@@ -1,0 +1,50 @@
+{
+    "business_name": "Laxmi Realtors",
+    "source_business_name": "Laxmi Realtors",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917623998366",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nG-49, VIP Plaza, VIP Rd, near Khatu Shyam Baba Mandir, Vesu, Surat, Gujarat 395007",
+    "city": "Surat",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "651",
+    "google_maps_url": "https://www.google.com/maps/place/Laxmi+Realtors/data=!4m7!3m6!1s0x3be053f338c0a3a1:0x9891bde0764557d0!8m2!3d21.1436241!4d72.7971507!16s%2Fg%2F11g4dlfdzc!19sChIJoaPAOPNT4DsR0FdFduC9kZg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Surat"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

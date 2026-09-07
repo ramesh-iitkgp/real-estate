@@ -1,0 +1,50 @@
+{
+    "business_name": "Shree Real Estateshowrooms & Offices",
+    "source_business_name": "Shree Real Estateshowrooms & Offices",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917405139990",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nMillionaire Business Park, TGB, Adajan Gam, Adajan, Surat, Gujarat 395009",
+    "city": "Surat",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "304",
+    "google_maps_url": "https://www.google.com/maps/place/Shree+Real+Estate%28Showrooms+%26+Offices%29/data=!4m7!3m6!1s0x3be04d880bd85d1b:0x27da65c9b7a6248!8m2!3d21.1938904!4d72.7869709!16s%2Fg%2F11f9yxv1hr!19sChIJG13YC4hN4DsRSGJ6m1ymfQI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Surat"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

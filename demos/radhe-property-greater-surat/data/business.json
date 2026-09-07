@@ -1,0 +1,50 @@
+{
+    "business_name": "Radhe Property",
+    "source_business_name": "Radhe Property",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919724102323",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nHeta Complex, 4, beside Mahalaxmi Complex, nr. LP Savani Circle, Adajan, Surat, Gujarat 394510",
+    "city": "Greater Surat",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Radhe+Property/data=!4m7!3m6!1s0x3be04db5fa64ff23:0x9caee5fce75b7444!8m2!3d21.2023921!4d72.7819614!16s%2Fg%2F11h_bdlsyh!19sChIJI_9k-rVN4DsRRHRb5_zlrpw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Greater Surat"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

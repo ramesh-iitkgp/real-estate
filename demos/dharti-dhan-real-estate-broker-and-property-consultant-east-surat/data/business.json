@@ -1,0 +1,50 @@
+{
+    "business_name": "Dharti Dhan Real Estate Broker And Property Consultant",
+    "source_business_name": "Dharti Dhan Real Estate Broker And Property Consultant",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919033923877",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nUG-6, Bhumi Residency, near Althan, Chowkdi, Althan, Surat, Gujarat 395017",
+    "city": "East Surat",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "21",
+    "google_maps_url": "https://www.google.com/maps/place/Dharti+Dhan+Real+Estate+Broker+and+Property+Consultant/data=!4m7!3m6!1s0x3be0514c757be945:0x46bec02a9200db3e!8m2!3d21.1464013!4d72.8047875!16s%2Fg%2F11vzw37wck!19sChIJRel7dUxR4DsRPtsAkirAvkY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Surat"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

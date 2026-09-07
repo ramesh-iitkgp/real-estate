@@ -1,0 +1,50 @@
+{
+    "business_name": "Surat Property Developers",
+    "source_business_name": "Surat Property Developers",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917096100007",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nG-13,Apple Square, Puna-Simada Rd, Yogichowk, Yogi Chowk Ground, Surat, Gujarat 395011",
+    "city": "Surat",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "23",
+    "google_maps_url": "https://www.google.com/maps/place/Surat+Property+Developers/data=!4m7!3m6!1s0x3be04f9c2e2df9b7:0x44ecfbb22833b974!8m2!3d21.2145248!4d72.8874498!16s%2Fg%2F11f30nzk31!19sChIJt_ktLpxP4DsRdLkzKLL77EQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Surat"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Perfect Deals Surat'S Best Real Estate Consultant",
+    "source_business_name": "Perfect Deals Surat'S Best Real Estate Consultant",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919979641000",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n5, Eden Enclave, Palanpur, Palanpur Canal Rd, opp. Stuti Arista, Adajan, Surat, Gujarat 395009",
+    "city": "Surat",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "62",
+    "google_maps_url": "https://www.google.com/maps/place/Perfect+Deals+%7C+Surat%27s+Best+Real+Estate+Consultant/data=!4m7!3m6!1s0x3be04db3f644b5c5:0x5bad683ff64df4f2!8m2!3d21.2126614!4d72.7697465!16s%2Fg%2F11lh3f2rc8!19sChIJxbVE9rNN4DsR8vRN9j9orVs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Surat"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

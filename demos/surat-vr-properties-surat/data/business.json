@@ -1,0 +1,50 @@
+{
+    "business_name": "Surat Vr Properties",
+    "source_business_name": "Surat Vr Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917990647288",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://suratvrproperties.com/",
+    "address": "\nRajhans Cremona, VIP Rd, behind C.B. Patel Club House, Vesu, Surat, Gujarat 395007",
+    "city": "Surat",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "59",
+    "google_maps_url": "https://www.google.com/maps/place/Surat+VR+Properties/data=!4m7!3m6!1s0x3be053c73d7647df:0x9f69b5db0f542f76!8m2!3d21.140045!4d72.7786235!16s%2Fg%2F11yjwpvjh2!19sChIJ30d2PcdT4DsRdi9UD9u1aZ8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Surat"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

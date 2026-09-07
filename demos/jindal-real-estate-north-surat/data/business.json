@@ -1,0 +1,50 @@
+{
+    "business_name": "Jindal Real Estate",
+    "source_business_name": "Jindal Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919909311135",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nSQUAARE ONE COMMERICAL, OFFICE NO:- 419 4TH FLOOR, Althan Canal Rd, Surat, Gujarat 395007",
+    "city": "North Surat",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jindal+Real+Estate/data=!4m7!3m6!1s0x3be053446055f583:0x495c63421447fc2c!8m2!3d21.1392383!4d72.8031481!16s%2Fg%2F11h6v8qs5r!19sChIJg_VVYERT4DsRLPxHFEJjXEk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "North Surat"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

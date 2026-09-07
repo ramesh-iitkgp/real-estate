@@ -1,0 +1,50 @@
+{
+    "business_name": "Vaibhavlaxmi Estate Agency",
+    "source_business_name": "Vaibhavlaxmi Estate Agency",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919879797516",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nVaishnodevi Sky, shopping center, 8, Vaishnodevi Rd, jahangirabad, Dahin Nagar, Vanakala, Surat, Gujarat 395005",
+    "city": "Surat",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "31",
+    "google_maps_url": "https://www.google.com/maps/place/Vaibhavlaxmi+Estate+agency/data=!4m7!3m6!1s0x3be04bf5c6bf91ab:0x6c4f738a6d6d86b3!8m2!3d21.241962!4d72.7737717!16s%2Fg%2F11g0g92_77!19sChIJq5G_xvVL4DsRs4ZtbYpzT2w?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Surat"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

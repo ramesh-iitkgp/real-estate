@@ -1,0 +1,50 @@
+{
+    "business_name": "Pooja Real Estate -Best Property Dealer In",
+    "source_business_name": "Pooja Real Estate -Best Property Dealer In",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919714229432",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nShop no -H/20, jashlaxmi appartment, Honey Park Rd, Opposite Sai Square Complex, Honey Park Area, Adajan, Surat, Gujarat 395009",
+    "city": "Surat",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "174",
+    "google_maps_url": "https://www.google.com/maps/place/Pooja+real+Estate+-Best+property+dealer+in+surat/data=!4m7!3m6!1s0x3be04d2aa377ad6b:0x1e642574fde1ade9!8m2!3d21.2026258!4d72.7864842!16s%2Fg%2F11ckkyks_t!19sChIJa613oypN4DsR6a3h_XQlZB4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Surat"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Surat Property Dealer",
+    "source_business_name": "Surat Property Dealer",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919904447704",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1st Floor, Property Dealer, Shraddha Complex, near Kamnath Mahadev Temple, near Althan Garden, Parsottam Nagar, Gam, Althan, Surat, Gujarat 395017",
+    "city": "Downtown Surat",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Surat+Property+Dealer/data=!4m7!3m6!1s0x3be05109c66fc68f:0x5ac47b60e00cf1ee!8m2!3d21.1487708!4d72.8057346!16s%2Fg%2F11vspfyw3j!19sChIJj8ZvxglR4DsR7vEM4GB7xFo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Surat"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

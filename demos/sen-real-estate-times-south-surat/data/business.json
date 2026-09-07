@@ -1,0 +1,50 @@
+{
+    "business_name": "Sen Real Estate Times",
+    "source_business_name": "Sen Real Estate Times",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917046436161",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n515, 5th floor shubh universal vesu B/H Reliance Market, Vesu Surat, Surat, Gujarat 395007",
+    "city": "South Surat",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Sen+Real+Estate+Times/data=!4m7!3m6!1s0x3be04d89e3116d47:0x995f97c8b6d03656!8m2!3d21.1480484!4d72.7737794!16s%2Fg%2F11gfd6rv2g!19sChIJR20R44lN4DsRVjbQtsiXX5k?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Surat"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Rk Property",
+    "source_business_name": "Rk Property",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919913568256",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nDiamond Market, Nagar Sheri, Limbusheri, Mahidharpura, Haripura, Surat, Gujarat 395003",
+    "city": "Surat",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "58",
+    "google_maps_url": "https://www.google.com/maps/place/RK+Property/data=!4m7!3m6!1s0x3be04fafaca33d11:0x945b8080948f7b45!8m2!3d21.2042112!4d72.8332749!16s%2Fg%2F11g1dt1b1g!19sChIJET2jrK9P4DsRRXuPlICAW5Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Surat"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

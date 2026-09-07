@@ -1,0 +1,50 @@
+{
+    "business_name": "Skyline Estate - Property Dealer In",
+    "source_business_name": "Skyline Estate - Property Dealer In",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917301017031",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nRegent Plaza, 239, near Rami Park, Dindoli, Surat, Gujarat 394210",
+    "city": "Surat",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "29",
+    "google_maps_url": "https://www.google.com/maps/place/Skyline+Estate+-+Property+Dealer+In+Surat/data=!4m7!3m6!1s0x3be0511dba7b4caf:0xbe0398487921852c!8m2!3d21.1580188!4d72.8788707!16s%2Fg%2F11nr3j2fq7!19sChIJr0x7uh1R4DsRLIUheUiYA74?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Surat"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

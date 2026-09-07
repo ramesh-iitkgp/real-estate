@@ -1,0 +1,50 @@
+{
+    "business_name": "Real Estate By Keyur Zaveri",
+    "source_business_name": "Real Estate By Keyur Zaveri",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918866622996",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://keyurzaverirealestate.com/",
+    "address": "\n107, Rander Rd, Shri Rangavdhut Society 1, Shankar Nagar Cooperative Housing Society, Morarji Nagar, Palanpur Patia, Surat, Gujarat 395005",
+    "city": "Surat",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "112",
+    "google_maps_url": "https://www.google.com/maps/place/Real+Estate+By+Keyur+Zaveri/data=!4m7!3m6!1s0x3be04c29116f6215:0x427ad7c7111bfbaa!8m2!3d21.2130064!4d72.7947653!16s%2Fg%2F11r_qjf_11!19sChIJFWJvESlM4DsRqvsbEcfXekI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Surat"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
