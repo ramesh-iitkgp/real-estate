@@ -1,0 +1,50 @@
+{
+    "business_name": "Roman Realty",
+    "source_business_name": "Roman Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17066505745",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.homesaroundaugusta.com/",
+    "address": "\n3802 Washington Rd B, Augusta, GA 30907, United States",
+    "city": "East Augusta",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Roman+Realty/data=!4m7!3m6!1s0x88f9d31d0f521425:0xbdc0bfed60df44af!8m2!3d33.5125999!4d-82.0863108!16s%2Fg%2F1tglj4xp!19sChIJJRRSDx3T-YgRr0TfYO2_wL0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Augusta"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

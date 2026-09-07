@@ -1,0 +1,50 @@
+{
+    "business_name": "Century 21 Jeff Keller Realty",
+    "source_business_name": "Century 21 Jeff Keller Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17067960106",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.century21jk.com/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=2156930001",
+    "address": "\n2448 Lumpkin Rd, Augusta, GA 30906, United States",
+    "city": "South Augusta",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/CENTURY+21+Jeff+Keller+Realty/data=!4m7!3m6!1s0x88f9d1d9aa781ce5:0x45a83c4c8fe19b85!8m2!3d33.4210515!4d-82.043687!16s%2Fg%2F1tj74g51!19sChIJ5Rx4qtnR-YgRhZvhj0w8qEU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Augusta"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

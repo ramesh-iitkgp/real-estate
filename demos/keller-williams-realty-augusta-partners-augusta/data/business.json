@@ -1,0 +1,50 @@
+{
+    "business_name": "Keller Williams Realty Augusta Partners",
+    "source_business_name": "Keller Williams Realty Augusta Partners",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17068683772",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://kwmc173.yourkwoffice.com/",
+    "address": "\n3633 Wheeler Rd Suite 125, Augusta, GA 30909, United States",
+    "city": "Augusta",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Keller+Williams+Realty+Augusta+Partners/data=!4m7!3m6!1s0x88f9d3b3e4c8a987:0x7c635efefe1affd0!8m2!3d33.4830265!4d-82.0892495!16s%2Fg%2F1q62m1v69!19sChIJh6nI5LPT-YgR0P8a_v5eY3w?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Augusta"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

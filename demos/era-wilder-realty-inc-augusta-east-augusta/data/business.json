@@ -1,0 +1,50 @@
+{
+    "business_name": "Era Wilder Realty Inc - Augusta",
+    "source_business_name": "Era Wilder Realty Inc - Augusta",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "17064962716",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://erawilderrealty.com/directory/offices/era-wilder-realty-1",
+    "address": "\n104 Warren Rd, Augusta, GA 30907, United States",
+    "city": "East Augusta",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/ERA+Wilder+Realty,+Inc.+-+Augusta/data=!4m7!3m6!1s0x88f9d33667d96f45:0x7741c404bd54f578!8m2!3d33.5131604!4d-82.0560644!16s%2Fg%2F11x2sn2rz6!19sChIJRW_ZZzbT-YgRePVUvQTEQXc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Augusta"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
