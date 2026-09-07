@@ -1,0 +1,50 @@
+{
+    "business_name": "Sorouhalkhair Real Estateabha",
+    "source_business_name": "Sorouhalkhair Real Estateabha",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966563598025",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nOppo-ALrashid mall, King Fahd Rd, Almahalah, Abha 62561, Saudi Arabia",
+    "city": "Abha",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/SorouhAlkhair+Real+Estate,ABHA/data=!4m7!3m6!1s0x15fcabda92813cdf:0x7da45c38a345ecc5!8m2!3d18.2398914!4d42.5808261!16s%2Fg%2F11ycxpz6k3!19sChIJ3zyBktqr_BURxexFozhcpH0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Abha"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

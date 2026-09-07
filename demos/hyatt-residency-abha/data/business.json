@@ -1,0 +1,50 @@
+{
+    "business_name": "Hyatt Residency",
+    "source_business_name": "Hyatt Residency",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966172286000",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nKing Abdul Aziz Rd، شارع الحديقة, Abha 62521, Saudi Arabia",
+    "city": "Abha",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Hyatt+Residency/data=!4m7!3m6!1s0x15e355ee7f1d1259:0xa0d41f0523047cc1!8m2!3d18.2082148!4d42.5148856!16s%2Fg%2F11t0w1d_6l!19sChIJWRIdf-5V4xURwXwEIwUf1KA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Abha"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

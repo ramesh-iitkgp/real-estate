@@ -1,0 +1,50 @@
+{
+    "business_name": "M A W",
+    "source_business_name": "M A W",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966505468857",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n6MPG+7FR, Abha 62438, Saudi Arabia",
+    "city": "Abha",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/%D9%85%D8%AC%D9%85%D8%B9+M.+A.+W%E2%80%AD/data=!4m7!3m6!1s0x15fca953f5debe6f:0x5041d8cfa235f64a!8m2!3d18.235574!4d42.676562!16s%2Fg%2F11tp36b6c0!19sChIJb77e9VOp_BURSvY1os_YQVA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Abha"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

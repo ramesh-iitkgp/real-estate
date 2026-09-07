@@ -1,0 +1,50 @@
+{
+    "business_name": "Poured East Furnished Villas",
+    "source_business_name": "Poured East Furnished Villas",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966545063393",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n3880, Abha 62581, Saudi Arabia",
+    "city": "Abha",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Poured+East+Furnished+Villas/data=!4m7!3m6!1s0x15fcab1c2b3cd905:0x65c140db3f4ac434!8m2!3d18.226515!4d42.5755914!16s%2Fg%2F11fx8wrl3d!19sChIJBdk8Kxyr_BURNMRKP9tAwWU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Abha"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
