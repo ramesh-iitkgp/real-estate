@@ -1,0 +1,50 @@
+{
+    "business_name": "Fortune Real Estates",
+    "source_business_name": "Fortune Real Estates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966599477882",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n7708 Muhammed Ibn Abi Bakr, An Nahdah, Jeddah 23615, Saudi Arabia",
+    "city": "Jeddah",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Fortune+Real+Estates/data=!4m7!3m6!1s0x15c3db3fa7848d87:0x1b973e6876552398!8m2!3d21.6280311!4d39.1327951!16s%2Fg%2F11zd9hj6kf!19sChIJh42Epz_bwxURmCNVdmg-lxs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jeddah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

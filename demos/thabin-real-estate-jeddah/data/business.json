@@ -1,0 +1,50 @@
+{
+    "business_name": "Thabin Real Estate",
+    "source_business_name": "Thabin Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966504666668",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nAabir Al Qarath St, Al Yaqoot, Jeddah 23826, Saudi Arabia",
+    "city": "Jeddah",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/THABIN+REAL+ESTATE/data=!4m7!3m6!1s0x15c16395d34696e7:0x1ec444fd663cb913!8m2!3d21.7930328!4d39.0902075!16s%2Fg%2F11c1wx50bm!19sChIJ55ZG05VjwRURE7k8Zv1ExB4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jeddah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

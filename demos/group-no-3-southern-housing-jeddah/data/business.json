@@ -1,0 +1,50 @@
+{
+    "business_name": "Group No 3 Southern Housing",
+    "source_business_name": "Group No 3 Southern Housing",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966502461436",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n7221، 4807، حي الامير عبدالمجيد, Jeddah 22432, Saudi Arabia",
+    "city": "Jeddah",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Group+No.+3+Southern+Housing/data=!4m7!3m6!1s0x15c3cb79e7d945f1:0xcfc08ca7ba7da742!8m2!3d21.4222871!4d39.283408!16s%2Fg%2F11c6ldjbm4!19sChIJ8UXZ53nLwxURQqd9uqeMwM8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jeddah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

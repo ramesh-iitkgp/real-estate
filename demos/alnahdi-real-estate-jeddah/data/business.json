@@ -1,0 +1,50 @@
+{
+    "business_name": "- Alnahdi Real Estate",
+    "source_business_name": "- Alnahdi Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966920033545",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://tamlikalnahdi.com/",
+    "address": "\nالاربعين سابقا, Prince Mutaib bin Abdulaziz Rd, Aziziyah, Jeddah 23342, Saudi Arabia",
+    "city": "Jeddah",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/%D8%AA%D9%85%D9%84%D9%8A%D9%83+%D8%A7%D9%84%D9%86%D9%87%D8%AF%D9%8A+-+Alnahdi+Real+estate%E2%80%AD/data=!4m7!3m6!1s0x15c3d1dad50bd45b:0x9d1a06090c0893ce!8m2!3d21.5626084!4d39.2121322!16s%2Fg%2F11sn84d_ys!19sChIJW9QL1drRwxURzpMIDAkGGp0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jeddah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "https://www.facebook.com/pages/alnahdi%20real%20estate%20&%20contracting/114741161873745/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

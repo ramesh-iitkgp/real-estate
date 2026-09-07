@@ -1,0 +1,50 @@
+{
+    "business_name": "Bayut Ksa",
+    "source_business_name": "Bayut Ksa",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nJ43V+3CH, Prince Sultan Rd, As Salamah, Jeddah 23525, Saudi Arabia",
+    "city": "Jeddah",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Bayut+KSA+-+Jeddah/data=!4m7!3m6!1s0x15c3db001b147e77:0x164a6c3892ba3d4c!8m2!3d21.6026935!4d39.1436124!16s%2Fg%2F11mry6hcg2!19sChIJd34UGwDbwxURTD26kjhsShY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jeddah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "https://www.facebook.com/bayutksa/about/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

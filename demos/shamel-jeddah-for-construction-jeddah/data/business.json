@@ -1,0 +1,50 @@
+{
+    "business_name": "Shamel Jeddah For Construction",
+    "source_business_name": "Shamel Jeddah For Construction",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966509121452",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nKounouz Al Elm, As Salamah, Jeddah 23437, Saudi Arabia",
+    "city": "Jeddah",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Shamel+Jeddah+For+Construction/data=!4m7!3m6!1s0x15c3da7dc33c3873:0x312a9a64df318b66!8m2!3d21.5899963!4d39.1483955!16s%2Fg%2F11c1r1w6mm!19sChIJczg8w33awxURZosx32SaKjE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jeddah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

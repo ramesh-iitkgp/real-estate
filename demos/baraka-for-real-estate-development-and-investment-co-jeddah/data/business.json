@@ -1,0 +1,50 @@
+{
+    "business_name": "Baraka For Real Estate Development And Investment Co",
+    "source_business_name": "Baraka For Real Estate Development And Investment Co",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966126069999",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.barakasa.com/",
+    "address": "\nAsh Shati, Jeddah 23513, Saudi Arabia",
+    "city": "Jeddah",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Baraka+For+Real+Estate+Development+and+Investment+Co./data=!4m7!3m6!1s0x15c3db9f69859393:0x27da431e9537684a!8m2!3d21.6036189!4d39.1150824!16s%2Fg%2F11s48rjg10!19sChIJk5OFaZ_bwxURSmg3lR5D2ic?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jeddah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

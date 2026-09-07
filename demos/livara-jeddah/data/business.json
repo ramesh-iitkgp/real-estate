@@ -1,0 +1,50 @@
+{
+    "business_name": "Livara",
+    "source_business_name": "Livara",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966505610767",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.livarat.com/",
+    "address": "\n٧٦٩٦ Al-Madinah Al-Munawarah Rd, Al-Ruwais, Jeddah 23215, Saudi Arabia",
+    "city": "Jeddah",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "2",
+    "google_maps_url": "https://www.google.com/maps/place/Livara/data=!4m7!3m6!1s0x15c3cf627140a06f:0x90d221415168d62b!8m2!3d21.521527!4d39.1808242!16s%2Fg%2F11y17fwlqd!19sChIJb6BAcWLPwxURK9ZoUUEh0pA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jeddah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

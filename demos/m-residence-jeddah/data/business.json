@@ -1,0 +1,50 @@
+{
+    "business_name": "M Residence",
+    "source_business_name": "M Residence",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966920033942",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nJDMA8514, 2539 Al Qari, Al Marwah District, 8514, Jeddah 23542, Saudi Arabia",
+    "city": "Jeddah",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/%D8%B6%D9%8A%D9%81+M+residence%E2%80%AD/data=!4m7!3m6!1s0x15c3d7003fdbaaa3:0xa11550b25329862f!8m2!3d21.622632!4d39.187339!16s%2Fg%2F11y19j47tz!19sChIJo6rbPwDXwxURL4YpU7JQFaE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jeddah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

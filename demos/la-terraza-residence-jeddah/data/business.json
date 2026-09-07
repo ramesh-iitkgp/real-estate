@@ -1,0 +1,50 @@
+{
+    "business_name": "La Terraza Residence",
+    "source_business_name": "La Terraza Residence",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966534447015",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n4304 Muhammad Ali Maghrabi, 9034, Ar Rawdah, Jeddah 23434, Saudi Arabia",
+    "city": "Jeddah",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/La+Terraza+Residence/data=!4m7!3m6!1s0x15c3d1d32338298d:0xc90e463c8bfa7677!8m2!3d21.5758157!4d39.1648604!16s%2Fg%2F11gy4wlynh!19sChIJjSk4I9PRwxURd3b6izxGDsk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jeddah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
