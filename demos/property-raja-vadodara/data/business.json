@@ -1,0 +1,50 @@
+{
+    "business_name": "Property Raja",
+    "source_business_name": "Property Raja",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919724867474",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://mob.number.9724867474.com/",
+    "address": "\nVrund Commercial Complex, Productivity Road, Urmi Cross Rd, nr. Urmi Society, Shree Nagar Society, Akota, Vadodara, Gujarat 390007",
+    "city": "Vadodara",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Property+Raja/data=!4m7!3m6!1s0x395fc8a8ff376b19:0xa77c95550ff61c26!8m2!3d22.3008956!4d73.1729847!16s%2Fg%2F1hm5ljyxd!19sChIJGWs3_6jIXzkRJhz2D1WVfKc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Vadodara"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

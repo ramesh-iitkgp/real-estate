@@ -1,0 +1,50 @@
+{
+    "business_name": "Gotbull Realty",
+    "source_business_name": "Gotbull Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919099918121",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nShop number 11/1, Kshama Heights, opp. stella mary's School, Tirupati Nagar Society, Manjalpur, Vadodara, Gujarat 390011",
+    "city": "Downtown Vadodara",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "52",
+    "google_maps_url": "https://www.google.com/maps/place/GotBull+Realty/data=!4m7!3m6!1s0x395fc53bf5c526a3:0x9043b58e8ae1b78e!8m2!3d22.2754455!4d73.1878083!16s%2Fg%2F11f9fflxpb!19sChIJoybF9TvFXzkRjrfhio61Q5A?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Vadodara"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

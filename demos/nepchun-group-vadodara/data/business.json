@@ -1,0 +1,50 @@
+{
+    "business_name": "Nepchun Group",
+    "source_business_name": "Nepchun Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918160732019",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://propertiesbaroda.com/",
+    "address": "\nSF-03 The Petal Trilllium, Vasna - Bhayli Main Rd, Bhayli, Vadodara, Gujarat 391410",
+    "city": "Vadodara",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Nepchun+Group/data=!4m7!3m6!1s0x395fc9f8f497703f:0xf65d06d10eb59d98!8m2!3d22.2939057!4d73.1255704!16s%2Fg%2F11f5t_nwv3!19sChIJP3CX9PjJXzkRmJ21DtEGXfY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Vadodara"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

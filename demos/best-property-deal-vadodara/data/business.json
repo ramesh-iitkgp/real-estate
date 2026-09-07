@@ -1,0 +1,50 @@
+{
+    "business_name": "Best Property Deal",
+    "source_business_name": "Best Property Deal",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919978007088",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.bestpropertydeal.in/",
+    "address": "\nTF 20, EARTH ICON, New VIP Rd, beside Cinemarc, Purushottam Nagar, Kishanwadi, Vadodara, Gujarat 390019",
+    "city": "Vadodara",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Best+Property+Deal/data=!4m7!3m6!1s0x395fcf3ca5c1a681:0xe3b57043ad045bd2!8m2!3d22.3179357!4d73.2280056!16s%2Fg%2F11gm9cn_78!19sChIJgabBpTzPXzkR0lsErUNwteM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Vadodara"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

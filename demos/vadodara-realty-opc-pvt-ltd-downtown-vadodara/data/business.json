@@ -1,0 +1,50 @@
+{
+    "business_name": "Vadodara Realty Opc Pvt Ltd",
+    "source_business_name": "Vadodara Realty Opc Pvt Ltd",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919737099959",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nWater Tank, Vadodara Realty (OPC) Pvt. Ltd 14 Amardeep complex, near Gotri, opp. Gayatri school, Gotri, Vadodara, Gujarat 390021",
+    "city": "Downtown Vadodara",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "10",
+    "google_maps_url": "https://www.google.com/maps/place/Vadodara+Realty+%28OPC%29+Pvt+Ltd/data=!4m7!3m6!1s0x395fc8bd6531b697:0x3e06e528c651b4b7!8m2!3d22.3105746!4d73.1296589!16s%2Fg%2F11bwf80r24!19sChIJl7YxZb3IXzkRt7RRxijlBj4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Vadodara"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

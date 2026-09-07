@@ -1,0 +1,50 @@
+{
+    "business_name": "Priority Real Estate",
+    "source_business_name": "Priority Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919974771199",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nGF-08 Sakar Complex, Nr. Union Bank. Super Bakery, 19, New VIP Rd, Vadodara, Gujarat 390019",
+    "city": "Vadodara",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Priority+Real+Estate/data=!4m7!3m6!1s0x395fcf0f3fb22baf:0x3dd723c1afd9669a!8m2!3d22.3147462!4d73.2325954!16s%2Fg%2F11h3ldy602!19sChIJryuyPw_PXzkRmmbZr8Ej1z0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Vadodara"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

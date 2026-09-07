@@ -1,0 +1,50 @@
+{
+    "business_name": "Shree Nath Estate Agency",
+    "source_business_name": "Shree Nath Estate Agency",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919925040171",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nShop No. 3, Ground Floor, Chankya Complex, Pani Tanki Rd, Near Aavkar Hall, SBI Bank, Karelibagh, Vadodara, Gujarat 390018",
+    "city": "Vadodara",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Shree+Nath+Estate+Agency/data=!4m7!3m6!1s0x395fcf41e0d69cc1:0xbb389cf508f1891e!8m2!3d22.3199182!4d73.2054934!16s%2Fg%2F11b631pqx_!19sChIJwZzW4EHPXzkRHonxCPWcOLs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Vadodara"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

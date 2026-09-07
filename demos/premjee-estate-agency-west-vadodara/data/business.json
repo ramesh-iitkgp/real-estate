@@ -1,0 +1,50 @@
+{
+    "business_name": "Premjee Estate Agency",
+    "source_business_name": "Premjee Estate Agency",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919374245781",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nSargam Apartment, B-212, 212, behind hp petrol pump, Karelibagh, Vadodara, Gujarat 390008",
+    "city": "West Vadodara",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Premjee+Estate+Agency/data=!4m7!3m6!1s0x395fcf3fed113b77:0xb31f6e3814f2fed2!8m2!3d22.3249477!4d73.2045612!16s%2Fg%2F1txc5fn4!19sChIJdzsR7T_PXzkR0v7yFDhuH7M?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Vadodara"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

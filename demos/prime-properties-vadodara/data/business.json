@@ -1,0 +1,50 @@
+{
+    "business_name": "Prime Properties",
+    "source_business_name": "Prime Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918000042220",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.primepropertiesvadodara.in/",
+    "address": "\nTF-11, EARTH ICON 1 NR. KHODIYAR CHAR RASTA, Gujarat 390019",
+    "city": "Vadodara",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/PRIME+PROPERTIES/data=!4m7!3m6!1s0x395fcf4ea0b7550b:0x93a590bb0ab0d272!8m2!3d22.3181083!4d73.22795!16s%2Fg%2F11h26bd6qg!19sChIJC1W3oE7PXzkRctKwCruQpZM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Vadodara"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

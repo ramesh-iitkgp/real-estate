@@ -1,0 +1,50 @@
+{
+    "business_name": "Vadodara Estate Broker'S Association",
+    "source_business_name": "Vadodara Estate Broker'S Association",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919016584069",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nGF-18, S.Patel Square, Old Padra Rd, opposite Vaccine, Bhakti Nagar Society, Bhakti Nagar, Haripura, Vadodara, Gujarat 390007",
+    "city": "East Vadodara",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Vadodara+Estate+Broker%27s+Association/data=!4m7!3m6!1s0x395fc61e1b92a641:0x7040c417797a9370!8m2!3d22.3039542!4d73.1661289!16s%2Fg%2F1tfcrmdt!19sChIJQaaSGx7GXzkRcJN6eRfEQHA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Vadodara"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

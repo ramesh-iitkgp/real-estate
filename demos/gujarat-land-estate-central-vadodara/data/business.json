@@ -1,0 +1,50 @@
+{
+    "business_name": "Gujarat Land & Estate",
+    "source_business_name": "Gujarat Land & Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919824059031",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://gujaratlandandestateindia.com/",
+    "address": "\nKashyap Complex, G - 4/5, BPC Rd, opp. Masonic Hall, near Jetalpur, Crossing, Alkapuri, Vadodara, Gujarat 390007",
+    "city": "Central Vadodara",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Gujarat+Land+%26+Estate/data=!4m7!3m6!1s0x395fc8ae3bba0505:0xcae863aef7cba86e!8m2!3d22.3078531!4d73.1740649!16s%2Fg%2F1th61s97!19sChIJBQW6O67IXzkRbqjL965j6Mo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Vadodara"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

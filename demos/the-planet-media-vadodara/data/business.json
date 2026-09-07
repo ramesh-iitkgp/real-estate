@@ -1,0 +1,50 @@
+{
+    "business_name": "The Planet Media",
+    "source_business_name": "The Planet Media",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919749366366",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://propertyplanet.city/cgi-sys/suspendedpage.cgi",
+    "address": "\n306, Samanvay Zillion, Gotri - Sevasi Rd, opp. Shaishav School, Vadodara, Gujarat 391101",
+    "city": "Vadodara",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/THE+PLANET+MEDIA/data=!4m7!3m6!1s0x395fc8ea81c848d3:0xb45ee7be786722cf!8m2!3d22.3180257!4d73.1257504!16s%2Fg%2F11byxfkv7z!19sChIJ00jIgerIXzkRzyJneL7nXrQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Vadodara"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

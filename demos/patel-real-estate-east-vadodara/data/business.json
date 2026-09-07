@@ -1,0 +1,50 @@
+{
+    "business_name": "Patel Real Estate",
+    "source_business_name": "Patel Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919428978899",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.google.com/localservices/profile?spp=Cg0vZy8xMWdkMXdzNjdz&scp=CgAaEVBhdGVsIFJlYWwgRXN0YXRlKhFQYXRlbCBSZWFsIEVzdGF0ZQ%3D%3D&q=Patel+Real+Estate",
+    "address": "\nMarigold Apartments, LAXMIKUNJ CHAR RASTA, 3, New Sama Rd, Manher Park Society, Vraj Vatika Complex, New Sama, Vadodara, Gujarat 390024",
+    "city": "East Vadodara",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Patel+Real+Estate/data=!4m7!3m6!1s0x395fcf26857b752d:0x1f14b5b8db1a3cce!8m2!3d22.3415529!4d73.1975791!16s%2Fg%2F11gd1ws67s!19sChIJLXV7hSbPXzkRzjwa27i1FB8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Vadodara"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
