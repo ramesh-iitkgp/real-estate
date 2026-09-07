@@ -1,0 +1,50 @@
+{
+    "business_name": "Nghaimshi Real Estate",
+    "source_business_name": "Nghaimshi Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966505149837",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n4606 Prince Sultan Ibn Abdulaziz Rd, Al Fayziyyah, Buraydah 52383, Saudi Arabia",
+    "city": "Buraidah",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.7",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Nghaimshi+Real+Estate/data=!4m7!3m6!1s0x157f59b1d7fd5679:0x47b980d6436c0f53!8m2!3d26.3697131!4d43.9721234!16s%2Fg%2F11c2mkc8vr!19sChIJeVb917FZfxURUw9sQ9aAuUc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Buraidah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
