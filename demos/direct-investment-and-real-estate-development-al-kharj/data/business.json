@@ -1,0 +1,50 @@
+{
+    "business_name": "Direct Investment And Real Estate Development",
+    "source_business_name": "Direct Investment And Real Estate Development",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966545992265",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nشارع الامير سلطان, An Nuzhah, Al-Kharj 16441, Saudi Arabia",
+    "city": "Al Kharj",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Direct+Investment+and+Real+Estate+Development/data=!4m7!3m6!1s0x3e254f95ebda0265:0x9c2cabd70586dbe2!8m2!3d24.1632819!4d47.3435975!16s%2Fg%2F11h7tz8ld9!19sChIJZQLa65VPJT4R4tuGBderLJw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Kharj"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

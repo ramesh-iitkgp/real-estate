@@ -1,0 +1,50 @@
+{
+    "business_name": "Wasel Real Estate",
+    "source_business_name": "Wasel Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966550027252",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n4190-4204 Al Imam Malik Ibn Anas St, Ar Rayyan, Al-Kharj 16439, Saudi Arabia",
+    "city": "Al Kharj",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Wasel+Real+Estate/data=!4m7!3m6!1s0x3e254ee597b5b3a1:0xcb5454f96a9db35b!8m2!3d24.1615414!4d47.3398393!16s%2Fg%2F11dyxsgk7j!19sChIJobO1l-VOJT4RW7OdavlUVMs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Kharj"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

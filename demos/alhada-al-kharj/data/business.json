@@ -1,0 +1,50 @@
+{
+    "business_name": "Alhada",
+    "source_business_name": "Alhada",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966505103565",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nPrince Sattam Bin Abdulaziz Rd, Al Salam, Al-Kharj 16278, Saudi Arabia",
+    "city": "Al Kharj",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/%D8%A3%D8%B7%D9%88%D8%A7%D8%B1+%D8%A7%D9%84%D9%87%D8%AF%D8%A7+%D9%84%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA%7C+Alhada%E2%80%AD/data=!4m7!3m6!1s0x3e254f4fdf189dcb:0xea0a0843e0ca9bd8!8m2!3d24.1565523!4d47.3222341!16s%2Fg%2F11rcqvkl7z!19sChIJy50Y309PJT4R2JvK4EMICuo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Kharj"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

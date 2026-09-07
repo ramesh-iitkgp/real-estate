@@ -1,0 +1,50 @@
+{
+    "business_name": "Marahil Serviced Apartments Al-Kharj 3",
+    "source_business_name": "Marahil Serviced Apartments Al-Kharj 3",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966115454541",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nشارع القاعدة بجوار بنك ساب, King Fahd Rd, Al Salam, Al-Kharj 16278, Saudi Arabia",
+    "city": "Al Kharj",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Marahil+Serviced+Apartments+%E2%80%93+Al-Kharj+3/data=!4m10!3m9!1s0x3e254f1137a85519:0x3c945a416a1c02ce!5m2!4m1!1i2!8m2!3d24.1531965!4d47.3185112!16s%2Fg%2F11g8xkctgm!19sChIJGVWoNxFPJT4RzgIcakFalDw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Kharj"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
