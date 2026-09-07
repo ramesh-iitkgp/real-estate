@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Nomari Real Estate",
+    "source_business_name": "Al Nomari Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966173175589",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n8178 المطلع، 5210, Al Jabal, Jazan 82715, Saudi Arabia",
+    "city": "Jazan",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Al+Nomari+Real+Estate/data=!4m7!3m6!1s0x1607e298b3a13f8d:0xcd7adee63d8f7d39!8m2!3d16.8920543!4d42.5558357!16s%2Fg%2F1v_x6tnz!19sChIJjT-hs5jiBxYROX2PPebees0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jazan"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

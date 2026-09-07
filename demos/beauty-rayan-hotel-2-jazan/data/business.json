@@ -1,0 +1,50 @@
+{
+    "business_name": "Beauty Rayan Hotel 2",
+    "source_business_name": "Beauty Rayan Hotel 2",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966173220400",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nBin Abdul Aziz, VHQ7+WWW Prince Sultan, Jazan 82722, Saudi Arabia",
+    "city": "Jazan",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Beauty+Rayan+Hotel+2/data=!4m7!3m6!1s0x1607e29613c0a855:0xbdd32c2989846ea8!8m2!3d16.8898125!4d42.5648125!16s%2Fg%2F11b6ty86jz!19sChIJVajAE5biBxYRqG6EiSks070?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jazan"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Signature Precision Haircut & Blowout",
+            "description": "Bespoke consultation, revitalizing shampoo, tailored dry or wet cut, followed by our signature bouncy voluminous blowout.",
+            "image": ""
+        },
+        {
+            "name": "Artisan Balayage & Color Gloss",
+            "description": "Hand-painted dimensional lightening tailored to your natural movement, sealed with a customized acidic toner and gloss.",
+            "image": ""
+        },
+        {
+            "name": "Hydra-Infusion Glow Facial",
+            "description": "Multi-step medical-grade hydra-dermabrasion, ultrasonic pore extraction, botanical peel, and collagen LED rejuvenation.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

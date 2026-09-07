@@ -1,0 +1,50 @@
+{
+    "business_name": "Aseel Hotel",
+    "source_business_name": "Aseel Hotel",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966173176188",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nVHQF+G3W, Jazan 82722, Saudi Arabia",
+    "city": "Jazan",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Aseel+Hotel/data=!4m10!3m9!1s0x1607e2c02be90f7d:0x591a2135d78ff467!5m2!4m1!1i2!8m2!3d16.8888731!4d42.572689!16s%2Fg%2F11b5vw9lys!19sChIJfQ_pK8DiBxYRZ_SP1zUhGlk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jazan"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

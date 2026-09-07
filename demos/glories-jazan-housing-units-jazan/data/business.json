@@ -1,0 +1,50 @@
+{
+    "business_name": "Glories Jazan Housing Units",
+    "source_business_name": "Glories Jazan Housing Units",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966173222754",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n6702، 4073 طريق الملك عبدالعزيز الصفا جازان 82721 6702, Saudi Arabia",
+    "city": "Jazan",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Glories+Jazan+housing+units/data=!4m7!3m6!1s0x1607e2e90f724fdf:0x69f17de6448c1a3e!8m2!3d16.8847456!4d42.5772674!16s%2Fg%2F12m9m7rk2!19sChIJ309yD-niBxYRPhqMROZ98Wk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jazan"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

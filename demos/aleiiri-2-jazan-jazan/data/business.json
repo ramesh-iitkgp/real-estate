@@ -1,0 +1,50 @@
+{
+    "business_name": "Aleiiri 2",
+    "source_business_name": "Aleiiri 2",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966173220927",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n3212 عبد الرحمن بن كعب الانصاري، حي الشاطئ، GGGD6680، 6680, Jazan 82812, Saudi Arabia",
+    "city": "Jazan",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Aleiiri+2+Jazan/data=!4m10!3m9!1s0x1607fd69dbe1bedb:0xf5b1e720b660feb4!5m2!4m1!1i2!8m2!3d16.925762!4d42.5549526!16s%2Fg%2F11bw3dnxqw!19sChIJ277h22n9BxYRtP5gtiDnsfU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jazan"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

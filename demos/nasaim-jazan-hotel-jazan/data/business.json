@@ -1,0 +1,50 @@
+{
+    "business_name": "Nasaim Jazan Hotel",
+    "source_business_name": "Nasaim Jazan Hotel",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966173201000",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nVGXX+PV5, Ash Shati, Jazan 82725, Saudi Arabia",
+    "city": "Jazan",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Nasaim+Jazan+Hotel/data=!4m10!3m9!1s0x1608081e75329fef:0xde773a802e5645be!5m2!4m1!1i2!8m2!3d16.8992721!4d42.5497296!16s%2Fg%2F1jgm5kqhz!19sChIJ758ydR4ICBYRvkVWLoA6d94?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jazan"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

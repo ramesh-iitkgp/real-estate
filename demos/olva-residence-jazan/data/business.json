@@ -1,0 +1,50 @@
+{
+    "business_name": "Olva Residence",
+    "source_business_name": "Olva Residence",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966506614449",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nمخطط درة جازان 82773, Saudi Arabia",
+    "city": "Jazan",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Olva+Residence/data=!4m7!3m6!1s0x1607f196a458bc9b:0x4738eb4739964b46!8m2!3d16.9285946!4d42.7195725!16s%2Fg%2F11ytgx568l!19sChIJm7xYpJbxBxYRRkuWOUfrOEc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jazan"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

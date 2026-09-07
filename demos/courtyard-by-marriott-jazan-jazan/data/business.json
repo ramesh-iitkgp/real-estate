@@ -1,0 +1,50 @@
+{
+    "business_name": "Courtyard By Marriott",
+    "source_business_name": "Courtyard By Marriott",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966173129999",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.marriott.com/en-us/hotels/gizcy-courtyard-jazan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+    "address": "\nAl Riyadh Road Next To Rashid Mall, Jazan 45142, Saudi Arabia",
+    "city": "Jazan",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Courtyard+by+Marriott+Jazan/data=!4m10!3m9!1s0x3e2f05a506be1445:0xfcc845a8cb2c18b!5m2!4m1!1i2!8m2!3d16.9019642!4d42.5530047!16s%2Fg%2F11b5wlj158!19sChIJRRS-BqUFLz4Ri8GyjFqEzA8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jazan"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
