@@ -1,0 +1,50 @@
+{
+    "business_name": "Sarvottam Real Estate",
+    "source_business_name": "Sarvottam Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919301488883",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nFlat number A-1 Indus No.1 Apartment, Sahapura Thana road Infront Of Gourav Green, Madhya Pradesh 462039",
+    "city": "Bhopal",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Sarvottam+Real+Estate/data=!4m7!3m6!1s0x397c43e8557394a7:0x20ad694dd2166bf!8m2!3d23.1855687!4d77.4284788!16s%2Fg%2F1ptwg6x_6!19sChIJp5RzVehDfDkRv2Yh3ZTWCgI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bhopal"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

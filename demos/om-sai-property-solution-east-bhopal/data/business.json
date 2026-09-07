@@ -1,0 +1,50 @@
+{
+    "business_name": "Om Sai Property Solution",
+    "source_business_name": "Om Sai Property Solution",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917000029782",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nC3 - OFFICE NO - 5. SURABHI SMART PLAZA BESIDE POLICE STATION AWADHPURI, BHEL, Bhopal, Madhya Pradesh 462022",
+    "city": "East Bhopal",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Om+Sai+Property+Solution/data=!4m7!3m6!1s0x397c434ce4b578bb:0xecad8b963f42bf86!8m2!3d23.2194591!4d77.4858856!16s%2Fg%2F11hzxs7c0r!19sChIJu3i15ExDfDkRhr9CP5aLrew?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Bhopal"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

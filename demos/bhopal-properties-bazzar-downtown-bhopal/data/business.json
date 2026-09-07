@@ -1,0 +1,50 @@
+{
+    "business_name": "Bhopal Properties Bazzar",
+    "source_business_name": "Bhopal Properties Bazzar",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "916262777771",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1st floor, plot no. 66, near office Pitara, Bawadiya Kalan, Shahpura, Bhopal, Madhya Pradesh 462039",
+    "city": "Downtown Bhopal",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Bhopal+Properties+Bazzar/data=!4m7!3m6!1s0x397c43a2c4944281:0x94138b5122805691!8m2!3d23.1870688!4d77.4348392!16s%2Fg%2F11s82yd6_w!19sChIJgUKUxKJDfDkRkVaAIlGLE5Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Bhopal"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

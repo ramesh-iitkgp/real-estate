@@ -1,0 +1,50 @@
+{
+    "business_name": "Ansh Property Cunsultancy Services",
+    "source_business_name": "Ansh Property Cunsultancy Services",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918109890017",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nKRISHNA ARCADE, D/8, near Raja Bhoj Arcade, Bagsewaniya, Sant Ashram Nagar, BHEL Sangam Colony, Bagmugaliya, Bhopal, Madhya Pradesh 462043",
+    "city": "Bhopal",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Ansh+Property+%28Cunsultancy+Services%29/data=!4m7!3m6!1s0x397c43d40e1c16f5:0xff1337b9434faced!8m2!3d23.1918886!4d77.4636612!16s%2Fg%2F11f7h2jl67!19sChIJ9RYcDtRDfDkR7axPQ7k3E_8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bhopal"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Prince Realtor Real Estate Agent",
+    "source_business_name": "Prince Realtor Real Estate Agent",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918160252103",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nGala Magnus Building, 208, opp. Gala Gardenia, South Bopal, Ahmedabad, Gujarat 380057",
+    "city": "South Bhopal",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Prince+Realtor+Real+Estate+Agent/data=!4m7!3m6!1s0x395e9d11d0a5d205:0xd39bd1f36873dfad!8m2!3d23.0156506!4d72.4692184!16s%2Fg%2F11lh54hhbm!19sChIJBdKl0BGdXjkRrd9zaPPRm9M?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Bhopal"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

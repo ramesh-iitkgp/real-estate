@@ -1,0 +1,50 @@
+{
+    "business_name": "Anuyash Properties Real Estate Agency At Kolar",
+    "source_business_name": "Anuyash Properties Real Estate Agency At Kolar",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919179955565",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://anuyashproperty.com/",
+    "address": "\nH.No 123, Arth Dynasty, Sohagpur Road, near Mansarovar Dental College, Kolar, Bhopal, Madhya Pradesh 462042",
+    "city": "Bhopal",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Anuyash+Properties+%7C+Real+Estate+Agency+At+Kolar+Bhopal/data=!4m7!3m6!1s0x397c45e4cbe778b9:0x3103c1b53101a5a8!8m2!3d23.1434806!4d77.4350145!16s%2Fg%2F11nhks570k!19sChIJuXjny-RFfDkRqKUBMbXBAzE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bhopal"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

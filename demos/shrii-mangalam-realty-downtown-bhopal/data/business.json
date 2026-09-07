@@ -1,0 +1,50 @@
+{
+    "business_name": "Shrii Mangalam Realty",
+    "source_business_name": "Shrii Mangalam Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919669131951",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nShop No, 33 FF, Fine Avenue Phase 1, Lalita Nagar, Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "city": "Downtown Bhopal",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/%F0%9D%90%92%F0%9D%90%A1%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%A2+%F0%9D%90%8C%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A0%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A6+%F0%9D%90%91%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%AD%F0%9D%90%B2/data=!4m7!3m6!1s0x397c43b418f8fd4f:0x32f19701498b01d6!8m2!3d23.1622225!4d77.4147027!16s%2Fg%2F11y90zbnq8!19sChIJT_34GLRDfDkR1gGLSQGX8TI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Bhopal"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

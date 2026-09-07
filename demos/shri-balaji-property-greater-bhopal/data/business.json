@@ -1,0 +1,50 @@
+{
+    "business_name": "Shri Balaji Property",
+    "source_business_name": "Shri Balaji Property",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919669527866",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nSHOP NO.1 FINE AVENU, Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "city": "Greater Bhopal",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/SHRI+BALAJI+PROPERTY/data=!4m7!3m6!1s0x397c4301b01b14f5:0x5869c2a317c40b16!8m2!3d23.1630813!4d77.4149336!16s%2Fg%2F11rvd3xkvg!19sChIJ9RQbsAFDfDkRFgvEF6PCaVg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Greater Bhopal"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

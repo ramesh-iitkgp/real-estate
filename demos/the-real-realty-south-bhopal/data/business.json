@@ -1,0 +1,50 @@
+{
+    "business_name": "The Real Realty",
+    "source_business_name": "The Real Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918866605088",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n208, South Bopal Trade Centre, nr. Aaryan Gloria, Aaryan Gloria, South Bopal, Bopal, Ahmedabad, Gujarat 380058",
+    "city": "South Bhopal",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/The+Real+Realty/data=!4m7!3m6!1s0x395e9b182f5d6f53:0x30ff59fde7873122!8m2!3d23.0215986!4d72.4720905!16s%2Fg%2F11pz6wldjv!19sChIJU29dLxibXjkRIjGH5_1Z_zA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Bhopal"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

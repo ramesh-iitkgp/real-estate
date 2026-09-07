@@ -1,0 +1,50 @@
+{
+    "business_name": "Urban Space Property - Real Estate Consultant In Bopal Ahmedabad",
+    "source_business_name": "Urban Space Property - Real Estate Consultant In Bopal Ahmedabad",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917600006014",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.urbanspaceproperty.com/",
+    "address": "\nOffice No. 805, Shaligram Arcade Beside Saraswati Hospital, Bopal - Ambli T Junction, Ring Road, Bopal, Ahmedabad, Gujarat 380058",
+    "city": "South Bhopal",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Urban+Space+Property+-+Real+Estate+Consultant+in+Bopal+Ahmedabad/data=!4m7!3m6!1s0x395e9b49d0912ac1:0x4582bf477868d0a!8m2!3d23.0232399!4d72.4768809!16s%2Fg%2F11z8r3l6sk!19sChIJwSqR0EmbXjkRCo2Gd_QrWAQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Bhopal"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

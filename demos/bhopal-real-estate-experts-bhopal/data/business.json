@@ -1,0 +1,50 @@
+{
+    "business_name": "Bhopal Real Estate Experts",
+    "source_business_name": "Bhopal Real Estate Experts",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919752067367",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://bhopalrealestateexperts.in/",
+    "address": "\nRaisen Rd, near Gurudwara, Anandnagar, Bhopal, Madhya Pradesh 462022",
+    "city": "Bhopal",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Bhopal+Real+Estate+Experts/data=!4m7!3m6!1s0x397c412c562a845b:0x197380e3230baa73!8m2!3d23.2490876!4d77.4890587!16s%2Fg%2F11m68k2x2w!19sChIJW4QqVixBfDkRc6oLI-OAcxk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bhopal"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
