@@ -1,0 +1,50 @@
+{
+    "business_name": "Sahari Al Jubail Real Estate",
+    "source_business_name": "Sahari Al Jubail Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966508008331",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nXMQ4+MF3, Al Dakhal Al Mahdud Subdivision, Al Jubail 35513, Saudi Arabia",
+    "city": "Jubail",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/SAHARI+AL+JUBAIL+REAL+ESTATE/data=!4m7!3m6!1s0x3e35a1acba84ea15:0x6a1c1a320d16b6ea!8m2!3d26.9891373!4d49.6561833!16s%2Fg%2F11f24v_h33!19sChIJFeqEuqyhNT4R6rYWDTIaHGo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jubail"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

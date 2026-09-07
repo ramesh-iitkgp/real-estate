@@ -1,0 +1,50 @@
+{
+    "business_name": "Shammari Real Estate Office",
+    "source_business_name": "Shammari Real Estate Office",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966553632525",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nPrince Mashhoor Road، ، تأسس، 2003م, Al Jubail 31951, Saudi Arabia",
+    "city": "Jubail",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Shammari+Real+Estate+Office/data=!4m7!3m6!1s0x3e35a0560ef81253:0xb300f91fe258663!8m2!3d26.9933782!4d49.6511416!16s%2Fg%2F11cs5p039f!19sChIJUxL4DlagNT4RY4Yl_pEPMAs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jubail"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

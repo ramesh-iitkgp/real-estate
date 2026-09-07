@@ -1,0 +1,50 @@
+{
+    "business_name": "Ann Furnished Residential Units",
+    "source_business_name": "Ann Furnished Residential Units",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966133623666",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nXJMW+MQH، King Faisal of the West, King Fahd Industrial Port, Al Jubail 35518, Saudi Arabia",
+    "city": "Jubail",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "193",
+    "google_maps_url": "https://www.google.com/maps/place/Ann+Furnished+Residential+Units/data=!4m10!3m9!1s0x3e35a0f95488c1b5:0x86a9579f26327be7!5m2!4m1!1i2!8m2!3d26.984178!4d49.646977!16s%2Fg%2F11c580_y0h!19sChIJtcGIVPmgNT4R53syJp9XqYY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jubail"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

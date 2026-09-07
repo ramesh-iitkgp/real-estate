@@ -1,0 +1,50 @@
+{
+    "business_name": "Aldraiweesh Office For Real Estates",
+    "source_business_name": "Aldraiweesh Office For Real Estates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966133633835",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nPrince Sultan Street, Jubail City Center, Al Jubail 35514, Saudi Arabia",
+    "city": "Jubail",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/%D9%85%D9%83%D8%AA%D8%A8+%D8%A7%D9%84%D8%AF%D8%B1%D9%8A%D9%88%D9%8A%D8%B4+%D9%84%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA+ALDRAIWEESH+OFFICE+FOR+REAL+ESTATES%E2%80%AD/data=!4m7!3m6!1s0x3e35a056aa42d7d1:0x2d401edbcf9927be!8m2!3d26.9945375!4d49.6550734!16s%2Fg%2F11b6gqbg48!19sChIJ0ddCqlagNT4RvieZz9seQC0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jubail"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

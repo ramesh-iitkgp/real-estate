@@ -1,0 +1,50 @@
+{
+    "business_name": "Awtad Al Khaleej Real Estate Services Office",
+    "source_business_name": "Awtad Al Khaleej Real Estate Services Office",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966559917799",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nKing Abdullah Road, Street, Al Jubail 35514, Saudi Arabia",
+    "city": "Jubail",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "1",
+    "google_maps_url": "https://www.google.com/maps/place/Awtad+Al+Khaleej+Real+Estate+Services+Office/data=!4m7!3m6!1s0x3e35a14f6f0a4449:0xc6f999ea8e409113!8m2!3d26.9923668!4d49.654529!16s%2Fg%2F11vpr81j29!19sChIJSUQKb0-hNT4RE5FAjuqZ-cY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jubail"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

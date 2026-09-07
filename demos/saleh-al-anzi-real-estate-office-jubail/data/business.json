@@ -1,0 +1,50 @@
+{
+    "business_name": "Saleh Al-Anzi Real Estate Office",
+    "source_business_name": "Saleh Al-Anzi Real Estate Office",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966506465462",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n2JCG+PGG، حي الضباب، المنطقة الصناعية،, Al Jubail Saudi Arabia",
+    "city": "Jubail",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Saleh+Al-Anzi+Real+Estate+Office/data=!4m7!3m6!1s0x3e350a0bb9e8ae51:0x231f69e683175bcb!8m2!3d27.0218009!4d49.6263402!16s%2Fg%2F11gg_swg9w!19sChIJUa7ouQsKNT4Ry1sXg-ZpHyM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Jubail"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
