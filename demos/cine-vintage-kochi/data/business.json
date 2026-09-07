@@ -1,0 +1,50 @@
+{
+    "business_name": "Cine Vintage",
+    "source_business_name": "Cine Vintage",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919847938086",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nManathupadam house, road, Unichira Thykkavu Rd, Thykkavu, Edappally, |Kochi, Ernakulam, Kerala 682033",
+    "city": "Kochi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Cine+vintage/data=!4m7!3m6!1s0x3b080d0023b5a115:0xe57830d311cb7751!8m2!3d10.0311082!4d76.3191106!16s%2Fg%2F11yqq94fv2!19sChIJFaG1IwANCDsRUXfLEdMweOU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Kochi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

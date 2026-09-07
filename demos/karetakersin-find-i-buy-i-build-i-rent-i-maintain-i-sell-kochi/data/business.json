@@ -1,0 +1,50 @@
+{
+    "business_name": "Karetakersin - Find I Buy I Build I Rent I Maintain I Sell",
+    "source_business_name": "Karetakersin - Find I Buy I Build I Rent I Maintain I Sell",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919961665000",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.karetakers.in/",
+    "address": "\n2nd Floor, Resource Realtors Pvt Ltd, Mather Square, Tower B, Opposite Town Railway Station, Ernakulam North, Kacheripady, Kochi, Ernakulam, Kerala 682018",
+    "city": "Kochi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Karetakers.in+-+FIND+I+BUY+I+BUILD+I+RENT+I+MAINTAIN+I+SELL/data=!4m7!3m6!1s0x3b080d43a66f4287:0x5c3d2c2305791d3d!8m2!3d9.9916184!4d76.2859498!16s%2Fg%2F11c30r2pwp!19sChIJh0JvpkMNCDsRPR15BSMsPVw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Kochi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

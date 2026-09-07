@@ -1,0 +1,50 @@
+{
+    "business_name": "Mor Realtors",
+    "source_business_name": "Mor Realtors",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "917034444669",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://morreal.com/",
+    "address": "\n12th Floor, Chakkalakkal, Palarivattom, Kochi, Ernakulam, Kerala 682028",
+    "city": "Kochi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/MOR+REALTORS+-+KOCHI/data=!4m7!3m6!1s0xbd151f629fd213:0x8a0606550d1d2f6b!8m2!3d9.997392!4d76.3146035!16s%2Fg%2F11y997mn_0!19sChIJE9KfYh8VvQARay8dDVUGBoo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Kochi"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/morrealtorsofficial/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

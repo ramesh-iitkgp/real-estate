@@ -1,0 +1,50 @@
+{
+    "business_name": "Am Real Estate Eranakulam",
+    "source_business_name": "Am Real Estate Eranakulam",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919388883902",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nCRA/137, Vyttila, Kochi, Sreemoolanagaram, Kerala 682019",
+    "city": "Kochi",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/AM+Real+Estate+Eranakulam/data=!4m7!3m6!1s0x3b0809005786bad3:0x180eb1f8a56e944b!8m2!3d10.1282319!4d76.393721!16s%2Fg%2F11m5h3qxrk!19sChIJ07qGVwAJCDsRS5RupfixDhg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Kochi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
