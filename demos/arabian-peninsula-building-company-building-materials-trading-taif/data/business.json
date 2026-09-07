@@ -1,0 +1,50 @@
+{
+    "business_name": "Arabian Peninsula Building Company Building Materials Trading",
+    "source_business_name": "Arabian Peninsula Building Company Building Materials Trading",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966127487888",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nNakhab, Taif 21944, Saudi Arabia",
+    "city": "Taif",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Arabian+Peninsula+Building+Company+Building+Materials+Trading/data=!4m7!3m6!1s0x15e988ca19768c1d:0xf251074885b7e32a!8m2!3d21.2637062!4d40.4512177!16s%2Fg%2F11fx8ygsdh!19sChIJHYx2GcqI6RURKuO3hUgHUfI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Taif"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

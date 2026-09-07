@@ -1,0 +1,50 @@
+{
+    "business_name": "Taif Promise Chalets",
+    "source_business_name": "Taif Promise Chalets",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966595359221",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nقرب منتزه سيسد، شارع الرميده الرئيسي, C29, Taif 26563, Saudi Arabia",
+    "city": "Taif",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Taif+promise+Chalets/data=!4m10!3m9!1s0x15e987b7b2780d93:0x55389070d28910e4!5m2!4m1!1i2!8m2!3d21.318895!4d40.5438477!16s%2Fg%2F11qrs99k33!19sChIJkw14sreH6RUR5BCJ0nCQOFU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Taif"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
