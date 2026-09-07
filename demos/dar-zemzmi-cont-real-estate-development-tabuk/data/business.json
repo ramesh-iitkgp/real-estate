@@ -1,0 +1,50 @@
+{
+    "business_name": "Dar Zemzmi Cont & Real Estate Development",
+    "source_business_name": "Dar Zemzmi Cont & Real Estate Development",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966144270661",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n2945 King Fahad Road, 8770, Al Nahdah, Tabuk 47915, Saudi Arabia",
+    "city": "Tabuk",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4.1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Dar+Zemzmi+Cont+%26+Real+Estate+Development/data=!4m7!3m6!1s0x15a9add4ebfcb025:0x626f3e9e95fa1ce7!8m2!3d28.3972452!4d36.5270001!16s%2Fg%2F1vnnfrh5!19sChIJJbD869StqRUR5xz6lZ4-b2I?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Tabuk"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

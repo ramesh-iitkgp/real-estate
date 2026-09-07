@@ -1,0 +1,50 @@
+{
+    "business_name": "Nhc - Tabuk Valley",
+    "source_business_name": "Nhc - Tabuk Valley",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966920033499",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://nhc.sa/",
+    "address": "\nFG5F+GWR, Almasif, Tabuk 47324, Saudi Arabia",
+    "city": "Tabuk",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/%D9%88%D8%AC%D9%87%D8%A9+%D8%AA%D8%A8%D9%88%D9%83+%D9%81%D8%A7%D9%84%D9%8A+%7C+NHC+-+Tabuk+Valley%E2%80%AD/data=!4m7!3m6!1s0x15a9b3645d50c5d3:0x88412c0ba1ce35f2!8m2!3d28.4506134!4d36.5177269!16s%2Fg%2F11j_66nqhy!19sChIJ08VQXWSzqRUR8jXOoQssQYg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Tabuk"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
