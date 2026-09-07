@@ -1,0 +1,50 @@
+{
+    "business_name": "Chris Linda - Exp Realty - West Michigan Properties",
+    "source_business_name": "Chris Linda - Exp Realty - West Michigan Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16165360986",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://christopherlinda.exprealty.com/",
+    "address": "",
+    "city": "West Grand Rapids",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Chris+Linda+-+eXp+Realty+-+West+Michigan+Properties/data=!4m7!3m6!1s0x8818528b41d521bf:0xeae6f77234e52c7e!8m2!3d42.9818945!4d-85.86236!16s%2Fg%2F11cr_03fhk!19sChIJvyHVQYtSGIgRfizlNHL35uo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Grand Rapids"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

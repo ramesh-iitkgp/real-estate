@@ -1,0 +1,50 @@
+{
+    "business_name": "Cripe Real Estate - Coldwell Banker Schmidt",
+    "source_business_name": "Cripe Real Estate - Coldwell Banker Schmidt",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16163184269",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.jasoncripe.realtor/",
+    "address": "\n2168 Wealthy St SE, East Grand Rapids, MI 49506, United States",
+    "city": "East Grand Rapids",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Cripe+Real+Estate+-+Coldwell+Banker+Schmidt/data=!4m7!3m6!1s0x8819b317aafe8c5f:0xa4acd9d48465dec1!8m2!3d42.950557!4d-85.6149997!16s%2Fg%2F11fktg_j4r!19sChIJX4z-qhezGYgRwd5lhNTZrKQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Grand Rapids"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

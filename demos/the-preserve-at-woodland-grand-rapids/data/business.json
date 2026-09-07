@@ -1,0 +1,50 @@
+{
+    "business_name": "The Preserve At Woodland",
+    "source_business_name": "The Preserve At Woodland",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "616) 404-3257",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n2351 Valleywood Drive Southeast, Grand Rapids, MI 49546",
+    "city": "Grand Rapids",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/The+Preserve+at+Woodland/data=!4m7!3m6!1s0x88184d469b4337d5:0xd352f0f919cbb90e!8m2!3d42.919973!4d-85.588246!16s%2Fg%2F1tgnmpf7!19sChIJ1TdDm0ZNGIgRDrnLGfnwUtM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Grand Rapids"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

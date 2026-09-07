@@ -1,0 +1,50 @@
+{
+    "business_name": "Grand Rapids-West Michigan Real Estate Appraisers",
+    "source_business_name": "Grand Rapids-West Michigan Real Estate Appraisers",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16162841886",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n401-439 Monroe Ave NW, Grand Rapids, MI 49503, United States",
+    "city": "West Grand Rapids",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Grand+Rapids-West+Michigan+Real+Estate+Appraisers/data=!4m7!3m6!1s0x8819adce5d6b2753:0xa800fe9790adeadd!8m2!3d42.9707252!4d-85.6724923!16s%2Fg%2F11crzj_dsr!19sChIJUydrXc6tGYgR3eqtkJf-AKg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Grand Rapids"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

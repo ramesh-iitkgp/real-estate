@@ -1,0 +1,50 @@
+{
+    "business_name": "Aj Lewis Remax Of",
+    "source_business_name": "Aj Lewis Remax Of",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16166827095",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://ajlewis.remaxgrandrapids.com/",
+    "address": "\n4362 Cascade Rd SE Ste 2008, Grand Rapids, MI 49546, United States",
+    "city": "Grand Rapids",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/AJ+LEWIS+RE%2FMAX+of+Grand+Rapids/data=!4m7!3m6!1s0x881853929ccfd307:0xac5c482d4572158f!8m2!3d42.9458049!4d-85.5616892!16s%2Fg%2F11z1401kt1!19sChIJB9PPnJJTGIgRjxVyRS1IXKw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Grand Rapids"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

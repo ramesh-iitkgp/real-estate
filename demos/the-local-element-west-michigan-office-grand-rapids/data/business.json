@@ -1,0 +1,50 @@
+{
+    "business_name": "The Local Element West Michigan Office",
+    "source_business_name": "The Local Element West Michigan Office",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "16162026551",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://westmi.thelocalelement.com/",
+    "address": "\n620 Century Ave SW Ste 130, Grand Rapids, MI 49503, United States",
+    "city": "Grand Rapids",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/The+Local+Element+West+Michigan+Office/data=!4m7!3m6!1s0x8819b15a64faa4eb:0x592b05d72094d8cc!8m2!3d42.95185!4d-85.6734867!16s%2Fg%2F11lfbj25yy!19sChIJ66T6ZFqxGYgRzNiUINcFK1k?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Grand Rapids"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
