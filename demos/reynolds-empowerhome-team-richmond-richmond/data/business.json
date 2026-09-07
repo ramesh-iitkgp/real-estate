@@ -1,0 +1,50 @@
+{
+    "business_name": "Reynolds Empowerhome Team",
+    "source_business_name": "Reynolds Empowerhome Team",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18046352627",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://rtrsells.com/offices/richmond//?utm_source=gmb&utm_medium=referral",
+    "address": "\n3300 W Broad St #205, Richmond, VA 23230, United States",
+    "city": "Richmond",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Reynolds+EmpowerHome+Team+Richmond/data=!4m7!3m6!1s0x89b115608eaa28e5:0x778087b76ec55d40!8m2!3d37.5670368!4d-77.4756733!16s%2Fg%2F11qg0t9hmk!19sChIJ5SiqjmAVsYkRQF3FbreHgHc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Richmond"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

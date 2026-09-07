@@ -1,0 +1,50 @@
+{
+    "business_name": "United Real Estate",
+    "source_business_name": "United Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18043599200",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://unitedrealestaterichmond.com/",
+    "address": "\n9011 Arboretum Pkwy Ste 120, Richmond, VA 23236, United States",
+    "city": "Richmond",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/United+Real+Estate+Richmond/data=!4m7!3m6!1s0x89b16d542d02e6a3:0xab665169e3a2b97b!8m2!3d37.4921913!4d-77.5670471!16s%2Fg%2F11cmrzm2tw!19sChIJo-YCLVRtsYkRe7mi42lRZqs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Richmond"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

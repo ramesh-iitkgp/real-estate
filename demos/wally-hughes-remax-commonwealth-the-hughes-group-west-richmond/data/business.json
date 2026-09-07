@@ -1,0 +1,50 @@
+{
+    "business_name": "Wally Hughes - Remax Commonwealth The Hughes Group",
+    "source_business_name": "Wally Hughes - Remax Commonwealth The Hughes Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18045133240",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://wallyhughes.com/",
+    "address": "\n7201 Glen Forest Dr Ste 104, Richmond, VA 23226, United States",
+    "city": "West Richmond",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Wally+Hughes+-+REMAX+Commonwealth,+The+Hughes+Group/data=!4m7!3m6!1s0x89b114e35fc76d0b:0x4307297bc70ed6a1!8m2!3d37.6059332!4d-77.529185!16s%2Fg%2F1tn022yf!19sChIJC23HX-MUsYkRodYOx3spB0M?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Richmond"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

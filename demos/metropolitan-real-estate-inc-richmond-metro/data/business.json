@@ -1,0 +1,50 @@
+{
+    "business_name": "Metropolitan Real Estate Inc",
+    "source_business_name": "Metropolitan Real Estate Inc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18047414108",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.realestaterichmondva.net/",
+    "address": "\n1791 Cambridge Dr Ste 100, Richmond, VA 23238, United States",
+    "city": "Richmond Metro",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Metropolitan+Real+Estate+Inc/data=!4m7!3m6!1s0x89b16bc920fa165b:0xfde32d5cb60b9758!8m2!3d37.6148711!4d-77.6351593!16s%2Fg%2F1tddt1zw!19sChIJWxb6IMlrsYkRWJcLtlwt4_0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Richmond Metro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

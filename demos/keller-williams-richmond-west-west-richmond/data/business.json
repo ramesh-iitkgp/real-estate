@@ -1,0 +1,50 @@
+{
+    "business_name": "Keller Williams Richmond West",
+    "source_business_name": "Keller Williams Richmond West",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18042825901",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://richmondwest.kw.com/",
+    "address": "\n6806 Paragon Pl #300, Richmond, VA 23230, United States",
+    "city": "West Richmond",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Keller+Williams+Richmond+West/data=!4m7!3m6!1s0x89b11550bf2ec4c3:0xe9b9529aeca4e5f8!8m2!3d37.6075938!4d-77.5135976!16s%2Fg%2F11x64z05sz!19sChIJw8Quv1AVsYkR-OWk7JpSuek?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Richmond"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

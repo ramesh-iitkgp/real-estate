@@ -1,0 +1,50 @@
+{
+    "business_name": "Susan Romero",
+    "source_business_name": "Susan Romero",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "15109260690",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.eastbayallday.com/",
+    "address": "",
+    "city": "East Richmond",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "5",
+    "google_maps_url": "https://www.google.com/maps/place/Susan+Romero/data=!4m7!3m6!1s0x80857911621afddd:0x282c9c9eeb86e498!8m2!3d37.8114704!4d-122.275324!16s%2Fg%2F11hf8qh709!19sChIJ3f0aYhF5hYARmOSG656cLCg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Richmond"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

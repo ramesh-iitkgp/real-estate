@@ -1,0 +1,50 @@
+{
+    "business_name": "Phil Russell Realtor",
+    "source_business_name": "Phil Russell Realtor",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "18044959914",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.philrussellrealtor.com/shared/human/pow.php?return=https%3A%2F%2Fwww.philrussellrealtor.com%2F",
+    "address": "\n6641 W Broad St #101, Richmond, VA 23230, United States",
+    "city": "West Richmond",
+    "state": "",
+    "country": "USA",
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Phil+Russell+Realtor/data=!4m7!3m6!1s0x89b1115875582943:0xc6b419c0fbbae64b!8m2!3d37.6043524!4d-77.5193937!16s%2Fg%2F11b7gqwsl9!19sChIJQylYdVgRsYkRS-a6-8AZtMY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Richmond"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
