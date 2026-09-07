@@ -1,0 +1,50 @@
+{
+    "business_name": "Albayat Real Estate Group",
+    "source_business_name": "Albayat Real Estate Group",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966505801917",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://albayat.co/",
+    "address": "\nAlqal'ah, Al Qatif 32637, Saudi Arabia",
+    "city": "Al Qatif",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/ALBAYAT+REAL+ESTATE+GROUP/data=!4m7!3m6!1s0x3e35ffc4aabddae1:0xbe3f105a148e8454!8m2!3d26.568118!4d50.0074256!16s%2Fg%2F11grc7y76t!19sChIJ4dq9qsT_NT4RVISOFFoQP74?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Qatif"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
