@@ -1,0 +1,50 @@
+{
+    "business_name": "Saher Homes For Furnished Apartments",
+    "source_business_name": "Saher Homes For Furnished Apartments",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966177333360",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nشارع الرياض, Alkhaldiyah, Al Qunfudhah 28821, Saudi Arabia",
+    "city": "Qunfudhah",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "700",
+    "google_maps_url": "https://www.google.com/maps/place/Saher+homes+for+furnished+apartments/data=!4m7!3m6!1s0x15e68e344623f4cd:0xe5a3b7065af06927!8m2!3d19.1507401!4d41.0761562!16s%2Fg%2F1pzq_14zq!19sChIJzfQjRjSO5hURJ2nwWga3o-U?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Qunfudhah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

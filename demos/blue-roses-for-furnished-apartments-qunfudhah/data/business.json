@@ -1,0 +1,50 @@
+{
+    "business_name": "Blue Roses For Furnished Apartments",
+    "source_business_name": "Blue Roses For Furnished Apartments",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "966569935160",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nKing Faisal Ibn Abdul Aziz Rd, Alkhaldiyah, Al Qunfudhah 11522, Saudi Arabia",
+    "city": "Qunfudhah",
+    "state": "",
+    "country": "Saudi Arabia",
+    "currency_symbol": "SAR ",
+    "currency_code": "SAR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "58",
+    "google_maps_url": "https://www.google.com/maps/place/Blue+Roses+for+Furnished+Apartments/data=!4m7!3m6!1s0x15e68ffa116ebcad:0x2dbac649d63aff1c!8m2!3d19.1404075!4d41.0814897!16s%2Fg%2F11fk432zck!19sChIJrbxuEfqP5hURHP861knGui0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Qunfudhah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
