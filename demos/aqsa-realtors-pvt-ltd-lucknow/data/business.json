@@ -1,0 +1,50 @@
+{
+    "business_name": "Aqsa Realtors Pvt Ltd",
+    "source_business_name": "Aqsa Realtors Pvt Ltd",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918354020027",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://aqsarealtor.com",
+    "address": "\nAnsal City Centre, LGF 6, near Tulsi Cinema, opp. Family Court, Hazratganj, Lucknow, Uttar Pradesh 226001",
+    "city": "Lucknow",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Aqsa+Realtors+Pvt.+Ltd./data=!4m7!3m6!1s0x399bfde6d4e77465:0xa0e28b1ce239eadd!8m2!3d26.8523879!4d80.9371464!16s%2Fg%2F11t0rypb5t!19sChIJZXTn1Ob9mzkR3eo54hyL4qA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Lucknow"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

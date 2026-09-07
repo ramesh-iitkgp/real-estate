@@ -1,0 +1,50 @@
+{
+    "business_name": "Friends Properties & Constructions",
+    "source_business_name": "Friends Properties & Constructions",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918953999444",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nLGF-1, Vasudev Complex, 60 Feet Rd, near Himalaya wellness Store, Janki Vihar Colony, Jankipuram, Lucknow, Uttar Pradesh 226021",
+    "city": "South Lucknow",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Friends+Properties+%26+Constructions/data=!4m7!3m6!1s0x3999571caf949dd5:0x8e2f2d6f02433c8a!8m2!3d26.9245621!4d80.942299!16s%2Fg%2F11gydfj__r!19sChIJ1Z2UrxxXmTkRijxDAm8tL44?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Lucknow"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

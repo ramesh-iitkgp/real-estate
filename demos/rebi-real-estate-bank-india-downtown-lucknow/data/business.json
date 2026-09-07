@@ -1,0 +1,50 @@
+{
+    "business_name": "Rebi Real Estate Bank",
+    "source_business_name": "Rebi Real Estate Bank",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "915224003500",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nCivil Lines, Lucknow, Uttar Pradesh 226001",
+    "city": "Downtown Lucknow",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/REBI+%28Real+Estate+Bank+India%29/data=!4m7!3m6!1s0x399bfd0a5b9a44d5:0x34200e30cb20316c!8m2!3d26.8558961!4d80.9445035!16s%2Fg%2F1hdzd0b82!19sChIJ1USaWwr9mzkRbDEgyzAOIDQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Lucknow"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

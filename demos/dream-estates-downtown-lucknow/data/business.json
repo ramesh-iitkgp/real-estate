@@ -1,0 +1,50 @@
+{
+    "business_name": "Dream Estates",
+    "source_business_name": "Dream Estates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919569392218",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nFF-110, Eldeco Saubhagyam Arcade Sector 9, Vrindavan Colony, Lucknow, Uttar Pradesh 226029",
+    "city": "Downtown Lucknow",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Dream+Estates/data=!4m7!3m6!1s0x399bfb1e7b83ff0d:0x36ce8f4e8280e3aa!8m2!3d26.7681138!4d80.9609236!16s%2Fg%2F11jgh7ktlv!19sChIJDf-Dex77mzkRquOAgk6PzjY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Lucknow"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Lucknow Property Agentma Property Wale",
+    "source_business_name": "Lucknow Property Agentma Property Wale",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919936365026",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nAman Vihar Colony, behind Eram Degree College, Shekhpur, Lucknow, Uttar Pradesh 226017",
+    "city": "South Lucknow",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Lucknow+Property+Agent%28M.A+Property+Wale%29/data=!4m7!3m6!1s0x399bffe1450d6b05:0x34f74b51b3c0cbbe!8m2!3d26.8554569!4d80.8732971!16s%2Fg%2F11vhq6tr82!19sChIJBWsNReH_mzkRvsvAs1FL9zQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Lucknow"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

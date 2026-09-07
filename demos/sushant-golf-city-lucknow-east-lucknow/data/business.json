@@ -1,0 +1,50 @@
+{
+    "business_name": "Sushant Golf City Lucknow",
+    "source_business_name": "Sushant Golf City Lucknow",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918881800900",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://sushantgolfcity.in/",
+    "address": "\n2, Shopping Square Rd, Golf City, Sector G, Bagiamau, Lucknow, Uttar Pradesh 226030",
+    "city": "East Lucknow",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Sushant+Golf+City+Lucknow/data=!4m7!3m6!1s0x399be584520e0a3f:0x84584911999301a8!8m2!3d26.7940483!4d81.0053113!16s%2Fg%2F11gy1rn7j2!19sChIJPwoOUoTlmzkRqAGTmRFJWIQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "East Lucknow"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

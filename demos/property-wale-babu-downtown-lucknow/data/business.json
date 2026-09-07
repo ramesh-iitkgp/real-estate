@@ -1,0 +1,50 @@
+{
+    "business_name": "Property Wale Babu",
+    "source_business_name": "Property Wale Babu",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918429349999",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nGround Floor, Rohtas Plumeria, Flat No, T-001, near New High Court, Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "city": "Downtown Lucknow",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Property+Wale+Babu/data=!4m7!3m6!1s0x399be3ef93316d3f:0x94ddd07e53de5df5!8m2!3d26.8667885!4d81.0117198!16s%2Fg%2F11t95sbj9d!19sChIJP20xk-_jmzkR9V3eU37Q3ZQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Downtown Lucknow"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

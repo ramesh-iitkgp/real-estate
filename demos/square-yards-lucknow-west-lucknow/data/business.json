@@ -1,0 +1,50 @@
+{
+    "business_name": "Square Yards - Lucknow",
+    "source_business_name": "Square Yards - Lucknow",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "9118002083344",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.squareyards.com/",
+    "address": "\n1st Floor, C-40, Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "city": "West Lucknow",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.7",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Square+Yards+-+Lucknow/data=!4m7!3m6!1s0x399be3c593bd070b:0x1276dcc55868c816!8m2!3d26.8632716!4d80.9971242!16s%2Fg%2F11fmbxq4sh!19sChIJCwe9k8XjmzkRFshoWMXcdhI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "West Lucknow"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Yuva Infratech",
+    "source_business_name": "Yuva Infratech",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918933003377",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://yuvainfra.com/",
+    "address": "\n3/11, Vastu Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "city": "Lucknow",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Yuva+Infratech/data=!4m7!3m6!1s0x399be2f5290ad4ff:0x70d0e171675d3df7!8m2!3d26.864281!4d81.028886!16s%2Fg%2F11c2nw1dpy!19sChIJ_9QKKfXimzkR9z1dZ3Hh0HA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Lucknow"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

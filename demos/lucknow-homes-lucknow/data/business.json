@@ -1,0 +1,50 @@
+{
+    "business_name": "Lucknow Homes",
+    "source_business_name": "Lucknow Homes",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "918874625303",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.lucknowhomes.in/",
+    "address": "\nFlat No 811, Royal Plaza Building, Amar Shaheed Path, Golf City, Arjunganj, Lucknow, Uttar Pradesh 226030",
+    "city": "Lucknow",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/LUCKNOW+HOMES/data=!4m7!3m6!1s0x399be3dc6eda33bb:0xe9aa44df8fd5142c!8m2!3d26.7963227!4d81.0029829!16s%2Fg%2F11vf2zrfcr!19sChIJuzPabtzjmzkRLBTVj99Equk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Lucknow"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

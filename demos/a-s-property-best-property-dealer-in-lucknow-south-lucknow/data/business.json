@@ -1,0 +1,50 @@
+{
+    "business_name": "A S Property - Best Property Dealer In Lucknow",
+    "source_business_name": "A S Property - Best Property Dealer In Lucknow",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919198499801",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nRatan Plaza Tedhipuliya, Kursi Rd, Lucknow, Uttar Pradesh 226022",
+    "city": "South Lucknow",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/A.+S.+Property+-+Best+Property+Dealer+in+Lucknow/data=!4m7!3m6!1s0x399957b8e39aaabb:0x60ca7b389fd305e3!8m2!3d26.9062895!4d80.9573688!16s%2Fg%2F11b88knbh3!19sChIJu6qa47hXmTkR4wXTnzh7ymA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "South Lucknow"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

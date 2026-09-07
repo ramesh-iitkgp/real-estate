@@ -1,0 +1,50 @@
+{
+    "business_name": "Planet Dhara Infra Real Estate Consultant",
+    "source_business_name": "Planet Dhara Infra Real Estate Consultant",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919839887283",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://planetdhara.com/",
+    "address": "\n1/63 A, Virat Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "city": "Lucknow",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Planet+Dhara+Infra+Real+Estate+Consultant+Lucknow/data=!4m7!3m6!1s0x399be2e58adcc141:0x519845b3d07194cb!8m2!3d26.8521262!4d81.0162295!16s%2Fg%2F1thq8865!19sChIJQcHciuXimzkRy5Rx0LNFmFE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Lucknow"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

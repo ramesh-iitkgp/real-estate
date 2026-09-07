@@ -1,0 +1,50 @@
+{
+    "business_name": "City 1 One Realtors",
+    "source_business_name": "City 1 One Realtors",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "919005920444",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://cityonerealtors.com/",
+    "address": "\n302 , SSC old Complex, 2nd Floor , Sahara State, Jankipuram, Lucknow, Uttar Pradesh 226021",
+    "city": "Central Lucknow",
+    "state": "",
+    "country": "India",
+    "currency_symbol": "₹",
+    "currency_code": "INR",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "18",
+    "google_maps_url": "https://www.google.com/maps/place/City+1+One+Realtors/data=!4m7!3m6!1s0x399957085df4d209:0x28ee88c76ee365dd!8m2!3d26.9217058!4d80.9529509!16s%2Fg%2F11qpx7mk8q!19sChIJCdL0XQhXmTkR3WXjbseI7ig?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Central Lucknow"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
