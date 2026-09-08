@@ -1,0 +1,50 @@
+{
+    "business_name": "First Land Realty & Appraisal Services",
+    "source_business_name": "First Land Realty & Appraisal Services",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639228570888",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nAngeles, Pampanga, Philippines",
+    "city": "Angeles City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/First+Land+Realty+%26+Appraisal+Services/data=!4m7!3m6!1s0x3396f25ab86ddb1f:0xc82b84d21870c996!8m2!3d15.1380843!4d120.5845622!16s%2Fg%2F11d_bgkv2k!19sChIJH9ttuFryljMRlslwGNKEK8g?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Angeles City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

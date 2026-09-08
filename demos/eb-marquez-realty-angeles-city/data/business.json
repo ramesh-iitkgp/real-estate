@@ -1,0 +1,50 @@
+{
+    "business_name": "Eb Marquez Realty",
+    "source_business_name": "Eb Marquez Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639985722427",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n129-B Narciso St, Josefa Balibago, Angeles, 2009 Pampanga, Philippines",
+    "city": "Angeles City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "3",
+    "google_maps_url": "https://www.google.com/maps/place/EB+Marquez+Realty/data=!4m7!3m6!1s0x3396f2799709fcf5:0xd517ca38f040d0be!8m2!3d15.1631342!4d120.5836814!16s%2Fg%2F11b6hxzsz6!19sChIJ9fwJl3nyljMRvtBA8DjKF9U?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Angeles City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

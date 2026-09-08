@@ -1,0 +1,50 @@
+{
+    "business_name": "Nouveau Residences",
+    "source_business_name": "Nouveau Residences",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "63458932935",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nBrgy, Angeles, Pampanga, Philippines",
+    "city": "Angeles City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Nouveau+Residences/data=!4m7!3m6!1s0x3396edff7bcf15e1:0xcd3e8e40827a2ff6!8m2!3d15.1698117!4d120.6218845!16s%2Fg%2F11h0c4mg2!19sChIJ4RXPe__tljMR9i96gkCOPs0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Angeles City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

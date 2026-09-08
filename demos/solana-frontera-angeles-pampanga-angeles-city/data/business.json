@@ -1,0 +1,50 @@
+{
+    "business_name": "Solana Frontera Angeles Pampanga",
+    "source_business_name": "Solana Frontera Angeles Pampanga",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639255688446",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nSolana Frontera by Solanaland, Phase 2 Blk 4 Lot 3 Alberta St, Sapalibutad Rd, Angeles, Pampanga, Philippines",
+    "city": "Angeles City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Solana+Frontera+Angeles+Pampanga/data=!4m7!3m6!1s0x3396f1fce1bbbda5:0xf08144ed70ddef3c!8m2!3d15.1585985!4d120.6296534!16s%2Fg%2F11d_2787wy!19sChIJpb274fzxljMRPO_dcO1EgfA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Angeles City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

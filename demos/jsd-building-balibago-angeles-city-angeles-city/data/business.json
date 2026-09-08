@@ -1,0 +1,50 @@
+{
+    "business_name": "Jsd Building - Balibago",
+    "source_business_name": "Jsd Building - Balibago",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639762004575",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n2 Aniceto Gueco St, Balibago, Angeles, Pampanga, Philippines",
+    "city": "Angeles City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/JSD+Building+-+Balibago,+Angeles+City/data=!4m7!3m6!1s0x3396ed82d554971f:0x54081e90fcfa7909!8m2!3d15.1679024!4d120.5932591!16s%2Fg%2F11zh5rblt5!19sChIJH5dU1YLtljMRCXn6_JAeCFQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Angeles City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

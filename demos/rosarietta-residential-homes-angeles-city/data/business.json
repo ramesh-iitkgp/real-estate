@@ -1,0 +1,50 @@
+{
+    "business_name": "Rosarietta Residential Homes",
+    "source_business_name": "Rosarietta Residential Homes",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639230833445",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nClarkview Subdivision, 341 Sierra Madre St, Angeles, 2009 Pampanga, Philippines",
+    "city": "Angeles City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/ROSARIETTA+RESIDENTIAL+HOMES/data=!4m7!3m6!1s0x3396f280cc7f07e7:0x686410f58b98831b!8m2!3d15.1649261!4d120.5721693!16s%2Fg%2F1ydddknl4!19sChIJ5wd_zIDyljMRG4OYi_UQZGg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Angeles City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

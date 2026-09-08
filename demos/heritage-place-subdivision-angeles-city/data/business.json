@@ -1,0 +1,50 @@
+{
+    "business_name": "Heritage Place Subdivision",
+    "source_business_name": "Heritage Place Subdivision",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639061129119",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nCircumferential Rd., Brgy. Cutcut, Sto. Domingo Fil-Am Friendship Hwy, Angeles, 2009 Pampanga, Philippines",
+    "city": "Angeles City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "4.5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Heritage+Place+Subdivision/data=!4m7!3m6!1s0x3396f2531f459327:0x4009e27828bcc2cb!8m2!3d15.1277154!4d120.5821687!16s%2Fg%2F1hc0slygv!19sChIJJ5NFH1PyljMRy8K8KHjiCUA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Angeles City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
