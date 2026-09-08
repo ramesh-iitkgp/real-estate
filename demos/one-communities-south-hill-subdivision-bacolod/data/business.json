@@ -1,0 +1,50 @@
+{
+    "business_name": "One Communities South Hill Subdivision",
+    "source_business_name": "One Communities South Hill Subdivision",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "634412410",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://onecommunities.com/",
+    "address": "\nHandumanan Access Rd, Circumferential Rd, Bacolod, Negros Occidental, Philippines",
+    "city": "Bacolod",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "4.4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/One+Communities+South+Hill+Subdivision/data=!4m7!3m6!1s0x33aecf3049d50cd9:0x1658c7d47a70ef80!8m2!3d10.6100736!4d122.9584747!16s%2Fg%2F11yjv_dtc4!19sChIJ2QzVSTDPrjMRgO9wetTHWBY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bacolod"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "O Residences",
+    "source_business_name": "O Residences",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639776975030",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://ecenviroconsultrealty.magix.net/public/o-residences-condominium.htm",
+    "address": "\n215 O Residences Lacson St, Bacolod, 6100 Negros Occidental, Philippines",
+    "city": "Bacolod",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "3.5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/O+Residences/data=!4m7!3m6!1s0x33aed111d7f77823:0x455ad4fb1bc7d6df!8m2!3d10.6898573!4d122.9584094!16s%2Fg%2F11b6t07_p_!19sChIJI3j31xHRrjMR39bHG_vUWkU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bacolod"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Bacolod South Homes Corp",
+    "source_business_name": "Bacolod South Homes Corp",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639187393833",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nBurgos Ave, Bacolod, 6100 Negros Occidental, Philippines",
+    "city": "Bacolod",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Bacolod+South+Homes+Corp./data=!4m7!3m6!1s0x33aed1ae12ff29c3:0x6fae2e9dadf495b8!8m2!3d10.6710338!4d122.9523023!16s%2Fg%2F11bzvvpbsq!19sChIJwyn_Eq7RrjMRuJX0rZ0urm8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bacolod"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

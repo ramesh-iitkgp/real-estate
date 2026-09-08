@@ -1,0 +1,50 @@
+{
+    "business_name": "B42 L36 East Homes 5 Mansilingan",
+    "source_business_name": "B42 L36 East Homes 5 Mansilingan",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "63347020833",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nHandumanan Access Rd, Bacolod, Negros Occidental, Philippines",
+    "city": "Bacolod",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/B42+L36+east+Homes+5,+Mansilingan/data=!4m7!3m6!1s0x33aece6c977e172f:0x2bd2a0432aaf9b73!8m2!3d10.6184093!4d122.9726422!16s%2Fg%2F1yfp49ndf!19sChIJLxd-l2zOrjMRc5uvKkOg0is?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bacolod"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

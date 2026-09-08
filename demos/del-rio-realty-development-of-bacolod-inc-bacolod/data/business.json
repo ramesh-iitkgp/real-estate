@@ -1,0 +1,50 @@
+{
+    "business_name": "Del Rio Realty & Development Of Bacolod Inc",
+    "source_business_name": "Del Rio Realty & Development Of Bacolod Inc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "63344359553",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nUnit 206, Pacita Arcade Building, La Salle Ave, Bacolod, 6100 Negros Occidental, Philippines",
+    "city": "Bacolod",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/DEL+RIO+REALTY+%26+DEVELOPMENT+OF+BACOLOD,+INC./data=!4m7!3m6!1s0x33aed15a2a8c7459:0x10045e255fa71228!8m2!3d10.6791783!4d122.9599774!16s%2Fg%2F11fjvzw76z!19sChIJWXSMKlrRrjMRKBKnXyVeBBA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bacolod"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
