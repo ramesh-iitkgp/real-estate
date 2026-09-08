@@ -1,0 +1,50 @@
+{
+    "business_name": "Estate Agent Liverpool Gemma Flanagan Estate Agent",
+    "source_business_name": "Estate Agent Liverpool Gemma Flanagan Estate Agent",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "447791392914",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://gemmaflanagan.exp.uk.com/",
+    "address": "\nOrrell Ln, Bootle L20 6HZ, United Kingdom",
+    "city": "Liverpool",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Estate+Agent+Liverpool,+Gemma+Flanagan+Estate+Agent/data=!4m7!3m6!1s0x487b233608090a5b:0x1979cc3de332e2b8!8m2!3d53.4648196!4d-2.9681875!16s%2Fg%2F11qyv39dm1!19sChIJWwoJCDYje0gRuOIy4z3MeRk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Liverpool"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

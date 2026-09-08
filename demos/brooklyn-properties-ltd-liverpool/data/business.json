@@ -1,0 +1,50 @@
+{
+    "business_name": "Brooklyn Properties Ltd",
+    "source_business_name": "Brooklyn Properties Ltd",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "441519280002",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n64A Cambridge Rd, Seaforth, Liverpool L21 1EY, United Kingdom",
+    "city": "Liverpool",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Brooklyn+Properties+Ltd/data=!4m7!3m6!1s0x487b247019740505:0x495ef3e54de264de!8m2!3d53.4703566!4d-3.0175565!16s%2Fg%2F11c45shbr4!19sChIJBQV0GXAke0gR3mTiTeXzXkk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Liverpool"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

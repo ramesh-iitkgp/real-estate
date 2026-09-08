@@ -1,0 +1,50 @@
+{
+    "business_name": "Venmore Commercial",
+    "source_business_name": "Venmore Commercial",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "447808892150",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n9 Dale St, Liverpool L2 2SH, United Kingdom",
+    "city": "Liverpool",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Venmore+Commercial/data=!4m7!3m6!1s0x487b2131fce9bf7b:0xf2ab558b598ee9b5!8m2!3d53.4075284!4d-2.9903609!16s%2Fg%2F11t5_94dw0!19sChIJe7_p_DEhe0gRtemOWYtVq_I?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Liverpool"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

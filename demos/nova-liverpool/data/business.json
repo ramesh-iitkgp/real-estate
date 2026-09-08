@@ -1,0 +1,50 @@
+{
+    "business_name": "Nova",
+    "source_business_name": "Nova",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "448000988630",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nImperial Court, Exchange St E, Liverpool L2 3AB, United Kingdom",
+    "city": "Liverpool",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Nova/data=!4m7!3m6!1s0x487b2131fbda3e0d:0x7382983ea397ec38!8m2!3d53.4077078!4d-2.9907134!16s%2Fg%2F1yh9tw86r!19sChIJDT7a-zEhe0gROOyXoz6YgnM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Liverpool"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

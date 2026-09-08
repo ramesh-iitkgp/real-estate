@@ -1,0 +1,50 @@
+{
+    "business_name": "Up Your Street Property",
+    "source_business_name": "Up Your Street Property",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "441512680436",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.up-your-street.com/",
+    "address": "\n10 Ewart Rd, Liverpool L16 2LH, United Kingdom",
+    "city": "Liverpool",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "4.7",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Up+Your+Street+Property+Liverpool/data=!4m7!3m6!1s0x724fd796d0ea781:0xc13c1696533b70f7!8m2!3d53.4019428!4d-2.8698548!16s%2Fg%2F11mzww23rz!19sChIJgacObXn9JAcR93A7U5YWPME?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Liverpool"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
