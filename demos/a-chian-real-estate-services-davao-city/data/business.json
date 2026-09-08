@@ -1,0 +1,50 @@
+{
+    "business_name": "A Chian Real Estate Services",
+    "source_business_name": "A Chian Real Estate Services",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "63822241032",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nValgosons Building, Bonifacio St, 35-D, Davao City, 8000 Davao del Sur, Philippines",
+    "city": "Davao City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "4.2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/A+Chian+Real+Estate+Services/data=!4m7!3m6!1s0x32f96d82c9e5dfdb:0x52c7894dbff2dd7f!8m2!3d7.067395!4d125.6109518!16s%2Fg%2F11c1t59bc7!19sChIJ29_lyYJt-TIRf93yv02Jx1I?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Davao City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

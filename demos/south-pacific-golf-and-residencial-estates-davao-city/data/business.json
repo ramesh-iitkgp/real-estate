@@ -1,0 +1,50 @@
+{
+    "business_name": "South Pacific Golf And Residencial Estates",
+    "source_business_name": "South Pacific Golf And Residencial Estates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "63822219441",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n3G86+GVW, Libby Road, Talomo, Davao City, 8000 Davao del Sur, Philippines",
+    "city": "Davao City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "138",
+    "google_maps_url": "https://www.google.com/maps/place/South+Pacific+Golf+and+Residencial+Estates/data=!4m7!3m6!1s0x32f90d87c7155df5:0xaf387440dae3d99!8m2!3d7.0663547!4d125.5121941!16s%2Fg%2F1thzr9hr!19sChIJ9V0Vx4cN-TIRmT2uDUSH8wo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Davao City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

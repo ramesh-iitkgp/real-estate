@@ -1,0 +1,50 @@
+{
+    "business_name": "Prime Philippines - Davao",
+    "source_business_name": "Prime Philippines - Davao",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639176220454",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nDamosa I.T. Park, J.P. Laurel Ave, Lanang, Davao City, 8000 Davao del Sur, Philippines",
+    "city": "Davao City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "4.2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/PRIME+Philippines+-+Davao/data=!4m7!3m6!1s0x32f96de821771183:0x21ece4184a1467e4!8m2!3d7.1030441!4d125.634669!16s%2Fg%2F11gw2_v0wq!19sChIJgxF3Ieht-TIR5GcUShjk7CE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Davao City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

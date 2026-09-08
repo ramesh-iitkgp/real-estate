@@ -1,0 +1,50 @@
+{
+    "business_name": "Propertybrokerph Corporation",
+    "source_business_name": "Propertybrokerph Corporation",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639209190358",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.propertybroker.ph/",
+    "address": "\nSuite Room 1 JALTAN Building Bonifacio cor CM Recto St, Davao City, 8000 Davao del Sur, Philippines",
+    "city": "Davao City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/PropertyBroker.PH+Corporation/data=!4m7!3m6!1s0x32f96d82cb376d1b:0x224d155b5d143a1f!8m2!3d7.0676481!4d125.6110819!16s%2Fg%2F11dxb0gdf0!19sChIJG203y4Jt-TIRHzoUXVsVTSI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Davao City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

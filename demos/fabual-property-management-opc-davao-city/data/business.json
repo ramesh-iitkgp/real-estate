@@ -1,0 +1,50 @@
+{
+    "business_name": "Fabual Property Management Opc",
+    "source_business_name": "Fabual Property Management Opc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639951275496",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n430 Durian, Juna Subdivision, Davao City, 8000 Davao del Sur, Philippines",
+    "city": "Davao City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/FABUAL+PROPERTY+MANAGEMENT+OPC/data=!4m7!3m6!1s0x32f90d950f8ae485:0xc788546079b0b0e6!8m2!3d7.0573131!4d125.591162!16s%2Fg%2F11y_ttr691!19sChIJheSKD5UN-TIR5rCweWBUiMc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Davao City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

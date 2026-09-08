@@ -1,0 +1,50 @@
+{
+    "business_name": "Filinvest Land Incorporated",
+    "source_business_name": "Filinvest Land Incorporated",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "631800105881688",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://filinvestland.com/",
+    "address": "\n2F, Ascendido Building, Pryce Business Park, J.P. Laurel Ave, Poblacion District, Davao City, 8000 Davao del Sur, Philippines",
+    "city": "Davao City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Filinvest+Land+Incorporated/data=!4m7!3m6!1s0x32f96c53ac11d6a9:0x7bd46d009b3bdbb!8m2!3d7.0835586!4d125.6108185!16s%2Fg%2F1pztrsp0q!19sChIJqdYRrFNs-TIRu72zCdBGvQc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Davao City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

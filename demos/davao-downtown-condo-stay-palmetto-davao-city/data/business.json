@@ -1,0 +1,50 @@
+{
+    "business_name": "Davao Downtown Condo Stay Palmetto",
+    "source_business_name": "Davao Downtown Condo Stay Palmetto",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639192286998",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nPalmetto Place, Talomo, Davao City, Davao del Sur, Philippines",
+    "city": "Davao City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "4.2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Davao+DownTown+Condo+Stay+@+Palmetto/data=!4m7!3m6!1s0x32f96d006fc62eed:0x65509afbd04c0b77!8m2!3d7.081703!4d125.5831616!16s%2Fg%2F11z3p05v8k!19sChIJ7S7GbwBt-TIRdwtM0PuaUGU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Davao City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
