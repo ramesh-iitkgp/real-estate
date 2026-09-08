@@ -1,0 +1,50 @@
+{
+    "business_name": "Filipino Homes Iloilo",
+    "source_business_name": "Filipino Homes Iloilo",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639171830965",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://filipinohomes.com/",
+    "address": "\nUnit #206 2nd floor Doña Maria Building Corner San Juan, Avanceña St, Molo, Iloilo City, 5000 Iloilo, Philippines",
+    "city": "Iloilo City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "3.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Filipino+Homes+Iloilo/data=!4m7!3m6!1s0x33aee551c11a4823:0xf1ddca939bfc3421!8m2!3d10.6952391!4d122.5399657!16s%2Fg%2F11c5h3_sn7!19sChIJI0gawVHlrjMRITT8m5PK3fE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Iloilo City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

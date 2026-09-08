@@ -1,0 +1,50 @@
+{
+    "business_name": "Real Estate Iloilo",
+    "source_business_name": "Real Estate Iloilo",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639957911604",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nJamabalud 3, Iloilo City, 5008 Iloilo, Philippines",
+    "city": "Iloilo City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Real+Estate+Iloilo/data=!4m7!3m6!1s0x33aee56b9c90bc03:0x68e0797ba05e6c5e!8m2!3d10.7201501!4d122.5621063!16s%2Fg%2F11qh17zwly!19sChIJA7yQnGvlrjMRXmxeoHt54Gg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Iloilo City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

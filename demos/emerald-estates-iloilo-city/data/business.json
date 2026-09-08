@@ -1,0 +1,50 @@
+{
+    "business_name": "Emerald Estates",
+    "source_business_name": "Emerald Estates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639355158530",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nCagbang, Iloilo City, Iloilo, Philippines",
+    "city": "Iloilo City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Emerald+Estates/data=!4m7!3m6!1s0x33aefa9aed12a2fd:0x9922d600db5d4756!8m2!3d10.7017096!4d122.5052311!16s%2Fg%2F11csqhfw00!19sChIJ_aIS7Zr6rjMRVkdd2wDWIpk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Iloilo City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

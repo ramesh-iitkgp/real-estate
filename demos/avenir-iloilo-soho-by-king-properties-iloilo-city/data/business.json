@@ -1,0 +1,50 @@
+{
+    "business_name": "Avenir Iloilo Soho By King Properties",
+    "source_business_name": "Avenir Iloilo Soho By King Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639286035683",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://aveniriloilo.com/",
+    "address": "\nR.Mapa St, Mandurriao, Iloilo City, 5000 Metro Iloilo, Philippines",
+    "city": "Iloilo City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Avenir+Iloilo+SOHO+by+King+Properties/data=!4m7!3m6!1s0x33aee51056d5e5ff:0x83f9c5d9032b0e4f!8m2!3d10.7092439!4d122.5409245!16s%2Fg%2F11ygxcjqsr!19sChIJ_-XVVhDlrjMRTw4rA9nF-YM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Iloilo City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

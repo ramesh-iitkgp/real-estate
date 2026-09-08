@@ -1,0 +1,50 @@
+{
+    "business_name": "Casa Quatro Realty Corporation - Iloilo Satellite Office",
+    "source_business_name": "Casa Quatro Realty Corporation - Iloilo Satellite Office",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639773722315",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n2F Door 2 Romnelcar 1 Building Burgos Street, Gustilo St, La Paz, Iloilo City, 5000 Iloilo, Philippines",
+    "city": "Iloilo City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Casa+Quatro+Realty+Corporation+-+Iloilo+Satellite+Office/data=!4m7!3m6!1s0x33aee5464e676693:0xdb187310076f5e8b!8m2!3d10.7138327!4d122.568215!16s%2Fg%2F11qb6527s9!19sChIJk2ZnTkblrjMRi15vBxBzGNs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Iloilo City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

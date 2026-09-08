@@ -1,0 +1,50 @@
+{
+    "business_name": "Florvel Homes Subdivision",
+    "source_business_name": "Florvel Homes Subdivision",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639700293895",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nBetween florvel and bitda, Buray, Oton, 5020 Iloilo, Philippines",
+    "city": "Iloilo City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "3.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Florvel+Homes+Subdivision/data=!4m7!3m6!1s0x33aefa0c86369809:0xf3e44c2fabaf2e00!8m2!3d10.7004271!4d122.4701917!16s%2Fg%2F1td4m74t!19sChIJCZg2hgz6rjMRAC6vqy9M5PM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Iloilo City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
