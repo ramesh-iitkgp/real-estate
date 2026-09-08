@@ -1,0 +1,50 @@
+{
+    "business_name": "Evergreen Homes",
+    "source_business_name": "Evergreen Homes",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "63838875368",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n23 Santiago Blvd, General Santos City (Dadiangas), 9500 South Cotabato, Philippines",
+    "city": "General Santos",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Evergreen+Homes/data=!4m7!3m6!1s0x32f79f39d048f783:0x1f9fb26c6b9f0330!8m2!3d6.1138239!4d125.1799611!16s%2Fg%2F11fnc7rkvn!19sChIJg_dI0Dmf9zIRMAOfa2yynx8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "General Santos"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

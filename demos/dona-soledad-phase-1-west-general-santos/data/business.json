@@ -1,0 +1,50 @@
+{
+    "business_name": "Dona Soledad Phase 1 West",
+    "source_business_name": "Dona Soledad Phase 1 West",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639295274523",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nLot 8, Doña Soledad Subdivision, Phase 1, Block 18, Philippines",
+    "city": "General Santos",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Do%C3%B1a+Soledad+Phase+1+West/data=!4m7!3m6!1s0x32f79f2d11b0d489:0x671df2e00cfeee52!8m2!3d6.1145381!4d125.1419042!16s%2Fg%2F11szjvnqrp!19sChIJidSwES2f9zIRUu7-DODyHWc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "General Santos"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

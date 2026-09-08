@@ -1,0 +1,50 @@
+{
+    "business_name": "Marduk-Gugma Realty And Dev Corporation",
+    "source_business_name": "Marduk-Gugma Realty And Dev Corporation",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639271137926",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n2nd floor, Dacera Avenue(Mabuhay road, Yumang St, General Santos City (Dadiangas), 9500 South Cotabato, Philippines",
+    "city": "General Santos",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Marduk-Gugma+Realty+and+Dev.+Corporation/data=!4m7!3m6!1s0x32f79fd7df3b6061:0x65ad2e7fa45c50cf!8m2!3d6.1327566!4d125.160361!16s%2Fg%2F11yn_3ftps!19sChIJYWA739ef9zIRz1BcpH8urWU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "General Santos"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

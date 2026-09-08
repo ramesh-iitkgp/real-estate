@@ -1,0 +1,50 @@
+{
+    "business_name": "Filipino Homes General Santos City",
+    "source_business_name": "Filipino Homes General Santos City",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639985673503",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://filipinohomes.com/",
+    "address": "\nJP, 9500 Pres. Jose P. Laurel Ave, General Santos City (Dadiangas), 9500 South Cotabato, Philippines",
+    "city": "General Santos",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "4.3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Filipino+Homes+General+Santos+City/data=!4m7!3m6!1s0x32f79fa670de0da1:0xa337518a5ed500c9!8m2!3d6.1166387!4d125.1758338!16s%2Fg%2F11c1p54cbp!19sChIJoQ3ecKaf9zIRyQDVXopRN6M?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "General Santos"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

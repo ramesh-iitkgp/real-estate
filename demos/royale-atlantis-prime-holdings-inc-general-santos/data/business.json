@@ -1,0 +1,50 @@
+{
+    "business_name": "Royale Atlantis Prime Holdings Inc",
+    "source_business_name": "Royale Atlantis Prime Holdings Inc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639770158620",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n4579+C2C, President Manuel Quezon Ave, General Santos City (Dadiangas), 9500 South Cotabato, Philippines",
+    "city": "General Santos",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "4.3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Royale+Atlantis+Prime+Holdings,+Inc./data=!4m7!3m6!1s0x32f79fde96af7987:0x755aa7ec7c581e7b!8m2!3d6.1135632!4d125.167526!16s%2Fg%2F11nmph1yc5!19sChIJh3mvlt6f9zIRex5YfOynWnU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "General Santos"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

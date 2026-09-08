@@ -1,0 +1,50 @@
+{
+    "business_name": "Caza Chlozo Apartment Rental",
+    "source_business_name": "Caza Chlozo Apartment Rental",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639381156376",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nBlock 2, Purok Malakas, Guevarra subdivison, San Isidro (Lagao 2nd), General Santos City (Dadiangas), 9500 South Cotabato, Philippines",
+    "city": "General Santos",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Caza+ChloZo+Apartment+Rental/data=!4m7!3m6!1s0x32f79f2b5a2594ab:0xd927a18d9e1dd12b!8m2!3d6.1394236!4d125.1724593!16s%2Fg%2F11tfmzrggn!19sChIJq5QlWiuf9zIRK9Edno2hJ9k?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "General Santos"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

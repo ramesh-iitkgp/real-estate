@@ -1,0 +1,50 @@
+{
+    "business_name": "Aarca Homesph Real Estate Brokerage Services",
+    "source_business_name": "Aarca Homesph Real Estate Brokerage Services",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639776000978",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nQuirino Avenue, Cor Laurel St, General Santos City (Dadiangas), 9500 South Cotabato, Philippines",
+    "city": "General Santos",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/A.ARCA+HomesPH+Real+Estate+Brokerage+Services/data=!4m7!3m6!1s0x32f79f76cdcd0ed9:0x7ad09cf4798c0df1!8m2!3d6.116467!4d125.1756733!16s%2Fg%2F11wwh8s8s5!19sChIJ2Q7NzXaf9zIR8Q2MefSc0Ho?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "General Santos"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

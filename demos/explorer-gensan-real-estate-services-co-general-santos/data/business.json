@@ -1,0 +1,50 @@
+{
+    "business_name": "Explorer Gensan Real Estate Services Co",
+    "source_business_name": "Explorer Gensan Real Estate Services Co",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639562879115",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n2F, Yusepeng Building, 2 National Highway, General Santos City (Dadiangas), 9500 South Cotabato, Philippines",
+    "city": "General Santos",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Explorer+Gensan+Real+Estate+Services+Co./data=!4m7!3m6!1s0x32f79fdc680790ef:0x75c73c5c0692888f!8m2!3d6.1192542!4d125.1667375!16s%2Fg%2F11ntsm15t5!19sChIJ75AHaNyf9zIRj4iSBlw8x3U?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "General Santos"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
