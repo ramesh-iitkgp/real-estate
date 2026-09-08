@@ -1,0 +1,50 @@
+{
+    "business_name": "Eleve Homes",
+    "source_business_name": "Eleve Homes",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639614387483",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nCorner Monticello Road, Baguio, Benguet, Philippines",
+    "city": "Baguio",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "4.5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Elev%C3%A9+Homes+Baguio/data=!4m7!3m6!1s0x3391a166b6794a63:0x540960154caaef74!8m2!3d16.3800471!4d120.6050185!16s%2Fg%2F11f64k1pdq!19sChIJY0p5tmahkTMRdO-qTBVgCVQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Baguio"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

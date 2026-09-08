@@ -1,0 +1,50 @@
+{
+    "business_name": "City Staycationers",
+    "source_business_name": "City Staycationers",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639770053777",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nMontinola Street, Kisad Rd, Baguio, 2600 Benguet, Philippines",
+    "city": "Baguio",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/City+Staycationers+Baguio/data=!4m7!3m6!1s0x3391a1e04ee1334d:0xc846ac8b74760b80!8m2!3d16.404265!4d120.5942215!16s%2Fg%2F11vsh390f5!19sChIJTTPhTuChkTMRgAt2dIusRsg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Baguio"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

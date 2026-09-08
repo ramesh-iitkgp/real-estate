@@ -1,0 +1,50 @@
+{
+    "business_name": "Baguio Realtyph",
+    "source_business_name": "Baguio Realtyph",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639513177277",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n4, Megatower Residences, Unit 2F-25, corner Tecson St, Baguio, 2600 Benguet, Philippines",
+    "city": "Baguio",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Baguio+Realtyph/data=!4m7!3m6!1s0x3391a1812ad20a3d:0xa31be9391ea391a7!8m2!3d16.412548!4d120.6004704!16s%2Fg%2F11vyt_hwd5!19sChIJPQrSKoGhkTMRp5GjHjnpG6M?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Baguio"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Overlooking Baguio Family House",
+    "source_business_name": "Overlooking Baguio Family House",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639687712033",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n9HM9+CPM, Baguio, Benguet, Philippines",
+    "city": "Baguio",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "4.5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Overlooking+Baguio+Family+House/data=!4m7!3m6!1s0x3391a168585634f5:0x86bd6ff2dd0e5e52!8m2!3d16.3835889!4d120.5692833!16s%2Fg%2F11rsf09jkb!19sChIJ9TRWWGihkTMRUl4O3fJvvYY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Baguio"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Aaa Real Estate",
+    "source_business_name": "Aaa Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "63744480095",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n9HVQ+46J, Ironwood Street, Bakakeng Norte,, Baguio, Benguet, Philippines",
+    "city": "Baguio",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/AAA+Real+Estate+Baguio/data=!4m7!3m6!1s0x3391a11a823da0cd:0x99afd15510ee7fd5!8m2!3d16.3928259!4d120.5880019!16s%2Fg%2F11c5t42lzy!19sChIJzaA9ghqhkTMR1X_uEFXRr5k?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Baguio"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
