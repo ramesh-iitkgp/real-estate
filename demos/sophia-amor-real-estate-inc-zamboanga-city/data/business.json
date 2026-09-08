@@ -1,0 +1,50 @@
+{
+    "business_name": "Sophia Amor Real Estate Inc",
+    "source_business_name": "Sophia Amor Real Estate Inc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639162566417",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n3RD FLOOR, A.J.S. Building, N S Valderosa St, Zamboanga City, 7000 Zamboanga del Sur, Philippines",
+    "city": "Zamboanga City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Sophia+Amor+Real+Estate+Inc./data=!4m7!3m6!1s0x32506b615b7b6a6f:0x80f4ead8810e33ca!8m2!3d6.9024671!4d122.0791081!16s%2Fg%2F11q2dd9s65!19sChIJb2p7W2FrUDIRyjMOgdjq9IA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Zamboanga City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

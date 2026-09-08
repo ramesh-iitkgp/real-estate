@@ -1,0 +1,50 @@
+{
+    "business_name": "Jmd Realty & Dev'T",
+    "source_business_name": "Jmd Realty & Dev'T",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639176292964",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nW4Q5+WV7, Lumiyap Rd, Zamboanga City, Zamboanga del Sur, Philippines",
+    "city": "Zamboanga City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/JMD+Realty+%26+Dev%27t/data=!4m7!3m6!1s0x3250430027900007:0x88db0d752953bc7f!8m2!3d6.9397761!4d122.1096726!16s%2Fg%2F11yfp4jpcn!19sChIJBwCQJwBDUDIRf7xTKXUN24g?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Zamboanga City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

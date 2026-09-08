@@ -1,0 +1,50 @@
+{
+    "business_name": "Saavelo Winland Real Estate Services",
+    "source_business_name": "Saavelo Winland Real Estate Services",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639664035926",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nOrchid Drive, Guiwan, Zamboanga City, 7000 Zamboanga del Sur, Philippines",
+    "city": "Zamboanga City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/SAAVELO+WINLAND+REAL+ESTATE+SERVICES/data=!4m7!3m6!1s0x325043ccead59955:0xaa730bccf297ccdc!8m2!3d6.9317158!4d122.0920358!16s%2Fg%2F11s4dpt8kz!19sChIJVZnV6sxDUDIR3MyX8swLc6o?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Zamboanga City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

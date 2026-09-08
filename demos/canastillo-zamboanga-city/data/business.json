@@ -1,0 +1,50 @@
+{
+    "business_name": "Canastillo",
+    "source_business_name": "Canastillo",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639177108647",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n30-B Canastillo Alley, Maria Clara Lorenzo Lobregat Hwy, Zamboanga City, Zamboanga del Sur, Philippines",
+    "city": "Zamboanga City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "4.5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Canastillo/data=!4m7!3m6!1s0x325043bd4ef0eb2f:0x982710214c1e1a1!8m2!3d6.934825!4d122.0924458!16s%2Fg%2F11hfskzwty!19sChIJL-vwTr1DUDIRoeHBFAJxggk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Zamboanga City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
