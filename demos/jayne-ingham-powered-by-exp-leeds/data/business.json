@@ -1,0 +1,50 @@
+{
+    "business_name": "Jayne Ingham Powered By Exp",
+    "source_business_name": "Jayne Ingham Powered By Exp",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "447889687508",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://jayneingham.exp.uk.com/",
+    "address": "",
+    "city": "Leeds",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jayne+Ingham+Powered+by+eXp/data=!4m7!3m6!1s0xa734190990b260fb:0x14a3f9cc3ff5982b!8m2!3d53.7586066!4d-1.5116812!16s%2Fg%2F11w7ghj4__!19sChIJ-2CykAkZNKcRK5j1P8z5oxQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Leeds"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

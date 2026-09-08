@@ -1,0 +1,50 @@
+{
+    "business_name": "Cityrise",
+    "source_business_name": "Cityrise",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "443303010205",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.cityrise.co.uk/",
+    "address": "\n5, St Davids Court, David St, Holbeck, Leeds LS11 5QA, United Kingdom",
+    "city": "Leeds",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/CityRise/data=!4m7!3m6!1s0x48795fb6ce9f5fb1:0xe90eae4b0167ae66!8m2!3d53.7912146!4d-1.5507284!16s%2Fg%2F11jf_83hyd!19sChIJsV-fzrZfeUgRZq5nAUuuDuk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Leeds"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

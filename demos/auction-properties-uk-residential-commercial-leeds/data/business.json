@@ -1,0 +1,50 @@
+{
+    "business_name": "Auction Properties Uk - Residential & Commercial",
+    "source_business_name": "Auction Properties Uk - Residential & Commercial",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "448000246216",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n183 Meanwood Rd, Leeds LS7 1NB, United Kingdom",
+    "city": "Leeds",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Auction+Properties+UK+-+Residential+%26+Commercial/data=!4m7!3m6!1s0x48795d8249f2ecc7:0x473e43648325aa7d!8m2!3d53.8114959!4d-1.5423256!16s%2Fg%2F11fkrnldm6!19sChIJx-zySYJdeUgRfaolg2RDPkc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Leeds"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

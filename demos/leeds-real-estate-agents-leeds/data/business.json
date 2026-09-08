@@ -1,0 +1,50 @@
+{
+    "business_name": "Leeds Real Estate Agents",
+    "source_business_name": "Leeds Real Estate Agents",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "441133204317",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nPark Row, Leeds LS1 5HD, United Kingdom",
+    "city": "Leeds",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Leeds+Real+Estate+Agents/data=!4m7!3m6!1s0x48795d266b4e7d2f:0x53e5cd089255e436!8m2!3d53.798647!4d-1.5466411!16s%2Fg%2F11h8w5qxt8!19sChIJL31OayZdeUgRNuRVkgjN5VM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Leeds"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
