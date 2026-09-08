@@ -1,0 +1,50 @@
+{
+    "business_name": "Ethekwini Real Estate Valuation Roll",
+    "source_business_name": "Ethekwini Real Estate Valuation Roll",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "27313114340",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nFifth Floor, Embassy Building, 199 Anton Lembede St, Durban, 4000, South Africa",
+    "city": "Durban",
+    "state": "",
+    "country": "South Africa",
+    "currency_symbol": "R",
+    "currency_code": "ZAR",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Ethekwini+REAL+ESTATE+Valuation+Roll/data=!4m7!3m6!1s0x1ef7a99050ec20ad:0xe0518b06a2907c76!8m2!3d-29.8590434!4d31.0286483!16s%2Fg%2F11fmsfmr6f!19sChIJrSDsUJCp9x4RdnyQogaLUeA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Durban"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

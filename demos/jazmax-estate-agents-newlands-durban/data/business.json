@@ -1,0 +1,50 @@
+{
+    "business_name": "Jazmax Estate Agents Newlands",
+    "source_business_name": "Jazmax Estate Agents Newlands",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "27315771997",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.property24.com/estate-agents/jazmax-newlands/23448",
+    "address": "\nParlock, 460 Inanda Rd, Newlands, Durban, 4037, South Africa",
+    "city": "Durban",
+    "state": "",
+    "country": "South Africa",
+    "currency_symbol": "R",
+    "currency_code": "ZAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/JAZMAX+ESTATE+AGENTS+NEWLANDS/data=!4m7!3m6!1s0x1ef701468271d957:0xc8f1349ac094abdf!8m2!3d-29.799111!4d30.9808825!16s%2Fg%2F1pzygs4hb!19sChIJV9lxgkYB9x4R36uUwJo08cg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Durban"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

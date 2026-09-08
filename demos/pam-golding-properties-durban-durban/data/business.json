@@ -1,0 +1,50 @@
+{
+    "business_name": "Pam Golding Properties",
+    "source_business_name": "Pam Golding Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "27313086700",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.pamgolding.co.za/contact-us/office-details/durban/861",
+    "address": "\nSte 201, Florida Fields, 295 Florida Rd, Morningside, Durban, 4001, South Africa",
+    "city": "Durban",
+    "state": "",
+    "country": "South Africa",
+    "currency_symbol": "R",
+    "currency_code": "ZAR",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Pam+Golding+Properties+Durban/data=!4m7!3m6!1s0x1ef7076301c721dd:0x162298e63e55e5dc!8m2!3d-29.8300665!4d31.0123877!16s%2Fg%2F1ptzlqgzq!19sChIJ3SHHAWMH9x4R3OVVPuaYIhY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Durban"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/pamgoldingdurban/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

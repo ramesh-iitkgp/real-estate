@@ -1,0 +1,50 @@
+{
+    "business_name": "Urban Lime",
+    "source_business_name": "Urban Lime",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "27319413980",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n20th Floor, Durban Club Chambers, 5 Durban Club Pl, Durban Central, Durban, 4001, South Africa",
+    "city": "Durban",
+    "state": "",
+    "country": "South Africa",
+    "currency_symbol": "R",
+    "currency_code": "ZAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Urban+Lime+Durban/data=!4m7!3m6!1s0x1ef7a9b7d9e144f7:0x66be2ff3ef6c5cf!8m2!3d-29.8598753!4d31.0240956!16s%2Fg%2F11s50knymm!19sChIJ90Th2bep9x4Rz8X2Pv_iawY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Durban"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

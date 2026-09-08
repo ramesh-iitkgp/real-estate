@@ -1,0 +1,50 @@
+{
+    "business_name": "Modern Estate Agents",
+    "source_business_name": "Modern Estate Agents",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "27312689800",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.africanadvice.com/1321839/Real_Estate_Brokers_And_Agencies/Durban/Modern_Estate_Agents/",
+    "address": "\n101 Dr RD Naidu Dr, Springfield, Durban, 4091, South Africa",
+    "city": "Durban",
+    "state": "",
+    "country": "South Africa",
+    "currency_symbol": "R",
+    "currency_code": "ZAR",
+    "opening_hours": "",
+    "rating": "3.3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Modern+Estate+Agents/data=!4m7!3m6!1s0x1ef707360cfbdab5:0xa46dd22e23ed0cdc!8m2!3d-29.824449!4d30.9939561!16s%2Fg%2F1pzs_9d_z!19sChIJtdr7DDYH9x4R3AztIy7SbaQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Durban"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Africaprop",
+    "source_business_name": "Africaprop",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "27832419799",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nDurban Central, Durban, 4000, South Africa",
+    "city": "Durban",
+    "state": "",
+    "country": "South Africa",
+    "currency_symbol": "R",
+    "currency_code": "ZAR",
+    "opening_hours": "",
+    "rating": "3.3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Africaprop/data=!4m7!3m6!1s0x1ef7a9c93e8dc487:0x75b8d0705a87d377!8m2!3d-29.8549!4d31.026055!16s%2Fg%2F1tp4lhn2!19sChIJh8SNPsmp9x4Rd9OHWnDQuHU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Durban"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

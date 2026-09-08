@@ -1,0 +1,50 @@
+{
+    "business_name": "Craig Rimmer - Real Estate Agent - Tyson Properties",
+    "source_business_name": "Craig Rimmer - Real Estate Agent - Tyson Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "27731361000",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.tysonprop.co.za/results/agent/99/?s=-date_added",
+    "address": "",
+    "city": "Durban",
+    "state": "",
+    "country": "South Africa",
+    "currency_symbol": "R",
+    "currency_code": "ZAR",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Craig+Rimmer+-+Real+Estate+Agent+-+Tyson+Properties+Durban/data=!4m7!3m6!1s0x63cce8c6b6f5bf7:0x50fb2144d2dbe95!8m2!3d-29.8513706!4d30.9945684!16s%2Fg%2F11xf354m4m!19sChIJ91tva4zOPAYRlb4tTRSyDwU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Durban"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/craig.rimmer1/reels/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

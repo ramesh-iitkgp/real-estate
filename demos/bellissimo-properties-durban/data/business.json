@@ -1,0 +1,50 @@
+{
+    "business_name": "Bellissimo Properties",
+    "source_business_name": "Bellissimo Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "27814943294",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n40 Russell St, Durban Central, Durban, 4001, South Africa",
+    "city": "Durban",
+    "state": "",
+    "country": "South Africa",
+    "currency_symbol": "R",
+    "currency_code": "ZAR",
+    "opening_hours": "",
+    "rating": "3.3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Bellissimo+Properties/data=!4m7!3m6!1s0x1ef7a9bcac431b39:0x9478c180539a2d02!8m2!3d-29.8634567!4d31.0165209!16s%2Fg%2F11h818lmfc!19sChIJORtDrLyp9x4RAi2aU4DBeJQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Durban"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

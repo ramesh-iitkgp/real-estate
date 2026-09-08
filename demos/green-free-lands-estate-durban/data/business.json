@@ -1,0 +1,50 @@
+{
+    "business_name": "Green Free Lands Estate",
+    "source_business_name": "Green Free Lands Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "27637510685",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nBeach Hotel, 107 Marine Parade, South Beach, Durban, 4001, South Africa",
+    "city": "Durban",
+    "state": "",
+    "country": "South Africa",
+    "currency_symbol": "R",
+    "currency_code": "ZAR",
+    "opening_hours": "",
+    "rating": "3.3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Green+Free+Lands+Estate/data=!4m7!3m6!1s0x1ef7a92363502709:0xbfcacfa512ff9e7c!8m2!3d-29.855534!4d31.038814!16s%2Fg%2F11ll_6tp1y!19sChIJCSdQYyOp9x4RfJ7_EqXPyr8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Durban"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/freelandsfoundation/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

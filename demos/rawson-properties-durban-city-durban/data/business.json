@@ -1,0 +1,50 @@
+{
+    "business_name": "Rawson Properties Durban City",
+    "source_business_name": "Rawson Properties Durban City",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "27313093385",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://rawson.co.za/offices/durban-city?utm_source=google_maps&utm_medium=website_button&utm_campaign=rawson&utm_content=SP",
+    "address": "\n191 Marine Parade, North Beach, Durban, 4001, South Africa",
+    "city": "Durban",
+    "state": "",
+    "country": "South Africa",
+    "currency_symbol": "R",
+    "currency_code": "ZAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Rawson+Properties+Durban+City/data=!4m7!3m6!1s0x1ef7a83440be5eb5:0x9e44c4abf5bb84df!8m2!3d-29.8522981!4d31.0377351!16s%2Fg%2F11dxk9mmll!19sChIJtV6-QDSo9x4R34S79avERJ4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Durban"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

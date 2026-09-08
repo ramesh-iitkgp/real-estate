@@ -1,0 +1,50 @@
+{
+    "business_name": "The Gables",
+    "source_business_name": "The Gables",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "27618969522",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n174 Victoria Embankment, Durban Central, Durban, 4001, South Africa",
+    "city": "Durban",
+    "state": "",
+    "country": "South Africa",
+    "currency_symbol": "R",
+    "currency_code": "ZAR",
+    "opening_hours": "",
+    "rating": "3.3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/The+Gables/data=!4m7!3m6!1s0x1ef7a9b922000dbd:0xb12bba580a97640f!8m2!3d-29.8640398!4d31.0176645!16s%2Fg%2F11b6v61837!19sChIJvQ0AIrmp9x4RD2SXCli6K7E?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Durban"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

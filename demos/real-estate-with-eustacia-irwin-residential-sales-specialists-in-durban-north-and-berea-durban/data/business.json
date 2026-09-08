@@ -1,0 +1,50 @@
+{
+    "business_name": "Real Estate With Eustacia & Irwin - Residential Sales Specialists In Durban North And Berea",
+    "source_business_name": "Real Estate With Eustacia & Irwin - Residential Sales Specialists In Durban North And Berea",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "27829742631",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nSuite 6, The Manor House, 14 Nuttall Gardens, Morningside, Durban, 4001, South Africa",
+    "city": "Durban",
+    "state": "",
+    "country": "South Africa",
+    "currency_symbol": "R",
+    "currency_code": "ZAR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Real+Estate+with+Eustacia+%26+Irwin+-+Residential+Sales+Specialists+in+Durban+North+and+Berea/data=!4m7!3m6!1s0x1ef70744b308bcbb:0xa2f7f16b29526bc8!8m2!3d-29.8271508!4d31.0131046!16s%2Fg%2F11lf1xp4cy!19sChIJu7wIs0QH9x4RyGtSKWvx96I?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Durban"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
