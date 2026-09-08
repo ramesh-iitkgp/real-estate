@@ -1,0 +1,50 @@
+{
+    "business_name": "Cesnav Realty",
+    "source_business_name": "Cesnav Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639175139984",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nBgy, Camella Homes Subdivision, Alangilan, Batangas City, 4200 Batangas, Philippines",
+    "city": "Batangas City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "4.3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Cesnav+Realty/data=!4m7!3m6!1s0x33bd0fe5536bc6a5:0x9df42f1883cc0a6a!8m2!3d13.7805279!4d121.0702001!16s%2Fg%2F11dyb9pnw3!19sChIJpcZrU-UPvTMRagrMgxgv9J0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Batangas City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

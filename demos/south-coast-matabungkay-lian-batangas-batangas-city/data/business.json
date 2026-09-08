@@ -1,0 +1,50 @@
+{
+    "business_name": "South Coast Matabungkay Lian Batangas",
+    "source_business_name": "South Coast Matabungkay Lian Batangas",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639276493464",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nMatabungkay Rd, Lian, 4216 Batangas, Philippines",
+    "city": "Batangas City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/South+Coast+Matabungkay+Lian+Batangas/data=!4m7!3m6!1s0x33bdbf06685631b3:0xb1adf6938826d821!8m2!3d13.9408935!4d120.617202!16s%2Fg%2F11h0mdt9xv!19sChIJszFWaAa_vTMRIdgmiJP2rbE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Batangas City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

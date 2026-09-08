@@ -1,0 +1,50 @@
+{
+    "business_name": "Aurora Realty Office",
+    "source_business_name": "Aurora Realty Office",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "63437232973",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n1033 National Road, Bolbok, Batangas City, Batangas, Philippines",
+    "city": "Batangas City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Aurora+Realty+Office/data=!4m7!3m6!1s0x33bd05423b5462e5:0x1ffdc5b720d27715!8m2!3d13.7598652!4d121.058246!16s%2Fg%2F1hg4s7v_z!19sChIJ5WJUO0IFvTMRFXfSILfF_R8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Batangas City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

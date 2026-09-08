@@ -1,0 +1,50 @@
+{
+    "business_name": "Beredoprime Properties Inc",
+    "source_business_name": "Beredoprime Properties Inc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "63437734770",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nQ3Q9+3V9 Brgy, National Road, Batangas City, 4200 Batangas, Philippines",
+    "city": "Batangas City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "4.3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/BeredoPrime+Properties,+Inc./data=!4m7!3m6!1s0x33bd0fe5dc906e89:0x9a15392ef676c49e!8m2!3d13.7876587!4d121.0697447!16s%2Fg%2F11df5f6glc!19sChIJiW6Q3OUPvTMRnsR29i45FZo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Batangas City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

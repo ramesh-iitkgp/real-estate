@@ -1,0 +1,50 @@
+{
+    "business_name": "Lessandra Tanauan",
+    "source_business_name": "Lessandra Tanauan",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639989681490",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nBrgy Hidalgo, Tanauan City, 4234 Batangas, Philippines",
+    "city": "Batangas City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Lessandra+Tanauan/data=!4m7!3m6!1s0x33bd65cbee36fd5f:0x50f27a5f72f9f61d!8m2!3d14.0693649!4d121.1406388!16s%2Fg%2F11gl2255rj!19sChIJX_027stlvTMRHfb5cl968lA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Batangas City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Forbes Estates Lipa By Robinsons Land",
+    "source_business_name": "Forbes Estates Lipa By Robinsons Land",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639454831500",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.forbesestates.ph/",
+    "address": "\nPresident Jose P. Laurel Hwy, Lipa City, Batangas, Philippines",
+    "city": "Batangas City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Forbes+Estates+Lipa+by+Robinsons+Land/data=!4m7!3m6!1s0x33bd6d708311c457:0x6c0fb9c6625773fb!8m2!3d13.9752875!4d121.1672281!16s%2Fg%2F11p4ttqw22!19sChIJV8QRg3BtvTMR-3NXYsa5D2w?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Batangas City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

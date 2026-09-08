@@ -1,0 +1,50 @@
+{
+    "business_name": "Blue King Summit Bks Apartments",
+    "source_business_name": "Blue King Summit Bks Apartments",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639297811218",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nSM, Quino, South Exit, Batangas City, 4200 Batangas, Philippines",
+    "city": "Batangas City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Blue+King+Summit+%28BKS%29+Apartments/data=!4m7!3m6!1s0x33bd051d50a492d1:0x8a1fbbd468a0444e!8m2!3d13.756891!4d121.0663966!16s%2Fg%2F11m88j9rl1!19sChIJ0ZKkUB0FvTMRTkSgaNS7H4o?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Batangas City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

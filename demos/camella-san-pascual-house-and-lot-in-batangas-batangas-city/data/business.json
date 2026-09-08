@@ -1,0 +1,50 @@
+{
+    "business_name": "Camella San Pascual House And Lot In Batangas",
+    "source_business_name": "Camella San Pascual House And Lot In Batangas",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639284744975",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nBrgy, Alalum, San Pascual, 4204 Batangas, Philippines",
+    "city": "Batangas City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "4.3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Camella+San+Pascual+%7C+House+and+Lot+in+Batangas/data=!4m7!3m6!1s0x33bd0fc88e5c1609:0x62c30ab9aae9a50c!8m2!3d13.8141297!4d121.0224211!16s%2Fg%2F11qpwr0wx9!19sChIJCRZcjsgPvTMRDKXpqrkKw2I?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Batangas City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

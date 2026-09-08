@@ -1,0 +1,50 @@
+{
+    "business_name": "Albert B Albaytar Real Estate Agent La Miraflor Realty Inc",
+    "source_business_name": "Albert B Albaytar Real Estate Agent La Miraflor Realty Inc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639168678652",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nSan Antonio Homes, Block 10 Lot 11 Malvar St, Brgy Bolbok, Lipa City, 4217 Batangas, Philippines",
+    "city": "Batangas City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Albert+B.+Albaytar+%7C+Real+Estate+Agent+%7C+La+MiraFlor+Realty,+Inc/data=!4m7!3m6!1s0x33bd134875ce66ef:0xc122dd18976abb78!8m2!3d13.923304!4d121.1462066!16s%2Fg%2F11j60_4v1f!19sChIJ72bOdUgTvTMReLtqlxjdIsE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Batangas City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

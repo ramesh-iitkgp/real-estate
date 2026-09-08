@@ -1,0 +1,50 @@
+{
+    "business_name": "Ehm Realty & Development Corporation",
+    "source_business_name": "Ehm Realty & Development Corporation",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639944842534",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.ehmrealty.net/",
+    "address": "\nGen. Luna St, Sabang, Lipa City, 4217 Batangas, Philippines",
+    "city": "Batangas City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/EHM+Realty+%26+Development+Corporation/data=!4m7!3m6!1s0x33bd6dd8978b7fab:0x952d0357feea889b!8m2!3d13.9510113!4d121.1653962!16s%2Fg%2F11vwwy3572!19sChIJq3-Ll9htvTMRm4jq_lcDLZU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Batangas City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

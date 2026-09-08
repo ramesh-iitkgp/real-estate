@@ -1,0 +1,50 @@
+{
+    "business_name": "Ac Realon Developer & Resource Enterprises Inc",
+    "source_business_name": "Ac Realon Developer & Resource Enterprises Inc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "63437232565",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nQ2FX+G27, National Raod, Barangay, Bolbok, Batangas City, 4200 Batangas, Philippines",
+    "city": "Batangas City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "4.3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/AC+Realon+Developer+%26+Resource+Enterprises,+Inc./data=!4m7!3m6!1s0x33bd0562feb39ae7:0xc258d3c5e330acbc!8m2!3d13.7737984!4d121.047549!16s%2Fg%2F11c1v0zhnq!19sChIJ55qz_mIFvTMRvKww48XTWMI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Batangas City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
