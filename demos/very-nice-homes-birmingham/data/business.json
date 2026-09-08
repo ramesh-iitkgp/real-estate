@@ -1,0 +1,50 @@
+{
+    "business_name": "Very Nice Homes",
+    "source_business_name": "Very Nice Homes",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "441214404000",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://verynicehomes.co.uk/",
+    "address": "\n1B Station Rd, King's Heath, Birmingham B14 7SR, United Kingdom",
+    "city": "Birmingham",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "4.4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Very+Nice+Homes/data=!4m7!3m6!1s0x4870bdbc69192b45:0x56ced123c8ce2717!8m2!3d52.4372913!4d-1.8931074!16s%2Fg%2F11hz2l57w2!19sChIJRSsZaby9cEgRFyfOyCPRzlY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Birmingham"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

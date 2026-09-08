@@ -1,0 +1,50 @@
+{
+    "business_name": "Foster Lewis & Co",
+    "source_business_name": "Foster Lewis & Co",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "024 7659 2929",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n135 Sutton Avenue, COVENTRY CV5 7ER",
+    "city": "Birmingham",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Foster+Lewis+%26+Co/data=!4m7!3m6!1s0x48774b750d90b355:0xd2ce52e31c33c8d2!8m2!3d52.415637!4d-1.592732!16s%2Fg%2F1tj2bhr4!19sChIJVbOQDXVLd0gR0sgzHONSztI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Birmingham"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

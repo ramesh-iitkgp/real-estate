@@ -1,0 +1,50 @@
+{
+    "business_name": "Hatt And Green Estates",
+    "source_business_name": "Hatt And Green Estates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "441212400040",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n146 Brearley St, Birmingham B19 3XJ, United Kingdom",
+    "city": "Birmingham",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "4",
+    "google_maps_url": "https://www.google.com/maps/place/Hatt+and+Green+Estates/data=!4m7!3m6!1s0x4870bd03ddd21f77:0xe814d075e6c330c3!8m2!3d52.4915904!4d-1.9010921!16s%2Fg%2F11m_7rc3ms!19sChIJdx_S3QO9cEgRwzDD5nXQFOg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Birmingham"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

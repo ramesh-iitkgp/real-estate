@@ -1,0 +1,50 @@
+{
+    "business_name": "Jacobs Real Estate",
+    "source_business_name": "Jacobs Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "441216303132",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.jacobsrealestate.co.uk/",
+    "address": "\n4 Cross Ln, Birmingham B43 6LN, United Kingdom",
+    "city": "Birmingham",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jacobs+Real+Estate/data=!4m7!3m6!1s0x4870a3fd570020e3:0x46d84e29554a963a!8m2!3d52.5472794!4d-1.9352628!16s%2Fg%2F11rxknjyzf!19sChIJ4yAAV_2jcEgROpZKVSlO2EY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Birmingham"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

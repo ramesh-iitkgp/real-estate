@@ -1,0 +1,50 @@
+{
+    "business_name": "Vail Williams",
+    "source_business_name": "Vail Williams",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "441216541065",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.vailwilliams.com/region/midlands-and-north/birmingham/",
+    "address": "\nedmund house, 12-22 Newhall St, Birmingham B3 3EF, United Kingdom",
+    "city": "Birmingham",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Vail+Williams+Birmingham/data=!4m7!3m6!1s0x4870bcf6c87c58bf:0xae3bc47bea708ed7!8m2!3d52.4812168!4d-1.9021033!16s%2Fg%2F1tnhxs99!19sChIJv1h8yPa8cEgR145w6nvEO64?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Birmingham"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
