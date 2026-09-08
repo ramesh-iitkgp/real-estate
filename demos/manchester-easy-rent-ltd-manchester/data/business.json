@@ -1,0 +1,50 @@
+{
+    "business_name": "Manchester Easy Rent Ltd",
+    "source_business_name": "Manchester Easy Rent Ltd",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "447957901902",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n792 Wilmslow Rd, Didsbury, Manchester M20 6UG, United Kingdom",
+    "city": "Manchester",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Manchester+Easy+Rent+Ltd/data=!4m7!3m6!1s0x487bb25fdf261581:0x33e200dab3c86665!8m2!3d53.4147638!4d-2.2325419!16s%2Fg%2F1hc0sr_jf!19sChIJgRUm31-ye0gRZWbIs9oA4jM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Manchester"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

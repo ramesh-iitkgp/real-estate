@@ -1,0 +1,50 @@
+{
+    "business_name": "Acer Building - Square Gardens",
+    "source_business_name": "Acer Building - Square Gardens",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "0161 526 0200",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n5 Botanical Avenue, MANCHESTER M15 6AA",
+    "city": "Manchester",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Acer+Building+-+Square+Gardens/data=!4m7!3m6!1s0x487bb10000b76ded:0xacd5f94acbf40de8!8m2!3d53.471189!4d-2.24451!16s%2Fg%2F11vpnmhyp7!19sChIJ7W23AACxe0gR6A30y0r51aw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Manchester"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

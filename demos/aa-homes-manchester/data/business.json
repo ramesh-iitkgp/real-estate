@@ -1,0 +1,50 @@
+{
+    "business_name": "Aa Homes",
+    "source_business_name": "Aa Homes",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "447770281217",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n6, Surcon House, Copson St, Withington, Manchester M20 3HE, United Kingdom",
+    "city": "Manchester",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/AA+Homes/data=!4m7!3m6!1s0x487bb240bd8a90d3:0x16582092f2adeb63!8m2!3d53.4337495!4d-2.2297081!16s%2Fg%2F11cs6fg377!19sChIJ05CKvUCye0gRY-ut8pIgWBY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Manchester"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

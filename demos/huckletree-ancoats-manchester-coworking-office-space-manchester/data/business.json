@@ -1,0 +1,50 @@
+{
+    "business_name": "Huckletree Ancoats - Manchester Coworking & Office Space",
+    "source_business_name": "Huckletree Ancoats - Manchester Coworking & Office Space",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "441618060147",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://www.huckletree.com/office-space/ancoats",
+    "address": "\nThe Express Building, 9 Great Ancoats St, Ancoats, Greater, Manchester M4 5AD, United Kingdom",
+    "city": "Manchester",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Huckletree+Ancoats+-+Manchester+Coworking+%26+Office+Space/data=!4m7!3m6!1s0x487bb17d6d90fea7:0xd222bd485f7edb6a!8m2!3d53.4844027!4d-2.2317379!16s%2Fg%2F11h7v7f_1d!19sChIJp_6QbX2xe0gRatt-X0i9ItI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Manchester"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

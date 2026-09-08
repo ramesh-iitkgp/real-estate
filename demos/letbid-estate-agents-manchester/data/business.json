@@ -1,0 +1,50 @@
+{
+    "business_name": "Letbid Estate Agents",
+    "source_business_name": "Letbid Estate Agents",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "441612229650",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n174 Wilmslow Rd, Manchester M14 5LQ, United Kingdom",
+    "city": "Manchester",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "3.2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/LetBid+Estate+Agents/data=!4m7!3m6!1s0x487bb3bab8e50e53:0x6ab139be139ff5be!8m2!3d53.4515637!4d-2.2223146!16s%2Fg%2F11lt6k5mhc!19sChIJUw7luLqze0gRvvWfE745sWo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Manchester"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

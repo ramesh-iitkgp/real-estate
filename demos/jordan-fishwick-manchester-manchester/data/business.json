@@ -1,0 +1,50 @@
+{
+    "business_name": "Jordan Fishwick",
+    "source_business_name": "Jordan Fishwick",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "441618339499",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.jordanfishwick.co.uk/",
+    "address": "\n68 Whitworth St W, Manchester M1 5WQ, United Kingdom",
+    "city": "Manchester",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jordan+Fishwick+Manchester/data=!4m7!3m6!1s0x487bb1c292614c07:0xe97e432c41a458d!8m2!3d53.4738732!4d-2.2452807!16s%2Fg%2F1v_z3wsq!19sChIJB0xhksKxe0gRjUUaxDLklw4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Manchester"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

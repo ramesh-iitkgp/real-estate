@@ -1,0 +1,50 @@
+{
+    "business_name": "Jordan Fishwick Estate Agents & Letting Agents In Didsbury",
+    "source_business_name": "Jordan Fishwick Estate Agents & Letting Agents In Didsbury",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "441614454480",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.jordanfishwick.co.uk/",
+    "address": "\n757-759 Wilmslow Rd, Didsbury, Manchester M20 6RN, United Kingdom",
+    "city": "Manchester",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Jordan+Fishwick+Estate+Agents+%26+Letting+Agents+in+Didsbury/data=!4m7!3m6!1s0x487bb25e355ae5a5:0x2e402e9f09daa128!8m2!3d53.4155795!4d-2.231808!16s%2Fg%2F1txc6ldt!19sChIJpeVaNV6ye0gRKKHaCZ8uQC4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Manchester"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

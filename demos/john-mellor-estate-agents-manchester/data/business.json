@@ -1,0 +1,50 @@
+{
+    "business_name": "John Mellor Estate Agents",
+    "source_business_name": "John Mellor Estate Agents",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "441614424142",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "http://www.john-mellor.co.uk/",
+    "address": "\n182 Heaton Moor Rd, Heaton Moor, Stockport SK4 4DU, United Kingdom",
+    "city": "Manchester",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/John+Mellor+Estate+Agents/data=!4m7!3m6!1s0x487bb3a6bd036299:0x6243ffe63919c42c!8m2!3d53.418407!4d-2.1890505!16s%2Fg%2F1vpfj2qv!19sChIJmWIDvaaze0gRLMQZOeb_Q2I?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Manchester"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
