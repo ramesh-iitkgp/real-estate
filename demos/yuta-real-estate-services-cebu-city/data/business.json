@@ -1,0 +1,50 @@
+{
+    "business_name": "Yuta Real Estate Services",
+    "source_business_name": "Yuta Real Estate Services",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639459806136",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n7VXX+9C4, Cebu City, 6000 Cebu, Philippines",
+    "city": "Cebu City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Yuta+Real+Estate+Services/data=!4m7!3m6!1s0x33a999b19a29e01b:0xd2224050613fbc8a!8m2!3d10.2992477!4d123.900998!16s%2Fg%2F11vkp_b3dz!19sChIJG-ApmrGZqTMRirw_YVBAItI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Cebu City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

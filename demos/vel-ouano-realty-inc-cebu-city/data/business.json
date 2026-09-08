@@ -1,0 +1,50 @@
+{
+    "business_name": "Vel Ouano Realty Inc",
+    "source_business_name": "Vel Ouano Realty Inc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "63323451426",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nL2&L3 , the North Atrium, M.C.Briones Street Corner A.S. Fortuna Street , 6014 Mandaue City , Cebu, Philippines",
+    "city": "Cebu City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Vel+Ouano+Realty,+Inc./data=!4m7!3m6!1s0x33a99854a793927f:0x68dc72dc9ab2434b!8m2!3d10.331978!4d123.935913!16s%2Fg%2F11bc7prlv7!19sChIJf5KTp1SYqTMRS0Oymtxy3Gg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Cebu City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Cebu Properties",
+    "source_business_name": "Cebu Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639177194777",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nUnit 4, Ground floor, Dionisio Jakosalem Street A. Geson Building, Dionisio Jakosalem St, Cebu City, 6000 Cebu, Philippines",
+    "city": "Cebu City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Cebu+Properties/data=!4m7!3m6!1s0x33a9995ba0abbbfb:0xcbf8018dfb9131c4!8m2!3d10.3050904!4d123.9002035!16s%2Fg%2F11h00944q!19sChIJ-7uroFuZqTMRxDGR-40B-Ms?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Cebu City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

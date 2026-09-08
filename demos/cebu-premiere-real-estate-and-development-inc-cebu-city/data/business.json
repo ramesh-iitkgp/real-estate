@@ -1,0 +1,50 @@
+{
+    "business_name": "Cebu Premiere Real Estate And Development Inc",
+    "source_business_name": "Cebu Premiere Real Estate And Development Inc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639175467393",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nUpper, Belmont One Mall, Cebu S Rd, Poblacion Ward III, Minglanilla, 6046 Cebu, Philippines",
+    "city": "Cebu City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Cebu+Premiere+Real+Estate+and+Development+Inc./data=!4m7!3m6!1s0x33a99d8d43eea3fb:0xa5244e8eb0394222!8m2!3d10.2476223!4d123.8001361!16s%2Fg%2F11kpgp3p3p!19sChIJ-6PuQ42dqTMRIkI5sI5OJKU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Cebu City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

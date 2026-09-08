@@ -1,0 +1,50 @@
+{
+    "business_name": "Sandie Cuenco - Licensed Realtor Real Estate Agent In",
+    "source_business_name": "Sandie Cuenco - Licensed Realtor Real Estate Agent In Cebu City",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639173014437",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "https://filipinohomes.com/agents/5723",
+    "address": "\nH, 133 Villa Aznar Rd, Urgello, Cebu City, 6000 Cebu, Philippines",
+    "city": "Cebu City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Sandie+Cuenco+-+Licensed+Realtor+%7C+Real+Estate+Agent+in+Cebu+City+Philippines/data=!4m7!3m6!1s0x2efa244a2720edbd:0xf1dea8c0c21f38e2!8m2!3d10.3038011!4d123.8926664!16s%2Fg%2F11z7ng8zqn!19sChIJve0gJ0ok-i4R4jgfwsCo3vE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Cebu City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

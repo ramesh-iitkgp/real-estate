@@ -1,0 +1,50 @@
+{
+    "business_name": "Cebu Central Realty Corporation",
+    "source_business_name": "Cebu Central Realty Corporation",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "63324177888",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n7VXW+F92, N. Bacalso Street, corner Leon Kilat Street, Cebu City, 6000 Cebu, Philippines",
+    "city": "Cebu City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Cebu+Central+Realty+Corporation/data=!4m7!3m6!1s0x33a99957ecaa41bb:0x4a2dd746cc0c2a51!8m2!3d10.2986385!4d123.8958927!16s%2Fg%2F1pzqmm9xv!19sChIJu0Gq7FeZqTMRUSoMzEbXLUo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Cebu City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

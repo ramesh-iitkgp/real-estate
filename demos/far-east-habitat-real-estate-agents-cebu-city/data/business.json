@@ -1,0 +1,50 @@
+{
+    "business_name": "Far East Habitat Real Estate Agents",
+    "source_business_name": "Far East Habitat Real Estate Agents",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "63322362202",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n8VCX+4VX, Eden's Place, C. Rosal St., Cebu City, 6000 Cebu, Philippines",
+    "city": "Cebu City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Far+East+Habitat+Real+Estate+Agents/data=!4m7!3m6!1s0x33a9993970ab384f:0x881b826d93f511ae!8m2!3d10.320355!4d123.8997441!16s%2Fg%2F11_tryxyl!19sChIJTzircDmZqTMRrhH1k22CG4g?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Cebu City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

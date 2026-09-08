@@ -1,0 +1,50 @@
+{
+    "business_name": "Real Estate Brokers Assoc Of The Phils Rebap Cebu Chapter",
+    "source_business_name": "Real Estate Brokers Assoc Of The Phils Rebap Cebu Chapter",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "63324029346",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nRM 201 Diez Building cor. F. Ramos and, V. Ranudo St, Sts, Cebu City, 6000 Cebu, Philippines",
+    "city": "Cebu City",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Real+Estate+Brokers+Assoc+of+the+Phils.+%28REBAP%29+Cebu+Chapter/data=!4m7!3m6!1s0x33a9995b05cac927:0x6f5a5796555b236d!8m2!3d10.3082375!4d123.8958177!16s%2Fg%2F11h8k18q1s!19sChIJJ8nKBVuZqTMRbSNbVZZXWm8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Cebu City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
