@@ -1,0 +1,50 @@
+{
+    "business_name": "Home Sale Online",
+    "source_business_name": "Home Sale Online",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "448005677050",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nAtlantic Chambers, 45 Hope St, Glasgow G2 6AE, United Kingdom",
+    "city": "Glasgow",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Home+Sale+Online/data=!4m7!3m6!1s0x4888469dd2b87ab3:0x6e9b46b3abe7fea1!8m2!3d55.8596302!4d-4.2594685!16s%2Fg%2F1tf7rq9m!19sChIJs3q40p1GiEgRof7nq7NGm24?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Glasgow"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

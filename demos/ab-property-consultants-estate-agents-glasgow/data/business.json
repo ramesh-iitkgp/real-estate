@@ -1,0 +1,50 @@
+{
+    "business_name": "Ab Property Consultants & Estate Agents",
+    "source_business_name": "Ab Property Consultants & Estate Agents",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "0141 773 4000",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n211 Glasgow Road, GLASGOW G69 6EZ",
+    "city": "Glasgow",
+    "state": "",
+    "country": "UK",
+    "currency_symbol": "£",
+    "currency_code": "GBP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/AB+Property+Consultants+%26+Estate+Agents/data=!4m7!3m6!1s0x48884194a97640a5:0xdc48468bf0a0b824!8m2!3d55.849734!4d-4.132077!16s%2Fg%2F11ckrcp3wn!19sChIJpUB2qZRBiEgRJLig8ItGSNw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Glasgow"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
