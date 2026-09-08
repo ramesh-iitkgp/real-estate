@@ -1,0 +1,50 @@
+{
+    "business_name": "Fatima West Plain Subdivision",
+    "source_business_name": "Fatima West Plain Subdivision",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639535695281",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nPagatpat, westplain, Cagayan De Oro City, 9000 Misamis Oriental, Philippines",
+    "city": "Cagayan de Oro",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Fatima+West+Plain+Subdivision/data=!4m7!3m6!1s0x32ff8b451b72594f:0xec8ca04460563bc9!8m2!3d8.4643749!4d124.5822502!16s%2Fg%2F11b6q7t0yp!19sChIJT1lyG0WL_zIRyTtWYESgjOw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Cagayan de Oro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

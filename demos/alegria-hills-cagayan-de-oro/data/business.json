@@ -1,0 +1,50 @@
+{
+    "business_name": "Alegria Hills",
+    "source_business_name": "Alegria Hills",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "63279083908",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nFM23+F3G, S Diversion Rd, Cagayan De Oro City, 9000 Misamis Oriental, Philippines",
+    "city": "Cagayan de Oro",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Alegria+Hills/data=!4m7!3m6!1s0x32ff8d3d6fc66ef5:0x56c382502151aef8!8m2!3d8.4513054!4d124.654471!16s%2Fg%2F1tctc3nt!19sChIJ9W7Gbz2N_zIR-K5RIVCCw1Y?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Cagayan de Oro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

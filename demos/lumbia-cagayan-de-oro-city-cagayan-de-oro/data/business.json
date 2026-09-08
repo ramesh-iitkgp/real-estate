@@ -1,0 +1,50 @@
+{
+    "business_name": "Lumbia Cagayan De Oro City",
+    "source_business_name": "Lumbia Cagayan De Oro City",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639634168654",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nCH6P+6CV, Lumbia, Cagayan De Oro City, Misamis Oriental, Philippines",
+    "city": "Cagayan de Oro",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Lumbia,+cagayan+de+oro+city/data=!4m7!3m6!1s0x32ff8b0070266efb:0x28392ff3396d74cf!8m2!3d8.4106179!4d124.5860608!16s%2Fg%2F11wqrd5qpl!19sChIJ-24mcACL_zIRz3RtOfMvOSg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Cagayan de Oro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

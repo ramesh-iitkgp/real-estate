@@ -1,0 +1,50 @@
+{
+    "business_name": "Jnc Real Estate Services",
+    "source_business_name": "Jnc Real Estate Services",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639063241768",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nGran Europa, Lumbia, Cagayan De Oro City, 9000 Misamis Oriental, Philippines",
+    "city": "Cagayan de Oro",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/JNC+Real+Estate+Services/data=!4m7!3m6!1s0x32ff8de939c940a9:0xb8f2234a1ee7c01e!8m2!3d8.4284349!4d124.6046798!16s%2Fg%2F11mrq5hvfg!19sChIJqUDJOemN_zIRHsDnHkoj8rg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Cagayan de Oro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

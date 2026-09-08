@@ -1,0 +1,50 @@
+{
+    "business_name": "Rpm Realty",
+    "source_business_name": "Rpm Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639369271354",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n2F RPM Building, GGN Commercial Macapagal Drive, Cagayan De Oro City, 9000 Misamis Oriental, Philippines",
+    "city": "Cagayan de Oro",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "3",
+    "google_maps_url": "https://www.google.com/maps/place/RPM+Realty/data=!4m7!3m6!1s0x32ff8cb8cc738e4d:0x3f95ee5942c381ca!8m2!3d8.4590508!4d124.6175714!16s%2Fg%2F11fxb7zrv0!19sChIJTY5zzLiM_zIRyoHDQlnulT8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Cagayan de Oro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

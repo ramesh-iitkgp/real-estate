@@ -1,0 +1,50 @@
+{
+    "business_name": "Golden Nest Realty And Brokerage",
+    "source_business_name": "Golden Nest Realty And Brokerage",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639368924981",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n2nd Floor Abonitalla Building Highway Crossing, Iponan, Cagayan De Oro City, 9000 Misamis Oriental, Philippines",
+    "city": "Cagayan de Oro",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "9",
+    "google_maps_url": "https://www.google.com/maps/place/Golden+Nest+Realty+and+Brokerage/data=!4m7!3m6!1s0x32fff37d255ca32d:0x18f0f067a4215d38!8m2!3d8.503288!4d124.599287!16s%2Fg%2F11c46j00ll!19sChIJLaNcJX3z_zIROF0hpGfw8Bg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Cagayan de Oro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

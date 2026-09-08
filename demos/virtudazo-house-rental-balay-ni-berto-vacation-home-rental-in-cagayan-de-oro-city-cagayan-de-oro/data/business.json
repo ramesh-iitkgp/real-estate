@@ -1,0 +1,50 @@
+{
+    "business_name": "Virtudazo House Rental Balay Ni Berto - Vacation Home Rental In Cagayan De Oro City",
+    "source_business_name": "Virtudazo House Rental Balay Ni Berto - Vacation Home Rental In Cagayan De Oro City",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639569562857",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nZone 6, Jose Lago Village, 3655, San Jose Street, Capisnon, Kauswagan, Cagayan De Oro City, 9000 Misamis Oriental, Philippines",
+    "city": "Cagayan de Oro",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Virtudazo+House+Rental+%28Balay+ni+Berto+-+Vacation+Home+Rental+in+Cagayan+de+Oro+City%29/data=!4m7!3m6!1s0x32fff37028eb744d:0x545199c65c1bdd3c!8m2!3d8.501351!4d124.6408167!16s%2Fg%2F11jt58tmjv!19sChIJTXTrKHDz_zIRPN0bXMaZUVQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Cagayan de Oro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

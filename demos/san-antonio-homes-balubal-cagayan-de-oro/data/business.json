@@ -1,0 +1,50 @@
+{
+    "business_name": "San Antonio Homes - Balubal",
+    "source_business_name": "San Antonio Homes - Balubal",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "639953139437",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nAgusan-Balubal-Alae Road Barangay Balubal Zone 5, Cagayan De Oro City, 9000 Misamis Oriental, Philippines",
+    "city": "Cagayan de Oro",
+    "state": "",
+    "country": "Philippines",
+    "currency_symbol": "₱",
+    "currency_code": "PHP",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "12",
+    "google_maps_url": "https://www.google.com/maps/place/San+Antonio+Homes+-+Balubal/data=!4m7!3m6!1s0x32ffebb6ff7d9c77:0x1badc863f728170!8m2!3d8.4651089!4d124.7789946!16s%2Fg%2F11fsynyhrm!19sChIJd5x9_7br_zIRcIFyP4bcugE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Cagayan de Oro"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
