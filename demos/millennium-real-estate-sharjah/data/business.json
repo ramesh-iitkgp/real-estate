@@ -1,0 +1,50 @@
+{
+    "business_name": "Millennium Real Estate",
+    "source_business_name": "Millennium Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971553032268",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n29th Street - Al Majaz 3 - Al Majaz - Sharjah - United Arab Emirates",
+    "city": "Sharjah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Millennium+Real+Estate/data=!4m7!3m6!1s0x3e5f5beb5fd125ed:0x76b79094f996d913!8m2!3d25.323892!4d55.3818539!16s%2Fg%2F11bbwqtmht!19sChIJ7SXRX-tbXz4RE9mW-ZSQt3Y?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Sharjah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

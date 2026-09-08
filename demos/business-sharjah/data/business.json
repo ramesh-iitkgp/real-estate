@@ -1,0 +1,50 @@
+{
+    "business_name": "Home Cleaning Services",
+    "source_business_name": "Home Cleaning Services",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "06 556 6000",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n8947+5C - شارع التعاون - الممزر - الممزر - إمارة الشارقةّ",
+    "city": "Sharjah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/%D8%A8%D8%B1%D8%AC+%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%D8%A9+%D9%85%D8%B1%D9%8A%D9%85+%D8%A8%D9%86%D8%AA+%D8%BA%D8%A7%D9%86%D9%85%E2%80%AD/data=!4m7!3m6!1s0x3e5f5bbf5de154dd:0xbaf736a45d811bbe!8m2!3d25.30524!4d55.363391!16s%2Fg%2F11t5_zs96p!19sChIJ3VThXb9bXz4RvhuBXaQ297o?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Sharjah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

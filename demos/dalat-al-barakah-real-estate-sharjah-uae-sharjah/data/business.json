@@ -1,0 +1,50 @@
+{
+    "business_name": "Dalat Al Barakah Real Estate",
+    "source_business_name": "Dalat Al Barakah Real Estate Sharjah",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971506595977",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\n7CXV+C2V Al Muweilah - Fire Station Road - Muwaileh - Muwaileh Commercial - Industrial Area - Sharjah - United Arab Emirates",
+    "city": "Sharjah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Dalat+Al+Barakah+Real+Estate+Sharjah+U.A.E/data=!4m7!3m6!1s0x3e5f5fbcb084ac5b:0x7b105bb61180c111!8m2!3d25.298614!4d55.4425509!16s%2Fg%2F11pkd4c944!19sChIJW6yEsLxfXz4REcGAEbZbEHs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Sharjah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Mostathmr Real Estate Center",
+    "source_business_name": "Al Mostathmr Real Estate Center",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "97165727447",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nمنطقة - Al Soor - Sharjah - United Arab Emirates",
+    "city": "Sharjah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Al+Mostathmr+Real+Estate+Center+%D9%85%D8%B1%D9%83%D8%B2+%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AB%D9%85%D8%B1+%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x3e5f5a332f7e60a5:0x54f173fbd768a683!8m2!3d25.3518979!4d55.3885546!16s%2Fg%2F11bbwwthw7!19sChIJpWB-LzNaXz4Rg6Zo1_tz8VQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Sharjah"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/alsoumrealestate/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

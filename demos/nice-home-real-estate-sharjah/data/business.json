@@ -1,0 +1,50 @@
+{
+    "business_name": "Nice Home Real Estate",
+    "source_business_name": "Nice Home Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "97165313332",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "\nOffice No 03, Mezzanine Floor, A Block, Al Bustan Tower Sharjah - Sharjah - United Arab Emirates",
+    "city": "Sharjah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Nice+Home+Real+Estate/data=!4m7!3m6!1s0x3e5f5b8a5cbba939:0x6f0471dec728b53f!8m2!3d25.3084843!4d55.3777323!16s%2Fg%2F1td1nbw_!19sChIJOam7XIpbXz4RP7Uox95xBG8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Sharjah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
