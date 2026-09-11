@@ -1,0 +1,50 @@
+{
+    "business_name": "House To Own Real Estate Management Llc",
+    "source_business_name": "House To Own Real Estate Management Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971503416102",
+    "whatsapp": "971503416102",
+    "email": "info@h2o-properties.ae",
+    "website_url": "https://www.h2o-properties.ae/",
+    "address": "\nSalam HQ Building - Al - 11th Floor - Sheikh Zayed Bin Sultan St - Al Zahiyah - E16 01 - Abu Dhabi - United Arab Emirates",
+    "city": "Al Reem Island Abu Dhabi",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/House+to+Own+Real+Estate+Management+LLC/data=!4m7!3m6!1s0x3e5e67c27b9f2927:0x1154c2cfaa67009c!8m2!3d24.490029!4d54.3790785!16s%2Fg%2F11sqpcpkgs!19sChIJJymfe8JnXj4RnABnqs_CVBE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Reem Island Abu Dhabi"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/h2o.properties/",
+        "facebook": "https://www.facebook.com/h2oproperties.ae/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

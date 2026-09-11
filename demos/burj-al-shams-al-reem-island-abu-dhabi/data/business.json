@@ -1,0 +1,50 @@
+{
+    "business_name": "Burj Al Shams",
+    "source_business_name": "Burj Al Shams",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971549985172",
+    "whatsapp": "971549985172",
+    "email": "contact@eni.ae",
+    "website_url": "https://www.eni.ae/",
+    "address": "\nShams Tower - Eni - Abu Dhabi - United Arab Emirates",
+    "city": "Al Reem Island Abu Dhabi",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Burj+Al+Shams/data=!4m7!3m6!1s0x3e5e670a6d3fa7a7:0xf0eb3bdce08de257!8m2!3d24.5108852!4d54.4087353!16s%2Fg%2F11csrf2605!19sChIJp6c_bQpnXj4RV-KN4Nw76_A?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Reem Island Abu Dhabi"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/emiratesnationalinvestment/",
+        "facebook": "https://www.facebook.com/emiratesnationalinvestment/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Moonstone Properties",
+    "source_business_name": "Moonstone Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971522542631",
+    "whatsapp": "971522542631",
+    "email": "",
+    "website_url": "https://moonstonepropert.ae/",
+    "address": "\nReem Island, Addax Tower - floor 37, office 3711 - Matar Bin Thani Al Rumaithi St - Al Reem Island - Tamouh - Abu Dhabi - United Arab Emirates",
+    "city": "Al Reem Island Abu Dhabi",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Moonstone+properties/data=!4m7!3m6!1s0x3e5e672c740b5a31:0x5bb6dd7e227e2d8d!8m2!3d24.4988858!4d54.4032764!16s%2Fg%2F11zcj9wkk3!19sChIJMVoLdCxnXj4RjS1-In7dtls?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Reem Island Abu Dhabi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

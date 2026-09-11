@@ -1,0 +1,50 @@
+{
+    "business_name": "Rixos Al Reem Residences",
+    "source_business_name": "Rixos Al Reem Residences",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971562188994",
+    "whatsapp": "971562188994",
+    "email": "",
+    "website_url": "https://www.rixosalreemresidences.com/",
+    "address": "\nRixos Al Reem Residences - Al Reem Island - Tamouh - Abu Dhabi - United Arab Emirates",
+    "city": "Al Reem Island Abu Dhabi",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "2",
+    "google_maps_url": "https://www.google.com/maps/place/Rixos+Al+Reem+Residences/data=!4m7!3m6!1s0x3e5e6736c0bc77c7:0x3fc8145f18f144f5!8m2!3d24.4964011!4d54.4007057!16s%2Fg%2F11n3z184rs!19sChIJx3e8wDZnXj4R9UTxGF8UyD8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Reem Island Abu Dhabi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

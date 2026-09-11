@@ -1,0 +1,50 @@
+{
+    "business_name": "Reportage Properties Llc",
+    "source_business_name": "Reportage Properties Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971502441078",
+    "whatsapp": "971502441078",
+    "email": "",
+    "website_url": "https://reportagegroup.com/",
+    "address": "\nTamouh Tower - شارع الزخمي - Al Reem Island - Floor 28 - Abu Dhabi - United Arab Emirates",
+    "city": "Al Reem Island Abu Dhabi",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Reportage+Properties+LLC/data=!4m7!3m6!1s0x3e5e6719d21d3a4d:0xe0d23df4b2590198!8m2!3d24.4881152!4d54.3950242!16s%2Fg%2F11j0d8226j!19sChIJTTod0hlnXj4RmAFZsvQ90uA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Reem Island Abu Dhabi"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/reportage.group/",
+        "facebook": "https://www.facebook.com/ReportagePropertiesLlc/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

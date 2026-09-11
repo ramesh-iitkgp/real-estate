@@ -1,0 +1,50 @@
+{
+    "business_name": "Unique Homes Worldwide Properties",
+    "source_business_name": "Unique Homes Worldwide Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971549981998",
+    "whatsapp": "971549981998",
+    "email": "info@uhpae.com",
+    "website_url": "https://uhpae.com/",
+    "address": "\nThe Landmark - Floor 19 - 116 Khadim Bin Butti Al Hamed St - Al Hisn - Al Markaziyah West - Abu Dhabi - United Arab Emirates",
+    "city": "Al Reem Island Abu Dhabi",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Unique+Homes+Worldwide+Properties/data=!4m7!3m6!1s0x3e5e67226c035bc5:0xd9fac25f1168069!8m2!3d24.4852096!4d54.3510215!16s%2Fg%2F11y57fdm27!19sChIJxVsDbCJnXj4RaYAW8SWsnw0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Reem Island Abu Dhabi"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/uhpae/",
+        "facebook": "https://www.facebook.com/uniquehomeworldwideproperties/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

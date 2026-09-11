@@ -1,0 +1,50 @@
+{
+    "business_name": "The Bridges By Aldar Properties",
+    "source_business_name": "The Bridges By Aldar Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971553370329",
+    "whatsapp": "971553370329",
+    "email": "",
+    "website_url": "https://www.aldar.com/en/portfolio/residential/reem-island/the-bridges",
+    "address": "\nGC54+M9H - Al Reem Island - RS1 - Abu Dhabi - United Arab Emirates",
+    "city": "Al Reem Island Abu Dhabi",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "23",
+    "google_maps_url": "https://www.google.com/maps/place/The+Bridges+by+Aldar+Properties/data=!4m7!3m6!1s0x3e5e67e4b24762f1:0x75a589cc45b749eb!8m2!3d24.509188!4d54.4059785!16s%2Fg%2F11ft74bt1m!19sChIJ8WJHsuRnXj4R60m3RcyJpXU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Reem Island Abu Dhabi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
