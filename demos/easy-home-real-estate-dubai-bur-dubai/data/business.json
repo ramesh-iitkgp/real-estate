@@ -1,0 +1,50 @@
+{
+    "business_name": "Easy Home Real Estate",
+    "source_business_name": "Easy Home Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971564045052",
+    "whatsapp": "971564045052",
+    "email": "info@easyhomes.ae",
+    "website_url": "https://easyhomes.ae",
+    "address": "\nBur Dubai - Dubai - United Arab Emirates",
+    "city": "Bur Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Easy+Home+Real+Estate,+Dubai/data=!4m7!3m6!1s0x3e5f43098f71055f:0x894f2b3c77ad8cfb!8m2!3d25.2572273!4d55.2990302!16s%2Fg%2F11xkrg5bnc!19sChIJXwVxjwlDXz4R-4ytdzwrT4k?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bur Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

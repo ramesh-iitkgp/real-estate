@@ -1,0 +1,50 @@
+{
+    "business_name": "Dvr Luxury Living Real Estate & Vacation Homes",
+    "source_business_name": "Dvr Luxury Living Real Estate & Vacation Homes",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971525251138",
+    "whatsapp": "971525251138",
+    "email": "",
+    "website_url": "https://dvrgroup.ae/",
+    "address": "\nOffice 1605, Blue Bay Tower - Marasi Dr - Business Bay - Dubai - United Arab Emirates",
+    "city": "Bur Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "289",
+    "google_maps_url": "https://www.google.com/maps/place/DVR+Luxury+Living+Real+Estate+%26+Vacation+Homes/data=!4m7!3m6!1s0x3e5f69faec22051d:0x3edeab8a86c3edfe!8m2!3d25.1876338!4d55.2705553!16s%2Fg%2F11syr7hyyz!19sChIJHQUi7PppXz4R_u3Dhoqr3j4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bur Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

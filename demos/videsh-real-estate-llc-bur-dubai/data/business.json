@@ -1,0 +1,50 @@
+{
+    "business_name": "Videsh Real Estate Llc",
+    "source_business_name": "Videsh Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971585184888",
+    "whatsapp": "971585184888",
+    "email": "info@videshholdings.com",
+    "website_url": "https://videshholdings.com/",
+    "address": "\nBurjuman 13 floor, Business Tower - 13th Floor - Mankhool - Dubai - United Arab Emirates",
+    "city": "Bur Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Videsh+Real+Estate+LLC/data=!4m7!3m6!1s0x3e5f6b8c37cf07cd:0xfb41a1f8fb48d297!8m2!3d25.251432!4d55.3017378!16s%2Fg%2F11xdfvrtk9!19sChIJzQfPN4xrXz4Rl9JI-_ihQfs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bur Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/dxb_launch/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

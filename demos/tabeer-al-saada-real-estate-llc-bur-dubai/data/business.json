@@ -1,0 +1,50 @@
+{
+    "business_name": "Tabeer Al Saada Real Estate Llc",
+    "source_business_name": "Tabeer Al Saada Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971563012425",
+    "whatsapp": "971563012425",
+    "email": "info@tabeerrealestate.com",
+    "website_url": "https://www.tabeerrealestate.com/",
+    "address": "\n1802, Fahidi Heights - Sharaf DG Metro Station Exit - 4 Al Fahidi St - Bur Dubai - Dubai - United Arab Emirates",
+    "city": "Bur Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Tabeer+Al+Saada+Real+Estate+LLC/data=!4m7!3m6!1s0x3e5f4311021dab99:0x943b1189cf84937b!8m2!3d25.2581548!4d55.298614!16s%2Fg%2F11ylmg_cv9!19sChIJmasdAhFDXz4Re5OEz4kRO5Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bur Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/tabeer_realestate_/",
+        "facebook": "https://www.facebook.com/tabeeralsaadarealestate/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Maskan Real Estate Llc",
+    "source_business_name": "Al Maskan Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971566031297",
+    "whatsapp": "971566031297",
+    "email": "sales@almaskan.com",
+    "website_url": "https://almaskan.com/",
+    "address": "\nShowroom 5, Sharaf Building - Al Mina St - Bur Dubai - Dubai - United Arab Emirates",
+    "city": "Bur Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Al+Maskan+Real+Estate+LLC/data=!4m7!3m6!1s0x3e5f431165d86637:0xce5b16c1d8bfe71c!8m2!3d25.2556754!4d55.2849752!16s%2Fg%2F1q644x5f0!19sChIJN2bYZRFDXz4RHOe_2MEWW84?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bur Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/almaskanrealestatellc/",
+        "facebook": "https://www.facebook.com/SharafGroupofcompanies/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Blue Velvet Real Estate Brokerage",
+    "source_business_name": "Blue Velvet Real Estate Brokerage",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971502504565",
+    "whatsapp": "971502504565",
+    "email": "info@bluevelvet.ae",
+    "website_url": "https://bluevelvet.ae/",
+    "address": "\nBurdubai, Gulf Towers Office - 4th Floor - A2 404 A-013 - Oud Metha - Dubai - United Arab Emirates",
+    "city": "Bur Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "71",
+    "google_maps_url": "https://www.google.com/maps/place/Blue+Velvet+Real+Estate+Brokerage/data=!4m7!3m6!1s0x3e5f5db2f0ccba51:0xe7a359dcf87f5a2!8m2!3d25.2353742!4d55.3187543!16s%2Fg%2F11t3gyk_7w!19sChIJUbrM8LJdXz4RovWHz501eg4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bur Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/blue_velvet_dxb/",
+        "facebook": "https://www.facebook.com/profile.php/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Oxxo Properties",
+    "source_business_name": "Oxxo Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971564383822",
+    "whatsapp": "971564383822",
+    "email": "info@oxxoproperties.com",
+    "website_url": "https://www.oxxoproperties.com/",
+    "address": "\nBurjuman, Business Tower - 1702 - Sheikh Khalifa Bin Zayed St - Mankhool - Dubai - United Arab Emirates",
+    "city": "Bur Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/OXXO+Properties/data=!4m7!3m6!1s0x3e5f435121d07221:0xbd6ffe1f3fa218ef!8m2!3d25.2516634!4d55.3016774!16s%2Fg%2F11v0qz6lpc!19sChIJIXLQIVFDXz4R7xiiPx_-b70?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bur Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Zaeem Real Estate",
+    "source_business_name": "Al Zaeem Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971505048804",
+    "whatsapp": "971505048804",
+    "email": "info@azcb.co",
+    "website_url": "https://azcb.co/",
+    "address": "\nAl Maskan Building - Office No. 30 - 30th St - Bur Dubai Karama - Dubai - United Arab Emirates",
+    "city": "Bur Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Al+Zaeem+Real+Estate+Dubai/data=!4m7!3m6!1s0x3e5f69211a7db983:0xce44b77d91271025!8m2!3d25.2383951!4d55.300864!16s%2Fg%2F11kspyxb6n!19sChIJg7l9GiFpXz4RJRAnkX23RM4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Bur Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/alzaeemcb/",
+        "facebook": "https://www.facebook.com/AlZaeemCB/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
