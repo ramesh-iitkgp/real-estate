@@ -1,0 +1,50 @@
+{
+    "business_name": "Homes 4 Life Real Estate Broker Llc",
+    "source_business_name": "Homes 4 Life Real Estate Broker Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971568188620",
+    "whatsapp": "971568188620",
+    "email": "",
+    "website_url": "https://homes4life.ae/",
+    "address": "\nAl Yalayis 2 - Dubai - United Arab Emirates",
+    "city": "Dubai Hills",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "950",
+    "google_maps_url": "https://www.google.com/maps/place/Homes+4+Life+Real+Estate+Broker+LLC/data=!4m7!3m6!1s0x3e5f710be8f5ccc1:0x6faf0cf2fd75df3a!8m2!3d25.0108187!4d55.2889383!16s%2Fg%2F11hyxqbnms!19sChIJwcz16AtxXz4ROt91_fIMr28?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Hills"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/homes4lifedubai/",
+        "facebook": "https://www.facebook.com/sharer.php/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

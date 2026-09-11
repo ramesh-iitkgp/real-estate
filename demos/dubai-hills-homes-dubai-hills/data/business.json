@@ -1,0 +1,50 @@
+{
+    "business_name": "Dubai Hills Homes",
+    "source_business_name": "Dubai Hills Homes",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971585546127",
+    "whatsapp": "971585546127",
+    "email": "",
+    "website_url": "http://berht-shv.com/zokvisitor/3593a970-ae12-11f1-8561-12f34576df35/72092e88-2c53-401c-b988-51ef43ce1034?campaignid=35b05934-ae12-11f1-8561-12f34576df35",
+    "address": "\nI Rise Tower - 15C02 - Barsha Heights - Dubai - United Arab Emirates",
+    "city": "Dubai Hills",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "1",
+    "google_maps_url": "https://www.google.com/maps/place/Dubai+Hills+Homes/data=!4m7!3m6!1s0x3e5f6b25dc536123:0xde977128389e2f2b!8m2!3d25.096962!4d55.1775999!16s%2Fg%2F11vrtts8hg!19sChIJI2FT3CVrXz4RKy-eOChxl94?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Hills"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Dubai Luxury Homes - Buy Luxury Properties In",
+    "source_business_name": "Dubai Luxury Homes - Buy Luxury Properties In Dubai",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971502891683",
+    "whatsapp": "971502891683",
+    "email": "",
+    "website_url": "https://www.dxbluxhomes.com/",
+    "address": "\nEmaar Business Park - 608 - The Greens - Dubai - United Arab Emirates",
+    "city": "Dubai Hills",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "3",
+    "google_maps_url": "https://www.google.com/maps/place/Dubai+Luxury+Homes+-+Buy+Luxury+Properties+in+Dubai,+UAE/data=!4m7!3m6!1s0x3e5f6b526633cc53:0x313ca9d088dab09!8m2!3d25.0949042!4d55.1667882!16s%2Fg%2F11lgtglrcb!19sChIJU8wzZlJrXz4RCauNCJ3KEwM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Hills"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

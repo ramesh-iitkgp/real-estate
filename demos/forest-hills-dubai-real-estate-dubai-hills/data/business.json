@@ -1,0 +1,50 @@
+{
+    "business_name": "Forest Hills Dubai Real Estate",
+    "source_business_name": "Forest Hills Dubai Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971524817846",
+    "whatsapp": "971524817846",
+    "email": "info@foresthillsdubai.com",
+    "website_url": "https://foresthillsdubai.com/",
+    "address": "\nChurchill Tower - Al Amal St - Business Bay - Dubai - United Arab Emirates",
+    "city": "Dubai Hills",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "106",
+    "google_maps_url": "https://www.google.com/maps/place/Forest+Hills+Dubai+Real+Estate/data=!4m7!3m6!1s0x3e5f69e4b92a784f:0xb4985af45a5e8b70!8m2!3d25.1812821!4d55.2621664!16s%2Fg%2F11t28x_jw6!19sChIJT3gqueRpXz4RcIteWvRamLQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Hills"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/foresthillsdubai/",
+        "facebook": "https://www.facebook.com/foresthillsdxb/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

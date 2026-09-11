@@ -1,0 +1,50 @@
+{
+    "business_name": "Dubai South Residential District",
+    "source_business_name": "Dubai South Residential District",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971588359084",
+    "whatsapp": "971588359084",
+    "email": "",
+    "website_url": "",
+    "address": "\nW6Q9+P28 - Unnamed Road - Madinat Al Mataar - Dubai South - Dubai - United Arab Emirates",
+    "city": "Dubai Hills",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "57",
+    "google_maps_url": "https://www.google.com/maps/place/Dubai+south+residential+district/data=!4m7!3m6!1s0x3e5f73a762933349:0x93b058e395eafdbf!8m2!3d24.9392875!4d55.2175781!16s%2Fg%2F11j4h7c9hc!19sChIJSTOTYqdzXz4Rv_3qleNYsJM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Hills"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

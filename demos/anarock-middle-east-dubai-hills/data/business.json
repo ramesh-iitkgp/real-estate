@@ -1,0 +1,50 @@
+{
+    "business_name": "Anarock Middle East",
+    "source_business_name": "Anarock Middle East",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971526602868",
+    "whatsapp": "971526602868",
+    "email": "hello@anarock.me",
+    "website_url": "https://www.anarock.me/",
+    "address": "\nBusiness Park 4 - 404 - Dubai Hills - Dubai - United Arab Emirates",
+    "city": "Dubai Hills",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "41",
+    "google_maps_url": "https://www.google.com/maps/place/Anarock+Middle+East/data=!4m7!3m6!1s0x3e5f699bc1fa5bf9:0x2220fa88c3af5fe1!8m2!3d25.1057627!4d55.2394294!16s%2Fg%2F11v67hvkrb!19sChIJ-Vv6wZtpXz4R4V-vw4j6ICI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Hills"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/anarockMENA/",
+        "facebook": "https://www.facebook.com/anarockMENA/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

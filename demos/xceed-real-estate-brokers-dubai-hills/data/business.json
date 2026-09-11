@@ -1,0 +1,50 @@
+{
+    "business_name": "Xceed Real Estate Brokers",
+    "source_business_name": "Xceed Real Estate Brokers",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971522222738",
+    "whatsapp": "971522222738",
+    "email": "",
+    "website_url": "https://xceeduae.com/en",
+    "address": "\nDubai Hills Estate, Park Heights Square 2 - Office 306 - Dubai - United Arab Emirates",
+    "city": "Dubai Hills",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "27",
+    "google_maps_url": "https://www.google.com/maps/place/XCEED+Real+Estate+Brokers/data=!4m7!3m6!1s0x3e5f697582107b69:0xfbe3c04064e30488!8m2!3d25.1136104!4d55.2456931!16s%2Fg%2F11sc3ll99x!19sChIJaXsQgnVpXz4RiATjZEDA4_s?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Hills"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
