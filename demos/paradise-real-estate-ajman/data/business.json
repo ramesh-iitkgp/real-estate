@@ -1,0 +1,50 @@
+{
+    "business_name": "Paradise Real Estate",
+    "source_business_name": "Paradise Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971502254353",
+    "whatsapp": "971502254353",
+    "email": "",
+    "website_url": "https://www.preuae.com/",
+    "address": "\nAl aamara valley - Shop no 20 - near mac D - al helio - Al Amerah - Ajman - United Arab Emirates",
+    "city": "Ajman",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Paradise+Real+Estate/data=!4m7!3m6!1s0x3ef5f1b02188d48b:0x997606bf01ea60e3!8m2!3d25.3785231!4d55.584714!16s%2Fg%2F11ms8758dr!19sChIJi9SIIbDx9T4R42DqAb8Gdpk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ajman"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

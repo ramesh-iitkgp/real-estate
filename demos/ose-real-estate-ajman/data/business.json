@@ -1,0 +1,50 @@
+{
+    "business_name": "Ose Real Estate",
+    "source_business_name": "Ose Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971503972732",
+    "whatsapp": "971503972732",
+    "email": "",
+    "website_url": "https://www.oserealestate.com/",
+    "address": "\nجراند مول مكتب رقم 1802 - Sheikh Khalifa Bin Zayed St - Al Rashidiya 3 - Ajman - United Arab Emirates",
+    "city": "Ajman",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/OSE+Real+Estate/data=!4m7!3m6!1s0x3e5f590bfc8ea463:0x57dfc8043095f270!8m2!3d25.3925036!4d55.4387067!16s%2Fg%2F11wpm64vly!19sChIJY6SO_AtZXz4RcPKVMATI31c?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ajman"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

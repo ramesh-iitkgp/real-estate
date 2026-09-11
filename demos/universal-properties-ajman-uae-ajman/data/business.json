@@ -1,0 +1,50 @@
+{
+    "business_name": "Universal Properties",
+    "source_business_name": "Universal Properties Ajman",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971555743080",
+    "whatsapp": "971555743080",
+    "email": "info@internationalproperties.ae",
+    "website_url": "https://internationalproperties.ae/",
+    "address": "\n45 Sheikh Jaber Al-Sabah St - 2 Al Nuaimia - Ajman - United Arab Emirates",
+    "city": "Ajman",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Universal+Properties+Ajman,+UAE/data=!4m7!3m6!1s0x3e5f5837395a38cd:0x885643711c45c6a0!8m2!3d25.3867591!4d55.4509525!16s%2Fg%2F11c50qxm5d!19sChIJzThaOTdYXz4RoMZFHHFDVog?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ajman"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/international_realestate/",
+        "facebook": "https://www.facebook.com/internationalpropertiesrealestate/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Toronto Crown Real Estate Llc Ajman Branch",
+    "source_business_name": "Toronto Crown Real Estate Llc Ajman Branch",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971503785197",
+    "whatsapp": "971503785197",
+    "email": "",
+    "website_url": "https://torontocrown.com/",
+    "address": "\nAl Zahya - Ajman - United Arab Emirates",
+    "city": "Ajman",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Toronto+Crown+Real+Estate+L.L.C+%28Ajman+Branch%29/data=!4m7!3m6!1s0x3ef5f10cf1d3ceb7:0xef6350e02f7a8131!8m2!3d25.40968!4d55.5892659!16s%2Fg%2F11ml2q6909!19sChIJt87T8Qzx9T4RMYF6L-BQY-8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ajman"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/torontocrownrealestate/",
+        "facebook": "https://www.facebook.com/profile.php/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

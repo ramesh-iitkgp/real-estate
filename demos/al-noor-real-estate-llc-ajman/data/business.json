@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Noor Real Estate Llc",
+    "source_business_name": "Al Noor Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971566037495",
+    "whatsapp": "971566037495",
+    "email": "",
+    "website_url": "https://alnoorrealestatellc.com//home",
+    "address": "\nAjman Corniche Residences - shop No 10 - Al Rumailah - Al Rumailah 2 - Ajman - United Arab Emirates",
+    "city": "Ajman",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "21",
+    "google_maps_url": "https://www.google.com/maps/place/AL+NOOR+REAL+ESTATE+L.L.C/data=!4m7!3m6!1s0x3e5f57a62c971c83:0x304f98694edffe7b!8m2!3d25.4054083!4d55.4313308!16s%2Fg%2F11y5mwrcq2!19sChIJgxyXLKZXXz4Re_7fTmmYTzA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ajman"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

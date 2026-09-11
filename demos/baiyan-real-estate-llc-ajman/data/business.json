@@ -1,0 +1,50 @@
+{
+    "business_name": "Baiyan Real Estate Llc",
+    "source_business_name": "Baiyan Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971561399932",
+    "whatsapp": "971561399932",
+    "email": "",
+    "website_url": "",
+    "address": "\nAl Amal Building, Al Jurf 2 Askan Holding - Office no. 1 - Al Jerf 2 - Ajman - United Arab Emirates",
+    "city": "Ajman",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "31",
+    "google_maps_url": "https://www.google.com/maps/place/Baiyan+Real+Estate+LLC/data=!4m7!3m6!1s0x3ef5f7b419b11291:0x5bb4579ae8748080!8m2!3d25.4049771!4d55.5018315!16s%2Fg%2F11f5brbtzj!19sChIJkRKxGbT39T4RgIB06JpXtFs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ajman"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "The Vision Real Estate",
+    "source_business_name": "The Vision Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971544414238",
+    "whatsapp": "971544414238",
+    "email": "",
+    "website_url": "http://thevision.ae/",
+    "address": "\nOne Tower A03 - Sheikh Rashid Bin Humaid Al Nuaimi street - Al Rashidiya 3 - Ajman - United Arab Emirates",
+    "city": "Ajman",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "14",
+    "google_maps_url": "https://www.google.com/maps/place/The+Vision+Real+Estate/data=!4m7!3m6!1s0x3e5f599ea7ec0e93:0x7c72ea16ad117312!8m2!3d25.3957805!4d55.4302233!16s%2Fg%2F11z9bk33t8!19sChIJkw7sp55ZXz4REnMRrRbqcnw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ajman"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/thevision_realty/",
+        "facebook": "https://www.facebook.com/thevisionrealestate/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

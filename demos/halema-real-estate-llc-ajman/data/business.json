@@ -1,0 +1,50 @@
+{
+    "business_name": "Halema Real Estate Llc",
+    "source_business_name": "Halema Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971555731024",
+    "whatsapp": "971555731024",
+    "email": "",
+    "website_url": "http://halemarealestate.ae/",
+    "address": "\n9CWH+3VW - Sheikh Rashid Bin Humeed St - Al Rashidiya 3 - Ajman - United Arab Emirates",
+    "city": "Ajman",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/HALEMA+REAL+ESTATE+L.L.C/data=!4m7!3m6!1s0x3e5f59451a88388f:0xb77ef3d0adfcb549!8m2!3d25.39524!4d55.4297198!16s%2Fg%2F11s1tw_5vl!19sChIJjziIGkVZXz4RSbX8rdDzfrc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ajman"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "https://www.facebook.com/profile.php/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Kenz Real Estate",
+    "source_business_name": "Kenz Real Estate - Ajman",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971556635601",
+    "whatsapp": "971556635601",
+    "email": "",
+    "website_url": "",
+    "address": "\nAl Jerf Industrial 3 - Ajman - United Arab Emirates",
+    "city": "Ajman",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "5",
+    "google_maps_url": "https://www.google.com/maps/place/Kenz+Real+Estate+-+Ajman+UAE/data=!4m7!3m6!1s0x3ef5f7baad5c8f93:0x8b9fb518cc7891c8!8m2!3d25.4230184!4d55.5438694!16s%2Fg%2F11z2g_wv54!19sChIJk49crbr39T4RyJF4zBi1n4s?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ajman"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

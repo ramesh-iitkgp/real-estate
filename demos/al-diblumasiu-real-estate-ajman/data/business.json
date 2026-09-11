@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Diblumasiu Real Estate",
+    "source_business_name": "Al Diblumasiu Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971556441072",
+    "whatsapp": "971556441072",
+    "email": "info@aldiblumasiurealestate.com",
+    "website_url": "https://aldiblumasiurealestate.com/",
+    "address": "\nMr2 building - Office No,3 - Al Rawda 1 - Ajman - United Arab Emirates",
+    "city": "Ajman",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "10",
+    "google_maps_url": "https://www.google.com/maps/place/AL+Diblumasiu+Real+Estate/data=!4m7!3m6!1s0x3ef5f7004a6a01b5:0x148cad51637a04a5!8m2!3d25.3902188!4d55.5225005!16s%2Fg%2F11mz0cqwtb!19sChIJtQFqSgD39T4RpQR6Y1GtjBQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ajman"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/aldiblumasiurealestate/",
+        "facebook": "https://www.facebook.com/profile.php/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

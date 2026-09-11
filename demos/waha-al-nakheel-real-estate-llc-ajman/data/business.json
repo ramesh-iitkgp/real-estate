@@ -1,0 +1,50 @@
+{
+    "business_name": "Waha Al Nakheel Real Estate Llc",
+    "source_business_name": "Waha Al Nakheel Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971567437755",
+    "whatsapp": "971567437755",
+    "email": "info@nakheelre.com",
+    "website_url": "https://www.nakheelre.com/",
+    "address": "\nبناية اروزا - 2 شارع اكاديمية - Al Tallah 2 - Ajman - United Arab Emirates",
+    "city": "Ajman",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Waha+Al+Nakheel+Real+Estate+L.L.C/data=!4m7!3m6!1s0x3ef5f74dea0af231:0xe114431c251aff7f!8m2!3d25.3736702!4d55.5064261!16s%2Fg%2F11rsbm45d2!19sChIJMfIK6k339T4Rf_8aJRxDFOE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ajman"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/alnakheelre/",
+        "facebook": "https://www.facebook.com/wahaalnakheelre2004/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
