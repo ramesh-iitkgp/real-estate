@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Ward Properties",
+    "source_business_name": "Al Ward Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971507191456",
+    "whatsapp": "971507191456",
+    "email": "",
+    "website_url": "https://alwardproperties.ae/",
+    "address": "\nAl Qouz Third - Al Quoz - Dubai - United Arab Emirates",
+    "city": "Al Quoz Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.7",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Al+Ward+Properties/data=!4m7!3m6!1s0x3e5f6984fc4efe85:0xb4a439f9aa3ed678!8m2!3d25.1570882!4d55.2498951!16s%2Fg%2F11h8fz0lwv!19sChIJhf5O_IRpXz4ReNY-qvk5pLQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Quoz Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/al_ward_properties/",
+        "facebook": "https://www.facebook.com/Al-Ward-Properties-106668461605362/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
