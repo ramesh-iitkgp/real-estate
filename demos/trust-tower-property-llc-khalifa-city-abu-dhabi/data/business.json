@@ -1,0 +1,50 @@
+{
+    "business_name": "Trust Tower Property Llc",
+    "source_business_name": "Trust Tower Property Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971501713606",
+    "whatsapp": "971501713606",
+    "email": "",
+    "website_url": "",
+    "address": "\nAs Sunnaʹ St - Khalifa City - Sector 33 - Abu Dhabi - United Arab Emirates",
+    "city": "Khalifa City Abu Dhabi",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Trust+Tower+Property+LLC/data=!4m7!3m6!1s0x3e5e475bcb506a31:0x1555d2b1ab92cb98!8m2!3d24.3982501!4d54.5632924!16s%2Fg%2F11g7yccjzh!19sChIJMWpQy1tHXj4RmMuSq7HSVRU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Khalifa City Abu Dhabi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

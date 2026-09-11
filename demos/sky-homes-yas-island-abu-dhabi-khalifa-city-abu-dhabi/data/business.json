@@ -1,0 +1,50 @@
+{
+    "business_name": "Sky Homes Yas Island",
+    "source_business_name": "Sky Homes Yas Island",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971504742769",
+    "whatsapp": "971504742769",
+    "email": "",
+    "website_url": "https://book.hostfully.com/sky-homes/search",
+    "address": "\nAd Durar St - Yas Island - YS1 - Abu Dhabi - United Arab Emirates",
+    "city": "Khalifa City Abu Dhabi",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Sky+Homes+@+Yas+Island+Abu+Dhabi+%D8%B4%D9%82%D9%82+%D9%85%D9%81%D8%B1%D9%88%D8%B4%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x3e5e4fbd25584f7b:0xda75d1e8bc56b637!8m2!3d24.4812215!4d54.6199807!16s%2Fg%2F11pf89jcw_!19sChIJe09YJb1PXj4RN7ZWvOjRddo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Khalifa City Abu Dhabi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

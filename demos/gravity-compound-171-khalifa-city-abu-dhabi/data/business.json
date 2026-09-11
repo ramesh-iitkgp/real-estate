@@ -1,0 +1,50 @@
+{
+    "business_name": "Gravity Compound 171",
+    "source_business_name": "Gravity Compound 171",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971563134826",
+    "whatsapp": "971563134826",
+    "email": "",
+    "website_url": "",
+    "address": "\n171 - 41 Al Heem St - Khalifa City - SE41 - Abu Dhabi - United Arab Emirates",
+    "city": "Khalifa City Abu Dhabi",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "12",
+    "google_maps_url": "https://www.google.com/maps/place/Gravity+compound+171/data=!4m7!3m6!1s0x3e5e47fa04a0b873:0x79000fa1f674ec54!8m2!3d24.4239602!4d54.592134!16s%2Fg%2F11lfgx8z3h!19sChIJc7igBPpHXj4RVOx09qEPAHk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Khalifa City Abu Dhabi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

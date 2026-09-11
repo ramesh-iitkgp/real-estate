@@ -1,0 +1,50 @@
+{
+    "business_name": "Karim House Khalifa City",
+    "source_business_name": "Karim House Khalifa City",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971585159099",
+    "whatsapp": "971585159099",
+    "email": "",
+    "website_url": "",
+    "address": "\n75 شارع المظهر - Khalifa City - Sector 15 - Abu Dhabi - United Arab Emirates",
+    "city": "Khalifa City Abu Dhabi",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.8",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Karim+house+khalifa+city/data=!4m7!3m6!1s0x3e5e47007b411cc1:0xb3d2fe1bafd28441!8m2!3d24.4132593!4d54.5950053!16s%2Fg%2F11ysjlcsl6!19sChIJwRxBewBHXj4RQYTSrxv-0rM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Khalifa City Abu Dhabi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

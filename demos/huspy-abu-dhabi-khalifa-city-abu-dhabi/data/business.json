@@ -1,0 +1,50 @@
+{
+    "business_name": "Huspy",
+    "source_business_name": "Huspy",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971544866012",
+    "whatsapp": "971544866012",
+    "email": "",
+    "website_url": "https://huspy.com/",
+    "address": "\nBusiness Avenue Tower - 1902 - 1903 19th floor - Al Danah - Zone 1 - Abu Dhabi - United Arab Emirates",
+    "city": "Khalifa City Abu Dhabi",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "147",
+    "google_maps_url": "https://www.google.com/maps/place/Huspy+Abu+Dhabi/data=!4m7!3m6!1s0x3e5e6700490285a7:0x9c0fad24d5c01756!8m2!3d24.4914851!4d54.3762013!16s%2Fg%2F11vzf_22w6!19sChIJp4UCSQBnXj4RVhfA1SStD5w?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Khalifa City Abu Dhabi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

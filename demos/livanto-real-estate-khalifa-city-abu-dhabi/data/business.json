@@ -1,0 +1,50 @@
+{
+    "business_name": "Livanto Real Estate",
+    "source_business_name": "Livanto Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971521283534",
+    "whatsapp": "971521283534",
+    "email": "info@livantorealestate.com",
+    "website_url": "https://livantorealestate.com/",
+    "address": "\nBloom Central - Level 2 - Sheikh Rashid Bin Saeed St - Al Manhal - Al Tibbiya - Abu Dhabi - United Arab Emirates",
+    "city": "Khalifa City Abu Dhabi",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/LIVANTO+REAL+ESTATE/data=!4m7!3m6!1s0x3e5e69046bc9350f:0x64cf784bfd4d7995!8m2!3d24.4705133!4d54.3698427!16s%2Fg%2F11z6j6_1nr!19sChIJDzXJawRpXj4RlXlN_Ut4z2Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Khalifa City Abu Dhabi"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/livantorealestate/",
+        "facebook": "https://www.facebook.com/profile.php/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
