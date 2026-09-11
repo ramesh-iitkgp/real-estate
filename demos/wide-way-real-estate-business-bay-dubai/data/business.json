@@ -1,0 +1,50 @@
+{
+    "business_name": "Wide Way Real Estate",
+    "source_business_name": "Wide Way Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971557125519",
+    "whatsapp": "971557125519",
+    "email": "info@widewayrealestate.com",
+    "website_url": "https://widewayrealestate.com/",
+    "address": "\nOffice 207 Building 6 - Business Bay - Bay Square - Dubai - United Arab Emirates",
+    "city": "Business Bay Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "49",
+    "google_maps_url": "https://www.google.com/maps/place/Wide+Way+Real+Estate/data=!4m7!3m6!1s0x3e5f6beabf4b9963:0xac0347f28cb71ead!8m2!3d25.185424!4d55.280141!16s%2Fg%2F11bbwnt3qd!19sChIJY5lLv-prXz4RrR63jPJHA6w?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Business Bay Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/widewayrealestate/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

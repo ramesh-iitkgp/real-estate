@@ -1,0 +1,50 @@
+{
+    "business_name": "Own First Real Estate",
+    "source_business_name": "Own First Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971528299511",
+    "whatsapp": "971528299511",
+    "email": "",
+    "website_url": "https://www.propertyfinder.ae/en/broker/own-first-real-estate-l-l-c-7094",
+    "address": "\nBusiness Bay, Iris Bay Tower, DZIRE, 2506 - Dubai - United Arab Emirates",
+    "city": "Business Bay Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Own+First+Real+Estate/data=!4m7!3m6!1s0x3e5f697fd9d95fe7:0xf41d684f125acefd!8m2!3d25.1861175!4d55.2597381!16s%2Fg%2F11trp483k3!19sChIJ51_Z2X9pXz4R_c5aEk9oHfQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Business Bay Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

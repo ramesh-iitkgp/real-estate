@@ -1,0 +1,50 @@
+{
+    "business_name": "Tasees Real Estate Llc",
+    "source_business_name": "Tasees Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971588818888",
+    "whatsapp": "971588818888",
+    "email": "info@taseesrealestate.ae",
+    "website_url": "https://taseesrealestate.ae/",
+    "address": "\nCourt Tower Office 1605 - Business Bay - Dubai - United Arab Emirates",
+    "city": "Business Bay Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Tasees+Real+Estate+LLC/data=!4m7!3m6!1s0x3e5f5dd5bf709db9:0x20fade1799795abd!8m2!3d25.18459!4d55.2586996!16s%2Fg%2F11h0vt6zkm!19sChIJuZ1wv9VdXz4RvVp5mRfe-iA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Business Bay Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/taseesrealestate/",
+        "facebook": "https://www.facebook.com/taseesrealestate/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

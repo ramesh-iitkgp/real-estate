@@ -1,0 +1,50 @@
+{
+    "business_name": "Anqa Real Estate Broker Llc",
+    "source_business_name": "Anqa Real Estate Broker Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971585581981",
+    "whatsapp": "971585581981",
+    "email": "info@anqa.ae",
+    "website_url": "https://www.anqa.ae/",
+    "address": "\nIris Bay - Office 24 - Floor 13 Al Mustaqbal St - Business Bay - Dubai - United Arab Emirates",
+    "city": "Business Bay Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/ANQA+REAL+ESTATE+BROKER+LLC/data=!4m7!3m6!1s0x3e5f43c7a0424953:0x68f7fc110ecb4e3c!8m2!3d25.1860525!4d55.2598305!16s%2Fg%2F11y8t2v998!19sChIJU0lCoMdDXz4RPE7LDhH892g?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Business Bay Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "https://www.facebook.com/anqa.real.estate/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

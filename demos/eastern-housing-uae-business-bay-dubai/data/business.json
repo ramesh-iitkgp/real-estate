@@ -1,0 +1,50 @@
+{
+    "business_name": "Eastern Housing",
+    "source_business_name": "Eastern Housing",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971523425016",
+    "whatsapp": "971523425016",
+    "email": "info@easternhousing.ae",
+    "website_url": "https://easternhousing.ae/",
+    "address": "\nOffice 3207, ParkLane Tower - Business Bay - Dubai - United Arab Emirates",
+    "city": "Business Bay Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Eastern+Housing+UAE/data=!4m7!3m6!1s0x3e5f69e4843fd8b5:0x4d4828e2e219635!8m2!3d25.1852338!4d55.2618939!16s%2Fg%2F11y27vstg5!19sChIJtdg_hORpXz4RNZYhLo6C1AQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Business Bay Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/easternhousinguae/",
+        "facebook": "https://www.facebook.com/easternhousinguae/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

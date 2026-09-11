@@ -1,0 +1,50 @@
+{
+    "business_name": "Bi Real Estate",
+    "source_business_name": "Bi Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971542240351",
+    "whatsapp": "971542240351",
+    "email": "",
+    "website_url": "https://bi.estate/",
+    "address": "\nsobha sapphire - Business Bay - Dubai - United Arab Emirates",
+    "city": "Business Bay Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/BI+REAL+ESTATE/data=!4m7!3m6!1s0x3e5f694efdb9d61f:0x71b7d33d359e4a8a!8m2!3d25.1785777!4d55.2636216!16s%2Fg%2F11yw_8rzv9!19sChIJH9a5_U5pXz4RikqeNT3Tt3E?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Business Bay Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/bi.estate/",
+        "facebook": "https://www.facebook.com/BigestatepropertiesLLC/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

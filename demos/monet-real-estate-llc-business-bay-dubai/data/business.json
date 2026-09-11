@@ -1,0 +1,50 @@
+{
+    "business_name": "Monet Real Estate Llc",
+    "source_business_name": "Monet Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971523208619",
+    "whatsapp": "971523208619",
+    "email": "info@monet.ae",
+    "website_url": "https://monet.ae/",
+    "address": "\n512 Binary Tower - Business Bay - Dubai - United Arab Emirates",
+    "city": "Business Bay Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Monet+Real+Estate+L.L.C/data=!4m7!3m6!1s0x3e5f69c8976d8c1b:0xaa53f8cc23b5b111!8m2!3d25.1874385!4d55.2667707!16s%2Fg%2F11w4kj96x5!19sChIJG4xtl8hpXz4REbG1I8z4U6o?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Business Bay Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/monet.realestate/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Hills And Bay Real Estate",
+    "source_business_name": "Hills And Bay Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971585848892",
+    "whatsapp": "971585848892",
+    "email": "info@hillsandbay.ae",
+    "website_url": "https://hillsandbay.ae/",
+    "address": "\nCourt Tower - 1505 - Business Bay - Dubai - United Arab Emirates",
+    "city": "Business Bay Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "67",
+    "google_maps_url": "https://www.google.com/maps/place/Hills+and+Bay+Real+Estate/data=!4m7!3m6!1s0x3e5f699b7f8a5c49:0x488a99fc32abdc91!8m2!3d25.1847637!4d55.2586712!16s%2Fg%2F11vkc7w_tf!19sChIJSVyKf5tpXz4RkdyrMvyZikg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Business Bay Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/hillsandbay/",
+        "facebook": "https://www.facebook.com/hillsandbay/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
