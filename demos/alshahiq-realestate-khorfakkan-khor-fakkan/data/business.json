@@ -1,0 +1,50 @@
+{
+    "business_name": "Alshahiq Realestate Khorfakkan",
+    "source_business_name": "Alshahiq Realestate Khorfakkan",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971506616816",
+    "whatsapp": "971506616816",
+    "email": "",
+    "website_url": "",
+    "address": "\nSaih Alkhor Suburb - Sharjah - United Arab Emirates",
+    "city": "Khor Fakkan",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "6",
+    "google_maps_url": "https://www.google.com/maps/place/Alshahiq+Realestate+%7C+Khorfakkan/data=!4m7!3m6!1s0x3ef44fcbcd773d59:0x3df0dcc248238757!8m2!3d25.3365669!4d56.3432629!16s%2Fg%2F11h_1yzjvk!19sChIJWT13zctP9D4RV4cjSMLc8D0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Khor Fakkan"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Riffa 54 Zarouni Building",
+    "source_business_name": "Al Riffa 54 Zarouni Building",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971551794727",
+    "whatsapp": "971551794727",
+    "email": "",
+    "website_url": "https://tmzmarket.wordpress.com/",
+    "address": "\nAl Bardi 1 - Sharjah - United Arab Emirates",
+    "city": "Khor Fakkan",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "1",
+    "google_maps_url": "https://www.google.com/maps/place/Al+Riffa+54+Zarouni+Building/data=!4m7!3m6!1s0x3ef44f32e5460431:0x5a573118068b69c4!8m2!3d25.3479724!4d56.3485777!16s%2Fg%2F11kqtf7t2x!19sChIJMQRG5TJP9D4RxGmLBhgxV1o?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Khor Fakkan"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

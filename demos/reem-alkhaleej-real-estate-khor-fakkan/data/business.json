@@ -1,0 +1,50 @@
+{
+    "business_name": "Reem Alkhaleej Real Estate",
+    "source_business_name": "Reem Alkhaleej Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971544333482",
+    "whatsapp": "971544333482",
+    "email": "",
+    "website_url": "",
+    "address": "\n24 Rughaylat Rd - Al Bardi 1 - Sharjah - United Arab Emirates",
+    "city": "Khor Fakkan",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "9",
+    "google_maps_url": "https://www.google.com/maps/place/reem+alkhaleej+real+estate/data=!4m7!3m6!1s0x3ef44fa610d2711d:0x67fad3c1b001ad88!8m2!3d25.3498894!4d56.349691!16s%2Fg%2F11g8w5zzjp!19sChIJHXHSEKZP9D4RiK0BsMHT-mc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Khor Fakkan"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Khalfan Farm House",
+    "source_business_name": "Khalfan Farm House",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971564625940",
+    "whatsapp": "971564625940",
+    "email": "",
+    "website_url": "https://api.whatsapp.com/send/?phone=971586677541&text&type=phone_number&app_absent=0",
+    "address": "\nKhalfan Farmhouse - Isfini - Ras Al Khaimah - United Arab Emirates",
+    "city": "Khor Fakkan",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "136",
+    "google_maps_url": "https://www.google.com/maps/place/Khalfan+Farm+House+UAE/data=!4m7!3m6!1s0x3ef5afc2b10e4079:0x1b1480e34704ced7!8m2!3d25.16175!4d56.089551!16s%2Fg%2F11rkp1rm1c!19sChIJeUAOscKv9T4R184ER-OAFBs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Khor Fakkan"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/whatsapp/",
+        "facebook": "https://www.facebook.com/profile.php/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
