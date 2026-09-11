@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Fadli Real Estate Property Finder",
+    "source_business_name": "Al Fadli Real Estate Property Finder",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971506705591",
+    "whatsapp": "971506705591",
+    "email": "",
+    "website_url": "",
+    "address": "\nSafad - Fujairah - United Arab Emirates",
+    "city": "Fujairah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3.5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/AL+FADLI+Real+Estate+Property+Finder+Fujairah/data=!4m7!3m6!1s0x3ef4f9878bbe4e91:0x26c866d611ea9f23!8m2!3d25.1263445!4d56.3428828!16s%2Fg%2F11vjnrnj6k!19sChIJkU6-i4f59D4RI5_qEdZmyCY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Fujairah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

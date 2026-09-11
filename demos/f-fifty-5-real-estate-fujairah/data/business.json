@@ -1,0 +1,50 @@
+{
+    "business_name": "F Fifty 5 Real Estate",
+    "source_business_name": "F Fifty 5 Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971586779905",
+    "whatsapp": "971586779905",
+    "email": "",
+    "website_url": "https://w.app/ysq0rl",
+    "address": "\nEmirates islamic bank - building office no 1510 Hamad bin abdullah road - Mraisheed - Fujairah - United Arab Emirates",
+    "city": "Fujairah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/F+Fifty+5+Real+Estate/data=!4m7!3m6!1s0x4d52504e6c69efe7:0xaa34f53e05deaa27!8m2!3d25.121699!4d56.3375443!16s%2Fg%2F11yww8r6y9!19sChIJ5-9pbE5QUk0RJ6reBT71NKo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Fujairah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

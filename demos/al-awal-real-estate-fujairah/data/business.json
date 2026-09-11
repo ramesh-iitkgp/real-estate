@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Awal Real Estate",
+    "source_business_name": "Al Awal Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971563156444",
+    "whatsapp": "971563156444",
+    "email": "",
+    "website_url": "https://alawalrealestate.com/",
+    "address": "\nOld Etisalat - Al Mahattah - Fujairah - United Arab Emirates",
+    "city": "Fujairah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/AL+AWAL+REAL+ESTATE/data=!4m7!3m6!1s0x3ef4f916a0f00b81:0xe61dcb17d1c4e9f3!8m2!3d25.1292424!4d56.3348199!16s%2Fg%2F11gkvf5rm5!19sChIJgQvwoBb59D4R8-nE0RfLHeY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Fujairah"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/alawal.realestate/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Hoor Real Estate",
+    "source_business_name": "Al Hoor Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971564218823",
+    "whatsapp": "971564218823",
+    "email": "",
+    "website_url": "",
+    "address": "\nShk. Hamad Bin Abdullah Al Sharqi St - Mraisheed - Fujairah - United Arab Emirates",
+    "city": "Fujairah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3.5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Al+Hoor+Real+Estate/data=!4m7!3m6!1s0x3ef4f900746f5a33:0xb4eb1459307474d6!8m2!3d25.1216333!4d56.3375427!16s%2Fg%2F11vzycfj60!19sChIJM1pvdAD59D4R1nR0MFkU67Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Fujairah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

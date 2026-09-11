@@ -1,0 +1,50 @@
+{
+    "business_name": "Fujtown",
+    "source_business_name": "Fujtown",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971503702600",
+    "whatsapp": "971503702600",
+    "email": "info@fujtown.com",
+    "website_url": "https://www.fujtown.com/",
+    "address": "\nCreative Tower, Office 808 - Fujairah - United Arab Emirates",
+    "city": "Fujairah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "14",
+    "google_maps_url": "https://www.google.com/maps/place/Fujtown/data=!4m7!3m6!1s0x3ef4f893d64b21d3:0xc860ab9f9930206d!8m2!3d25.1226526!4d56.3230812!16s%2Fg%2F11cm0hhyyr!19sChIJ0yFL1pP49D4RbSAwmZ-rYMg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Fujairah"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/fujtown/",
+        "facebook": "https://www.facebook.com/fujtown/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Zain Realestate",
+    "source_business_name": "Zain Realestate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971502498987",
+    "whatsapp": "971502498987",
+    "email": "hello@zain-realestate.com",
+    "website_url": "https://zainrealestate.ae/",
+    "address": "\nmiraisheed street - Mraisheed - Fujairah - United Arab Emirates",
+    "city": "Fujairah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3.5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/ZAIN+REALESTATE+FUJAIRAH/data=!4m7!3m6!1s0x3ef4f97fcfc01ae1:0xa1683616ba7dc0c9!8m2!3d25.1087928!4d56.345741!16s%2Fg%2F11x0stv5tj!19sChIJ4RrAz3_59D4RycB9uhY2aKE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Fujairah"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/zainrealestateuae/",
+        "facebook": "https://www.facebook.com/profile.php/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

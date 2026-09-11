@@ -1,0 +1,50 @@
+{
+    "business_name": "Siji Residences",
+    "source_business_name": "Siji Residences",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971565019995",
+    "whatsapp": "971565019995",
+    "email": "",
+    "website_url": "http://sijiresidences.com/",
+    "address": "\nRoad Downtown - Shk. Hamad Bin Abdullah Al Sharqi St - Fujairah City Center - Fujairah - United Arab Emirates",
+    "city": "Fujairah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3.5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/SIJI+RESIDENCES/data=!4m7!3m6!1s0x3ef4f9fa42a81093:0x308f29268f7fd4a9!8m2!3d25.1216461!4d56.3331217!16s%2Fg%2F11vxk8f39f!19sChIJkxCoQvr59D4RqdR_jyYpjzA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Fujairah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

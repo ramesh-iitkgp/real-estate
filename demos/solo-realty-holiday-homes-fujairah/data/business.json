@@ -1,0 +1,50 @@
+{
+    "business_name": "Solo Realty Holiday Homes",
+    "source_business_name": "Solo Realty Holiday Homes",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971506006028",
+    "whatsapp": "971506006028",
+    "email": "info@solorealty.ae",
+    "website_url": "https://solorealty.ae/",
+    "address": "\nOmar Bin Al Khatab Street - Sharm - E99 - Fujairah - United Arab Emirates",
+    "city": "Fujairah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "44",
+    "google_maps_url": "https://www.google.com/maps/place/Solo+Realty+Holiday+Homes/data=!4m7!3m6!1s0x3ef449a1beb4860b:0x41609603a4d2d3b5!8m2!3d25.4741266!4d56.3628942!16s%2Fg%2F11xyz0y_pl!19sChIJC4a0vqFJ9D4RtdPSpAOWYEE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Fujairah"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/solo.realty/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Jaber Tower",
+    "source_business_name": "Al Jaber Tower",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971561992179",
+    "whatsapp": "971561992179",
+    "email": "",
+    "website_url": "",
+    "address": "\n49C3+HG7 Al jaber tower - Al Ghurfah - Fujairah - United Arab Emirates",
+    "city": "Fujairah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3.5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Al+jaber+tower/data=!4m7!3m6!1s0x3ef4f9c21edfb489:0xc2ece2d883757724!8m2!3d25.1214045!4d56.3538025!16s%2Fg%2F11h83wlnkc!19sChIJibTfHsL59D4RJHd1g9ji7MI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Fujairah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

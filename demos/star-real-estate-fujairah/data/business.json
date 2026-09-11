@@ -1,0 +1,50 @@
+{
+    "business_name": "Star Real Estate",
+    "source_business_name": "Star Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971505479777",
+    "whatsapp": "971505479777",
+    "email": "info@starrealestate.ae",
+    "website_url": "https://www.starrealestate.ae/en",
+    "address": "\nALGHOURFAH ROAD - ALHAIL TOWER - Fujairah - United Arab Emirates",
+    "city": "Fujairah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/STAR+REAL+ESTATE/data=!4m7!3m6!1s0x3ef4f989f7e80eab:0x69dafc37abe83884!8m2!3d25.1274334!4d56.3548329!16s%2Fg%2F11qt42c3vm!19sChIJqw7o94n59D4RhDjoqzf82mk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Fujairah"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/star.realestateae/",
+        "facebook": "https://www.facebook.com/profile.php/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

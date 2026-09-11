@@ -1,0 +1,50 @@
+{
+    "business_name": "Mm Real Estate",
+    "source_business_name": "Mm Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971524441441",
+    "whatsapp": "971524441441",
+    "email": "",
+    "website_url": "",
+    "address": "\n48CQ+J5C - Hamad Bin Abdulla Rd - Mraisheed - Fujairah - United Arab Emirates",
+    "city": "Fujairah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "3",
+    "google_maps_url": "https://www.google.com/maps/place/M.M+REAL+ESTATE/data=!4m7!3m6!1s0x3ef4f893aaaaaaab:0x947686826fe2dbea!8m2!3d25.1215664!4d56.337892!16s%2Fg%2F11lly8bbxt!19sChIJq6qqqpP49D4R6tvib4KGdpQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Fujairah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

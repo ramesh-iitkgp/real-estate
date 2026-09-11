@@ -1,0 +1,50 @@
+{
+    "business_name": "Sana Real Estate Llc",
+    "source_business_name": "Sana Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971554862844",
+    "whatsapp": "971554862844",
+    "email": "",
+    "website_url": "",
+    "address": "\nAl ‘Uwaid - Fujairah - United Arab Emirates",
+    "city": "Fujairah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "5",
+    "google_maps_url": "https://www.google.com/maps/place/SANA+REAL+ESTATE+LLC/data=!4m7!3m6!1s0x3ef4f9d35a7f3c35:0xc17a1f87ae5257b9!8m2!3d25.1270284!4d56.3444804!16s%2Fg%2F11h7sv_vkx!19sChIJNTx_WtP59D4RuVdSrocfesE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Fujairah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
