@@ -1,0 +1,50 @@
+{
+    "business_name": "Imperial Star Real Estate",
+    "source_business_name": "Imperial Star Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971557591422",
+    "whatsapp": "971557591422",
+    "email": "info@isrealty.ae",
+    "website_url": "https://isrealty.ae/",
+    "address": "\nCreek, Al Masraf Building - 1303 - Baniyas Rd - Al Rigga - Deira - Dubai - United Arab Emirates",
+    "city": "Deira Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Imperial+Star+Real+Estate/data=!4m7!3m6!1s0x3e5f43d629ab358f:0x1222aa467fec048!8m2!3d25.2636128!4d55.3124915!16s%2Fg%2F11l1q_xfkq!19sChIJjzWrKdZDXz4RSMD-Z6QqIgE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Deira Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/isrealty.ae/",
+        "facebook": "https://www.facebook.com/isrealty.dxb/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

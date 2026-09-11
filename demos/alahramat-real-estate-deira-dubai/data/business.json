@@ -1,0 +1,50 @@
+{
+    "business_name": "Alahramat Real Estate",
+    "source_business_name": "Alahramat Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971544704754",
+    "whatsapp": "971544704754",
+    "email": "",
+    "website_url": "",
+    "address": "\nخلف ديرة سيتي سنتر - شارع - Port Saeed - Deira - Dubai - United Arab Emirates",
+    "city": "Deira Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "1",
+    "google_maps_url": "https://www.google.com/maps/place/ALAHRAMAT+REAL+ESTATE/data=!4m7!3m6!1s0x3e5f5d577137fdef:0x1b783971c1de16c0!8m2!3d25.2787504!4d55.3309556!16s%2Fg%2F11yl3x3tx5!19sChIJ7_03cVddXz4RwBbewXE5eBs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Deira Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Silver Keys Real Estate Llc - Real Estate Company In",
+    "source_business_name": "Silver Keys Real Estate Llc - Real Estate Company In",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971555339696",
+    "whatsapp": "971555339696",
+    "email": "properties@silverkeys.ae",
+    "website_url": "https://www.silverkeys.ae/",
+    "address": "\nDeira - Dubai ​Al Fahad Building​ Abu Hail 1st Floor Office 115 - Dubai - United Arab Emirates",
+    "city": "Deira Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Silver+Keys+Real+Estate+L.L.C+-+Real+Estate+Company+in+Dubai/data=!4m7!3m6!1s0x3e5f5d3b0141c9dd:0xaef1fd70c13e65a8!8m2!3d25.2791169!4d55.3448427!16s%2Fg%2F11l4ljk26g!19sChIJ3clBATtdXz4RqGU-wXD98a4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Deira Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/silverkeysrealestate/",
+        "facebook": "https://www.facebook.com/Silver-Keys-Real-Estate-108290297689288/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

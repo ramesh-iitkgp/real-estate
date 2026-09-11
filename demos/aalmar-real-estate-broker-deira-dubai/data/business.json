@@ -1,0 +1,50 @@
+{
+    "business_name": "Aalmar Real Estate Broker",
+    "source_business_name": "Aalmar Real Estate Broker",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971502767550",
+    "whatsapp": "971502767550",
+    "email": "info@aalmargroup.com",
+    "website_url": "https://www.aalmargroup.com/",
+    "address": "\nmetro - 401, Floor 4, One Deira Plaza - Exit 3 - above Gold Souq - Deira - Dubai - United Arab Emirates",
+    "city": "Deira Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Aalmar+Real+Estate+Broker/data=!4m7!3m6!1s0x3e5f431e3c44c013:0xfed6d2cc389ddc93!8m2!3d25.2765011!4d55.3019675!16s%2Fg%2F11rqh00fz6!19sChIJE8BEPB5DXz4Rk9ydOMzS1v4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Deira Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/aalmar_real_estate/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Raqba Realty",
+    "source_business_name": "Raqba Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971556356640",
+    "whatsapp": "971556356640",
+    "email": "",
+    "website_url": "https://raqbarealty.com/",
+    "address": "\nOffice No. 203 - 257, Al Bahar Building, Al Khabeesi - Deira - Dubai - United Arab Emirates",
+    "city": "Deira Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Raqba+Realty/data=!4m7!3m6!1s0x3e5f5d575a3142df:0x7f9fa5a4c804fabc!8m2!3d25.2666552!4d55.3337185!16s%2Fg%2F11wxfk83v7!19sChIJ30IxWlddXz4RvPoEyKSln38?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Deira Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/raqbarealty/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

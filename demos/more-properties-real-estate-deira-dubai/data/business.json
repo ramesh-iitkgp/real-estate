@@ -1,0 +1,50 @@
+{
+    "business_name": "More Properties Real Estate",
+    "source_business_name": "More Properties Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971508872299",
+    "whatsapp": "971508872299",
+    "email": "support@morepropertiesdubai.com",
+    "website_url": "https://morepropertiesdubai.com/",
+    "address": "\nDubai National Insurance Building - 101 - Port Saeed - Dubai - United Arab Emirates",
+    "city": "Deira Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/More+Properties+Real+Estate/data=!4m7!3m6!1s0x3e5f6977bc59fb07:0x5a231b924e575aac!8m2!3d25.2531339!4d55.3286495!16s%2Fg%2F11hz6tcj40!19sChIJB_tZvHdpXz4RrFpXTpIbI1o?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Deira Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/moreproperties/",
+        "facebook": "https://www.facebook.com/morepropertiesdubai/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

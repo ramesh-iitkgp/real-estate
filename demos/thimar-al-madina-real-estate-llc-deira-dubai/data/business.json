@@ -1,0 +1,50 @@
+{
+    "business_name": "Thimar Al Madina Real Estate Llc",
+    "source_business_name": "Thimar Al Madina Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971526428006",
+    "whatsapp": "971526428006",
+    "email": "",
+    "website_url": "https://thimar-re.com/",
+    "address": "\nOffice 203, Al Zarooni - Al Rigga Rd - Al Muraqqabat - Deira - Dubai - United Arab Emirates",
+    "city": "Deira Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/THIMAR+AL+MADINA+REAL+ESTATE+LLC/data=!4m7!3m6!1s0x27fe0fa8ee98bcad:0x2b88c7d36dda516a!8m2!3d25.2625198!4d55.3264428!16s%2Fg%2F11y7dscgcp!19sChIJrbyY7qgP_icRalHabdPHiCs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Deira Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Sanaya Real Estate Llc",
+    "source_business_name": "Sanaya Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971556676305",
+    "whatsapp": "971556676305",
+    "email": "info@sanayarealestate.com",
+    "website_url": "https://sanayarealestate.com/",
+    "address": "\nNGI House Building - Office # 203 - Al Ittihad Rd - Port Saeed - Deira - Dubai - United Arab Emirates",
+    "city": "Deira Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "1",
+    "google_maps_url": "https://www.google.com/maps/place/Sanaya+Real+Estate+LLC/data=!4m7!3m6!1s0x3e5f5dbfba49b7c5:0x8a17eb855dc1cae9!8m2!3d25.2533056!4d55.3292341!16s%2Fg%2F11nvdgh4h_!19sChIJxbdJur9dXz4R6crBXYXrF4o?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Deira Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

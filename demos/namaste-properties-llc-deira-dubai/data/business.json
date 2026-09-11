@@ -1,0 +1,50 @@
+{
+    "business_name": "Namaste Properties Llc",
+    "source_business_name": "Namaste Properties Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971567575551",
+    "whatsapp": "971567575551",
+    "email": "",
+    "website_url": "https://namaste-properties.com/",
+    "address": "\nAl Masaood Tower - 1002 - Al Maktoum Rd - Port Saeed - Deira - Dubai - United Arab Emirates",
+    "city": "Deira Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Namaste+Properties+LLC/data=!4m7!3m6!1s0x23580f7becc42d5d:0x7d174b0fddf48292!8m2!3d25.2571904!4d55.3331503!16s%2Fg%2F11x0r50d88!19sChIJXS3E7HsPWCMRkoL03Q9LF30?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Deira Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

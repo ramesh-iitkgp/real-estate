@@ -1,0 +1,50 @@
+{
+    "business_name": "Gh Realty",
+    "source_business_name": "Gh Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971542115968",
+    "whatsapp": "971542115968",
+    "email": "info@ghrealty.ae",
+    "website_url": "https://ghrealty.ae/",
+    "address": "\nAl Falasi Building - Showroom #1 Salah Al Din St - Hor Al Anz - Deira - Dubai - United Arab Emirates",
+    "city": "Deira Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/GH+REALTY/data=!4m7!3m6!1s0x3e5f5d55ef953a1d:0xf33251106330e5cd!8m2!3d25.2719289!4d55.336694!16s%2Fg%2F11xlcbh5__!19sChIJHTqV71VdXz4RzeUwYxBRMvM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Deira Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/ghrealty.ae/",
+        "facebook": "https://www.facebook.com/people/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

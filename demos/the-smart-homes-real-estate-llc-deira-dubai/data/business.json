@@ -1,0 +1,50 @@
+{
+    "business_name": "The Smart Homes Real Estate Llc",
+    "source_business_name": "The Smart Homes Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971529083635",
+    "whatsapp": "971529083635",
+    "email": "",
+    "website_url": "http://thesmarthomerealestate.com/",
+    "address": "\nAl Mamzar - Office# 1101-34 AB Plaza 08 - Dubai - United Arab Emirates",
+    "city": "Deira Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "83",
+    "google_maps_url": "https://www.google.com/maps/place/The+Smart+Homes+Real+Estate+LLC/data=!4m7!3m6!1s0x3e5f4395b88a041b:0x90a0cde9f7e07d2!8m2!3d25.2836596!4d55.3559834!16s%2Fg%2F11nnnkx6f6!19sChIJGwSKuJVDXz4R0gd-n94MCgk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Deira Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

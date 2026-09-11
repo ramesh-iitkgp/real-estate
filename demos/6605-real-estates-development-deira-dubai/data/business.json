@@ -1,0 +1,50 @@
+{
+    "business_name": "6605 Real Estates Development",
+    "source_business_name": "6605 Real Estates Development",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971566190066",
+    "whatsapp": "971566190066",
+    "email": "",
+    "website_url": "",
+    "address": "\nOffice No. 204, Al Khabaisi Building, Al Khabaisi, Port Saeed, Deira, Dubai, U.A.E. - Dubai - United Arab Emirates",
+    "city": "Deira Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/6605+Real+Estates+Development/data=!4m7!3m6!1s0x3e5f5cdce224ec9b:0xb8e618c6fd6a9899!8m2!3d25.2623!4d55.333363!16s%2Fg%2F1hhg_rm6p!19sChIJm-wk4txcXz4RmZhq_cYY5rg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Deira Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

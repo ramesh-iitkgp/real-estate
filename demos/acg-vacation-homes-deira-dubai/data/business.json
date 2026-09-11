@@ -1,0 +1,50 @@
+{
+    "business_name": "Acg Vacation Homes",
+    "source_business_name": "Acg Vacation Homes",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971553965935",
+    "whatsapp": "971553965935",
+    "email": "info@acgvacationhomes.com",
+    "website_url": "https://acgvacationhomes.com/",
+    "address": "\nAl Baraha Bin Fares 2 Building Office 101 - Dubai - United Arab Emirates",
+    "city": "Deira Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "10",
+    "google_maps_url": "https://www.google.com/maps/place/ACG+Vacation+Homes/data=!4m7!3m6!1s0x3e5f5d71eb71b4e1:0xb82fb3e3d8355c66!8m2!3d25.2822658!4d55.3158095!16s%2Fg%2F11mrmc2791!19sChIJ4bRx63FdXz4RZlw12OOzL7g?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Deira Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/acgvacationhomerentals/",
+        "facebook": "https://www.facebook.com/acgvacationhomerentals/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

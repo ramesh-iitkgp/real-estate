@@ -1,0 +1,50 @@
+{
+    "business_name": "Homes R Us Real Estate Brokers",
+    "source_business_name": "Homes R Us Real Estate Brokers",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971501485560",
+    "whatsapp": "971501485560",
+    "email": "",
+    "website_url": "",
+    "address": "\nBlock B - Office 405 - Business Village - Deira - Dubai - United Arab Emirates",
+    "city": "Deira Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Homes+R+Us+Real+Estate+Brokers+%28Dubai%29/data=!4m7!3m6!1s0x3e5f5d6777dbdbf5:0xa9ff14caebf0d69f!8m2!3d25.2787504!4d55.3309556!16s%2Fg%2F11syksp9z5!19sChIJ9dvbd2ddXz4Rn9bw68oU_6k?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Deira Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Mohammed Alhaj Real Estate",
+    "source_business_name": "Mohammed Alhaj Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971558032266",
+    "whatsapp": "971558032266",
+    "email": "info@alhaj.ae",
+    "website_url": "https://alhaj.ae/",
+    "address": "\nDeira, Business Village, Block - B, Office 622 - Dubai - United Arab Emirates",
+    "city": "Deira Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Mohammed+Alhaj+Real+Estate/data=!4m7!3m6!1s0x3e5f430c1443d01d:0xa2535f2eb11ccfe2!8m2!3d25.2574202!4d55.326831!16s%2Fg%2F11wy00t59n!19sChIJHdBDFAxDXz4R4s8csS5fU6I?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Deira Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/alhaj.ae/",
+        "facebook": "https://www.facebook.com/alhaj.ae/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
