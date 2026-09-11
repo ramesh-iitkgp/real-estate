@@ -1,0 +1,50 @@
+{
+    "business_name": "Mb Homes Real Estate",
+    "source_business_name": "Mb Homes Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971562378653",
+    "whatsapp": "971562378653",
+    "email": "",
+    "website_url": "https://mbhomes.ae/",
+    "address": "\nRasis Business Center - Al Barsha First - Al Barsha - Dubai - United Arab Emirates",
+    "city": "Al Barsha Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "36",
+    "google_maps_url": "https://www.google.com/maps/place/MB+HOMES+REAL+ESTATE/data=!4m7!3m6!1s0x3e5f6b1b2aa11b53:0x534688bc318aece7!8m2!3d25.1073088!4d55.1983921!16s%2Fg%2F11vs4lxkf4!19sChIJUxuhKhtrXz4R5-yKMbyIRlM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Barsha Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Aga Real Estate Brokers Llc",
+    "source_business_name": "Aga Real Estate Brokers Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971565854545",
+    "whatsapp": "971565854545",
+    "email": "invest@agarealestate.ae",
+    "website_url": "https://agarealestate.ae/",
+    "address": "\nDeyaar Head Office Building - 403 - Al Barsha First - Dubai - United Arab Emirates",
+    "city": "Al Barsha Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.7",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/AGA+Real+Estate+Brokers+LLC/data=!4m7!3m6!1s0x3e5f6b076dec8c0d:0x418aee8a5413f9e!8m2!3d25.1169152!4d55.1967566!16s%2Fg%2F11ykx1dt07!19sChIJDYzsbQdrXz4Rnj9BpeiuGAQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Barsha Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

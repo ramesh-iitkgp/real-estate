@@ -1,0 +1,50 @@
+{
+    "business_name": "Sakani Real Estate",
+    "source_business_name": "Sakani Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971509777891",
+    "whatsapp": "971509777891",
+    "email": "",
+    "website_url": "https://www.sakanirealestate.ae/",
+    "address": "\n366R+3G2 - Al Barsha - Al Barsha South - Dubai Office No. 412A, Diamond Business Center 1, Block A - Dubai - United Arab Emirates",
+    "city": "Al Barsha Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "22",
+    "google_maps_url": "https://www.google.com/maps/place/Sakani+Real+Estate/data=!4m7!3m6!1s0x3e5f6929fdabf6c7:0x397b63c6fb4494f1!8m2!3d25.0601332!4d55.2412727!16s%2Fg%2F11v3x89tst!19sChIJx_ar_SlpXz4R8ZRE-8Zjezk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Barsha Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

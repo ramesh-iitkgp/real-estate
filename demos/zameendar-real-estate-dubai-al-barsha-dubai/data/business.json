@@ -1,0 +1,50 @@
+{
+    "business_name": "Zameendar Real Estate",
+    "source_business_name": "Zameendar Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971504040832",
+    "whatsapp": "971504040832",
+    "email": "",
+    "website_url": "https://zameendar.ae/",
+    "address": "\nA.B. Centre - Office 308 Al Barsha 1 - Al Barsha First - Al Barsha - Dubai - United Arab Emirates",
+    "city": "Al Barsha Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "36",
+    "google_maps_url": "https://www.google.com/maps/place/Zameendar+Real+Estate+Dubai/data=!4m7!3m6!1s0x33330e51b83841:0x5e83c723bcb6f9b0!8m2!3d25.1089118!4d55.1837274!16s%2Fg%2F11x8c2mg5l!19sChIJQTi4UQ4zMwARsPm2vCPHg14?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Barsha Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

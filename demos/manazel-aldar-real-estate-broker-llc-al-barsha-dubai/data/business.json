@@ -1,0 +1,50 @@
+{
+    "business_name": "Manazel Aldar Real Estate Broker Llc",
+    "source_business_name": "Manazel Aldar Real Estate Broker Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971502190868",
+    "whatsapp": "971502190868",
+    "email": "",
+    "website_url": "https://manazelrent.com/",
+    "address": "\nI Rise Tower - Hessa St - First Al Khail St - Dubai - United Arab Emirates",
+    "city": "Al Barsha Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/MANAZEL+ALDAR+REAL+ESTATE+BROKER+LLC/data=!4m7!3m6!1s0x3e5f6b6fa7fba265:0x5789d72942a677de!8m2!3d25.0973671!4d55.1809198!16s%2Fg%2F11vw_fxhqd!19sChIJZaL7p29rXz4R3nemQinXiVc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Barsha Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

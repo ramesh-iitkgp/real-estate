@@ -1,0 +1,50 @@
+{
+    "business_name": "Rd Real Estate Llc",
+    "source_business_name": "Rd Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971589357010",
+    "whatsapp": "971589357010",
+    "email": "",
+    "website_url": "https://ruknaldaman.com/",
+    "address": "\nElite Business Centre - Office 407 - Al Barsha First - Al Barsha - Dubai - United Arab Emirates",
+    "city": "Al Barsha Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/RD+Real+Estate+LLC,+Dubai/data=!4m7!3m6!1s0x3e5f6bc6c0a4a207:0xa7d840a08bb163ea!8m2!3d25.1163056!4d55.2058386!16s%2Fg%2F11yz8lnq16!19sChIJB6KkwMZrXz4R6mOxi6BA2Kc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Barsha Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/rdrealestatedubai/",
+        "facebook": "https://www.facebook.com/rdrealestatedubai/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "One Stop Realty Real Estate",
+    "source_business_name": "One Stop Realty Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971555285745",
+    "whatsapp": "971555285745",
+    "email": "",
+    "website_url": "https://onestoprealtyuae.com/",
+    "address": "\nThe One Tower - Office 3813 - 38th Floor - Al Thanyah First - Barsha Heights - Dubai - United Arab Emirates",
+    "city": "Al Barsha Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/One+Stop+Realty+Real+Estate/data=!4m7!3m6!1s0x3e5f6b61deada565:0x77b3ad749ce3e5f1!8m2!3d25.1016346!4d55.1737202!16s%2Fg%2F11zgb2x5t6!19sChIJZaWt3mFrXz4R8eXjnHSts3c?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Barsha Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/one_stoprealty/",
+        "facebook": "https://www.facebook.com/onestoprealtyuae/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

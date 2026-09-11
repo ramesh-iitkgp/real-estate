@@ -1,0 +1,50 @@
+{
+    "business_name": "Savis Realty",
+    "source_business_name": "Savis Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971543216565",
+    "whatsapp": "971543216565",
+    "email": "",
+    "website_url": "https://savisrealty.com/",
+    "address": "\n5th Floor - Office 503 - 34 street 16 - Al Barsha First - Al Barsha - Dubai - United Arab Emirates",
+    "city": "Al Barsha Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "125",
+    "google_maps_url": "https://www.google.com/maps/place/Savis+Realty/data=!4m7!3m6!1s0x3e5f6bee22cc6d21:0xbbaf5456a348ec5f!8m2!3d25.1096158!4d55.2045613!16s%2Fg%2F11vld5pwn0!19sChIJIW3MIu5rXz4RX-xIo1ZUr7s?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Barsha Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

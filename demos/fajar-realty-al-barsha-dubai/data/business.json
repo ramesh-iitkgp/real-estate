@@ -1,0 +1,50 @@
+{
+    "business_name": "Fajar Realty",
+    "source_business_name": "Fajar Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971569121145",
+    "whatsapp": "971569121145",
+    "email": "info@fajarrealty.ae",
+    "website_url": "https://fajarrealty.ae/",
+    "address": "\nThe Light Commercial Tower - Al Barsha South Third - Al Barsha - Dubai - United Arab Emirates",
+    "city": "Al Barsha Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "34",
+    "google_maps_url": "https://www.google.com/maps/place/Fajar+Realty/data=!4m7!3m6!1s0x3e5f13a0c24bb4f5:0xc4b899cd6bfecc56!8m2!3d25.0653824!4d55.2456451!16s%2Fg%2F11nn444b8v!19sChIJ9bRLwqATXz4RVsz-a82ZuMQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Barsha Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/fajarrealty/",
+        "facebook": "https://www.facebook.com/fajarrealtyofficial/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

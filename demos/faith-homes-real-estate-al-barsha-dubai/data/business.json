@@ -1,0 +1,50 @@
+{
+    "business_name": "Faith Homes Real Estate",
+    "source_business_name": "Faith Homes Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971523723000",
+    "whatsapp": "971523723000",
+    "email": "info@faithhomesre.com",
+    "website_url": "https://faithhomesre.com/",
+    "address": "\nDiamond Business Centre 1 Block C, Office 208C - Dubai - United Arab Emirates",
+    "city": "Al Barsha Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "56",
+    "google_maps_url": "https://www.google.com/maps/place/Faith+Homes+Real+Estate/data=!4m7!3m6!1s0x3e5f6f5052dd5c85:0xba68b69a3a091d79!8m2!3d25.0575068!4d55.2429993!16s%2Fg%2F11tjrl11v0!19sChIJhVzdUlBvXz4ReR0JOpq2aLo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Barsha Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/faithhomesre/",
+        "facebook": "https://www.facebook.com/FAITHHOMESRE/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

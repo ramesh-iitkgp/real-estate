@@ -1,0 +1,50 @@
+{
+    "business_name": "Luxhaus Real Estate",
+    "source_business_name": "Luxhaus Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971528834398",
+    "whatsapp": "971528834398",
+    "email": "",
+    "website_url": "https://www.luxhaus.ae/",
+    "address": "\nD2 Tower - Office no.501 - Al Barsha - Dubai - United Arab Emirates",
+    "city": "Al Barsha Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "69",
+    "google_maps_url": "https://www.google.com/maps/place/Luxhaus+Real+Estate/data=!4m7!3m6!1s0x3e5f6baa4e2086e9:0x52dbdb0e6a171c0!8m2!3d25.1110693!4d55.2057694!16s%2Fg%2F11ldyrq6lt!19sChIJ6YYgTqprXz4RwHGh5rC9LQU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Barsha Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

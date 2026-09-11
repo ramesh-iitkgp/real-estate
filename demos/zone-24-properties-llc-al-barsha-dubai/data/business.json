@@ -1,0 +1,50 @@
+{
+    "business_name": "Zone 24 Properties Llc",
+    "source_business_name": "Zone 24 Properties Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971585067008",
+    "whatsapp": "971585067008",
+    "email": "",
+    "website_url": "https://www.zone24.ae/",
+    "address": "\nDiamond Business Center 2 Arjan - Office 411 - Al Barsha South Third - Al Barsha - Dubai - United Arab Emirates",
+    "city": "Al Barsha Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "67",
+    "google_maps_url": "https://www.google.com/maps/place/Zone+24+Properties+LLC/data=!4m7!3m6!1s0x3e5f6f9d56ccc3f9:0xd3827fd9ae0056c!8m2!3d25.063685!4d55.2483192!16s%2Fg%2F11vyq2wkn5!19sChIJ-cPMVp1vXz4RbAXgmv0nOA0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Barsha Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

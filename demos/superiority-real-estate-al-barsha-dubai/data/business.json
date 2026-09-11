@@ -1,0 +1,50 @@
+{
+    "business_name": "Superiority Real Estate",
+    "source_business_name": "Superiority Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971502685827",
+    "whatsapp": "971502685827",
+    "email": "info@superdxb.com",
+    "website_url": "https://superdxb.com/",
+    "address": "\nDubai - Tecom - Sheikha Noora Tower - Dubai - United Arab Emirates",
+    "city": "Al Barsha Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "149",
+    "google_maps_url": "https://www.google.com/maps/place/Superiority+Real+Estate/data=!4m7!3m6!1s0x3e5f6b77557b540f:0x89b66ea821f9a251!8m2!3d25.0983641!4d55.1766357!16s%2Fg%2F11bv38cszm!19sChIJD1R7VXdrXz4RUaL5Iahutok?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Barsha Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Home Station Real Estate",
+    "source_business_name": "Home Station Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971508201629",
+    "whatsapp": "971508201629",
+    "email": "",
+    "website_url": "https://homestation.ae/",
+    "address": "\nOffice 610 Dusseldorf Business Point - 1 Al Barsha Rd - Al Barsha First - Al Barsha - Dubai - United Arab Emirates",
+    "city": "Al Barsha Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "70",
+    "google_maps_url": "https://www.google.com/maps/place/Home+Station+Real+Estate/data=!4m7!3m6!1s0x3e5f43d5a9a6b8b9:0x6558ba5eb8201187!8m2!3d25.1147743!4d55.2048202!16s%2Fg%2F11fpfqbl5v!19sChIJubimqdVDXz4RhxEguF66WGU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Barsha Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

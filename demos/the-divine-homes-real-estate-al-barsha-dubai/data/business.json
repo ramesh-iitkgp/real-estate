@@ -1,0 +1,50 @@
+{
+    "business_name": "The Divine Homes Real Estate",
+    "source_business_name": "The Divine Homes Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971555687953",
+    "whatsapp": "971555687953",
+    "email": "",
+    "website_url": "https://thedivinehomes.com/",
+    "address": "\nLight Commercial Tower, Arjan office no 301 - Dubai - United Arab Emirates",
+    "city": "Al Barsha Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "26",
+    "google_maps_url": "https://www.google.com/maps/place/The+Divine+Homes+Real+Estate/data=!4m7!3m6!1s0x3e5f6f0006fd13d3:0xa99d9b81ec3620d3!8m2!3d25.0653824!4d55.2456451!16s%2Fg%2F11tnh_1r7g!19sChIJ0xP9BgBvXz4R0yA27IGbnak?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Barsha Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Primero Real Estate",
+    "source_business_name": "Primero Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971588857021",
+    "whatsapp": "971588857021",
+    "email": "info@primerorealestate.com",
+    "website_url": "https://primerorealestate.com/",
+    "address": "\nOffice 75 - 4th Al Barsha 1 - Al Barsha First - Al Barsha - Dubai - United Arab Emirates",
+    "city": "Al Barsha Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Primero+Real+Estate/data=!4m7!3m6!1s0x3e5f6b5891c9e35d:0xc7ebd0b7a6cdc8a8!8m2!3d25.1072131!4d55.1985949!16s%2Fg%2F11n458r6rl!19sChIJXePJkVhrXz4RqMjNprfQ68c?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Barsha Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/primerorealestate/",
+        "facebook": "https://www.facebook.com/primerorealestates/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

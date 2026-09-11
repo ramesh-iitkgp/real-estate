@@ -1,0 +1,50 @@
+{
+    "business_name": "Unique Zone Real Estate - Property For Rent And Sale In",
+    "source_business_name": "Unique Zone Real Estate - Property For Rent And Sale In",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971552697381",
+    "whatsapp": "971552697381",
+    "email": "info@uniquezone.realestate",
+    "website_url": "https://uniquezone.realestate/",
+    "address": "\nAl Bedaia Building, Bedaia Building - OFFICE 203 - Al Barsha First - Al Barsha - Dubai - United Arab Emirates",
+    "city": "Al Barsha Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "59",
+    "google_maps_url": "https://www.google.com/maps/place/Unique+Zone+Real+Estate+-+Property+for+Rent+and+Sale+in+Dubai/data=!4m7!3m6!1s0x3e5f6bd458ac40f1:0x29ebce329717baad!8m2!3d25.113632!4d55.204475!16s%2Fg%2F11pzn4hxy7!19sChIJ8UCsWNRrXz4RrboXlzLO6yk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Barsha Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/uniquezone.realestate/",
+        "facebook": "https://www.facebook.com/uniquezone.realestates/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

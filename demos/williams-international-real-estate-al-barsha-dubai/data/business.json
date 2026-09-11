@@ -1,0 +1,50 @@
+{
+    "business_name": "Williams International Real Estate",
+    "source_business_name": "Williams International Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971503180955",
+    "whatsapp": "971503180955",
+    "email": "info@williamsinternationalgroup.com",
+    "website_url": "https://williamsinternationalgroup.com/",
+    "address": "\nIcon Tower - Al Thanyah First - Barsha Heights - Dubai - United Arab Emirates",
+    "city": "Al Barsha Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "324",
+    "google_maps_url": "https://www.google.com/maps/place/Williams+International+Real+Estate/data=!4m7!3m6!1s0x3e5f6b25bc7cd5eb:0xbdc23ff1c95d2001!8m2!3d25.0975515!4d55.1740632!16s%2Fg%2F11tcw2hb5x!19sChIJ69V8vCVrXz4RASBdyfE_wr0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Barsha Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/williams_international/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

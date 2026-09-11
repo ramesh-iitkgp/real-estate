@@ -1,0 +1,50 @@
+{
+    "business_name": "Dream Properties",
+    "source_business_name": "Dream Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971585079800",
+    "whatsapp": "971585079800",
+    "email": "",
+    "website_url": "https://dreamproperties.ae/",
+    "address": "\nDream Properties, Damac Executive Heights - Jebel Ali Race Course Rd - Al Thanyah First - Barsha Heights - Dubai - United Arab Emirates",
+    "city": "Al Barsha Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Dream+Properties/data=!4m7!3m6!1s0x3e5f6f6d90d7f5bd:0x8b8a7d5fb631f820!8m2!3d25.0952904!4d55.1728556!16s%2Fg%2F11rjgr3pg6!19sChIJvfXXkG1vXz4RIPgxtl99ios?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Barsha Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/drm.ae/",
+        "facebook": "https://www.facebook.com/DreamPropertiesDubai/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
