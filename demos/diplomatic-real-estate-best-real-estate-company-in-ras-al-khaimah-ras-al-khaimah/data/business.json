@@ -1,0 +1,50 @@
+{
+    "business_name": "Diplomatic Real Estate Best Real Estate Company In",
+    "source_business_name": "Diplomatic Real Estate Best Real Estate Company In",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971544347355",
+    "whatsapp": "971544347355",
+    "email": "info@diplomaticproperties.com",
+    "website_url": "https://diplomaticproperties.com/",
+    "address": "\nJulphar Towers - Office 1007 - Al Hisn Rd - Dafan Al Nakheel - Ras Al Khaimah - United Arab Emirates",
+    "city": "Ras Al Khaimah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "9",
+    "google_maps_url": "https://www.google.com/maps/place/Diplomatic+Real+Estate+%7C+Best+Real+Estate+Company+in+Ras+Al+Khaimah/data=!4m7!3m6!1s0x897c2b1b04be2033:0x3363b39f91d47faa!8m2!3d25.7912505!4d55.9595015!16s%2Fg%2F11lcmyywpg!19sChIJMyC-BBsrfIkRqn_UkZ-zYzM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ras Al Khaimah"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/diplomatic.realestate/",
+        "facebook": "https://www.facebook.com/diplomaticre.properties/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

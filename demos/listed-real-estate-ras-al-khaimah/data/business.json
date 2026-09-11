@@ -1,0 +1,50 @@
+{
+    "business_name": "Listed Real Estate",
+    "source_business_name": "Listed Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971508907078",
+    "whatsapp": "971508907078",
+    "email": "info@listeduae.com",
+    "website_url": "https://listeduae.com/",
+    "address": "\nRAKEZ Compass Coworking Centre - Marjan Beach - Ras Al Khaimah - United Arab Emirates",
+    "city": "Ras Al Khaimah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "68",
+    "google_maps_url": "https://www.google.com/maps/place/Listed+Real+Estate/data=!4m7!3m6!1s0x3ef60b68ebaac67b:0x80fb632a3be5dfdb!8m2!3d25.6652949!4d55.7861007!16s%2Fg%2F11vbg1zk8c!19sChIJe8aq62gL9j4R29_lOypj-4A?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ras Al Khaimah"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/listeduae/",
+        "facebook": "https://www.facebook.com/people/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

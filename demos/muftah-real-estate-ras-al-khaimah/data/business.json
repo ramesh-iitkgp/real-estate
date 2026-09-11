@@ -1,0 +1,50 @@
+{
+    "business_name": "Muftah Real Estate",
+    "source_business_name": "Muftah Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971558041213",
+    "whatsapp": "971558041213",
+    "email": "",
+    "website_url": "",
+    "address": "\nMeireid Rounabout Thurayya Building Office no 5 Ground Floor - Ras Al-Khaimah - United Arab Emirates",
+    "city": "Ras Al Khaimah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/MUFTAH+REAL+ESTATE/data=!4m7!3m6!1s0x3ef67139806c4d5f:0xe695908dbb7524e1!8m2!3d25.8044098!4d55.9625069!16s%2Fg%2F11w3x6fhl_!19sChIJX01sgDlx9j4R4SR1u42QleY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ras Al Khaimah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

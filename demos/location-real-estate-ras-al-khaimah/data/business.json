@@ -1,0 +1,50 @@
+{
+    "business_name": "Location Real Estate",
+    "source_business_name": "Location Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971507689923",
+    "whatsapp": "971507689923",
+    "email": "",
+    "website_url": "",
+    "address": "\nAl Mamourah - Ras Al Khaimah - United Arab Emirates",
+    "city": "Ras Al Khaimah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Location+Real+Estate/data=!4m7!3m6!1s0x3ef671921238b703:0x9f0e4d68aea6c04b!8m2!3d25.807766!4d55.9712439!16s%2Fg%2F11pbb2gtg7!19sChIJA7c4EpJx9j4RS8CmrmhNDp8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ras Al Khaimah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

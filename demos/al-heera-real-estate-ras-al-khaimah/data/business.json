@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Heera Real Estate",
+    "source_business_name": "Al Heera Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971556801994",
+    "whatsapp": "971556801994",
+    "email": "",
+    "website_url": "",
+    "address": "\nAl Mamourah - Ras Al Khaimah - United Arab Emirates",
+    "city": "Ras Al Khaimah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "13",
+    "google_maps_url": "https://www.google.com/maps/place/AL+HEERA+REAL+ESTATE+%D8%A7%D9%84%D8%AD%D9%8A%D8%B1%D8%A9+%D9%84%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA%E2%80%AD/data=!4m7!3m6!1s0x3ef67127a4dd3df5:0xf5bba35bb6f2395!8m2!3d25.8111005!4d55.9768581!16s%2Fg%2F11fxvn0mk1!19sChIJ9T3dpCdx9j4RlSNvuzW6Ww8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ras Al Khaimah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

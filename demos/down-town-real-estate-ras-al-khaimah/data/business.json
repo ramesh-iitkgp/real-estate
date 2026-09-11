@@ -1,0 +1,50 @@
+{
+    "business_name": "Down Town Real Estate",
+    "source_business_name": "Down Town Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971525501000",
+    "whatsapp": "971525501000",
+    "email": "",
+    "website_url": "",
+    "address": "\nShaikh Salim Raod - Sheikh Mohamed Bin Salem Rd - Ras Al-Khaimah - United Arab Emirates",
+    "city": "Ras Al Khaimah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "29",
+    "google_maps_url": "https://www.google.com/maps/place/Down+Town+Real+Estate/data=!4m7!3m6!1s0x3ef6741aa2bc729d:0x446027c5b9bda193!8m2!3d25.7729374!4d55.9254832!16s%2Fg%2F11bbwml8qy!19sChIJnXK8ohp09j4Rk6G9ucUnYEQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ras Al Khaimah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

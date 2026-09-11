@@ -1,0 +1,50 @@
+{
+    "business_name": "Dream Catcher Real Estate Management",
+    "source_business_name": "Dream Catcher Real Estate Management",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971543546353",
+    "whatsapp": "971543546353",
+    "email": "",
+    "website_url": "https://dreamcatcherrealestate.ae/",
+    "address": "\nAl Naeem Twin Tower Office no. 314 - Ras Al-Khaimah - United Arab Emirates",
+    "city": "Ras Al Khaimah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "5",
+    "google_maps_url": "https://www.google.com/maps/place/Dream+Catcher+Real+Estate+Management+Ras+Al+Khaimah/data=!4m7!3m6!1s0x3ef677f76d73ffad:0x6cbb85ae3f9ca976!8m2!3d25.7819186!4d55.9414966!16s%2Fg%2F11s8xyhnm4!19sChIJrf9zbfd39j4RdqmcP66Fu2w?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ras Al Khaimah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

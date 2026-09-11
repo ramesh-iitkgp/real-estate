@@ -1,0 +1,50 @@
+{
+    "business_name": "Harmony Real Estate Fz-Llc",
+    "source_business_name": "Harmony Real Estate Fz-Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971555212103",
+    "whatsapp": "971555212103",
+    "email": "info@harmonyfz.com",
+    "website_url": "https://www.harmonyfz.com/",
+    "address": "\nCompass Building, Rakez - Al Shuhada' Rd - Marjan Beach - Ras Al Khaimah - United Arab Emirates",
+    "city": "Ras Al Khaimah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "26",
+    "google_maps_url": "https://www.google.com/maps/place/Harmony+Real+Estate+FZ-LLC/data=!4m7!3m6!1s0x3ef60b2d01bbe4c1:0x587e2031dceeab48!8m2!3d25.6645837!4d55.7863699!16s%2Fg%2F11lnnnhbmq!19sChIJweS7AS0L9j4RSKvu3DEgflg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ras Al Khaimah"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/harmony_fzae/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

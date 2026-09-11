@@ -1,0 +1,50 @@
+{
+    "business_name": "B & B Real Estate Fz Llc",
+    "source_business_name": "B & B Real Estate Fz Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971556685678",
+    "whatsapp": "971556685678",
+    "email": "info@bandb-realestate.com",
+    "website_url": "https://www.bandb-realestate.com/",
+    "address": "\nRAKEZ Amenity Tower 2 - | 10th Floor - Office T2 10-K - Al Jazeera Al Hamra Industrial - Ras Al Khaimah - United Arab Emirates",
+    "city": "Ras Al Khaimah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "46",
+    "google_maps_url": "https://www.google.com/maps/place/B+%26+B+Real+Estate+FZ+LLC/data=!4m7!3m6!1s0x3ef60b75d10af7a5:0x21e625844e9cb8f4!8m2!3d25.6753647!4d55.7785326!16s%2Fg%2F11rcy83xhd!19sChIJpfcK0XUL9j4R9LicToQl5iE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ras Al Khaimah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

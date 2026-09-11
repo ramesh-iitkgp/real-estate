@@ -1,0 +1,50 @@
+{
+    "business_name": "Warba Real Estate Llc",
+    "source_business_name": "Warba Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971506700559",
+    "whatsapp": "971506700559",
+    "email": "",
+    "website_url": "",
+    "address": "\nSheikh Mohammed bin Salem St - rd - Ras Al Khaimah - United Arab Emirates",
+    "city": "Ras Al Khaimah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "49",
+    "google_maps_url": "https://www.google.com/maps/place/Warba+Real+estate+L.L.C/data=!4m7!3m6!1s0x3ef6741a9f503a3f:0xf155223796149fce!8m2!3d25.7724794!4d55.9250353!16s%2Fg%2F12hvnfd8x!19sChIJPzpQnxp09j4Rzp8UljciVfE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ras Al Khaimah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

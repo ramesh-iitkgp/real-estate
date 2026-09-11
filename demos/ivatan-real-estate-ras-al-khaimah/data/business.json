@@ -1,0 +1,50 @@
+{
+    "business_name": "Ivatan Real Estate",
+    "source_business_name": "Ivatan Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971503198218",
+    "whatsapp": "971503198218",
+    "email": "info@ivatanrealestate.com",
+    "website_url": "https://www.ivatanrealestate.com/index.html",
+    "address": "\nAmenity Tower 2 RAKEZ - Al Jazeera Al Hamra - Ras Al Khaimah - United Arab Emirates",
+    "city": "Ras Al Khaimah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "19",
+    "google_maps_url": "https://www.google.com/maps/place/IVATAN+Real+Estate/data=!4m7!3m6!1s0x3ef5d96cee9d938d:0xccec6e311f1c631e!8m2!3d25.6746816!4d55.7783437!16s%2Fg%2F11lfh6309b!19sChIJjZOd7mzZ9T4RHmMcHzFu7Mw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ras Al Khaimah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

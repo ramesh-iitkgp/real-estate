@@ -1,0 +1,50 @@
+{
+    "business_name": "North Bay Properties Fz Llc",
+    "source_business_name": "North Bay Properties Fz Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971585005718",
+    "whatsapp": "971585005718",
+    "email": "",
+    "website_url": "",
+    "address": "\nFreezone - 9F1- G, 9th Floor, RAKEZ Amenity Center, Tower 2 - Al Jazeera Al Hamra - Ras Al Khaimah - United Arab Emirates",
+    "city": "Ras Al Khaimah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "9",
+    "google_maps_url": "https://www.google.com/maps/place/NORTH+BAY+PROPERTIES+FZ+LLC/data=!4m7!3m6!1s0x3ef60b6cc5ec2ff5:0x7038b59cff55fc12!8m2!3d25.6747626!4d55.7784899!16s%2Fg%2F11w90_rr5y!19sChIJ9S_sxWwL9j4REvxV_5y1OHA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ras Al Khaimah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
