@@ -1,0 +1,50 @@
+{
+    "business_name": "Kingdom By Mag",
+    "source_business_name": "Kingdom By Mag",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971585559090",
+    "whatsapp": "971585559090",
+    "email": "info@kingdombymag.ae",
+    "website_url": "https://kingdombymag.ae/",
+    "address": "\nMBL Royal Retail - No G - 01 Cluster K - Al Thanyah Fifth - Jumeirah Lakes Towers - Dubai - United Arab Emirates",
+    "city": "Dubai Marina",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Kingdom+By+MAG/data=!4m7!3m6!1s0x3e5f6dd46b113ac5:0x4b52d203536441df!8m2!3d25.0670195!4d55.1397858!16s%2Fg%2F11rk5fy4cb!19sChIJxToRa9RtXz4R30FkUwPSUks?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Marina"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/kingdombymag/",
+        "facebook": "https://www.facebook.com/kingdombymag/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

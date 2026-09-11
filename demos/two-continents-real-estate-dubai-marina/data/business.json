@@ -1,0 +1,50 @@
+{
+    "business_name": "Two Continents Real Estate",
+    "source_business_name": "Two Continents Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971547253880",
+    "whatsapp": "971547253880",
+    "email": "",
+    "website_url": "https://estate.twocontinents.com/",
+    "address": "\nGround Floor, The Marina Torch - Dubai Marina - Dubai - United Arab Emirates",
+    "city": "Dubai Marina",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Two+Continents+Real+Estate/data=!4m7!3m6!1s0x3e5f6be00414fae3:0x831fae72c0ce226b!8m2!3d25.0880319!4d55.1473565!16s%2Fg%2F11vkdsr023!19sChIJ4_oUBOBrXz4RayLOwHKuH4M?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Marina"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

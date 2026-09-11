@@ -1,0 +1,50 @@
+{
+    "business_name": "Dara Homes Properties Llc",
+    "source_business_name": "Dara Homes Properties Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971563547273",
+    "whatsapp": "971563547273",
+    "email": "info@darahomes.ae",
+    "website_url": "https://darahomes.ae/",
+    "address": "\nMarina Plaza - OFFICE 2502-7 - Dubai - United Arab Emirates",
+    "city": "Dubai Marina",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/DARA+HOMES+Properties+L.L.C/data=!4m7!3m6!1s0x281fd13748d2d361:0x136c2436443ef3dd!8m2!3d25.0753976!4d55.1398252!16s%2Fg%2F11srz27xzh!19sChIJYdPSSDfRHygR3fM-RDYkbBM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Marina"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/darahomesdxb/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

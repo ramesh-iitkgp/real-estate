@@ -1,0 +1,50 @@
+{
+    "business_name": "London Gate Experience Sales Center",
+    "source_business_name": "London Gate Experience Sales Center",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971508081618",
+    "whatsapp": "971508081618",
+    "email": "",
+    "website_url": "https://londongate.ae/",
+    "address": "\n25°05'19.2\"N 55°09'06.2\"E - Dubai - United Arab Emirates",
+    "city": "Dubai Marina",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "22",
+    "google_maps_url": "https://www.google.com/maps/place/London+Gate+Experience+%28Sales%29+Center/data=!4m7!3m6!1s0x3e5f6b59f1086d25:0x8d481f7bbfcf7d6d!8m2!3d25.08837!4d55.1520079!16s%2Fg%2F11vt58k2z0!19sChIJJW0I8VlrXz4RbX3Pv3sfSI0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Marina"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/londongatedevelopers/",
+        "facebook": "https://www.facebook.com/people/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

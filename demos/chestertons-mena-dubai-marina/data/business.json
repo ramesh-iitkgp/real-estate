@@ -1,0 +1,50 @@
+{
+    "business_name": "Chestertons Mena",
+    "source_business_name": "Chestertons Mena",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971504823577",
+    "whatsapp": "971504823577",
+    "email": "",
+    "website_url": "http://www.chestertonsmena.com/",
+    "address": "\nMarina Plaza - Office 1305 - 74 Al Marsa St - Dubai Marina - Dubai - United Arab Emirates",
+    "city": "Dubai Marina",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Chestertons+MENA/data=!4m7!3m6!1s0x3e5f42816312cd75:0x5f92aff84150626c!8m2!3d25.0753976!4d55.1398252!16s%2Fg%2F1hhng97gx!19sChIJdc0SY4FCXz4RbGJQQfivkl8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Marina"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

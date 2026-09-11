@@ -1,0 +1,50 @@
+{
+    "business_name": "Baron And Baron Real Estate",
+    "source_business_name": "Baron And Baron Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971555293037",
+    "whatsapp": "971555293037",
+    "email": "hello@baronandbaron.ae",
+    "website_url": "https://baronandbaron.ae/",
+    "address": "\nOffice 2005, Marina Plaza - Dubai Marina - Dubai - United Arab Emirates",
+    "city": "Dubai Marina",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Baron+and+Baron+Real+Estate/data=!4m7!3m6!1s0x3e5f6d3947324d41:0x36134a8df97f7710!8m2!3d25.0753976!4d55.1398252!16s%2Fg%2F11ypr5ch2f!19sChIJQU0yRzltXz4REHd_-Y1KEzY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Marina"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/baronandbaron_/",
+        "facebook": "https://www.facebook.com/baronandbaronRE/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Ag Assets Real Estate",
+    "source_business_name": "Ag Assets Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971564020162",
+    "whatsapp": "971564020162",
+    "email": "hello@agassets.ae",
+    "website_url": "https://agassets.ae/",
+    "address": "\nMarina Plaza - Office 2804 - Dubai Marina - Dubai - United Arab Emirates",
+    "city": "Dubai Marina",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/AG+Assets+Real+Estate/data=!4m7!3m6!1s0x3e5f69de7db797e5:0xb00d82c9fba308e1!8m2!3d25.0753976!4d55.1398252!16s%2Fg%2F11sjthgslz!19sChIJ5Ze3fd5pXz4R4Qij-8mCDbA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Marina"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/agassets.ae/",
+        "facebook": "https://www.facebook.com/agassets.ae/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
