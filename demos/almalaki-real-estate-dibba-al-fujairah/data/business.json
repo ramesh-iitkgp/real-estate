@@ -1,0 +1,50 @@
+{
+    "business_name": "Almalaki Real Estate",
+    "source_business_name": "Almalaki Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971505800898",
+    "whatsapp": "971505800898",
+    "email": "",
+    "website_url": "",
+    "address": "\nH7RF+M3W - Al Rashidiyah - Fujairah - United Arab Emirates",
+    "city": "Dibba Al-Fujairah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "3",
+    "google_maps_url": "https://www.google.com/maps/place/%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A+%D9%84%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA+%D8%AF%D8%A8%D8%A7+%D8%A7%D9%84%D9%81%D8%AC%D9%8A%D8%B1%D8%A9ALMALAKI+REAl+ESTATE%E2%80%AD/data=!4m7!3m6!1s0x3ef43332e0f84bf3:0x16bf005a029a5d2b!8m2!3d25.5917446!4d56.2726932!16s%2Fg%2F11fwnz4kn5!19sChIJ80v44DIz9D4RK12aAloAvxY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dibba Al-Fujairah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

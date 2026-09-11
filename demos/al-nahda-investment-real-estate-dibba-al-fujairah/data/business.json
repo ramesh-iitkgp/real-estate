@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Nahda Investment & Real Estate",
+    "source_business_name": "Al Nahda Investment & Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971504852666",
+    "whatsapp": "971504852666",
+    "email": "",
+    "website_url": "",
+    "address": "\nHamad Bin Abdulla Road - Fujairah City Center - Fujairah - United Arab Emirates",
+    "city": "Dibba Al-Fujairah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/AL+NAHDA+INVESTMENT+%26+REAL+ESTATE/data=!4m7!3m6!1s0x3ef4f9b371fb0e3f:0xac086e9274f96d5c!8m2!3d25.1220701!4d56.3345481!16s%2Fg%2F11mzqwk7kj!19sChIJPw77cbP59D4RXG35dJJuCKw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dibba Al-Fujairah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Aqadal Faridlaundry",
+    "source_business_name": "Al Aqadal Faridlaundry",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971505906812",
+    "whatsapp": "971505906812",
+    "email": "",
+    "website_url": "",
+    "address": "\nJ76C+653 - Hay Al Doub - Fujairah - United Arab Emirates",
+    "city": "Dibba Al-Fujairah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "1",
+    "google_maps_url": "https://www.google.com/maps/place/Al+AQADAL+FARIDLAUNDRY/data=!4m7!3m6!1s0x3ef433829be2a61f:0xa544de0ded4f7906!8m2!3d25.6105089!4d56.2704327!16s%2Fg%2F11ptlxspdb!19sChIJH6bim4Iz9D4RBnlP7Q3eRKU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dibba Al-Fujairah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

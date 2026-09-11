@@ -1,0 +1,50 @@
+{
+    "business_name": "Sultan Properties Office",
+    "source_business_name": "Sultan Properties Office",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971568010541",
+    "whatsapp": "971568010541",
+    "email": "",
+    "website_url": "",
+    "address": "\nAl Qaiʻan - Fujairah - United Arab Emirates",
+    "city": "Dibba Al-Fujairah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "6",
+    "google_maps_url": "https://www.google.com/maps/place/Sultan+Properties+Office/data=!4m7!3m6!1s0x3ef433e7abd132e9:0x26d796e1025babea!8m2!3d25.6036237!4d56.2727339!16s%2Fg%2F11vdrlyj_3!19sChIJ6TLRq-cz9D4R6qtbAuGW1yY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dibba Al-Fujairah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

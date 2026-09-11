@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Matrooshi Real Estate",
+    "source_business_name": "Al Matrooshi Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971547480808",
+    "whatsapp": "971547480808",
+    "email": "",
+    "website_url": "",
+    "address": "\nH7P9+XF8 - شارع دبا – مسافي - Al Rifa‘ - Fujairah - United Arab Emirates",
+    "city": "Dibba Al-Fujairah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "2",
+    "google_maps_url": "https://www.google.com/maps/place/Al+Matrooshi+Real+Estate/data=!4m7!3m6!1s0x3ef4330007daa4c1:0xc77f249367c422bb!8m2!3d25.58732!4d56.2685934!16s%2Fg%2F11yss4zs9y!19sChIJwaTaBwAz9D4RuyLEZ5Mkf8c?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dibba Al-Fujairah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
