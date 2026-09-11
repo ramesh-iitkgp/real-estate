@@ -1,0 +1,50 @@
+{
+    "business_name": "Lavish Homes Real Estate",
+    "source_business_name": "Lavish Homes Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971582015162",
+    "whatsapp": "971582015162",
+    "email": "info@lavishhomes.ae",
+    "website_url": "https://www.lavishhomes.ae/",
+    "address": "",
+    "city": "Al Ain",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Lavish+Homes+Real+Estate/data=!4m7!3m6!1s0x665abc54be7adf75:0x40f2b3b9fb4966a1!8m2!3d24.1924441!4d55.7468666!16s%2Fg%2F11ylmhbzzc!19sChIJdd96vlS8WmYRoWZJ-7mz8kA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Ain"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/lavish_homes_real_estate/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "N3 Real Estate",
+    "source_business_name": "N3 Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971557332415",
+    "whatsapp": "971557332415",
+    "email": "",
+    "website_url": "",
+    "address": "\nWadi - Al Noud - Wadi Al Ain 1 - Abu Dhabi - United Arab Emirates",
+    "city": "Al Ain",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/N3+real+Estate/data=!4m7!3m6!1s0x3e8ab919c7f92f51:0xfb7552e22e1dd534!8m2!3d24.1500206!4d55.8224202!16s%2Fg%2F11z3_l144x!19sChIJUS_5xxm5ij4RNNUdLuJSdfs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Ain"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

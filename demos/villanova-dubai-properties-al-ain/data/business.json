@@ -1,0 +1,50 @@
+{
+    "business_name": "Villanova Dubai Properties",
+    "source_business_name": "Villanova Dubai Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971524412664",
+    "whatsapp": "971524412664",
+    "email": "",
+    "website_url": "https://www.dp.ae/our-portfolio/all-projects/41/villanova/",
+    "address": "\nWadi Al Safa 5 - Dubai Land Residence Complex - Dubai - United Arab Emirates",
+    "city": "Al Ain",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "446",
+    "google_maps_url": "https://www.google.com/maps/place/Villanova+%7C+Dubai+Properties/data=!4m7!3m6!1s0x3e5f64e1ab755cfd:0x35e8d714947bdff4!8m2!3d25.0759463!4d55.3531876!16s%2Fg%2F11c1wl5ds6!19sChIJ_Vx1q-FkXz4R9N97lBTX6DU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Ain"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/dubaiproperties/",
+        "facebook": "https://www.facebook.com/DubaiProperties/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

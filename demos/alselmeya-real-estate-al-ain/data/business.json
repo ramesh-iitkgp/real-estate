@@ -1,0 +1,50 @@
+{
+    "business_name": "Alselmeya Real Estate",
+    "source_business_name": "Alselmeya Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971555557999",
+    "whatsapp": "971555557999",
+    "email": "",
+    "website_url": "",
+    "address": "\nIndustrial Area - Al Naglah - Abu Dhabi - United Arab Emirates",
+    "city": "Al Ain",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "5",
+    "google_maps_url": "https://www.google.com/maps/place/%D8%B4%D8%B1%D9%83%D8%A9+%D8%A7%D9%84%D8%B3%D9%84%D9%85%D9%8A%D8%A9+%D9%84%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA%2FALSELMEYA+REAL+ESTATE%E2%80%AD/data=!4m7!3m6!1s0x3e8ab6ddac762f5f:0x2f324f6c5f1c63d2!8m2!3d24.2002124!4d55.7669291!16s%2Fg%2F11cnkfn7h7!19sChIJXy92rN22ij4R0mMcX2xPMi8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Ain"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

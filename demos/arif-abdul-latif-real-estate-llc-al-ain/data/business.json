@@ -1,0 +1,50 @@
+{
+    "business_name": "Arif Abdul Latif Real Estate Llc",
+    "source_business_name": "Arif Abdul Latif Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971504930434",
+    "whatsapp": "971504930434",
+    "email": "arif@alainhome.com",
+    "website_url": "http://www.alainhome.com/",
+    "address": "\nOffice 101, Shaikha Maitha Al Nahyan Bldg, Main Street - Abu Dhabi - United Arab Emirates",
+    "city": "Al Ain",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/ARIF+ABDUL+LATIF+REAL+ESTATE+L.L.C/data=!4m7!3m6!1s0x3e8ab7d8b4b82549:0xfa32f44fcce67ffc!8m2!3d24.2221576!4d55.7709729!16s%2Fg%2F11f631j8l4!19sChIJSSW4tNi3ij4R_H_mzE_0Mvo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Ain"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

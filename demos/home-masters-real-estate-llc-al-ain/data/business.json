@@ -1,0 +1,50 @@
+{
+    "business_name": "Home Masters Real Estate Llc",
+    "source_business_name": "Home Masters Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971557422170",
+    "whatsapp": "971557422170",
+    "email": "",
+    "website_url": "",
+    "address": "\nOffice No. 02 - Building No. 25 Al Lujayn 2 St - Industrial Area - Al Naglah - Abu Dhabi - United Arab Emirates",
+    "city": "Al Ain",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Home+Masters+Real+Estate+LLC/data=!4m7!3m6!1s0x3e8ab7b8fc667b99:0x9a04dce9e734fe40!8m2!3d24.2003574!4d55.7670513!16s%2Fg%2F11w3tgp8pl!19sChIJmXtm_Li3ij4RQP405-ncBJo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Ain"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

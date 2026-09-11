@@ -1,0 +1,50 @@
+{
+    "business_name": "Noor Abu Dhabi Properties Llc",
+    "source_business_name": "Noor Abu Dhabi Properties Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971502437747",
+    "whatsapp": "971502437747",
+    "email": "",
+    "website_url": "",
+    "address": "\nFAB Islamic Building - near Clock Tower - Central District - Hai Al Madheef - Abu Dhabi - United Arab Emirates",
+    "city": "Al Ain",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Noor+Abu+Dhabi+Properties+L.L.C/data=!4m7!3m6!1s0x3e8ab7856e5a81c5:0xefaebd465157df4!8m2!3d24.2274875!4d55.7652436!16s%2Fg%2F11l38j2j3s!19sChIJxYFaboW3ij4R9H0VZdTr-g4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Ain"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

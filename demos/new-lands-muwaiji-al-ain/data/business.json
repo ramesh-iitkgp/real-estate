@@ -1,0 +1,50 @@
+{
+    "business_name": "New Lands Muwaiji",
+    "source_business_name": "New Lands Muwaiji",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971529211880",
+    "whatsapp": "971529211880",
+    "email": "",
+    "website_url": "",
+    "address": "\nAl Muwaij'i - Al Ruwaikah - Abu Dhabi - United Arab Emirates",
+    "city": "Al Ain",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "293",
+    "google_maps_url": "https://www.google.com/maps/place/New+Lands+Muwaiji/data=!4m7!3m6!1s0x3e8ab10c9f47bcc3:0x9b0828f51ef2be17!8m2!3d24.2117331!4d55.7192351!16s%2Fg%2F11cltfgc_k!19sChIJw7xHnwyxij4RF77yHvUoCJs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Ain"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

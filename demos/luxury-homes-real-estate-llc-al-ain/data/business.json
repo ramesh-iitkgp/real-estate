@@ -1,0 +1,50 @@
+{
+    "business_name": "Luxury Homes Real Estate Llc",
+    "source_business_name": "Luxury Homes Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971569408181",
+    "whatsapp": "971569408181",
+    "email": "",
+    "website_url": "http://www.luxuryhomes.co.ae/",
+    "address": "\nBuilding, Emirates Post - Office 301, 3rd Floor - Building 37 Al Taqqadum Street - Al Jimi - Civic Center - Abu Dhabi - United Arab Emirates",
+    "city": "Al Ain",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Luxury+Homes+Real+Estate+LLC/data=!4m7!3m6!1s0x3e8ab6c6c95b62dd:0x2e9df75ad38223ae!8m2!3d24.2352395!4d55.7317497!16s%2Fg%2F11cmh6wbz7!19sChIJ3WJbyca2ij4RriOC01r3nS4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Ain"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

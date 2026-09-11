@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Jahouri Real Estate & Gen Maint Co Llc",
+    "source_business_name": "Al Jahouri Real Estate & Gen Maint Co Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971506286670",
+    "whatsapp": "971506286670",
+    "email": "",
+    "website_url": "https://mohdaljahourirealestate.ae/",
+    "address": "\nkhalifa street - Central District - Hai Qesaidah - Abu Dhabi - United Arab Emirates",
+    "city": "Al Ain",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Al+Jahouri+Real+Estate+%26+Gen.+Maint.+Co.+LLC/data=!4m7!3m6!1s0x3e8ab76255729287:0xd36754aaaed6de88!8m2!3d24.2245406!4d55.7594199!16s%2Fg%2F11lfkmgpk6!19sChIJh5JyVWK3ij4RiN7WrqpUZ9M?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Ain"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/mohdaljahuryrealestate1996/",
+        "facebook": "https://www.facebook.com/Mohd.AlJahuryRealEstate1996/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
