@@ -1,0 +1,50 @@
+{
+    "business_name": "The Palm House",
+    "source_business_name": "The Palm House",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971505224111",
+    "whatsapp": "971505224111",
+    "email": "",
+    "website_url": "",
+    "address": "\nQ4PQ+F5C - Hatta - Dubai - United Arab Emirates",
+    "city": "Hatta",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.7",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/The+Palm+House+-+Hatta/data=!4m7!3m6!1s0x3ef51f003d5c56c7:0xf6a1b798ba9c0339!8m2!3d24.7859167!4d56.138!16s%2Fg%2F11xn4rslcf!19sChIJx1ZcPQAf9T4ROQOcupi3ofY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hatta"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

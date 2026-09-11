@@ -1,0 +1,50 @@
+{
+    "business_name": "Lavilla",
+    "source_business_name": "Lavilla",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971542133377",
+    "whatsapp": "971542133377",
+    "email": "",
+    "website_url": "",
+    "address": "\nDubai Electricity & Water Authority - Hatta - Hatta - street - Dubai - United Arab Emirates",
+    "city": "Hatta",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.7",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/LaVilla+Hatta/data=!4m7!3m6!1s0x3ef51fd901c656e1:0x96e80bf392e7ced4!8m2!3d24.8090019!4d56.128519!16s%2Fg%2F11nqm1c1gk!19sChIJ4VbGAdkf9T4R1M7nkvML6JY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hatta"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

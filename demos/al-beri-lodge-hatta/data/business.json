@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Beri Lodge",
+    "source_business_name": "Al Beri Lodge",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971557445144",
+    "whatsapp": "971557445144",
+    "email": "",
+    "website_url": "",
+    "address": "\nroad - Hatta - Dubai - United Arab Emirates",
+    "city": "Hatta",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Al+Beri+Lodge/data=!4m10!3m9!1s0x3ef51f6c12820077:0x80f78f8246b7cc7e!5m2!4m1!1i2!8m2!3d24.7930309!4d56.1150443!16s%2Fg%2F11qltqwzgb!19sChIJdwCCEmwf9T4Rfsy3RoKP94A?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hatta"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

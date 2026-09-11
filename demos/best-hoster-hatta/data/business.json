@@ -1,0 +1,50 @@
+{
+    "business_name": "Best Hoster",
+    "source_business_name": "Best Hoster",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971545465566",
+    "whatsapp": "971545465566",
+    "email": "booking@besthoster.ae",
+    "website_url": "https://besthoster.ae/",
+    "address": "\nHatta - Dubai - United Arab Emirates",
+    "city": "Hatta",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.7",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Best+Hoster/data=!4m7!3m6!1s0x3ef51f6c6c91cb67:0x6aa62775466e2eaa!8m2!3d24.8061691!4d56.1253848!16s%2Fg%2F11lnk5x4b2!19sChIJZ8uRbGwf9T4Rqi5uRnUnpmo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hatta"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

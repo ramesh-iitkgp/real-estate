@@ -1,0 +1,50 @@
+{
+    "business_name": "Happiness Farm",
+    "source_business_name": "Happiness Farm",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971501857000",
+    "whatsapp": "971501857000",
+    "email": "",
+    "website_url": "",
+    "address": "\nHatta - Dubai - United Arab Emirates",
+    "city": "Hatta",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Happiness+Farm/data=!4m10!3m9!1s0x3ef51eeba57ce9f5:0x423143ca57797c3e!5m2!4m1!1i2!8m2!3d24.8171893!4d56.1401248!16s%2Fg%2F11b8_krhfz!19sChIJ9el8pese9T4RPnx5V8pDMUI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hatta"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

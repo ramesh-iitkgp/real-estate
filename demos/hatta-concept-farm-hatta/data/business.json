@@ -1,0 +1,50 @@
+{
+    "business_name": "Hatta Concept Farm",
+    "source_business_name": "Hatta Concept Farm",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971507445144",
+    "whatsapp": "971507445144",
+    "email": "",
+    "website_url": "",
+    "address": "\nطريق, Hatta Dam - حتا - Dubai - United Arab Emirates",
+    "city": "Hatta",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.7",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/%D9%85%D8%B2%D8%B1%D8%B9%D8%A9+%D8%AD%D8%AA%D8%A7+%D8%A7%D9%84%D9%86%D9%85%D9%88%D8%B0%D8%AC%D9%8A%D8%A9+%D9%84%D9%84%D9%81%D8%B1%D8%A7%D9%88%D9%84%D8%A9+%2F+Hatta+Concept+Farm%E2%80%AD/data=!4m7!3m6!1s0x3ef519af6926bbd3:0x3a323c7b6229a707!8m2!3d24.7866653!4d56.1139979!16s%2Fg%2F11jzz3mg56!19sChIJ07smaa8Z9T4RB6cpYns8Mjo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hatta"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
