@@ -1,0 +1,50 @@
+{
+    "business_name": "Liwa Villas",
+    "source_business_name": "Liwa Villas",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971507155511",
+    "whatsapp": "971507155511",
+    "email": "",
+    "website_url": "",
+    "address": "\n4QRM+GGF - Liwa - Tarif Rd - Mzeerʻah - Mahdar Mzeer'ah - Abu Dhabi - United Arab Emirates",
+    "city": "Liwa",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "6",
+    "google_maps_url": "https://www.google.com/maps/place/Liwa+villas/data=!4m7!3m6!1s0x3e66df001fc88ef1:0x77c275fae07be092!8m2!3d23.1413203!4d53.7838094!16s%2Fg%2F11yb8lbpv_!19sChIJ8Y7IHwDfZj4RkuB74Pp1wnc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Liwa"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
