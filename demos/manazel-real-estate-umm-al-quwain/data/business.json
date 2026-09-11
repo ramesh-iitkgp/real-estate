@@ -1,0 +1,50 @@
+{
+    "business_name": "Manazel Real Estate",
+    "source_business_name": "Manazel Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971566771125",
+    "whatsapp": "971566771125",
+    "email": "",
+    "website_url": "",
+    "address": "\nHM2P+M7 - Umm Al Thuoob - Emirate of Umm Al Quwain - United Arab Emirates",
+    "city": "Umm Al Quwain",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "1",
+    "google_maps_url": "https://www.google.com/maps/place/Manazel+real+estate/data=!4m7!3m6!1s0x3ef5e59e716d6451:0x42708d7f6b82b6eb!8m2!3d25.551734!4d55.6857489!16s%2Fg%2F11p_2lt5_6!19sChIJUWRtcZ7l9T4R67aCa3-NcEI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Umm Al Quwain"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

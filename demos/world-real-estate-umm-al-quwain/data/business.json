@@ -1,0 +1,50 @@
+{
+    "business_name": "World Real Estate",
+    "source_business_name": "World Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971505747000",
+    "whatsapp": "971505747000",
+    "email": "",
+    "website_url": "",
+    "address": "\nhttps://maps.app.goo.gl/o4D4RMH8tUwh95B6A?g_st=ic - Al Riqqah - Al Reqqah - Emirate of Umm Al Quwain - United Arab Emirates",
+    "city": "Umm Al Quwain",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "2",
+    "google_maps_url": "https://www.google.com/maps/place/World+Real+Estate/data=!4m7!3m6!1s0x3ef5ffee3ef2ee47:0xaf934d7295f7f910!8m2!3d25.5648647!4d55.5545322!16s%2Fg%2F11nv6zvk9r!19sChIJR-7yPu7_9T4REPn3lXJNk68?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Umm Al Quwain"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

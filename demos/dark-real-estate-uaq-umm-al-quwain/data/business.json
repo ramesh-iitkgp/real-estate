@@ -1,0 +1,50 @@
+{
+    "business_name": "Dark Real Estate Uaq",
+    "source_business_name": "Dark Real Estate Uaq",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971543344408",
+    "whatsapp": "971543344408",
+    "email": "info@darkuaq.com",
+    "website_url": "https://darkuaq.com/",
+    "address": "\nKing Faisal St - Al Raas - Al Medan - Emirate of Umm Al Quwain - United Arab Emirates",
+    "city": "Umm Al Quwain",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Dark+Real+Estate+UAQ+%D8%AF%D8%A7%D8%B1%D9%83%E2%80%AD/data=!4m7!3m6!1s0x3ef5ff5f544146e7:0x9ffb7bdb13e80237!8m2!3d25.5517787!4d55.5460235!16s%2Fg%2F11nk8yrnqq!19sChIJ50ZBVF__9T4RNwLoE9t7-58?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Umm Al Quwain"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/darkrealestateuaq/",
+        "facebook": "https://www.facebook.com/darkrealestateuaq/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

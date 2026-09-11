@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Amer Real Estate",
+    "source_business_name": "Al Amer Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971502980010",
+    "whatsapp": "971502980010",
+    "email": "",
+    "website_url": "",
+    "address": "\nHH93+MX7 - Al Raas - الراس 1 - Emirate of Umm Al Quwain - United Arab Emirates",
+    "city": "Umm Al Quwain",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "5",
+    "google_maps_url": "https://www.google.com/maps/place/Al+Amer+Real+Estate/data=!4m7!3m6!1s0x3ef5ff5eae34207f:0xc52019e4261d278c!8m2!3d25.5691515!4d55.5549109!16s%2Fg%2F11gwmh9_f8!19sChIJfyA0rl7_9T4RjCcdJuQZIMU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Umm Al Quwain"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

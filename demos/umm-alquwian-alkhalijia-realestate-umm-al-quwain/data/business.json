@@ -1,0 +1,50 @@
+{
+    "business_name": "Umm Alquwian -Alkhalijia Realestate",
+    "source_business_name": "Umm Alquwian -Alkhalijia Realestate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971507002220",
+    "whatsapp": "971507002220",
+    "email": "",
+    "website_url": "",
+    "address": "\nHG3X+VF5 - 47 Aqba Bin Nafa Rd (Uqbah Bin Nafae Street) - Al Riqqah - Al Reqqah - Emirate of Umm Al Quwain - United Arab Emirates",
+    "city": "Umm Al Quwain",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "5",
+    "google_maps_url": "https://www.google.com/maps/place/Umm+Alquwian+-Alkhalijia+Realestate/data=!4m7!3m6!1s0x3ef5fef734036c43:0xcf2ae1d631106a26!8m2!3d25.5546565!4d55.5485839!16s%2Fg%2F11c2npp04g!19sChIJQ2wDNPf-9T4RJmoQMdbhKs8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Umm Al Quwain"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Wadi Al Muluk Real State Co Llc",
+    "source_business_name": "Wadi Al Muluk Real State Co Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971528955565",
+    "whatsapp": "971528955565",
+    "email": "",
+    "website_url": "",
+    "address": "\nGGMQ+6G4 - Al Bootain - Al Butain - Emirate of Umm Al Quwain - United Arab Emirates",
+    "city": "Umm Al Quwain",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3.1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Wadi+Al+Muluk+Real+State+co+LLC/data=!4m7!3m6!1s0x3ef5fee45b253e33:0xa4f8ee673472fd43!8m2!3d25.5330226!4d55.5388175!16s%2Fg%2F11cpq274ly!19sChIJMz4lW-T-9T4RQ_1yNGfu-KQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Umm Al Quwain"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

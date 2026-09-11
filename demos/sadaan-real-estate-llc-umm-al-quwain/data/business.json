@@ -1,0 +1,50 @@
+{
+    "business_name": "Sadaan Real Estate Llc",
+    "source_business_name": "Sadaan Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971503839399",
+    "whatsapp": "971503839399",
+    "email": "info@sadaanrealestate.com",
+    "website_url": "https://sadaanrealestate.com/",
+    "address": "\nAl Nasir Building 2 - Main, Salamah Area - office no 8 - E11 - Emirate of Umm Al Quwain - United Arab Emirates",
+    "city": "Umm Al Quwain",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Sadaan+Real+Estate+LLC/data=!4m7!3m6!1s0x3ef5f940d2a6ba8d:0x60e63f2bd983238c!8m2!3d25.5064038!4d55.5890763!16s%2Fg%2F11lfcr08cm!19sChIJjbqm0kD59T4RjCOD2Ss_5mA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Umm Al Quwain"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/sadaanrealestate/",
+        "facebook": "https://www.facebook.com/sadaanrealestate/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

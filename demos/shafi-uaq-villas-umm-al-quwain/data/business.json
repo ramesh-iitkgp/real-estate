@@ -1,0 +1,50 @@
+{
+    "business_name": "Shafi Uaq Villas",
+    "source_business_name": "Shafi Uaq Villas",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971581553313",
+    "whatsapp": "971581553313",
+    "email": "",
+    "website_url": "",
+    "address": "\nAl raas - 2 Al mulla street - Emirate of Umm Al Quwain - United Arab Emirates",
+    "city": "Umm Al Quwain",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "49",
+    "google_maps_url": "https://www.google.com/maps/place/Shafi+UAQ+villas/data=!4m7!3m6!1s0x3ef5ff3d429f45e9:0xdd57b313eb890194!8m2!3d25.5565281!4d55.5440741!16s%2Fg%2F11rhc29mm0!19sChIJ6UWfQj3_9T4RlAGJ6xOzV90?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Umm Al Quwain"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

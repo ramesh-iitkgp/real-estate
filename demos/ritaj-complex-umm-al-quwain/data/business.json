@@ -1,0 +1,50 @@
+{
+    "business_name": "Ritaj Complex",
+    "source_business_name": "Ritaj Complex",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971528167843",
+    "whatsapp": "971528167843",
+    "email": "",
+    "website_url": "",
+    "address": "\nFHW6+R89 - Al Ittihad St - Al Muqta - Al Muqta 1 - Emirate of Umm Al Quwain - United Arab Emirates",
+    "city": "Umm Al Quwain",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "30",
+    "google_maps_url": "https://www.google.com/maps/place/Ritaj+complex/data=!4m7!3m6!1s0x3ef5f9d1bbf0800d:0x4c04d353d327c5da!8m2!3d25.4970362!4d55.5608466!16s%2Fg%2F11t9d4p3l9!19sChIJDYDwu9H59T4R2sUn01PTBEw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Umm Al Quwain"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Bader",
+    "source_business_name": "Bader",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971561904090",
+    "whatsapp": "971561904090",
+    "email": "info@baderdevelopments.ae",
+    "website_url": "https://baderdevelopments.ae/",
+    "address": "\nMasa 4 Building - King Faisal St - Green Belt - Emirate of Umm Al Quwain - United Arab Emirates",
+    "city": "Umm Al Quwain",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Bader/data=!4m7!3m6!1s0x3ef5ff2bd4234091:0xb85dc889ecc056b0!8m2!3d25.5188312!4d55.5439032!16s%2Fg%2F11stm_brl5!19sChIJkUAj1Cv_9T4RsFbA7InIXbg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Umm Al Quwain"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/BaderDevelopments/",
+        "facebook": "https://www.facebook.com/BaderDevelopments/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

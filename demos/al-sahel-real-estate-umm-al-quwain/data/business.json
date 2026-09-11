@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Sahel Real Estate",
+    "source_business_name": "Al Sahel Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971566070774",
+    "whatsapp": "971566070774",
+    "email": "",
+    "website_url": "",
+    "address": "\nGGQR+H6V - Al Bootain - Al Butain - Emirate of Umm Al Quwain - United Arab Emirates",
+    "city": "Umm Al Quwain",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "3",
+    "google_maps_url": "https://www.google.com/maps/place/%D8%A7%D9%84%D8%B3%D8%A7%D8%AD%D9%84+%D9%84%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA+Al+Sahel+Real+Estate%E2%80%AD/data=!4m7!3m6!1s0x3ef5ff43b89cfb45:0xe0fc11f0ac61fd29!8m2!3d25.5389871!4d55.5405412!16s%2Fg%2F11vkz75dcr!19sChIJRfucuEP_9T4RKf1hrPAR_OA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Umm Al Quwain"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Adroit Real Estate Llc Umm Al Quwain Branch",
+    "source_business_name": "Adroit Real Estate Llc Umm Al Quwain Branch",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971558607774",
+    "whatsapp": "971558607774",
+    "email": "",
+    "website_url": "https://adroitproperties.ae/",
+    "address": "\nMinistry of Health UAQ Building - Shop 2, Ground Floor Al Diwan Almiri St - Al Raudah - Emirate of Umm Al Quwain - United Arab Emirates",
+    "city": "Umm Al Quwain",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/ADROIT+REAL+ESTATE+L.L.C+UMM+AL+QUWAIN+BRANCH/data=!4m7!3m6!1s0x3ef5ff4cbc5e7a55:0xce72fce695fc40d1!8m2!3d25.5756482!4d55.5599187!16s%2Fg%2F11xzr1yp2b!19sChIJVXpevEz_9T4R0UD8leb8cs4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Umm Al Quwain"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/adroitdubai/",
+        "facebook": "https://www.facebook.com/100007383226557/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
