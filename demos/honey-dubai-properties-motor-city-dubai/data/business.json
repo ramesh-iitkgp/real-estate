@@ -1,0 +1,50 @@
+{
+    "business_name": "Honey Dubai Properties",
+    "source_business_name": "Honey Dubai Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971585911064",
+    "whatsapp": "971585911064",
+    "email": "",
+    "website_url": "",
+    "address": "\nCONTROL TOWER - Unit 2202 Detroit Rd - Al Hebiah First - Dubai Motor City - Dubai - United Arab Emirates",
+    "city": "Motor City Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "1",
+    "google_maps_url": "https://www.google.com/maps/place/Honey+Dubai+Properties/data=!4m7!3m6!1s0x3e5f6facfe060169:0x9a59092287b76077!8m2!3d25.0493387!4d55.2312294!16s%2Fg%2F11xl83_xk0!19sChIJaQEG_qxvXz4Rd2C3hyIJWZo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Motor City Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

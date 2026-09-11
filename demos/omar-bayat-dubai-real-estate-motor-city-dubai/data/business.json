@@ -1,0 +1,50 @@
+{
+    "business_name": "Omar Bayat Dubai Real Estate",
+    "source_business_name": "Omar Bayat Dubai Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971502853016",
+    "whatsapp": "971502853016",
+    "email": "",
+    "website_url": "https://www.omarbayat.com/",
+    "address": "\nWhite & Co, CONTROL TOWER - 7th Floor - Al Hebiah First - Dubai Motor City - Dubai - United Arab Emirates",
+    "city": "Motor City Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "13",
+    "google_maps_url": "https://www.google.com/maps/place/Omar+Bayat+%7C+Dubai+Real+Estate/data=!4m7!3m6!1s0x3e5f6f0f6e55ba93:0xfd3d381a1ccaaf46!8m2!3d25.0493387!4d55.2312294!16s%2Fg%2F11x0grpqm1!19sChIJk7pVbg9vXz4RRq_KHBo4Pf0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Motor City Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

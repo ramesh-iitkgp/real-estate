@@ -1,0 +1,50 @@
+{
+    "business_name": "Yhu Properties",
+    "source_business_name": "Yhu Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971548888914",
+    "whatsapp": "971548888914",
+    "email": "info@yhuproperties.com",
+    "website_url": "https://www.yhuproperties.com/",
+    "address": "\nDetroit House - Office 110 - Detroit Rd - Al Hebiah First - Dubai Motor City - Dubai - United Arab Emirates",
+    "city": "Motor City Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "34",
+    "google_maps_url": "https://www.google.com/maps/place/YHU+Properties/data=!4m7!3m6!1s0x3e5f6f25e307309d:0xd57cc55aafc5e3d7!8m2!3d25.0459786!4d55.2314906!16s%2Fg%2F11wnn12f7c!19sChIJnTAH4yVvXz4R1-PFr1rFfNU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Motor City Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/yhuproperties/",
+        "facebook": "https://www.facebook.com/yhuproperties/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

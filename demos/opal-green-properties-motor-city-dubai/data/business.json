@@ -1,0 +1,50 @@
+{
+    "business_name": "Opal Green Properties",
+    "source_business_name": "Opal Green Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971526216258",
+    "whatsapp": "971526216258",
+    "email": "info@opal-properties.com",
+    "website_url": "https://opal-properties.com/",
+    "address": "\nCONTROL TOWER - Al Hebiah First - Dubai Motor City - Dubai - United Arab Emirates",
+    "city": "Motor City Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "9",
+    "google_maps_url": "https://www.google.com/maps/place/Opal+Green+Properties/data=!4m7!3m6!1s0x3e5f6f84c9ed7719:0x2c3b3c97b48f7b3d!8m2!3d25.0471041!4d55.2302698!16s%2Fg%2F11ywq68v0c!19sChIJGXftyYRvXz4RPXuPtJc8Oyw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Motor City Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/opalgreenproperties/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

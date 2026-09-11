@@ -1,0 +1,50 @@
+{
+    "business_name": "Elite Venture Properties",
+    "source_business_name": "Elite Venture Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971543452231",
+    "whatsapp": "971543452231",
+    "email": "info@evproperties.ae",
+    "website_url": "https://evproperties.ae/",
+    "address": "\nEmirates Sports Hotel - A1 - Office 501 - Al Hebiah Fourth - Dubai Sports City - Dubai - United Arab Emirates",
+    "city": "Motor City Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Elite+Venture+Properties/data=!4m7!3m6!1s0x3e5f6f053cb912e3:0xacad168c86897978!8m2!3d25.0377361!4d55.2261037!16s%2Fg%2F11y8sn__mv!19sChIJ4xK5PAVvXz4ReHmJhowWraw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Motor City Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/elite_venture_properties/",
+        "facebook": "https://www.facebook.com/profile.php/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

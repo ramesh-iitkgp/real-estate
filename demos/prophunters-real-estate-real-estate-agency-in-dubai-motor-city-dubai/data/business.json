@@ -1,0 +1,50 @@
+{
+    "business_name": "Prophunters Real Estate - Real Estate Agency In",
+    "source_business_name": "Prophunters Real Estate - Real Estate Agency In",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971585987411",
+    "whatsapp": "971585987411",
+    "email": "info@prophunters.com",
+    "website_url": "https://www.prophunters.com/",
+    "address": "\nDetriot House Office 602, 6th Floor - Al Hebiah First - Dubai Motor City - Dubai - United Arab Emirates",
+    "city": "Motor City Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "81",
+    "google_maps_url": "https://www.google.com/maps/place/PropHunters+Real+Estate+-+Real+Estate+Agency+in+Dubai/data=!4m7!3m6!1s0x3e5f6b430f980527:0x509e3c7acf97c16c!8m2!3d25.0461338!4d55.2317684!16s%2Fg%2F11t5ylgmrr!19sChIJJwWYD0NrXz4RbMGXz3o8nlA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Motor City Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
