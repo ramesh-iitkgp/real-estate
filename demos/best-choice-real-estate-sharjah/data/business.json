@@ -1,0 +1,50 @@
+{
+    "business_name": "Best Choice Real Estate",
+    "source_business_name": "Best Choice Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971557010463",
+    "whatsapp": "971557010463",
+    "email": "",
+    "website_url": "https://bestchoice-re.ae/",
+    "address": "\nBest Choice Real Estate - الاختيار الأفضل للعقارات - مقابل مجمع القرآن الكريم - Muwaileh Commercial - Industrial Area - Sharjah - United Arab Emirates",
+    "city": "Sharjah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Best+Choice+Real+Estate+-+%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1+%D8%A7%D9%84%D8%A3%D9%81%D8%B6%D9%84+%D9%84%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA%E2%80%AD/data=!4m7!3m6!1s0x3e5f5fdb90d9113f:0x60b439a677bf07f9!8m2!3d25.3047172!4d55.4587215!16s%2Fg%2F11nj1ng2v7!19sChIJPxHZkNtfXz4R-Qe_d6Y5tGA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Sharjah"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

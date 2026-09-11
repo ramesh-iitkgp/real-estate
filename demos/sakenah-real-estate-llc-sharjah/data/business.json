@@ -1,0 +1,50 @@
+{
+    "business_name": "Sakenah Real Estate Llc",
+    "source_business_name": "Sakenah Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971542669256",
+    "whatsapp": "971542669256",
+    "email": "info@sakenah.ae",
+    "website_url": "https://www.sakenah.ae/",
+    "address": "\n13 Maleha St - Warehouses Land - Sharjah - United Arab Emirates",
+    "city": "Sharjah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "8",
+    "google_maps_url": "https://www.google.com/maps/place/Sakenah+Real+Estate+L.L.C/data=!4m7!3m6!1s0x3ef5f5fd1688580f:0xeff5a81f490b9916!8m2!3d25.2621393!4d55.500395!16s%2Fg%2F11mlchfdys!19sChIJD1iIFv319T4RFpkLSR-o9e8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Sharjah"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/sakenah.ae/",
+        "facebook": "https://www.facebook.com/WixStudio/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
