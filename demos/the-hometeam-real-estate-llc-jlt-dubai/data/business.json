@@ -1,0 +1,50 @@
+{
+    "business_name": "The Hometeam Real Estate Llc",
+    "source_business_name": "The Hometeam Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971551046679",
+    "whatsapp": "971551046679",
+    "email": "info@thehometeamrealtors.ae",
+    "website_url": "https://thehometeamrealtors.ae/",
+    "address": "\nFortune Executive - 706 Cluster T - Al Thanyah Fifth - Jumeirah Lakes Towers - Dubai - United Arab Emirates",
+    "city": "JLT Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "5",
+    "google_maps_url": "https://www.google.com/maps/place/The+Hometeam+Real+Estate+LLC/data=!4m7!3m6!1s0x3e5f6d82e6eec1fb:0x4d712a49a21d9406!8m2!3d25.078944!4d55.1491058!16s%2Fg%2F11lp879wkt!19sChIJ-8Hu5oJtXz4RBpQdokkqcU0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "JLT Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/thehometeamrealtors_/",
+        "facebook": "https://www.facebook.com/profile.php/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

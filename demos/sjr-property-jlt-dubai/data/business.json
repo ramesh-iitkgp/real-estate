@@ -1,0 +1,50 @@
+{
+    "business_name": "Sjr Property",
+    "source_business_name": "Sjr Property",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971556261807",
+    "whatsapp": "971556261807",
+    "email": "",
+    "website_url": "https://sjrdxb.com/",
+    "address": "\nd10 - Al Thanyah Fifth - Jumeirah Park - Dubai - United Arab Emirates",
+    "city": "JLT Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "10",
+    "google_maps_url": "https://www.google.com/maps/place/sjr+property/data=!4m7!3m6!1s0x3e5f6dbcac6d9371:0xa333896aff4f75ab!8m2!3d25.0474637!4d55.153358!16s%2Fg%2F11nq1s93y1!19sChIJcZNtrLxtXz4Rq3VP_2qJM6M?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "JLT Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/dxbluxurylivingbyadelle/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

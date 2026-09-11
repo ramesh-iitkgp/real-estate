@@ -1,0 +1,50 @@
+{
+    "business_name": "Euroestates Properties Fz-Llc - Dubai Branch",
+    "source_business_name": "Euroestates Properties Fz-Llc - Dubai Branch",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971506921642",
+    "whatsapp": "971506921642",
+    "email": "",
+    "website_url": "https://euroestates-properties.com/",
+    "address": "\nFortune Tower - Cluster C - Al Thanyah Fifth - Jumeirah Lakes Towers - Dubai - United Arab Emirates",
+    "city": "JLT Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "11",
+    "google_maps_url": "https://www.google.com/maps/place/EuroEstates+Properties+FZ-LLC+-+Dubai+branch/data=!4m7!3m6!1s0x3ef60b22a4043c7d:0xf2a0736faa6174bb!8m2!3d25.0689457!4d55.1387486!16s%2Fg%2F11q8rrfyft!19sChIJfTwEpCIL9j4Ru3Rhqm9zoPI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "JLT Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/euroestates_properties/",
+        "facebook": "https://www.facebook.com/EuroEstatesProperties/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

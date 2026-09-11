@@ -1,0 +1,50 @@
+{
+    "business_name": "Fidelity Premium Real Estate Llc",
+    "source_business_name": "Fidelity Premium Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971551338550",
+    "whatsapp": "971551338550",
+    "email": "info@fidelity-realestate-dubai.com",
+    "website_url": "https://www.fidelityrealestatedubai.com/",
+    "address": "\nBB2, Mazaya Business Avenue - Al Thanyah Fifth - Jumeirah Lakes Towers - Dubai - United Arab Emirates",
+    "city": "JLT Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "60",
+    "google_maps_url": "https://www.google.com/maps/place/Fidelity+Premium+Real+Estate+LLC/data=!4m7!3m6!1s0x3e5f6baf27ce2a8f:0xda3b03b86aaa9c5a!8m2!3d25.0686086!4d55.1455012!16s%2Fg%2F11s25vb20v!19sChIJjyrOJ69rXz4RWpyqargDO9o?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "JLT Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/fidelity_premium_realestate/",
+        "facebook": "https://www.facebook.com/Fidelitypremiumrealestate/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

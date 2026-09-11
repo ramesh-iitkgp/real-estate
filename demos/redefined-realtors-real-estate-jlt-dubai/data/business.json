@@ -1,0 +1,50 @@
+{
+    "business_name": "Redefined Realtors Real Estate",
+    "source_business_name": "Redefined Realtors Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971559700286",
+    "whatsapp": "971559700286",
+    "email": "bs@redefinedrealtors.ae",
+    "website_url": "https://www.redefinedrealtors.ae/",
+    "address": "\nOasis Mall - Sheikh Zayed Rd - Dubai Marina - Dubai - United Arab Emirates",
+    "city": "JLT Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "25",
+    "google_maps_url": "https://www.google.com/maps/place/Redefined+Realtors+Real+Estate/data=!4m7!3m6!1s0x3e5f69aef9920483:0x6fb90348108544cb!8m2!3d25.069954!4d55.137081!16s%2Fg%2F11p16mmc_6!19sChIJgwSS-a5pXz4Ry0SFEEgDuW8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "JLT Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/redefined_realtors/",
+        "facebook": "https://www.facebook.com/RedefinedRealtors/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Property Legacy",
+    "source_business_name": "Property Legacy",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971528473885",
+    "whatsapp": "971528473885",
+    "email": "",
+    "website_url": "https://propertylegacy.com/",
+    "address": "\nOffice 101, Mazaya Business Avenue - Tower AA1 - First Al Khail St - Al Thanyah Fifth - Jumeirah Lakes Towers - Dubai - United Arab Emirates",
+    "city": "JLT Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Property+Legacy/data=!4m7!3m6!1s0x3e5f6da54f570091:0xa5d41c0d9027993e!8m2!3d25.0675524!4d55.144309!16s%2Fg%2F11tbhbjvr7!19sChIJkQBXT6VtXz4RPpknkA0c1KU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "JLT Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/propertylegacyglobal/",
+        "facebook": "https://www.facebook.com/propertylegacyglobal/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

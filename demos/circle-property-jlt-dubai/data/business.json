@@ -1,0 +1,50 @@
+{
+    "business_name": "Circle Property",
+    "source_business_name": "Circle Property",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971585672440",
+    "whatsapp": "971585672440",
+    "email": "",
+    "website_url": "https://dxbcircle.com/",
+    "address": "\nOffice 17G - Cluster I - Jumeirah Lakes Towers - Dubai - United Arab Emirates",
+    "city": "JLT Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "21",
+    "google_maps_url": "https://www.google.com/maps/place/Circle+Property/data=!4m7!3m6!1s0x3e5f6d9cfc6c0d7d:0xaed05dd5d7432590!8m2!3d25.0688314!4d55.1427112!16s%2Fg%2F11vcm33m65!19sChIJfQ1s_JxtXz4RkCVD19Vd0K4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "JLT Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

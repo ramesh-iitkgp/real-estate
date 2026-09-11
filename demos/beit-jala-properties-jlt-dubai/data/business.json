@@ -1,0 +1,50 @@
+{
+    "business_name": "Beit Jala Properties",
+    "source_business_name": "Beit Jala Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971522814049",
+    "whatsapp": "971522814049",
+    "email": "info@beitjalaprop.com",
+    "website_url": "https://beitjalaprop.com/",
+    "address": "\nOffice 304, HDS Business Centre - Cluster M - Al Thanyah Fifth - Jumeirah Lakes Towers - Dubai - United Arab Emirates",
+    "city": "JLT Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "11",
+    "google_maps_url": "https://www.google.com/maps/place/Beit+Jala+Properties/data=!4m7!3m6!1s0x3e5f6d8f56616327:0xcf67fb4fd4139c8d!8m2!3d25.0641917!4d55.1380504!16s%2Fg%2F11yyv6csgr!19sChIJJ2NhVo9tXz4RjZwT1E_7Z88?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "JLT Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
