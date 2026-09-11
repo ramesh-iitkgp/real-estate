@@ -1,0 +1,50 @@
+{
+    "business_name": "Haux Urban Properties",
+    "source_business_name": "Haux Urban Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971554369963",
+    "whatsapp": "971554369963",
+    "email": "",
+    "website_url": "https://www.thehaux.com/",
+    "address": "\nGhiyathi - Ghayathi South - Abu Dhabi - United Arab Emirates",
+    "city": "Ghayathi",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Haux+Urban+Properties/data=!4m7!3m6!1s0x3e5d49dcb3b88b67:0x353a96168a4a0af6!8m2!3d23.8335024!4d52.8090766!16s%2Fg%2F11xdb736bc!19sChIJZ4u4s9xJXT4R9gpKihaWOjU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ghayathi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Ghayathi Mall",
+    "source_business_name": "Ghayathi Mall",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971507030225",
+    "whatsapp": "971507030225",
+    "email": "",
+    "website_url": "",
+    "address": "\nطريق عرادة - غياثي - الرويس - Ghiyathi - Maraba' Ghayathi - Abu Dhabi - United Arab Emirates",
+    "city": "Ghayathi",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Ghayathi+Mall/data=!4m7!3m6!1s0x3e5d378730378df3:0x72bf13179cdeae14!8m2!3d23.9112856!4d52.8022999!16s%2Fg%2F11h55zql14!19sChIJ8403MIc3XT4RFK7enBcTv3I?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ghayathi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
