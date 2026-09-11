@@ -1,0 +1,50 @@
+{
+    "business_name": "Kaysan Properties Llc",
+    "source_business_name": "Kaysan Properties Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971501990588",
+    "whatsapp": "971501990588",
+    "email": "enquiry@kaysanproperties.ae",
+    "website_url": "https://kaysanproperties.ae/",
+    "address": "\nAl Saqr Business Tower - 91 Sheikh Zayed Rd - Trade Center Second - DIFC - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "26",
+    "google_maps_url": "https://www.google.com/maps/place/Kaysan+Properties+LLC/data=!4m7!3m6!1s0x6fbe8595239c8897:0x35991748d6239199!8m2!3d25.213894!4d55.278038!16s%2Fg%2F11wp06jyt5!19sChIJl4icI5WFvm8RmZEj1kgXmTU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/kaysanproperties/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Dubayt Real Estate",
+    "source_business_name": "Dubayt Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971526480099",
+    "whatsapp": "971526480099",
+    "email": "",
+    "website_url": "https://www.dubayt.ae/",
+    "address": "\nOffice 36, Ground Floor Emarat Atrium Building Near ADIB Bank - Sheikh Zayed Rd - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "0",
+    "review_count": "4",
+    "google_maps_url": "https://www.google.com/maps/place/Dubayt+Real+Estate/data=!4m7!3m6!1s0x3e5f6f72fab2657d:0xfb07aa7fccfd49e5!8m2!3d25.1894393!4d55.2555775!16s%2Fg%2F11rbz0ch1q!19sChIJfWWy-nJvXz4R5Un9zH-qB_s?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/dubaytae/",
+        "facebook": "https://www.facebook.com/dubaytrealestateagency/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Main Gate Real Estate",
+    "source_business_name": "Main Gate Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971588901443",
+    "whatsapp": "971588901443",
+    "email": "",
+    "website_url": "https://www.maingate.ae/",
+    "address": "\nBuilding 6 - Office 306 - Business Bay - Bay Square - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Main+Gate+Real+Estate/data=!4m7!3m6!1s0x3e5f6926a61585cb:0xf649984f8d6dac88!8m2!3d25.1856626!4d55.2802163!16s%2Fg%2F11t_t6fthy!19sChIJy4UVpiZpXz4RiKxtjU-YSfY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

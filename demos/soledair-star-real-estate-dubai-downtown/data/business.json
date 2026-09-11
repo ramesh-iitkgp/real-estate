@@ -1,0 +1,50 @@
+{
+    "business_name": "Soledair Star Real Estate",
+    "source_business_name": "Soledair Star Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971543050330",
+    "whatsapp": "971543050330",
+    "email": "contact@soledairstar.com",
+    "website_url": "https://soledairstar.com/",
+    "address": "\nSobha Ivory 1 - Marasi Dr - Business Bay - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "97",
+    "google_maps_url": "https://www.google.com/maps/place/Soledair+star+real+estate/data=!4m7!3m6!1s0x3e5f696e42245e01:0xf45a0e80391533b9!8m2!3d25.179405!4d55.2718648!16s%2Fg%2F11rq4n18wz!19sChIJAV4kQm5pXz4RuTMVOYAOWvQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/soledairrealestate/",
+        "facebook": "https://www.facebook.com/soledairproperties/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Royal Estates",
+    "source_business_name": "Royal Estates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971564943494",
+    "whatsapp": "971564943494",
+    "email": "info@royalestatesdxb.com",
+    "website_url": "https://royalestatesdxb.com/",
+    "address": "\nClover Bay Tower - Marasi Drive - 7th floor - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "103",
+    "google_maps_url": "https://www.google.com/maps/place/Royal+Estates/data=!4m7!3m6!1s0x3e5f69bb263e5973:0xb7ee5e7998d587ad!8m2!3d25.188858!4d55.2696918!16s%2Fg%2F11lthztycl!19sChIJc1k-JrtpXz4RrYfVmHle7rc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

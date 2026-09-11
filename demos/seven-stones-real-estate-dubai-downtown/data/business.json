@@ -1,0 +1,50 @@
+{
+    "business_name": "Seven Stones Real Estate",
+    "source_business_name": "Seven Stones Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971507005884",
+    "whatsapp": "971507005884",
+    "email": "enquiry@sevenstonesdxb.com",
+    "website_url": "https://sevenstonesdxb.com/",
+    "address": "\nOffice 905, Opal Tower - Burj Khalifa Blvd - Business Bay - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "73",
+    "google_maps_url": "https://www.google.com/maps/place/Seven+Stones+Real+Estate/data=!4m7!3m6!1s0x3e5f69a7bbb5cda5:0x67edb23bd675df8a!8m2!3d25.1856435!4d55.2756021!16s%2Fg%2F11tt8g5pks!19sChIJpc21u6dpXz4Rit911juy7Wc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

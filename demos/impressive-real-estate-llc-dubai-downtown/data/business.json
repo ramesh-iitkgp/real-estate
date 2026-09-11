@@ -1,0 +1,50 @@
+{
+    "business_name": "Impressive Real Estate Llc",
+    "source_business_name": "Impressive Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971507465012",
+    "whatsapp": "971507465012",
+    "email": "info@impressiverealestate.net",
+    "website_url": "https://impressiverealestate.net/",
+    "address": "\nOffice # 963, The Burjuman Business Tower - Mankhool - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Impressive+Real+Estate+LLC/data=!4m7!3m6!1s0x3e5f433096e7414f:0x2c36f246a95842f7!8m2!3d25.2516171!4d55.3012382!16s%2Fg%2F11rkdnrxlr!19sChIJT0HnljBDXz4R90JYqUbyNiw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/impressiverealestate/",
+        "facebook": "https://www.facebook.com/ImpressiveRealEstateLLC/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

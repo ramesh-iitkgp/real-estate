@@ -1,0 +1,50 @@
+{
+    "business_name": "Karnak Home Furniture Interiors & More",
+    "source_business_name": "Karnak Home Furniture Interiors & More",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971504656780",
+    "whatsapp": "971504656780",
+    "email": "contact@karnakhome.com",
+    "website_url": "https://www.karnakhome.com/",
+    "address": "\n1 Block C Office 110C - near Miracle Garden - Al Barsha South Third - Al Barsha South - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Karnak+Home+%7C+Furniture,+Interiors+%26+More/data=!4m7!3m6!1s0x3e5f65d35ba2c10b:0x363d2deec8f5bdf!8m2!3d25.057669!4d55.242907!16s%2Fg%2F11xfb2m22w!19sChIJC8GiW9NlXz4R31uP7N7SYwM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/karnakhome/",
+        "facebook": "https://www.facebook.com/karnakhomeuae/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Best Town Realty",
+    "source_business_name": "Best Town Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971585523700",
+    "whatsapp": "971585523700",
+    "email": "",
+    "website_url": "https://bestownrealty.ae/",
+    "address": "\nThe Regal Tower - Office No. 1305 - Business Bay - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "96",
+    "google_maps_url": "https://www.google.com/maps/place/Best+Town+Realty/data=!4m7!3m6!1s0x8b181233e23d660f:0x202cda6d66888490!8m2!3d25.1864194!4d55.2605904!16s%2Fg%2F11v3jtppq7!19sChIJD2Y94jMSGIsRkISIZm3aLCA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

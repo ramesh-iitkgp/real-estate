@@ -1,0 +1,50 @@
+{
+    "business_name": "Therealtordubai Real Estate Brokerage Llc",
+    "source_business_name": "Therealtordubai Real Estate Brokerage Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971551952518",
+    "whatsapp": "971551952518",
+    "email": "",
+    "website_url": "https://www.therealtordubai.com/",
+    "address": "\nTamani Arts 1417 - Al Asayel St - Business Bay - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "133",
+    "google_maps_url": "https://www.google.com/maps/place/TheRealtorDubai+Real+Estate+Brokerage+LLC/data=!4m7!3m6!1s0x3e5f6b1547ae1f61:0x9374c3025a11cc9e!8m2!3d25.187304!4d55.2809612!16s%2Fg%2F11mb59ck23!19sChIJYR-uRxVrXz4RnswRWgLDdJM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

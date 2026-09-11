@@ -1,0 +1,50 @@
+{
+    "business_name": "Atlantis Real Estate",
+    "source_business_name": "Atlantis Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971557377447",
+    "whatsapp": "971557377447",
+    "email": "",
+    "website_url": "https://atlantisrealestate.ae/listing-page/",
+    "address": "\nBusiness Bay, Dubai, UAE Gool Building, office 1918 - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "32",
+    "google_maps_url": "https://www.google.com/maps/place/Atlantis+Real+Estate/data=!4m7!3m6!1s0x3e67397e2d739935:0x93272b4f81cdc13!8m2!3d25.1819291!4d55.2706147!16s%2Fg%2F11s3xhpbmg!19sChIJNZlzLX45Zz4RE9wc-LRyMgk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "https://www.facebook.com/atlantisrealestateuae/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

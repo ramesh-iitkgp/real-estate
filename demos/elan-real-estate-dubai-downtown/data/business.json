@@ -1,0 +1,50 @@
+{
+    "business_name": "Elan Real Estate",
+    "source_business_name": "Elan Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971525101064",
+    "whatsapp": "971525101064",
+    "email": "sales@elanrealestate.ae",
+    "website_url": "https://elanrealestate.ae/",
+    "address": "\nWestburry Office Tower - 806 Marasi Dr - Business Bay - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "154",
+    "google_maps_url": "https://www.google.com/maps/place/Elan+Real+Estate/data=!4m7!3m6!1s0x3e5f69d40b5622b7:0x576594db966b4ead!8m2!3d25.186086!4d55.2744513!16s%2Fg%2F11rn83tpd3!19sChIJtyJWC9RpXz4RrU5rltuUZVc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/elanrealestate.ae/",
+        "facebook": "https://www.facebook.com/elanrealestate.ae/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

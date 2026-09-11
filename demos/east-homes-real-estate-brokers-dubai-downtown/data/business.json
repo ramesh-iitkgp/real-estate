@@ -1,0 +1,50 @@
+{
+    "business_name": "East Homes Real Estate Brokers",
+    "source_business_name": "East Homes Real Estate Brokers",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971521290737",
+    "whatsapp": "971521290737",
+    "email": "info@easthomes.ae",
+    "website_url": "https://easthomes.ae/",
+    "address": "\nBlue Bay Tower - Suit # 808 - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "17",
+    "google_maps_url": "https://www.google.com/maps/place/East+Homes+Real+estate+brokers/data=!4m7!3m6!1s0x3e5f69d7c2564355:0xac5c79e2efddb49e!8m2!3d25.1876338!4d55.2705553!16s%2Fg%2F11fr3_bjvv!19sChIJVUNWwtdpXz4RnrTd7-J5XKw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

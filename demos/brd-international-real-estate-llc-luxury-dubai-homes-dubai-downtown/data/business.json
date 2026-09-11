@@ -1,0 +1,50 @@
+{
+    "business_name": "Brd International Real Estate Llc Luxury Dubai Homes",
+    "source_business_name": "Brd International Real Estate Llc Luxury Dubai Homes",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971505342719",
+    "whatsapp": "971505342719",
+    "email": "info@brdrealestate.com",
+    "website_url": "https://brdrealestate.com/",
+    "address": "\nA A Tower - 5704 - 57th Floor Sheikh Zayed Rd - Trade Center First - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "25",
+    "google_maps_url": "https://www.google.com/maps/place/BRD+International+Real+Estate+LLC+%28Luxury+Dubai+Homes%29/data=!4m7!3m6!1s0x3e5f436be1edefb7:0x482d2f0de6b966b7!8m2!3d25.2100667!4d55.2733426!16s%2Fg%2F11sbspvrl5!19sChIJt-_t4WtDXz4Rt2a55g0vLUg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/brd_international_real_estate/",
+        "facebook": "https://www.facebook.com/brdinternationalrealestatellc/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "In Dubai Real Estate - Real Estate Agency In",
+    "source_business_name": "In Dubai Real Estate - Real Estate Agency In",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971522459998",
+    "whatsapp": "971522459998",
+    "email": "",
+    "website_url": "",
+    "address": "\nStandard Chartered Tower - Level 5 Emaar Square - Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/In+Dubai+Real+Estate+-+Real+Estate+Agency+In+Dubai/data=!4m7!3m6!1s0x6f193889f86877b:0x2dd6bf375366a6ce!8m2!3d25.202179!4d55.272705!16s%2Fg%2F11tmsmcr5x!19sChIJe4eGn4iT8QYRzqZmUze_1i0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

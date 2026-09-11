@@ -1,0 +1,50 @@
+{
+    "business_name": "Expert Homes Real Estate",
+    "source_business_name": "Expert Homes Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971567252381",
+    "whatsapp": "971567252381",
+    "email": "info@expert-homes.com",
+    "website_url": "https://expert-homes.com/",
+    "address": "\nAspect Tower - 2104 - Business Bay - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "158",
+    "google_maps_url": "https://www.google.com/maps/place/Expert+Homes+Real+Estate/data=!4m7!3m6!1s0x3e5f698404d2a6b3:0xf68165c7852e144b!8m2!3d25.1920788!4d55.2663564!16s%2Fg%2F11h76mb7xj!19sChIJs6bSBIRpXz4RSxQuhcdlgfY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/experthomesrealestate/",
+        "facebook": "https://www.facebook.com/dubai.experthomes/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

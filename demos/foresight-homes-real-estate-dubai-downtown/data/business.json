@@ -1,0 +1,50 @@
+{
+    "business_name": "Foresight Homes Real Estate",
+    "source_business_name": "Foresight Homes Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971562115115",
+    "whatsapp": "971562115115",
+    "email": "info@forsighthomes.com",
+    "website_url": "https://forsighthomes.com/",
+    "address": "\n2201 Boulevard Plaza Tower 2 - Downtown Dubai - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Foresight+Homes+Real+Estate/data=!4m7!3m6!1s0xaf7a6fb0b67bde0d:0x9a3eab3aa3f7a94e!8m2!3d25.1999514!4d55.2734051!16s%2Fg%2F11yysglh37!19sChIJDd57trBveq8RTqn3ozqrPpo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/foresighthomes.ae/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

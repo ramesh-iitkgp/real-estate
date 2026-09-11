@@ -1,0 +1,50 @@
+{
+    "business_name": "Sekenkoum Real Estate Llc",
+    "source_business_name": "Sekenkoum Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971585130111",
+    "whatsapp": "971585130111",
+    "email": "info@sekenkoum.com",
+    "website_url": "https://sekenkoum.com/?utm_source=google&utm_medium=local&utm_campaign=gbp_listing&utm_content=website_button",
+    "address": "\nAPI World Tower - Trade Center First - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/SEKENKOUM+REAL+ESTATE+L.L.C/data=!4m7!3m6!1s0x3e5f43a9e9868025:0xeb51a3534cca85f3!8m2!3d25.2253348!4d55.2836397!16s%2Fg%2F11twqs2nvg!19sChIJJYCG6alDXz4R84XKTFOjUes?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/sekenkom_realty/",
+        "facebook": "https://www.facebook.com/sekenkoum/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

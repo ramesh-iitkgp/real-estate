@@ -1,0 +1,50 @@
+{
+    "business_name": "Real Estate Agency Uae Assets",
+    "source_business_name": "Real Estate Agency Uae Assets",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971585387337",
+    "whatsapp": "971585387337",
+    "email": "info@uaeassets.com",
+    "website_url": "https://uaeassets.com/ru/",
+    "address": "\nUbora Towers - Business Bay - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Real+estate+agency+UAE+Assets/data=!4m7!3m6!1s0x3e5f69e94ddfe259:0x1e3e4aedf9def8b7!8m2!3d25.1800483!4d55.2702692!16s%2Fg%2F11f7r2p03w!19sChIJWeLfTelpXz4Rt_je-e1KPh4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/uaeassets/",
+        "facebook": "https://www.facebook.com/uaeassets/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

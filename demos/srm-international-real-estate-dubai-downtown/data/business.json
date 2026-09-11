@@ -1,0 +1,50 @@
+{
+    "business_name": "Srm International Real Estate",
+    "source_business_name": "Srm International Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971561705428",
+    "whatsapp": "971561705428",
+    "email": "",
+    "website_url": "https://srminternationalrealestate.ae/",
+    "address": "\nClover Bay Tower, office no 911 / 908, Level 9, PO 118671 - Business Bay - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "87",
+    "google_maps_url": "https://www.google.com/maps/place/SRM+INTERNATIONAL+REAL+ESTATE/data=!4m7!3m6!1s0x3e5f69fb873a6507:0x611988db1e3ce39a!8m2!3d25.188858!4d55.2696918!16s%2Fg%2F11whmq4s14!19sChIJB2U6h_tpXz4RmuM8HtuIGWE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

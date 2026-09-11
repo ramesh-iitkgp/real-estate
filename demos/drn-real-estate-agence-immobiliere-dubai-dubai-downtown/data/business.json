@@ -1,0 +1,50 @@
+{
+    "business_name": "Drn Real Estate Agence Immobiliere",
+    "source_business_name": "Drn Real Estate Agence Immobiliere",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971585587880",
+    "whatsapp": "971585587880",
+    "email": "info@dubairealestate.net",
+    "website_url": "https://dubairealestate.net/",
+    "address": "\nOpus Tower Business Bay Dubai 5th floor / Office C501 - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "156",
+    "google_maps_url": "https://www.google.com/maps/place/DRN+Real+Estate+%7C+Agence+Immobili%C3%A8re+Duba%C3%AF/data=!4m7!3m6!1s0x3e5f69a74af802a7:0x8848b6f4133c7411!8m2!3d25.1889967!4d55.2670361!16s%2Fg%2F11q9m943yh!19sChIJpwL4SqdpXz4REXQ8E_S2SIg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/drndubairealestate/",
+        "facebook": "https://www.facebook.com/dubairealestate.net/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Luxury One Real Estate Llc",
+    "source_business_name": "Luxury One Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971521096888",
+    "whatsapp": "971521096888",
+    "email": "",
+    "website_url": "https://luxuryonere.ae/",
+    "address": "\nTower, The Bay Gate - F22 - B - Business Bay - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "42",
+    "google_maps_url": "https://www.google.com/maps/place/Luxury+One+Real+Estate+L.L.C/data=!4m7!3m6!1s0x3e5f69d23c52ec75:0x3e60f4fc0ffdf3b6!8m2!3d25.1888361!4d55.2627811!16s%2Fg%2F11rwm7lwcb!19sChIJdexSPNJpXz4RtvP9D_z0YD4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

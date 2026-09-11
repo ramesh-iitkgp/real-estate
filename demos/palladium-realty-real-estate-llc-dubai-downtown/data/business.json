@@ -1,0 +1,50 @@
+{
+    "business_name": "Palladium Realty Real Estate Llc",
+    "source_business_name": "Palladium Realty Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971500122228",
+    "whatsapp": "971500122228",
+    "email": "inquire@palladiumrealty.ae",
+    "website_url": "https://palladiumrealty.ae/",
+    "address": "\nOffice C1002, The Opus by Omniyat - Al A'amal St - Business Bay - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Palladium+Realty+Real+Estate+LLC/data=!4m7!3m6!1s0x3e5f6d8d73f8b577:0xccf66224c083566f!8m2!3d25.1887385!4d55.2670884!16s%2Fg%2F11s42s61s8!19sChIJd7X4c41tXz4Rb1aDwCRi9sw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/palladium.realty/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

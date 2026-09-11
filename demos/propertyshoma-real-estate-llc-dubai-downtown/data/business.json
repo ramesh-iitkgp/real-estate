@@ -1,0 +1,50 @@
+{
+    "business_name": "Propertyshoma Real Estate Llc",
+    "source_business_name": "Propertyshoma Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971509552623",
+    "whatsapp": "971509552623",
+    "email": "info@propertyshoma.com",
+    "website_url": "https://propertyshoma.com/?utm_source=dubai&utm_medium=local&utm_campaign=localbusiness",
+    "address": "\noffice 1609, The Prism Tower - Al Mustaqbal St - Business Bay - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "124",
+    "google_maps_url": "https://www.google.com/maps/place/Propertyshoma+Real+Estate+LLC/data=!4m7!3m6!1s0x3e5f69c8193897eb:0x5a79d3a5955fbb5e!8m2!3d25.187477!4d55.2611131!16s%2Fg%2F11sp3qwqrm!19sChIJ65c4GchpXz4RXrtflaXTeVo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/propertyshoma21/",
+        "facebook": "https://www.facebook.com/Propertyshoma2021/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

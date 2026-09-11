@@ -1,0 +1,50 @@
+{
+    "business_name": "Dubai Real Estate",
+    "source_business_name": "Dubai Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971545629542",
+    "whatsapp": "971545629542",
+    "email": "",
+    "website_url": "https://dubaireal.ae/",
+    "address": "\nBusiness bay, opus tower 1101 - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "5",
+    "google_maps_url": "https://www.google.com/maps/place/Dubai+Real+Estate/data=!4m7!3m6!1s0x3e5f69619d2e8027:0xcb80a5b32326a9f3!8m2!3d25.1856563!4d55.2756837!16s%2Fg%2F11wwy_wl_f!19sChIJJ4AunWFpXz4R86kmI7OlgMs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

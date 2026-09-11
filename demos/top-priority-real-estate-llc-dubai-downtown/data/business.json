@@ -1,0 +1,50 @@
+{
+    "business_name": "Top Priority Real Estate Llc",
+    "source_business_name": "Top Priority Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971524487595",
+    "whatsapp": "971524487595",
+    "email": "",
+    "website_url": "https://topprioritydubai.com/",
+    "address": "\nWestburry Tower Office 207 - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "59",
+    "google_maps_url": "https://www.google.com/maps/place/Top+Priority+Real+Estate+LLC/data=!4m7!3m6!1s0x3e5f69d1af45ef49:0x56086e299fc78a4e!8m2!3d25.1861343!4d55.2749743!16s%2Fg%2F11ssv9y1p6!19sChIJSe9Fr9FpXz4RTorHnyluCFY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/toppriority.dxb/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

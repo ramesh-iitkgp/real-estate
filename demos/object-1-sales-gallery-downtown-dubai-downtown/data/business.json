@@ -1,0 +1,50 @@
+{
+    "business_name": "Object 1 - Sales Gallery Downtown",
+    "source_business_name": "Object 1 - Sales Gallery Downtown",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971523810148",
+    "whatsapp": "971523810148",
+    "email": "",
+    "website_url": "https://object-1.com/",
+    "address": "\nEmaar Square Building #3 - G03 - Al Mustaqbal St - Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Object+1+-+Sales+Gallery+Downtown/data=!4m7!3m6!1s0x3e5f43daee45d679:0x823b616c211b5ffe!8m2!3d25.2000109!4d55.2721352!16s%2Fg%2F11vpqp8q6t!19sChIJedZF7tpDXz4R_l8bIWxhO4I?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/object1.uae/",
+        "facebook": "https://www.facebook.com/Object1.ae/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

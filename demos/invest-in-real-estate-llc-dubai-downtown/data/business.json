@@ -1,0 +1,50 @@
+{
+    "business_name": "Invest In Real Estate Llc",
+    "source_business_name": "Invest In Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971508858512",
+    "whatsapp": "971508858512",
+    "email": "",
+    "website_url": "https://www.investin-dubai.com/",
+    "address": "\nSouk Al Bahar - Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates",
+    "city": "Dubai Downtown",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Invest+In+Real+Estate+LLC/data=!4m7!3m6!1s0x3e5f69b767b988df:0x72fdbb40e8cd9184!8m2!3d25.1932676!4d55.2767732!16s%2Fg%2F11j36jyb_q!19sChIJ34i5Z7dpXz4RhJHN6EC7_XI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Dubai Downtown"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/Investin.dubai/",
+        "facebook": "https://www.facebook.com/investinae/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
