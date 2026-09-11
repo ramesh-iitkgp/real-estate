@@ -1,0 +1,50 @@
+{
+    "business_name": "Arabian Gate",
+    "source_business_name": "Arabian Gate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971508993001",
+    "whatsapp": "971508993001",
+    "email": "",
+    "website_url": "",
+    "address": "\nArabian Gate Tower - Nadd Hessa - Dubai Silicon Oasis - Dubai - United Arab Emirates",
+    "city": "Silicon Oasis Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "0",
+    "review_count": "359",
+    "google_maps_url": "https://www.google.com/maps/place/Arabian+Gate/data=!4m7!3m6!1s0x3e5f6569de98571d:0xa34ff7bc8fa2ede!8m2!3d25.1229042!4d55.3982873!16s%2Fg%2F11pcd55kr2!19sChIJHVeY3mllXz4R3i76yHv_NAo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Silicon Oasis Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

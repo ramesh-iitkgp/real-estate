@@ -1,0 +1,50 @@
+{
+    "business_name": "Stardom Real Estate Brokers Llc",
+    "source_business_name": "Stardom Real Estate Brokers Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971567472555",
+    "whatsapp": "971567472555",
+    "email": "info@stardomrealestate.ae",
+    "website_url": "https://stardomrealestate.ae/",
+    "address": "\nApricot Towers - Office No. 511-3 5th Floor - Nadd Hessa - Dubai Silicon Oasis - Dubai - United Arab Emirates",
+    "city": "Silicon Oasis Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "49",
+    "google_maps_url": "https://www.google.com/maps/place/Stardom+Real+Estate+Brokers+LLC/data=!4m7!3m6!1s0x3e5f6585dbd7f16f:0x8db35606d29dfed8!8m2!3d25.1118427!4d55.3846458!16s%2Fg%2F11xf7nwj2v!19sChIJb_HX24VlXz4R2P6d0gZWs40?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Silicon Oasis Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/stardom_realestate/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

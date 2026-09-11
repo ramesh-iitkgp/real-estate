@@ -1,0 +1,50 @@
+{
+    "business_name": "Sprint Real Estate Llc",
+    "source_business_name": "Sprint Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971544425148",
+    "whatsapp": "971544425148",
+    "email": "info@sprintrealestate.ae",
+    "website_url": "https://www.sprintrealestate.ae/agency/sprint-real-estate/",
+    "address": "\nIT PLAZA - Nadd Hessa - Dubai Silicon Oasis - Dubai - United Arab Emirates",
+    "city": "Silicon Oasis Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "6",
+    "google_maps_url": "https://www.google.com/maps/place/SPRINT+REAL+ESTATE+LLC/data=!4m7!3m6!1s0x40ab507fca786fab:0x46b75b89e763620!8m2!3d25.1213351!4d55.3985437!16s%2Fg%2F11yvpxs3x6!19sChIJq294yn9Qq0ARIDZ2nrh1awQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Silicon Oasis Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/sprintrealestate/",
+        "facebook": "https://www.facebook.com/profile.php/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

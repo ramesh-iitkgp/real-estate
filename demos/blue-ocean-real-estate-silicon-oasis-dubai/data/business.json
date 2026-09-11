@@ -1,0 +1,50 @@
+{
+    "business_name": "Blue Ocean Real Estate",
+    "source_business_name": "Blue Ocean Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971557969358",
+    "whatsapp": "971557969358",
+    "email": "",
+    "website_url": "",
+    "address": "\nIT PLAZA - Nadd Hessa - Dubai Silicon Oasis - Dubai - United Arab Emirates",
+    "city": "Silicon Oasis Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "4",
+    "google_maps_url": "https://www.google.com/maps/place/Blue+ocean+real+estate/data=!4m7!3m6!1s0x3e5f691b9b6a3c2b:0xa19e979b6ae7ea67!8m2!3d25.1214018!4d55.3978332!16s%2Fg%2F11q4d4zg8g!19sChIJKzxqmxtpXz4RZ-rnapuXnqE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Silicon Oasis Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

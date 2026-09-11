@@ -1,0 +1,50 @@
+{
+    "business_name": "First Prime Properties Llc",
+    "source_business_name": "First Prime Properties Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971507770550",
+    "whatsapp": "971507770550",
+    "email": "info@fpproperties.ae",
+    "website_url": "https://fpproperties.ae/",
+    "address": "\nFirst Prime Properties - SIT Tower - Dubai Silicon Oasis - Dubai 5th Floor - Office 501 - Dubai - United Arab Emirates",
+    "city": "Silicon Oasis Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "22",
+    "google_maps_url": "https://www.google.com/maps/place/First+Prime+Properties+LLC/data=!4m7!3m6!1s0x3e5f6b512d6b201b:0xa593b60d8fee2692!8m2!3d25.1181083!4d55.390231!16s%2Fg%2F11wqvvzlzs!19sChIJGyBrLVFrXz4Rkibujw22k6U?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Silicon Oasis Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/fp.properties/",
+        "facebook": "https://www.facebook.com/FPProperties1/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

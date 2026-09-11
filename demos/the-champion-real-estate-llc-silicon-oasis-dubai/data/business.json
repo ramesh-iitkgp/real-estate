@@ -1,0 +1,50 @@
+{
+    "business_name": "The Champion Real Estate Llc",
+    "source_business_name": "The Champion Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971526168081",
+    "whatsapp": "971526168081",
+    "email": "",
+    "website_url": "https://www.thechampionrealestate.ae/",
+    "address": "\nSIT Tower - Nadd Hessa - Dubai Silicon Oasis - Dubai - United Arab Emirates",
+    "city": "Silicon Oasis Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "57",
+    "google_maps_url": "https://www.google.com/maps/place/The+Champion+Real+Estate+LLC/data=!4m7!3m6!1s0x3e5f65d93770bbc1:0xdb03008525a71f0c!8m2!3d25.1178369!4d55.3906301!16s%2Fg%2F11pr2tk27p!19sChIJwbtwN9llXz4RDB-nJYUAA9s?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Silicon Oasis Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

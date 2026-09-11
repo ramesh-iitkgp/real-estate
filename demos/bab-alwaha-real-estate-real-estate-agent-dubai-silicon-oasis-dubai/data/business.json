@@ -1,0 +1,50 @@
+{
+    "business_name": "Bab Alwaha Real Estate - Real Estate Agent",
+    "source_business_name": "Bab Alwaha Real Estate - Real Estate Agent",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971528883144",
+    "whatsapp": "971528883144",
+    "email": "",
+    "website_url": "http://www.babalwaha.estate/",
+    "address": "\nApricot Tower Office 811-4 - Dubai - United Arab Emirates",
+    "city": "Silicon Oasis Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "77",
+    "google_maps_url": "https://www.google.com/maps/place/Bab+Alwaha+Real+Estate+-+Real+Estate+Agent+Dubai/data=!4m7!3m6!1s0x3e5f65c427ef9b37:0x10f82d95e1deddf4!8m2!3d25.1118664!4d55.3842663!16s%2Fg%2F11ptm8m9vc!19sChIJN5vvJ8RlXz4R9N3e4ZUt-BA?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Silicon Oasis Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

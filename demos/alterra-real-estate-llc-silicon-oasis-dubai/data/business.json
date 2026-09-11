@@ -1,0 +1,50 @@
+{
+    "business_name": "Alterra Real Estate Llc",
+    "source_business_name": "Alterra Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971585328555",
+    "whatsapp": "971585328555",
+    "email": "admin@alterraproperties.com",
+    "website_url": "https://alterraproperties.com/",
+    "address": "\nSIT Tower - NADD HESSA - Office No.: 1709 - 17th Floor - SILICON OASIS - Dubai Silicon Oasis - Dubai - United Arab Emirates",
+    "city": "Silicon Oasis Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Alterra+Real+Estate+L.L.C/data=!4m7!3m6!1s0x3e5f65aca1b918e3:0x17459ae0889adb03!8m2!3d25.1177885!4d55.3906747!16s%2Fg%2F11z21r0fkk!19sChIJ4xi5oaxlXz4RA9uaiOCaRRc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Silicon Oasis Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/alterraproperties/",
+        "facebook": "https://www.facebook.com/profile.php/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
