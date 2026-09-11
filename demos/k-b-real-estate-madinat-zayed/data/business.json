@@ -1,0 +1,50 @@
+{
+    "business_name": "K&B Real Estate",
+    "source_business_name": "K&B Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971565552207",
+    "whatsapp": "971565552207",
+    "email": "",
+    "website_url": "",
+    "address": "\nMP7J+2HC ! - Madinat Za'id - MZE19 - Abu Dhabi - United Arab Emirates",
+    "city": "Madinat Zayed",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/K%26B+REAL+ESTATE/data=!4m7!3m6!1s0x3e6767687c26f25b:0xd8234142b1613a97!8m2!3d23.6625699!4d53.7313887!16s%2Fg%2F11pdmbqs1z!19sChIJW_ImfGhnZz4RlzphsUJBI9g?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Madinat Zayed"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

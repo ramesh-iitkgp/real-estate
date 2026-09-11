@@ -1,0 +1,50 @@
+{
+    "business_name": "Mira Complex",
+    "source_business_name": "Mira Complex",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971506699111",
+    "whatsapp": "971506699111",
+    "email": "",
+    "website_url": "",
+    "address": "\nJPF2+XPV - Unnamed Road - Abu Dhabi - United Arab Emirates",
+    "city": "Madinat Zayed",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "15",
+    "google_maps_url": "https://www.google.com/maps/place/Mira+Complex/data=!4m7!3m6!1s0x3e67677b32f9fcf7:0x61d6e37c6e25c526!8m2!3d23.6249878!4d53.7018044!16s%2Fg%2F11g_v8mspx!19sChIJ9_z5MntnZz4RJsUlbnzj1mE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Madinat Zayed"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

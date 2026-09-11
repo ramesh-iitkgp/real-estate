@@ -1,0 +1,50 @@
+{
+    "business_name": "Tarek Room",
+    "source_business_name": "Tarek Room",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971504410413",
+    "whatsapp": "971504410413",
+    "email": "",
+    "website_url": "",
+    "address": "\n14 ممر 705 - Madinat Zayed - Defense South - Abu Dhabi - United Arab Emirates",
+    "city": "Madinat Zayed",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.9",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Tarek+Room/data=!4m7!3m6!1s0x3e676790f43f046f:0xe390301932aa3f0!8m2!3d23.6304689!4d53.721787!16s%2Fg%2F11trdwvq9v!19sChIJbwQ_9JBnZz4R8KMqkwEDOQ4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Madinat Zayed"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

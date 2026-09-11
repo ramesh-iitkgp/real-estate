@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Aqueeli Real Estate Llc",
+    "source_business_name": "Al Aqueeli Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971564404050",
+    "whatsapp": "971564404050",
+    "email": "",
+    "website_url": "",
+    "address": "\nSANAIA MIRAJ BUILDING - 570 Lakhweerah St - Madinat Zayed - MZE19 - Abu Dhabi - United Arab Emirates",
+    "city": "Madinat Zayed",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/AL+AQUEELI+REAL+ESTATE+LLC./data=!4m7!3m6!1s0x3e6767cd4ead7835:0x9cd06ab50759adfd!8m2!3d23.6614577!4d53.7257464!16s%2Fg%2F11h05sqtqr!19sChIJNXitTs1nZz4R_a1ZB7Vq0Jw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Madinat Zayed"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

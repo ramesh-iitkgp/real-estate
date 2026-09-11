@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Adeed Caravan",
+    "source_business_name": "Al Adeed Caravan",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971506177107",
+    "whatsapp": "971506177107",
+    "email": "",
+    "website_url": "",
+    "address": "\nIndustrail area western reigion - Abu Dhabi - United Arab Emirates",
+    "city": "Madinat Zayed",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "6",
+    "google_maps_url": "https://www.google.com/maps/place/Al+adeed+caravan/data=!4m7!3m6!1s0x3e6767452e712f19:0xe7f3112f4a6179d4!8m2!3d23.6595069!4d53.7259316!16s%2Fg%2F11h4xff27l!19sChIJGS9xLkVnZz4R1HlhSi8R8-c?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Madinat Zayed"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
