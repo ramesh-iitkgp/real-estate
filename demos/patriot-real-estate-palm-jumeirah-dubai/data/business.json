@@ -1,0 +1,50 @@
+{
+    "business_name": "Patriot Real Estate",
+    "source_business_name": "Patriot Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971553436763",
+    "whatsapp": "971553436763",
+    "email": "info@patriot.ae",
+    "website_url": "https://patriot.ae/",
+    "address": "\nDamac Executive Heights - Office No. 1401 - Barsha Heights - Dubai - United Arab Emirates",
+    "city": "Palm Jumeirah Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Patriot+Real+Estate/data=!4m7!3m6!1s0x3e5f6b6c153cc641:0x9623e9d1b9381936!8m2!3d25.0957956!4d55.1728127!16s%2Fg%2F11g22xm_th!19sChIJQcY8FWxrXz4RNhk4udHpI5Y?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Palm Jumeirah Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/patriotrealestate/",
+        "facebook": "https://www.facebook.com/patriotredxb/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

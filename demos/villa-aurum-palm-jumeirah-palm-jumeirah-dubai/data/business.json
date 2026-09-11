@@ -1,0 +1,50 @@
+{
+    "business_name": "Villa Aurum Palm Jumeirah",
+    "source_business_name": "Villa Aurum Palm Jumeirah",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971506327078",
+    "whatsapp": "971506327078",
+    "email": "",
+    "website_url": "",
+    "address": "\n444C+3FJ Frond M - Nakhlat Jumeira - Dubai - United Arab Emirates",
+    "city": "Palm Jumeirah Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Villa+Aurum+%7C+Palm+Jumeirah/data=!4m7!3m6!1s0x3e5f152624992eb5:0xd726386cda90d125!8m2!3d25.1052223!4d55.1211476!16s%2Fg%2F11hzd196nx!19sChIJtS6ZJCYVXz4RJdGQ2mw4Jtc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Palm Jumeirah Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

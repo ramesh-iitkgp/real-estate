@@ -1,0 +1,50 @@
+{
+    "business_name": "Auric Acres Real Estate Brokers",
+    "source_business_name": "Auric Acres Real Estate Brokers Dubai",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971529578280",
+    "whatsapp": "971529578280",
+    "email": "info@auric-acres.com",
+    "website_url": "https://auric-acres.com/",
+    "address": "\nM-17, Atrium Center, Bank Street - Dubai - United Arab Emirates",
+    "city": "Palm Jumeirah Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "29",
+    "google_maps_url": "https://www.google.com/maps/place/Auric+Acres+Real+Estate+Brokers,+Dubai,+UAE/data=!4m7!3m6!1s0x3e5f433b737a1a8d:0x7f9bd0e5137bbcf1!8m2!3d25.2570194!4d55.2989952!16s%2Fg%2F11cnnd4__x!19sChIJjRp6cztDXz4R8bx7E-XQm38?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Palm Jumeirah Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "https://www.facebook.com/auricacres/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Capital One Real Estate",
+    "source_business_name": "Capital One Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971569808890",
+    "whatsapp": "971569808890",
+    "email": "info@capitalonedubai.com",
+    "website_url": "https://www.capitalonedubai.com/",
+    "address": "\nAl Ameri Tower - Office # 1303 - Al Thanyah First - Barsha Heights - Dubai - United Arab Emirates",
+    "city": "Palm Jumeirah Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "10",
+    "google_maps_url": "https://www.google.com/maps/place/Capital+One+Real+Estate/data=!4m7!3m6!1s0x3e5f6b5ce6c23e99:0x2b0725dc58ccea37!8m2!3d25.1030316!4d55.1763836!16s%2Fg%2F11k53s2y26!19sChIJmT7C5lxrXz4RN-rMWNwlBys?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Palm Jumeirah Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/capitalone.dubai/",
+        "facebook": "https://www.facebook.com/CapitalOneDubai/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Pam Golding Properties",
+    "source_business_name": "Pam Golding Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971586701008",
+    "whatsapp": "971586701008",
+    "email": "dubai@pamgolding.ae",
+    "website_url": "https://www.pamgolding.ae/",
+    "address": "\nTower B, Business Central Towers - 49th Floor - Al Sufouh 2 - Dubai Media City - Dubai - United Arab Emirates",
+    "city": "Palm Jumeirah Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "3",
+    "google_maps_url": "https://www.google.com/maps/place/Pam+Golding+Properties+UAE/data=!4m7!3m6!1s0x3e5f6b6f025f7823:0xd6a6d71d883793d1!8m2!3d25.1007585!4d55.1695198!16s%2Fg%2F11z8r0mp6x!19sChIJI3hfAm9rXz4R0ZM3iB3XptY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Palm Jumeirah Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

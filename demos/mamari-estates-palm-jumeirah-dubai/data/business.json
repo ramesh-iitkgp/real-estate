@@ -1,0 +1,50 @@
+{
+    "business_name": "Mamari Estates",
+    "source_business_name": "Mamari Estates",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971561778020",
+    "whatsapp": "971561778020",
+    "email": "info@mamariestates.com",
+    "website_url": "https://mamariestates.com/",
+    "address": "\nOffice: 24, Mezzanine Floor, Building 2 - Palm Jumeirah - Dubai - United Arab Emirates",
+    "city": "Palm Jumeirah Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Mamari+Estates/data=!4m7!3m6!1s0x3e5f6b8fd6151203:0xf519e33a0f49a3cf!8m2!3d25.1061501!4d55.1480561!16s%2Fg%2F11vx4fk5cb!19sChIJAxIV1o9rXz4Rz6NJDzrjGfU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Palm Jumeirah Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/mamariestates/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Jumeirah Heights West",
+    "source_business_name": "Jumeirah Heights West",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971501889677",
+    "whatsapp": "971501889677",
+    "email": "",
+    "website_url": "",
+    "address": "\nAl Worood 3 Street - Al Thanyah Fifth - Jumeirah Islands - Dubai - United Arab Emirates",
+    "city": "Palm Jumeirah Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "148",
+    "google_maps_url": "https://www.google.com/maps/place/Jumeirah+Heights+West/data=!4m7!3m6!1s0x3e5f6cb6b9a8de07:0xece92147acdea54c!8m2!3d25.0622727!4d55.1437718!16s%2Fg%2F11b7q597l9!19sChIJB96oubZsXz4RTKXerEch6ew?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Palm Jumeirah Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "The Palm Gateway By Nakheel",
+    "source_business_name": "The Palm Gateway By Nakheel",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971522545212",
+    "whatsapp": "971522545212",
+    "email": "",
+    "website_url": "https://thepalmgateway.com/",
+    "address": "\n35X4+VCG - D94 - Nakhlat Jumeira - Dubai - United Arab Emirates",
+    "city": "Palm Jumeirah Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/The+Palm+Gateway+by+Nakheel/data=!4m7!3m6!1s0x3e5f6b49c50c3037:0x56bb946de83d9081!8m2!3d25.0996793!4d55.156075!16s%2Fg%2F11rv0fq9f8!19sChIJNzAMxUlrXz4RgZA96G2Uu1Y?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Palm Jumeirah Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

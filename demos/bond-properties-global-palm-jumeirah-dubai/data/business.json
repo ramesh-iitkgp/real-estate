@@ -1,0 +1,50 @@
+{
+    "business_name": "Bond Properties Global",
+    "source_business_name": "Bond Properties Global",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971585874330",
+    "whatsapp": "971585874330",
+    "email": "hello@bondpropertiesglobal.com",
+    "website_url": "https://bondpropertiesglobal.com/",
+    "address": "\nAl Thanyah Third - Emirates Hills - Dubai - United Arab Emirates",
+    "city": "Palm Jumeirah Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "5",
+    "google_maps_url": "https://www.google.com/maps/place/Bond+Properties+Global/data=!4m7!3m6!1s0x3e5f1564cd6ad4af:0x8a36b710d6ab19d7!8m2!3d25.0781238!4d55.1581382!16s%2Fg%2F11y_jtdhsb!19sChIJr9RqzWQVXz4R1xmr1hC3Noo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Palm Jumeirah Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/bondpropertiesglobal/",
+        "facebook": "https://www.facebook.com/bondproperties/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

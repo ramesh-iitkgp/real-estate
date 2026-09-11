@@ -1,0 +1,50 @@
+{
+    "business_name": "Amana Trust Real Estate Trustee - Palm Jumeirah",
+    "source_business_name": "Amana Trust Real Estate Trustee - Palm Jumeirah",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971545858587",
+    "whatsapp": "971545858587",
+    "email": "",
+    "website_url": "https://amanatrust-palm.ae/",
+    "address": "\nOffice No 16 Mezzanine Floor Golden Mile Building 3 - Palm Jumeirah - Dubai - United Arab Emirates",
+    "city": "Palm Jumeirah Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Amana+Trust+Real+Estate+Trustee+-+Palm+Jumeirah/data=!4m7!3m6!1s0x85120a03d7babc17:0x86b0992b4e71922e!8m2!3d25.1085647!4d55.1450564!16s%2Fg%2F11xmrf0n3x!19sChIJF7y61wMKEoURLpJxTiuZsIY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Palm Jumeirah Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

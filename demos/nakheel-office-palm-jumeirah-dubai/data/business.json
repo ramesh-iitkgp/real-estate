@@ -1,0 +1,50 @@
+{
+    "business_name": "Nakheel Office",
+    "source_business_name": "Nakheel Office",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971568487286",
+    "whatsapp": "971568487286",
+    "email": "",
+    "website_url": "",
+    "address": "\n4533+5PP - King Salman Bin Abdulaziz Al Saud St - Nakhlat Jumeira - Dubai - United Arab Emirates",
+    "city": "Palm Jumeirah Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "11",
+    "google_maps_url": "https://www.google.com/maps/place/Nakheel+office/data=!4m7!3m6!1s0x3e5f6bd933f8cc2b:0x3fdada927e501faf!8m2!3d25.102952!4d55.1543232!16s%2Fg%2F11ldd5rmnx!19sChIJK8z4M9lrXz4Rrx9QfpLa2j8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Palm Jumeirah Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

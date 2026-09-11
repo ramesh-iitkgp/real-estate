@@ -1,0 +1,50 @@
+{
+    "business_name": "Xxii Carat Club Villas Palm Jumeirah",
+    "source_business_name": "Xxii Carat Club Villas Palm Jumeirah",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971525098364",
+    "whatsapp": "971525098364",
+    "email": "",
+    "website_url": "https://22carat.ae/",
+    "address": "\nDubai Plot C02, West Crescent, Palm - Jumeirah - Dubai - United Arab Emirates",
+    "city": "Palm Jumeirah Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/XXII+CARAT+Club+Villas+%7C+Palm+Jumeirah/data=!4m7!3m6!1s0x3e5f14c974a3d711:0x762b355826ce7813!8m2!3d25.0988472!4d55.1307057!16s%2Fg%2F11c52_jd2k!19sChIJEdejdMkUXz4RE3jOJlg1K3Y?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Palm Jumeirah Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
