@@ -1,0 +1,50 @@
+{
+    "business_name": "Barwah Real Estate",
+    "source_business_name": "Barwah Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971501944844",
+    "whatsapp": "971501944844",
+    "email": "",
+    "website_url": "",
+    "address": "\n29W3+894 - Al Mafrag - Sharjah - United Arab Emirates",
+    "city": "Kalba",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/BARWAH+REAL+ESTATE/data=!4m7!3m6!1s0x3ef4fb5d9ebb5127:0x8ca53fc427b90a39!8m2!3d25.0457625!4d56.3534531!16s%2Fg%2F11t7xw81d5!19sChIJJ1G7nl379D4ROQq5J8Q_pYw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Kalba"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

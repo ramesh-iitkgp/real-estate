@@ -1,0 +1,50 @@
+{
+    "business_name": "Altasjeel Real Estate",
+    "source_business_name": "Altasjeel Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971566975555",
+    "whatsapp": "971566975555",
+    "email": "",
+    "website_url": "",
+    "address": "\nشقة رقم 101 - شارع الوحدة - بجوار دائرة التسجيل العقاري - الطابق الأول - Sharjah - United Arab Emirates",
+    "city": "Kalba",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "3",
+    "google_maps_url": "https://www.google.com/maps/place/Altasjeel+Real+Estate/data=!4m7!3m6!1s0x3ef4fa57615a6e09:0x957aaf6798e4e539!8m2!3d25.0231912!4d56.3485922!16s%2Fg%2F11gblf0b9q!19sChIJCW5aYVf69D4ROeXkmGevepU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Kalba"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Abdulrahman Arif Farm",
+    "source_business_name": "Abdulrahman Arif Farm",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971507033558",
+    "whatsapp": "971507033558",
+    "email": "",
+    "website_url": "",
+    "address": "\nAl Taraif 1 - Sharjah - United Arab Emirates",
+    "city": "Kalba",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "21",
+    "google_maps_url": "https://www.google.com/maps/place/Abdulrahman+Arif+Farm/data=!4m7!3m6!1s0x3ef4f968222a89e7:0xb52c5c66024b0c03!8m2!3d25.0788221!4d56.3353897!16s%2Fg%2F11pv2_dg05!19sChIJ54kqImj59D4RAwxLAmZcLLU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Kalba"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
