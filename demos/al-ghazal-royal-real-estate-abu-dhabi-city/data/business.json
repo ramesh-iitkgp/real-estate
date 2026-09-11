@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Ghazal Royal Real Estate",
+    "source_business_name": "Al Ghazal Royal Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971522040517",
+    "whatsapp": "971522040517",
+    "email": "",
+    "website_url": "https://www.alghazalgroups.com/",
+    "address": "\nAr - Ar Ramlah St - Riq'ah Al Hamra-a St - Abu Dhabi - United Arab Emirates",
+    "city": "Abu Dhabi City",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "390",
+    "google_maps_url": "https://www.google.com/maps/place/Al+Ghazal+Royal+Real+Estate/data=!4m7!3m6!1s0x3e5e676d2cde4f57:0xe9693a62c55cd94d!8m2!3d24.4727177!4d54.3782723!16s%2Fg%2F11t6w1nx_1!19sChIJV0_eLG1nXj4RTdlcxWI6aek?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Abu Dhabi City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

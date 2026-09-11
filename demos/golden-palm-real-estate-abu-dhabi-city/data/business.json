@@ -1,0 +1,50 @@
+{
+    "business_name": "Golden Palm Real Estate",
+    "source_business_name": "Golden Palm Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971586953390",
+    "whatsapp": "971586953390",
+    "email": "",
+    "website_url": "",
+    "address": "\nبرج C2-الطابق21 - Al Bateen - W35 - Abu Dhabi - United Arab Emirates",
+    "city": "Abu Dhabi City",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "12",
+    "google_maps_url": "https://www.google.com/maps/place/Golden+Palm+Real+Estate/data=!4m7!3m6!1s0x3e5e67375f75707f:0x49fcf2fba8e9e8b8!8m2!3d24.4548896!4d54.3385291!16s%2Fg%2F11ysxcks0f!19sChIJf3B1XzdnXj4RuOjpqPvy_Ek?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Abu Dhabi City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Belgravia Real Estate",
+    "source_business_name": "Belgravia Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971504498588",
+    "whatsapp": "971504498588",
+    "email": "",
+    "website_url": "https://www.belgraviarealestate.net/",
+    "address": "\nAl Wahda Commercial Tower - Office 55 11th Floor - Al Nahyan - Zone 1 - Abu Dhabi - United Arab Emirates",
+    "city": "Abu Dhabi City",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "56",
+    "google_maps_url": "https://www.google.com/maps/place/Belgravia+Real+Estate/data=!4m7!3m6!1s0x3e5e67bef5d3a6b5:0xdc3ed75481289ff6!8m2!3d24.4718301!4d54.3741337!16s%2Fg%2F11hd5dwxv0!19sChIJtabT9b5nXj4R9p8ogVTXPtw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Abu Dhabi City"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/belgraviarealestate/",
+        "facebook": "https://www.facebook.com/BELGRAVIA.re/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

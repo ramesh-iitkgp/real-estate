@@ -1,0 +1,50 @@
+{
+    "business_name": "Pro Property Investment Llc",
+    "source_business_name": "Pro Property Investment Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971544175657",
+    "whatsapp": "971544175657",
+    "email": "info@propropertyinvestment.ae",
+    "website_url": "https://ppinvests.com/",
+    "address": "\nAl Ghaith tower - Office no - 1775 Hamdan Bin Mohammed St - Al Danah - Zone 1 - Abu Dhabi - United Arab Emirates",
+    "city": "Abu Dhabi City",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Pro+Property+Investment+L.L.C/data=!4m7!3m6!1s0x3e5e679e2bfade43:0x34c4c210f9b0a6e4!8m2!3d24.4908522!4d54.3639487!16s%2Fg%2F11yztzkgkj!19sChIJQ976K55nXj4R5Kaw-RDCxDQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Abu Dhabi City"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/propropertyinvestmentabudhabi/",
+        "facebook": "https://www.facebook.com/profile.php/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

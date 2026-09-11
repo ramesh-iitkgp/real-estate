@@ -1,0 +1,50 @@
+{
+    "business_name": "First One Real Estate Llc - Opc",
+    "source_business_name": "First One Real Estate Llc - Opc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971502750122",
+    "whatsapp": "971502750122",
+    "email": "info@firstone.ae",
+    "website_url": "https://firstone.ae/",
+    "address": "\nOpal House - 703 Al ma'amourah st - Al Nahyan - E25 - Abu Dhabi - United Arab Emirates",
+    "city": "Abu Dhabi City",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "180",
+    "google_maps_url": "https://www.google.com/maps/place/First+One+Real+Estate+L.L.C+-+O.P.C+-+%D9%81%D8%B1%D9%8A%D8%B3%D8%AA+%D9%88%D9%86+%D9%84%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA%E2%80%AD/data=!4m7!3m6!1s0x497d692378ea7265:0xe1a1f9862b713149!8m2!3d24.4673195!4d54.3855796!16s%2Fg%2F11vyqgvw9z!19sChIJZXLqeCNpfUkRSTFxK4b5oeE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Abu Dhabi City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

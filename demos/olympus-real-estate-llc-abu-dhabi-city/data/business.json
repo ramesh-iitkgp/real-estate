@@ -1,0 +1,50 @@
+{
+    "business_name": "Olympus Real Estate Llc",
+    "source_business_name": "Olympus Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971505440149",
+    "whatsapp": "971505440149",
+    "email": "",
+    "website_url": "https://www.olympusrealestate.net/",
+    "address": "\nal falah street - Muroor Rd - Abu Dhabi - United Arab Emirates",
+    "city": "Abu Dhabi City",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "30",
+    "google_maps_url": "https://www.google.com/maps/place/Olympus+Real+Estate+L.L.C/data=!4m7!3m6!1s0x3e5e67ecfab0b345:0x5cd91d10c4fefc0c!8m2!3d24.4788884!4d54.3714625!16s%2Fg%2F11g0g69049!19sChIJRbOw-uxnXj4RDPz-xBAd2Vw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Abu Dhabi City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "https://www.facebook.com/olympussocial/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

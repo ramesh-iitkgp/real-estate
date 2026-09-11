@@ -1,0 +1,50 @@
+{
+    "business_name": "- -",
+    "source_business_name": "- -",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971556707415",
+    "whatsapp": "971556707415",
+    "email": "",
+    "website_url": "https://ahmed663388a-collab.github.io/Abraj-Al-Fouad-Real-Estate-Maintenance/",
+    "address": "\nعنوان قريب: - Adh Dheeb St - Khalifa City - SE26 01 - Abu Dhabi - United Arab Emirates",
+    "city": "Abu Dhabi City",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/%D8%A3%D8%A8%D8%B1%D8%A7%D8%AC+%D8%A7%D9%84%D9%81%D8%A4%D8%A7%D8%AF+%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9+%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA+%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D9%86%D8%A9+%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9+-+%D8%B0.%D9%85.%D9%85+-+%D8%B4.%D8%B4.%D9%88%E2%80%AD/data=!4m7!3m6!1s0x3e5e4740d6b24ec9:0x9dd807c1f0232ca7!8m2!3d24.4046653!4d54.5968059!16s%2Fg%2F11zdc_rsvh!19sChIJyU6y1kBHXj4Rpywj8MEH2J0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Abu Dhabi City"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/abrajalfouad/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

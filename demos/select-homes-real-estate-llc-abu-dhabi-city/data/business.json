@@ -1,0 +1,50 @@
+{
+    "business_name": "Select Homes Real Estate Llc",
+    "source_business_name": "Select Homes Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971554968118",
+    "whatsapp": "971554968118",
+    "email": "",
+    "website_url": "https://selecthomes.ae/",
+    "address": "\nCorniche Building - Office 918 - 5 Qroun At Tufouh St - Al Hisn - Al Markaziyah West - Abu Dhabi - United Arab Emirates",
+    "city": "Abu Dhabi City",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "45",
+    "google_maps_url": "https://www.google.com/maps/place/Select+Homes+Real+Estate+LLC/data=!4m7!3m6!1s0x3e5e67e47ae151e5:0xa3aa1977317e956f!8m2!3d24.4819444!4d54.34975!16s%2Fg%2F11n764lffs!19sChIJ5VHheuRnXj4Rb5V-MXcZqqM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Abu Dhabi City"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/selecthomes.ae/",
+        "facebook": "https://www.facebook.com/profile.php/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Tate Real Estate",
+    "source_business_name": "Tate Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971509593711",
+    "whatsapp": "971509593711",
+    "email": "",
+    "website_url": "https://taterealestate.ae/",
+    "address": "\nBuilding No 62 Al Hadbah St - Al Nahyan - E19 02 - Abu Dhabi - United Arab Emirates",
+    "city": "Abu Dhabi City",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Tate+Real+Estate+Abu+Dhabi/data=!4m7!3m6!1s0x3e5e6795f9e9c771:0xaa52a4757f1f64a9!8m2!3d24.4688322!4d54.3814978!16s%2Fg%2F11y4s_cqv4!19sChIJccfp-ZVnXj4RqWQff3WkUqo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Abu Dhabi City"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/taterealestateuae/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

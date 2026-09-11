@@ -1,0 +1,50 @@
+{
+    "business_name": "Sky Land Middle East Properties Llc Opc",
+    "source_business_name": "Sky Land Middle East Properties Llc Opc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971564607060",
+    "whatsapp": "971564607060",
+    "email": "info@skyland.ae",
+    "website_url": "https://skyland.ae/",
+    "address": "\nSama Tower - Office No. 104 , 1st - Al Danah - Zone 1 - Abu Dhabi - United Arab Emirates",
+    "city": "Abu Dhabi City",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "122",
+    "google_maps_url": "https://www.google.com/maps/place/Sky+Land+Middle+East+Properties+LLC+OPC/data=!4m7!3m6!1s0x3e5e670d57a89f2b:0xdc1c657fedcc065c!8m2!3d24.4837561!4d54.3614!16s%2Fg%2F11g5sqg05d!19sChIJK5-oVw1nXj4RXAbM7X9lHNw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Abu Dhabi City"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/skylandproperties/",
+        "facebook": "https://www.facebook.com/skylandprop/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

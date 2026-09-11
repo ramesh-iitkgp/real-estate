@@ -1,0 +1,50 @@
+{
+    "business_name": "Real Urban Real Estate Llc-Spc",
+    "source_business_name": "Real Urban Real Estate Llc-Spc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971558853934",
+    "whatsapp": "971558853934",
+    "email": "",
+    "website_url": "https://www.rumirealestateuae.com/login",
+    "address": "\nAl Neem Tower - office 304 Sheikh Khalifa Bin Zayed St - Al Danah - Zone 1 - Abu Dhabi - United Arab Emirates",
+    "city": "Abu Dhabi City",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "13",
+    "google_maps_url": "https://www.google.com/maps/place/Real+Urban+Real+Estate+L.L.C-S.P.C/data=!4m7!3m6!1s0x3e5e67cc805a7c11:0x5ed6a0b6746ad8a5!8m2!3d24.4896823!4d54.3588132!16s%2Fg%2F11nv9p26x5!19sChIJEXxagMxnXj4RpdhqdLag1l4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Abu Dhabi City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

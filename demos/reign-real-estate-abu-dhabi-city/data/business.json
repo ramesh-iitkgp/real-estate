@@ -1,0 +1,50 @@
+{
+    "business_name": "Reign Real Estate",
+    "source_business_name": "Reign Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971529363600",
+    "whatsapp": "971529363600",
+    "email": "",
+    "website_url": "https://reignestates.com/",
+    "address": "\nSuite #1803, 18th Floor, Business Tower D Electra Street - Abu Dhabi - United Arab Emirates",
+    "city": "Abu Dhabi City",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "460",
+    "google_maps_url": "https://www.google.com/maps/place/Reign+Real+Estate/data=!4m7!3m6!1s0x3e5e67215ff5dcc9:0x3b135c5137acfc28!8m2!3d24.4907503!4d54.3722173!16s%2Fg%2F11hg48w674!19sChIJydz1XyFnXj4RKPysN1FcEzs?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Abu Dhabi City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

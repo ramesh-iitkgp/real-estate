@@ -1,0 +1,50 @@
+{
+    "business_name": "Ammar Asaad - Abu Dhabi Real Estate Agent",
+    "source_business_name": "Ammar Asaad - Abu Dhabi Real Estate Agent",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971585196155",
+    "whatsapp": "971585196155",
+    "email": "",
+    "website_url": "https://ammar.ae/",
+    "address": "\nReem island, Tamouh Tower - 3110 - Al Reem Island - Marina Square - Abu Dhabi - United Arab Emirates",
+    "city": "Abu Dhabi City",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "26",
+    "google_maps_url": "https://www.google.com/maps/place/AMMAR+ASAAD+-+Abu+Dhabi+Real+Estate+Agent/data=!4m7!3m6!1s0x3e5e673685da7b3d:0xf72b6dcbe952f2fd!8m2!3d24.4881152!4d54.3950242!16s%2Fg%2F11zgm0356t!19sChIJPXvahTZnXj4R_fJS6cttK_c?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Abu Dhabi City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

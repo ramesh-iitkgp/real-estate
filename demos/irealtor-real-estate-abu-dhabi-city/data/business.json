@@ -1,0 +1,50 @@
+{
+    "business_name": "Irealtor Real Estate",
+    "source_business_name": "Irealtor Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971557443822",
+    "whatsapp": "971557443822",
+    "email": "info@i-realtor.ae",
+    "website_url": "https://www.i-realtor.ae/",
+    "address": "\nMazyad Mall, Office Towers - Suite 48-50, Tower 1 - Mohamed Bin Zayed City - Z9 01 - Abu Dhabi - United Arab Emirates",
+    "city": "Abu Dhabi City",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "85",
+    "google_maps_url": "https://www.google.com/maps/place/iRealtor+Real+Estate/data=!4m7!3m6!1s0x3e5e47fa1ad60535:0x21f5aa40440a967!8m2!3d24.3734451!4d54.5372892!16s%2Fg%2F11yd9fszd6!19sChIJNQXWGvpHXj4RZ6lABKRaHwI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Abu Dhabi City"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/irealtorrealestate/",
+        "facebook": "https://www.facebook.com/irealtor.re/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
