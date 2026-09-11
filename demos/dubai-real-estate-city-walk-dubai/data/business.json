@@ -1,0 +1,50 @@
+{
+    "business_name": "Dubai Real Estate",
+    "source_business_name": "Dubai Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971551174885",
+    "whatsapp": "971551174885",
+    "email": "",
+    "website_url": "",
+    "address": "\nAl Wasl - Dubai sports city - Dubai - United Arab Emirates",
+    "city": "City Walk Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/DuBAI+real+estate/data=!4m7!3m6!1s0x3e5f436c00530569:0xc588e1715e8780f3!8m2!3d25.2048493!4d55.2707828!16s%2Fg%2F11nvbs1_10!19sChIJaQVTAGxDXz4R84CHXnHhiMU?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "City Walk Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

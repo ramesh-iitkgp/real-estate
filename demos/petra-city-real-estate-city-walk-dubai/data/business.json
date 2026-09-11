@@ -1,0 +1,50 @@
+{
+    "business_name": "Petra City Real Estate",
+    "source_business_name": "Petra City Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971508380166",
+    "whatsapp": "971508380166",
+    "email": "",
+    "website_url": "https://www.petra-realestate.com/",
+    "address": "\nRAG Center - office 128 Sheikh Zayed Rd - Al Wasl - Dubai - United Arab Emirates",
+    "city": "City Walk Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Petra+City+Real+Estate/data=!4m7!3m6!1s0x8b7b507af488ada1:0xbe3a5043fc3ba9bf!8m2!3d25.1878642!4d55.2555594!16s%2Fg%2F11x5dsp135!19sChIJoa2I9HpQe4sRv6k7_ENQOr4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "City Walk Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

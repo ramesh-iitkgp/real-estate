@@ -1,0 +1,50 @@
+{
+    "business_name": "City Walk Northline",
+    "source_business_name": "City Walk Northline",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971503928461",
+    "whatsapp": "971503928461",
+    "email": "",
+    "website_url": "",
+    "address": "\nCity walk - main road - Al Wasl - Dubai - United Arab Emirates",
+    "city": "City Walk Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/City+walk+Northline/data=!4m7!3m6!1s0x3e5f430dd449e11f:0x9783e9627cad799b!8m2!3d25.2068655!4d55.2583062!16s%2Fg%2F11y34jk2_w!19sChIJH-FJ1A1DXz4Rm3mtfGLpg5c?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "City Walk Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

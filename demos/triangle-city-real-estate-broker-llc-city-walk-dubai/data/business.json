@@ -1,0 +1,50 @@
+{
+    "business_name": "Triangle City Real Estate Broker Llc",
+    "source_business_name": "Triangle City Real Estate Broker Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971553543246",
+    "whatsapp": "971553543246",
+    "email": "",
+    "website_url": "https://tcrproperties.ae/",
+    "address": "\nShop No. 20 England cluster - X23 - Dubai International City - Dubai - United Arab Emirates",
+    "city": "City Walk Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Triangle+City+Real+Estate+Broker+LLC/data=!4m7!3m6!1s0x3e5f6115ef077705:0x24768360e2bb3963!8m2!3d25.173025!4d55.4061848!16s%2Fg%2F11z73vdgvm!19sChIJBXcH7xVhXz4RYzm74mCDdiQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "City Walk Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/tcr.properties/",
+        "facebook": "https://www.facebook.com/TCRBROKER2010/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

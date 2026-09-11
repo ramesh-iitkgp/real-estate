@@ -1,0 +1,50 @@
+{
+    "business_name": "City Walk Building 16",
+    "source_business_name": "City Walk Building 16",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971565150684",
+    "whatsapp": "971565150684",
+    "email": "",
+    "website_url": "",
+    "address": "\n6726+GR6 - Al Wasl - Dubai - United Arab Emirates",
+    "city": "City Walk Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/City+Walk+Building+16/data=!4m7!3m6!1s0x3e5f427b1d23e9c3:0x4bd5fb976be75b48!8m2!3d25.2012787!4d55.2620308!16s%2Fg%2F11gf98k8lx!19sChIJw-kjHXtCXz4RSFvna5f71Us?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "City Walk Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "First Access Dubai Properties",
+    "source_business_name": "First Access Dubai Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971524419356",
+    "whatsapp": "971524419356",
+    "email": "welcome@firstaccessproperties.com",
+    "website_url": "https://firstaccessproperties.com/",
+    "address": "\nCity Walk - Unit 13A01 - Al Wasl - Dubai - United Arab Emirates",
+    "city": "City Walk Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/First+Access+Dubai+Properties/data=!4m7!3m6!1s0x3e5f43133217ac81:0xc0d7cb9b3356134b!8m2!3d25.2027137!4d55.2613843!16s%2Fg%2F11rqgb59n9!19sChIJgawXMhNDXz4RSxNWM5vL18A?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "City Walk Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/first_access_properties/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

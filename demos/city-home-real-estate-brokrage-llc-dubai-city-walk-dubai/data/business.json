@@ -1,0 +1,50 @@
+{
+    "business_name": "City Home Real Estate Brokrage Llc",
+    "source_business_name": "City Home Real Estate Brokrage Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971503416809",
+    "whatsapp": "971503416809",
+    "email": "",
+    "website_url": "http://www.cityhomerealestate.com/",
+    "address": "\nAspin Commercial Tower - Office No - 702 Sheikh Zayed Rd - Trade Center First - Dubai - United Arab Emirates",
+    "city": "City Walk Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/City+Home+Real+Estate+Brokrage+L.L.C,+Dubai/data=!4m7!3m6!1s0x3e5f133d4ef2d937:0x87c1acf2438f4aec!8m2!3d25.2089625!4d55.2724984!16s%2Fg%2F11f125nyfb!19sChIJN9nyTj0TXz4R7EqPQ_KswYc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "City Walk Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

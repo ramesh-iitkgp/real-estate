@@ -1,0 +1,50 @@
+{
+    "business_name": "Edge Realty Real Estate",
+    "source_business_name": "Edge Realty Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971502439663",
+    "whatsapp": "971502439663",
+    "email": "",
+    "website_url": "https://www.edgerealty.ae/",
+    "address": "\nCity Walk Mall - Al Wasl - Dubai - United Arab Emirates",
+    "city": "City Walk Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Edge+Realty+Real+Estate/data=!4m7!3m6!1s0x3e5f427d07d23f87:0x424936f85dc4d24a!8m2!3d25.2083125!4d55.2623519!16s%2Fg%2F11b7hgq1jt!19sChIJhz_SB31CXz4RStLEXfg2SUI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "City Walk Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/edgerealtydubai/",
+        "facebook": "https://www.facebook.com/Edge-Realty-109809967096901/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

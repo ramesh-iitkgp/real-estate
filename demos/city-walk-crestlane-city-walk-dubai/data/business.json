@@ -1,0 +1,50 @@
+{
+    "business_name": "City Walk Crestlane",
+    "source_business_name": "City Walk Crestlane",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971581035856",
+    "whatsapp": "971581035856",
+    "email": "team1@offplanpropertiesdubai.ae",
+    "website_url": "https://offplanpropertiesdubai.ae/projects/city-walk-crestlane-in-al-wasl/",
+    "address": "\n6754+GR5 - Al Wasl - Dubai - United Arab Emirates",
+    "city": "City Walk Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/City+Walk+Crestlane/data=!4m7!3m6!1s0x3e5f43002fda52cb:0x1950ebb9ebecbb26!8m2!3d25.2064464!4d55.2570348!16s%2Fg%2F11w_c8s20h!19sChIJy1LaLwBDXz4RJrvs67nrUBk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "City Walk Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/offplanpropertiesdubai_/",
+        "facebook": "https://www.facebook.com/OffplanpropertiesdubaiX/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

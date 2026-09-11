@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Amman Properties",
+    "source_business_name": "Al Amman Properties",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971569192376",
+    "whatsapp": "971569192376",
+    "email": "info@alammanproperties.com",
+    "website_url": "https://www.alammanproperties.com/",
+    "address": "\nBuilding S 04 - Shop 6 - Spain Cluster - Dubai - United Arab Emirates",
+    "city": "City Walk Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Al+Amman+Properties/data=!4m7!3m6!1s0x3e5f673722ec9921:0x7ad454e01fcb5249!8m2!3d25.1637672!4d55.4017197!16s%2Fg%2F11fss3347k!19sChIJIZnsIjdnXz4RSVLLH-BU1Ho?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "City Walk Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/alammanproperties/",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
