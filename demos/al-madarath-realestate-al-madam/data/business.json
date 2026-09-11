@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Madarath Realestate",
+    "source_business_name": "Al Madarath Realestate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971545551134",
+    "whatsapp": "971545551134",
+    "email": "",
+    "website_url": "",
+    "address": "\nIndustrial Area 2 - Industrial Area - Sharjah - United Arab Emirates",
+    "city": "Al Madam",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "1",
+    "google_maps_url": "https://www.google.com/maps/place/Al+madarath+realestate/data=!4m7!3m6!1s0x3e5f5f118659f735:0xef8b06ee10804260!8m2!3d25.3140347!4d55.4089086!16s%2Fg%2F11yv8xj0p3!19sChIJNfdZhhFfXz4RYEKAEO4Gi-8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Madam"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

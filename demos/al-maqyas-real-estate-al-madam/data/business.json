@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Maqyas Real Estate",
+    "source_business_name": "Al Maqyas Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971506077907",
+    "whatsapp": "971506077907",
+    "email": "",
+    "website_url": "https://almaqyas.com/",
+    "address": "\nMohammed Al Mulla Tower - Al Ittihad St - Hay Al Nahda - Sharjah - United Arab Emirates",
+    "city": "Al Madam",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "29",
+    "google_maps_url": "https://www.google.com/maps/place/Al+Maqyas+Real+Estate+-+%D8%A7%D9%84%D9%85%D9%82%D9%8A%D8%A7%D8%B3+%D9%84%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA%E2%80%AD/data=!4m7!3m6!1s0x203b050882873e31:0x17997a2c6eae18c3!8m2!3d25.3020231!4d55.3676311!16s%2Fg%2F11sv31dzd7!19sChIJMT6HgggFOyARwxiubix6mRc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Madam"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/almaqyas_real_estate/",
+        "facebook": "https://www.facebook.com/almaqyasrealestate/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

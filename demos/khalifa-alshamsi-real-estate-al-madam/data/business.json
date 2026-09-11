@@ -1,0 +1,50 @@
+{
+    "business_name": "Khalifa Alshamsi Real Estate",
+    "source_business_name": "Khalifa Alshamsi Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971568806858",
+    "whatsapp": "971568806858",
+    "email": "",
+    "website_url": "",
+    "address": "\n7FR2+J33 - Muwaileh Commercial - Industrial Area - Sharjah - United Arab Emirates",
+    "city": "Al Madam",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "25",
+    "google_maps_url": "https://www.google.com/maps/place/Khalifa+AlShamsi+Real+Estate+%D8%AE%D9%84%D9%8A%D9%81%D9%87+%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D8%B3%D9%8A+%D9%84%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA%E2%80%AD/data=!4m7!3m6!1s0x3e5f5fea9ef413b9:0xa40eaaefc5bf6c8!8m2!3d25.2915587!4d55.4501532!16s%2Fg%2F11y39ff6tf!19sChIJuRP0nupfXz4RyPZb_K7qQAo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Madam"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

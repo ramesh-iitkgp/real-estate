@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Muhanad Real Estate",
+    "source_business_name": "Al Muhanad Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971509366505",
+    "whatsapp": "971509366505",
+    "email": "info@almuhanad.co",
+    "website_url": "https://almuhanad.co/",
+    "address": "\nEmirates Road - E611 - Sharjah - United Arab Emirates",
+    "city": "Al Madam",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "11",
+    "google_maps_url": "https://www.google.com/maps/place/AL+MUHANAD+REAL+ESTATE+%D8%A7%D9%84%D9%85%D9%87%D9%86%D8%AF+%D9%84%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA%E2%80%AD/data=!4m7!3m6!1s0x3ef58b27a9fedcfd:0xfc37cbd6a4909480!8m2!3d25.2592201!4d55.5780454!16s%2Fg%2F11y3vh42xh!19sChIJ_dz-qSeL9T4RgJSQpNbLN_w?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Madam"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/almuhanad_realestate/",
+        "facebook": "https://www.facebook.com/profile.php/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

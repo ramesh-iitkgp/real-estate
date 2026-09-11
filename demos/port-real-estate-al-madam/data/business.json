@@ -1,0 +1,50 @@
+{
+    "business_name": "Port Real Estate",
+    "source_business_name": "Port Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971503381833",
+    "whatsapp": "971503381833",
+    "email": "",
+    "website_url": "",
+    "address": "\nAbu Ayoub Al Ansari St - Al Yarmook - Halwan - Sharjah - United Arab Emirates",
+    "city": "Al Madam",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Port+Real+Estate+%D8%A7%D9%84%D9%85%D9%8A%D9%86%D8%A7%D8%A1+%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D9%87%E2%80%AD/data=!4m7!3m6!1s0x3e5f595cde347fcf:0x386e9682d0d8c0ba!8m2!3d25.3526551!4d55.4069375!16s%2Fg%2F11nq8w91wn!19sChIJz3803lxZXz4RusDY0IKWbjg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Madam"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

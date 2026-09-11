@@ -1,0 +1,50 @@
+{
+    "business_name": "Golden Deal Real Estate",
+    "source_business_name": "Golden Deal Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971558809506",
+    "whatsapp": "971558809506",
+    "email": "",
+    "website_url": "",
+    "address": "\nMaleha St - Al Badee Suburb - Hay Hoshi - Sharjah - United Arab Emirates",
+    "city": "Al Madam",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "8",
+    "google_maps_url": "https://www.google.com/maps/place/Golden+Deal+Real+Estate/data=!4m7!3m6!1s0x3ef58bc6fa75a6a9:0xfe116cc3d325bec1!8m2!3d25.2443807!4d55.5538462!16s%2Fg%2F11z48ch8ly!19sChIJqaZ1-saL9T4Rwb4l08NsEf4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Madam"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

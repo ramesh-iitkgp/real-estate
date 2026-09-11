@@ -1,0 +1,50 @@
+{
+    "business_name": "Noor Al Amal Holiday Homes",
+    "source_business_name": "Noor Al Amal Holiday Homes",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971552503656",
+    "whatsapp": "971552503656",
+    "email": "",
+    "website_url": "",
+    "address": "\n897G+4M7 - Al Khan - Sharjah - United Arab Emirates",
+    "city": "Al Madam",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.7",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Noor+Al+Amal+Holiday+Homes+%D9%86%D9%88%D8%B1+%D8%A7%D9%84%D8%A3%D9%85%D9%84+%D9%84%D8%A8%D9%8A%D9%88%D8%AA+%D8%A7%D9%84%D8%B9%D8%B7%D9%84%D8%A7%D8%AA%E2%80%AD/data=!4m7!3m6!1s0x3e5f5bb98d829029:0x8f0c2a437a249cf0!8m2!3d25.3127668!4d55.3766738!16s%2Fg%2F11svrr6s5w!19sChIJKZCCjblbXz4R8JwkekMqDI8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Madam"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
