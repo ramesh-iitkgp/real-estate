@@ -1,0 +1,50 @@
+{
+    "business_name": "Alsadawi Real Estate",
+    "source_business_name": "Alsadawi Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971567439975",
+    "whatsapp": "971567439975",
+    "email": "",
+    "website_url": "",
+    "address": "\nRRF9+XMV - غياثي، شعبية اللولو ماركت، شارع التفصيل - Abu Dhabi - United Arab Emirates",
+    "city": "Ruwais",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Alsadawi+real+estate/data=!4m7!3m6!1s0x3e5d49a1ddfa6b75:0xadc6f213e6f72cde!8m2!3d23.8249869!4d52.8191652!16s%2Fg%2F11j7d9xbxv!19sChIJdWv63aFJXT4R3iz35hPyxq0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ruwais"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
