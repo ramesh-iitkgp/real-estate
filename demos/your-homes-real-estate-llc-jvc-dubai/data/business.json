@@ -1,0 +1,50 @@
+{
+    "business_name": "Your Homes Real Estate Llc",
+    "source_business_name": "Your Homes Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971527771159",
+    "whatsapp": "971527771159",
+    "email": "info@yourhomes.ae",
+    "website_url": "https://yourhomes.ae/",
+    "address": "\nPrime Business Centre - Al Barsha South Fourth - Jumeirah Village Circle - Dubai - United Arab Emirates",
+    "city": "JVC Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "187",
+    "google_maps_url": "https://www.google.com/maps/place/Your+Homes+Real+Estate+L.L.C./data=!4m7!3m6!1s0x3e5f6dc9c9e8e1f1:0xa663f57c3ec31786!8m2!3d25.049015!4d55.2148246!16s%2Fg%2F11bbwn0v5r!19sChIJ8eHoycltXz4RhhfDPnz1Y6Y?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "JVC Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/yourhomes.re/",
+        "facebook": "https://www.facebook.com/profile.php/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

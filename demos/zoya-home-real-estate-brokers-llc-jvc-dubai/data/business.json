@@ -1,0 +1,50 @@
+{
+    "business_name": "Zoya Home Real Estate Brokers Llc",
+    "source_business_name": "Zoya Home Real Estate Brokers Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971525524880",
+    "whatsapp": "971525524880",
+    "email": "info@zoyahomedxb.com",
+    "website_url": "https://zoyahomedxb.com/",
+    "address": "\nJVC, Binghatti Azure, Office 119 - Dubai - United Arab Emirates",
+    "city": "JVC Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.4",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Zoya+Home+Real+Estate+Brokers+L.L.C/data=!4m7!3m6!1s0x3e5f6d0005816699:0x6e68460ffbba85d1!8m2!3d25.0684074!4d55.2120666!16s%2Fg%2F11z98n5r04!19sChIJmWaBBQBtXz4R0YW6-w9GaG4?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "JVC Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

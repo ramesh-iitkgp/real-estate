@@ -1,0 +1,50 @@
+{
+    "business_name": "Plazzo Heights",
+    "source_business_name": "Plazzo Heights",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971523550929",
+    "whatsapp": "971523550929",
+    "email": "",
+    "website_url": "https://plazzoheights.ae/",
+    "address": "\nAL-BARSHA SOUTH FOURTH - PLAZZO HEIGHTS, DISTRICT-10 - Jumeirah Village Circle - Dubai - United Arab Emirates",
+    "city": "JVC Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "87",
+    "google_maps_url": "https://www.google.com/maps/place/Plazzo+Heights/data=!4m7!3m6!1s0x3e5f6c3757f8806f:0x1cd82a0fc54b3c19!8m2!3d25.0651968!4d55.2086768!16s%2Fg%2F11gbxbv28l!19sChIJb4D4VzdsXz4RGTxLxQ8q2Bw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "JVC Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

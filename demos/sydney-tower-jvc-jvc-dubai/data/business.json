@@ -1,0 +1,50 @@
+{
+    "business_name": "Sydney Tower-Jvc",
+    "source_business_name": "Sydney Tower-Jvc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971505630582",
+    "whatsapp": "971505630582",
+    "email": "",
+    "website_url": "https://sydneytowerdubai.ae/",
+    "address": "\nJVC - Dubai - United Arab Emirates",
+    "city": "JVC Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Sydney+Tower-JVC/data=!4m7!3m6!1s0x3e5f6db5294b2e0b:0xcf158983240e475f!8m2!3d25.052724!4d55.2010914!16s%2Fg%2F11f11pkv_z!19sChIJCy5LKbVtXz4RX0cOJIOJFc8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "JVC Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

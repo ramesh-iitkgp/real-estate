@@ -1,0 +1,50 @@
+{
+    "business_name": "Marwa Homes 2",
+    "source_business_name": "Marwa Homes 2",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971558303427",
+    "whatsapp": "971558303427",
+    "email": "",
+    "website_url": "",
+    "address": "\n26W5+V4X - JVC - Dubai - United Arab Emirates",
+    "city": "JVC Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "35",
+    "google_maps_url": "https://www.google.com/maps/place/Marwa+Homes+2/data=!4m7!3m6!1s0x3e5f6d8e8c393cc3:0x6dea8b43ab41e76!8m2!3d25.0472381!4d55.2078598!16s%2Fg%2F11fmypr5bk!19sChIJwzw5jI5tXz4Rdh60OrSo3gY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "JVC Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

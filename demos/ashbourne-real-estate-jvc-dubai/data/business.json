@@ -1,0 +1,50 @@
+{
+    "business_name": "Ashbourne Real Estate",
+    "source_business_name": "Ashbourne Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971585554111",
+    "whatsapp": "971585554111",
+    "email": "office@ashbournerealestate.com",
+    "website_url": "https://ashbournerealestate.com/",
+    "address": "\nJVC Circle Mall, Office No: 119 B - Dubai - United Arab Emirates",
+    "city": "JVC Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Ashbourne+Real+Estate/data=!4m7!3m6!1s0x3e5f6d8cc94be031:0xada0845768642d0d!8m2!3d25.0661479!4d55.2156675!16s%2Fg%2F11nq1n2hmm!19sChIJMeBLyYxtXz4RDS1kaFeEoK0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "JVC Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/ashbournerealestate/",
+        "facebook": "https://www.facebook.com/AshbourneRealEstate/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

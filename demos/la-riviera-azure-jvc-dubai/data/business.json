@@ -1,0 +1,50 @@
+{
+    "business_name": "La Riviera Azure",
+    "source_business_name": "La Riviera Azure",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971568186044",
+    "whatsapp": "971568186044",
+    "email": "",
+    "website_url": "http://www.larivieraazure.com/cgi-sys/suspendedpage.cgi",
+    "address": "\nAzure, La Riviera - Al Barsha South Fourth - Jumeirah Village Circle - Dubai - United Arab Emirates",
+    "city": "JVC Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "49",
+    "google_maps_url": "https://www.google.com/maps/place/La+Riviera+Azure/data=!4m7!3m6!1s0x3e5f6d5a2d11ab6d:0xcd740a299df63881!8m2!3d25.0613044!4d55.2036285!16s%2Fg%2F11nntwtw18!19sChIJbasRLVptXz4RgTj2nSkKdM0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "JVC Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

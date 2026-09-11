@@ -1,0 +1,50 @@
+{
+    "business_name": "Dover Homes Real Estate Llc",
+    "source_business_name": "Dover Homes Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971505103884",
+    "whatsapp": "971505103884",
+    "email": "",
+    "website_url": "",
+    "address": "\nThe Square Tower - 206, Jumeirah Village Circle - Dubai - United Arab Emirates",
+    "city": "JVC Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "2",
+    "google_maps_url": "https://www.google.com/maps/place/Dover+Homes+Real+Estate+LLC/data=!4m7!3m6!1s0x3e5f6d9e1c1a2c2d:0xb69f36a19a1ad1f7!8m2!3d25.046538!4d55.2060755!16s%2Fg%2F11vr7w_hkt!19sChIJLSwaHJ5tXz4R99EamqE2n7Y?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "JVC Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

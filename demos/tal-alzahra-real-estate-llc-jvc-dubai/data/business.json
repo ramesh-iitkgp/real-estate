@@ -1,0 +1,50 @@
+{
+    "business_name": "Tal Alzahra Real Estate Llc",
+    "source_business_name": "Tal Alzahra Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971554379099",
+    "whatsapp": "971554379099",
+    "email": "",
+    "website_url": "https://talalzahrarealestate.ae/",
+    "address": "\nA JVC, Prime Business Centre - 1002 tower - Al Barsha South Fourth - Jumeirah Village Circle - Dubai - United Arab Emirates",
+    "city": "JVC Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "1",
+    "google_maps_url": "https://www.google.com/maps/place/Tal+Alzahra+Real+Estate+L.L.C/data=!4m7!3m6!1s0x3e5f6d7a20a7f1c7:0x11c88095439a2cb1!8m2!3d25.0491706!4d55.2146385!16s%2Fg%2F11vxzdxv6f!19sChIJx_GnIHptXz4RsSyaQ5WAyBE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "JVC Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/tal_alzahra_realestate.llc/",
+        "facebook": "https://www.facebook.com/TALALAZHAREALESTATE/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

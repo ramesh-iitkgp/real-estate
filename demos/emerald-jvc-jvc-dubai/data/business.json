@@ -1,0 +1,50 @@
+{
+    "business_name": "Emerald Jvc",
+    "source_business_name": "Emerald Jvc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971527412890",
+    "whatsapp": "971527412890",
+    "email": "info@emeraldproperties.ae",
+    "website_url": "https://emeraldproperties.ae/",
+    "address": "\n3632+3J9 - Al Barsha South Fourth - Jumeirah Village Circle - Dubai - United Arab Emirates",
+    "city": "JVC Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "43",
+    "google_maps_url": "https://www.google.com/maps/place/Emerald+JVC/data=!4m7!3m6!1s0x3e5f6dfb56e9e0fb:0x5f458cfd46ab2eed!8m2!3d25.0526325!4d55.2011963!16s%2Fg%2F11g0f_cth3!19sChIJ--DpVvttXz4R7S6rRv2MRV8?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "JVC Dubai"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/emeraldre/",
+        "facebook": "https://www.facebook.com/pg/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
