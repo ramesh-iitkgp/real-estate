@@ -1,0 +1,50 @@
+{
+    "business_name": "Home Cleaning Services",
+    "source_business_name": "Home Cleaning Services",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971506992037",
+    "whatsapp": "971506992037",
+    "email": "",
+    "website_url": "",
+    "address": "\nبن زايدME - 10 - 2 At Tahaddi St - Mohamed Bin Zayed City - ME10 - Abu Dhabi - United Arab Emirates",
+    "city": "Mohammed Bin Zayed City",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "19",
+    "google_maps_url": "https://www.google.com/maps/place/%D8%AC%D8%B1%D8%A7%D9%86%D8%AF+%D8%A8%D9%84%D8%A7%D8%B2%D8%A7+%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9+%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA%E2%80%AD/data=!4m7!3m6!1s0x3e5e47bc2aba404f:0x84763f80ca233d12!8m2!3d24.3349324!4d54.5306056!16s%2Fg%2F11nghvnf4c!19sChIJT0C6KrxHXj4REj0jyoA_doQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mohammed Bin Zayed City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Comment Real Estate Management",
+    "source_business_name": "Comment Real Estate Management",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971507127430",
+    "whatsapp": "971507127430",
+    "email": "",
+    "website_url": "",
+    "address": "\nbldg-12.ME10. MBZ - United Arab Emirates",
+    "city": "Mohammed Bin Zayed City",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.6",
+    "review_count": "7",
+    "google_maps_url": "https://www.google.com/maps/place/Comment+Real+Estate+Management/data=!4m7!3m6!1s0x3e5e38a78e164901:0xb9456924552384fa!8m2!3d24.3331584!4d54.5352173!16s%2Fg%2F11b6zp45cd!19sChIJAUkWjqc4Xj4R-oQjVSRpRbk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mohammed Bin Zayed City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

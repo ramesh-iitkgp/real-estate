@@ -1,0 +1,50 @@
+{
+    "business_name": "Albateen Arrow Realestate",
+    "source_business_name": "Albateen Arrow Realestate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971559711183",
+    "whatsapp": "971559711183",
+    "email": "",
+    "website_url": "",
+    "address": "\nMBZ M-12 - Building C252 office 4 - opposite Madina Supermarket - Abu Dhabi - United Arab Emirates",
+    "city": "Mohammed Bin Zayed City",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "7",
+    "google_maps_url": "https://www.google.com/maps/place/%D8%B3%D9%87%D9%85+%D8%A7%D9%84%D8%A8%D8%B7%D9%8A%D9%86+%D9%84%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA+%D9%88+%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D9%86%D8%A9+%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9+Albateen+Arrow+Realestate%E2%80%AD/data=!4m7!3m6!1s0x3e5e38ba27629f6b:0x12e22de9a8496803!8m2!3d24.3183059!4d54.535903!16s%2Fg%2F11bw3dp51b!19sChIJa59iJ7o4Xj4RA2hJqOkt4hI?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mohammed Bin Zayed City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

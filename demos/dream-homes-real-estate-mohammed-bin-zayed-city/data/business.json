@@ -1,0 +1,50 @@
+{
+    "business_name": "Dream Homes Real Estate",
+    "source_business_name": "Dream Homes Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971558582917",
+    "whatsapp": "971558582917",
+    "email": "",
+    "website_url": "",
+    "address": "\nMazyad mall - Mohamed Bin Zayed City - Z9 01 - Abu Dhabi - United Arab Emirates",
+    "city": "Mohammed Bin Zayed City",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "9",
+    "google_maps_url": "https://www.google.com/maps/place/Dream+homes+Real+Estate/data=!4m7!3m6!1s0x3e5e47cf99c1f6f3:0xe94c3be3e53a0cb5!8m2!3d24.3736749!4d54.5389058!16s%2Fg%2F11y9990mkb!19sChIJ8_bBmc9HXj4RtQw65eM7TOk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mohammed Bin Zayed City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
