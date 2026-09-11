@@ -1,0 +1,50 @@
+{
+    "business_name": "Al Danah Al Mutamayzah",
+    "source_business_name": "Al Danah Al Mutamayzah",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971567872724",
+    "whatsapp": "971567872724",
+    "email": "",
+    "website_url": "",
+    "address": "\nK F C - Al Dhaid-Maleha Rd - near Dhaid - Al Dhaid - Sharjah - United Arab Emirates",
+    "city": "Al Dhaid",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Al+Danah+Al+Mutamayzah/data=!4m7!3m6!1s0x3ef5bd27462c4783:0x57db2ac7f2a6a5e5!8m2!3d25.2664857!4d55.8845415!16s%2Fg%2F11t7blm07m!19sChIJg0csRie99T4R5aWm8scq21c?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Dhaid"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

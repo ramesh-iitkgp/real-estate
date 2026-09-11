@@ -1,0 +1,50 @@
+{
+    "business_name": "Husn Al Dhaid Real Estate",
+    "source_business_name": "Husn Al Dhaid Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971581058884",
+    "whatsapp": "971581058884",
+    "email": "",
+    "website_url": "",
+    "address": "\n7VJ5+39M - Al Dhaid - Sharjah - United Arab Emirates",
+    "city": "Al Dhaid",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4.7",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/HUSN+AL+Dhaid+REAL+ESTATE/data=!4m7!3m6!1s0x3ef5bfc09d10ccbf:0xe344fd598c62c168!8m2!3d25.28021!4d55.858435!16s%2Fg%2F11y50w39ps!19sChIJv8wQncC_9T4RaMFijFn9ROM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Dhaid"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
