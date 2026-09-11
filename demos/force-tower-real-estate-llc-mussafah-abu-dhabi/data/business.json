@@ -1,0 +1,50 @@
+{
+    "business_name": "Force Tower Real Estate Llc",
+    "source_business_name": "Force Tower Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971507044942",
+    "whatsapp": "971507044942",
+    "email": "",
+    "website_url": "",
+    "address": "\nالشعبيه مكتب - 3 P - 2556 11 Al Hadeeb St - Mohamed Bin Zayed City - ME11 - Abu Dhabi - United Arab Emirates",
+    "city": "Mussafah Abu Dhabi",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "1",
+    "google_maps_url": "https://www.google.com/maps/place/Force+Tower+Real+Estate+LLC/data=!4m7!3m6!1s0x3e5e3917efc59127:0xe63323ffc5a1517b!8m2!3d24.3265077!4d54.5320213!16s%2Fg%2F11mk9sj9pg!19sChIJJ5HF7xc5Xj4Re1Ghxf8jM-Y?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mussafah Abu Dhabi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

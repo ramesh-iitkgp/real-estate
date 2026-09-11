@@ -1,0 +1,50 @@
+{
+    "business_name": "Confident Property Management Llc",
+    "source_business_name": "Confident Property Management Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971505044587",
+    "whatsapp": "971505044587",
+    "email": "",
+    "website_url": "https://confidentgroupuae.com/",
+    "address": "\n9GJ5+GV2 - Tawjeeh 1st Floor 15th Street Mussafa Sanaya - Musaffah - M9 - Abu Dhabi - United Arab Emirates",
+    "city": "Mussafah Abu Dhabi",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "46",
+    "google_maps_url": "https://www.google.com/maps/place/CONFIDENT+PROPERTY+MANAGEMENT+LLC/data=!4m7!3m6!1s0x3e5e41832d80ce83:0x1de56b12d97a15f1!8m2!3d24.3807213!4d54.5097114!16s%2Fg%2F11h_swdbl9!19sChIJg86ALYNBXj4R8RV62RJr5R0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mussafah Abu Dhabi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

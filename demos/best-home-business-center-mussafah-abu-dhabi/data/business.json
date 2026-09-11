@@ -1,0 +1,50 @@
+{
+    "business_name": "Best Home - Business Center",
+    "source_business_name": "Best Home - Business Center",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971509873765",
+    "whatsapp": "971509873765",
+    "email": "enquires@bhgroupae.com",
+    "website_url": "https://bhgroupae.com/",
+    "address": "\nmazyad mall - Tower 2 4th Floor - Mohamed Bin Zayed City - Z9 01 - Abu Dhabi - United Arab Emirates",
+    "city": "Mussafah Abu Dhabi",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "215",
+    "google_maps_url": "https://www.google.com/maps/place/Best+Home+-+Business+Center/data=!4m7!3m6!1s0x3e5e478ac9eced4f:0x604344c14ea4859f!8m2!3d24.3734071!4d54.5388185!16s%2Fg%2F11h4tc518m!19sChIJT-3syYpHXj4Rn4WkTsFEQ2A?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mussafah Abu Dhabi"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/bhgroupae/",
+        "facebook": "https://www.facebook.com/Besthomegroup.ae/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

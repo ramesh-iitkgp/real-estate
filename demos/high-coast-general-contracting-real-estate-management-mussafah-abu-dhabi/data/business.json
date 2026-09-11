@@ -1,0 +1,50 @@
+{
+    "business_name": "High Coast General Contracting & Real Estate Management",
+    "source_business_name": "High Coast General Contracting & Real Estate Management",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971528809888",
+    "whatsapp": "971528809888",
+    "email": "",
+    "website_url": "http://www.highcoastuae.com/",
+    "address": "\n12th St - Musaffah - Musaffah Industrial - Abu Dhabi - United Arab Emirates",
+    "city": "Mussafah Abu Dhabi",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "17",
+    "google_maps_url": "https://www.google.com/maps/place/High+Coast+general+contracting+%26+real+estate+management/data=!4m7!3m6!1s0x3e5e41a0b736e873:0xbadf854165ee4322!8m2!3d24.3585363!4d54.503875!16s%2Fg%2F11j1k3fbdd!19sChIJc-g2t6BBXj4RIkPuZUGF37o?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mussafah Abu Dhabi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "business_name": "Arabian Homes Real Estate Llc",
+    "source_business_name": "Arabian Homes Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971559130700",
+    "whatsapp": "971559130700",
+    "email": "property@ahruae.com",
+    "website_url": "https://ahruae.com/",
+    "address": "\n24°20'40. 54°32'06. - 9th St - Abu Dhabi - United Arab Emirates",
+    "city": "Mussafah Abu Dhabi",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "9",
+    "google_maps_url": "https://www.google.com/maps/place/Arabian+Homes+Real+Estate+L.L.C/data=!4m7!3m6!1s0x3e5e475a34753495:0x8a0f9afcc9bcb8d2!8m2!3d24.3415348!4d54.5329573!16s%2Fg%2F11cp658sbc!19sChIJlTR1NFpHXj4R0ri8yfyaD4o?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mussafah Abu Dhabi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

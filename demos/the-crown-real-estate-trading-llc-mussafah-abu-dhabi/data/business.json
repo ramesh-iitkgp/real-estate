@@ -1,0 +1,50 @@
+{
+    "business_name": "The Crown Real Estate & Trading Llc",
+    "source_business_name": "The Crown Real Estate & Trading Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971507918619",
+    "whatsapp": "971507918619",
+    "email": "",
+    "website_url": "https://www.crownrealestate.ae/",
+    "address": "\nOffice No. 2 - M10 Plot 41, Ground Floor - Musaffah - Abu Dhabi - United Arab Emirates",
+    "city": "Mussafah Abu Dhabi",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "1",
+    "google_maps_url": "https://www.google.com/maps/place/The+Crown+Real+Estate+%26+Trading+L.L.C/data=!4m7!3m6!1s0x3e5e417aecf8a85d:0x316d4ad1a4f0686!8m2!3d24.3715717!4d54.5017405!16s%2Fg%2F11lp167vpg!19sChIJXaj47HpBXj4RhgZPGq3UFgM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mussafah Abu Dhabi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

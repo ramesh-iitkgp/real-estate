@@ -1,0 +1,50 @@
+{
+    "business_name": "Good Luck Real Estate & General Contracting",
+    "source_business_name": "Good Luck Real Estate & General Contracting",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971501492399",
+    "whatsapp": "971501492399",
+    "email": "info@goodluckuae.com",
+    "website_url": "http://goodluckuae.com/",
+    "address": "\nMusaffah - M4 - Abu Dhabi - United Arab Emirates",
+    "city": "Mussafah Abu Dhabi",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "1",
+    "google_maps_url": "https://www.google.com/maps/place/GOOD+LUCK+REAL+ESTATE+%26+GENERAL+CONTRACTING/data=!4m7!3m6!1s0x3e5e39ba92676803:0xd32e2e6547e5440d!8m2!3d24.3675005!4d54.5210817!16s%2Fg%2F11nmng7nnp!19sChIJA2hnkro5Xj4RDUTlR2UuLtM?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mussafah Abu Dhabi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

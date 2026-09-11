@@ -1,0 +1,50 @@
+{
+    "business_name": "Sea Shore Properties And Building Maintenance",
+    "source_business_name": "Sea Shore Properties And Building Maintenance",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971503678001",
+    "whatsapp": "971503678001",
+    "email": "",
+    "website_url": "",
+    "address": "\nF8CR+JCM - Beeshan St - Al Bateen - W10 - Abu Dhabi - United Arab Emirates",
+    "city": "Mussafah Abu Dhabi",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Sea+Shore+Properties+and+Building+Maintenance./data=!4m7!3m6!1s0x3e5e67dd8088547d:0x6b2ed54ca85137e6!8m2!3d24.4715625!4d54.3410625!16s%2Fg%2F11h4fj3jnt!19sChIJfVSIgN1nXj4R5jdRqEzVLms?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mussafah Abu Dhabi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

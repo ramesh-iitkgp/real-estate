@@ -1,0 +1,50 @@
+{
+    "business_name": "Best Land Real Estate Management",
+    "source_business_name": "Best Land Real Estate Management",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971562515982",
+    "whatsapp": "971562515982",
+    "email": "",
+    "website_url": "https://bestlandrealestatemanagement.godaddysites.com/",
+    "address": "\nM-14, Plot No-26, Office No-17 - Musaffah - Abu Dhabi - United Arab Emirates",
+    "city": "Mussafah Abu Dhabi",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "20",
+    "google_maps_url": "https://www.google.com/maps/place/Best+Land+Real+Estate+Management/data=!4m7!3m6!1s0x62a8cc8056468085:0xa857ba57e43305cd!8m2!3d24.3796618!4d54.4994845!16s%2Fg%2F11vt0ngm12!19sChIJhYBGVoDMqGIRzQUz5Fe6V6g?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mussafah Abu Dhabi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "https://www.facebook.com/profile.php/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

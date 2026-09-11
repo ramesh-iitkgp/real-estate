@@ -1,0 +1,50 @@
+{
+    "business_name": "The Sustainable City Yas Island",
+    "source_business_name": "The Sustainable City Yas Island",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971547001517",
+    "whatsapp": "971547001517",
+    "email": "",
+    "website_url": "",
+    "address": "\nGJ37+3WQ - Yas Island - Yas North - Abu Dhabi - United Arab Emirates",
+    "city": "Mussafah Abu Dhabi",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "4",
+    "review_count": "24",
+    "google_maps_url": "https://www.google.com/maps/place/The+Sustainable+City+Yas+Island/data=!4m7!3m6!1s0x3e5e4fd9dacd04fb:0xe9877310bab37e18!8m2!3d24.5027863!4d54.614872!16s%2Fg%2F11tp37hf01!19sChIJ-wTN2tlPXj4RGH6zuhBzh-k?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mussafah Abu Dhabi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

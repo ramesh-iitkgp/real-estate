@@ -1,0 +1,50 @@
+{
+    "business_name": "Ideal Greenland Real Estate Llc",
+    "source_business_name": "Ideal Greenland Real Estate Llc",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "971502416589",
+    "whatsapp": "971502416589",
+    "email": "",
+    "website_url": "",
+    "address": "\n10 Al Fanajeel St - Mohamed Bin Zayed City - ME9 - Abu Dhabi - United Arab Emirates",
+    "city": "Mussafah Abu Dhabi",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "25",
+    "google_maps_url": "https://www.google.com/maps/place/Ideal+Greenland+Real+Estate+L.L.C/data=!4m7!3m6!1s0x3e5e470014b55b35:0xd67853f4576e8b92!8m2!3d24.3439455!4d54.530075!16s%2Fg%2F11w8rfb4cf!19sChIJNVu1FABHXj4RkotuV_RTeNY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Mussafah Abu Dhabi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
