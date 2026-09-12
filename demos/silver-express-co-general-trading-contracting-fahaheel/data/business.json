@@ -1,0 +1,50 @@
+{
+    "business_name": "Silver Express Co General Trading & Contracting",
+    "source_business_name": "Silver Express Co General Trading & Contracting",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "96598055838",
+    "whatsapp": "96598055838",
+    "email": "",
+    "website_url": "",
+    "address": "\nFloor, Office No 9, Beside AJYAL Complex, In front of the Public Parking, Bldg No 8, 4th, Kuwait",
+    "city": "Fahaheel",
+    "state": "",
+    "country": "Kuwait",
+    "currency_symbol": "KWD ",
+    "currency_code": "KWD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "2",
+    "google_maps_url": "https://www.google.com/maps/place/Silver+Express+Co.+General+Trading+%26+Contracting/data=!4m7!3m6!1s0x3fcf0714bf8fbd45:0xcbce1f30465e4678!8m2!3d29.0817819!4d48.1366627!16s%2Fg%2F11sqqhyw59!19sChIJRb2PvxQHzz8ReEZeRjAfzss?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Fahaheel"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
