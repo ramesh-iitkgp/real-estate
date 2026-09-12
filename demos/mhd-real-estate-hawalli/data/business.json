@@ -1,0 +1,50 @@
+{
+    "business_name": "Mhd Real Estate",
+    "source_business_name": "Mhd Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "96569921999",
+    "whatsapp": "96569921999",
+    "email": "",
+    "website_url": "",
+    "address": "\nAli Al-Salem St, Kuwait City 14000, Kuwait",
+    "city": "Hawalli",
+    "state": "",
+    "country": "Kuwait",
+    "currency_symbol": "KWD ",
+    "currency_code": "KWD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "1",
+    "google_maps_url": "https://www.google.com/maps/place/MHD+Real+Estate/data=!4m7!3m6!1s0x97319fcc8f26b79:0x2df8b0a1bc39c5ee!8m2!3d29.3771391!4d47.9744005!16s%2Fg%2F11yzw37qv9!19sChIJeWvyyPwZcwkR7sU5vKGw-C0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hawalli"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

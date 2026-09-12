@@ -1,0 +1,50 @@
+{
+    "business_name": "Home Cleaning Services",
+    "source_business_name": "Home Cleaning Services",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "96565779631",
+    "whatsapp": "96565779631",
+    "email": "",
+    "website_url": "https://joanrealstate-kw.com/",
+    "address": "\nMubarak Al Kabeer St, Kuwait City, Kuwait",
+    "city": "Hawalli",
+    "state": "",
+    "country": "Kuwait",
+    "currency_symbol": "KWD ",
+    "currency_code": "KWD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "6",
+    "google_maps_url": "https://www.google.com/maps/place/%D8%B4%D8%B1%D9%83%D8%A9+%D8%AC%D9%88%D9%86+%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA+%D9%84%D9%84%D8%AA%D9%82%D9%8A%D9%8A%D9%85+%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A+%D8%A3%D8%AD%D9%85%D8%AF+%D8%A8%D9%88%D8%B9%D8%A8%D8%A7%D8%B3%E2%80%AD/data=!4m7!3m6!1s0x3fcf85d025cb4135:0x1c15e48dd094793e!8m2!3d29.3767947!4d47.9757332!16s%2Fg%2F11ykvnf51w!19sChIJNUHLJdCFzz8RPnmU0I3kFRw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hawalli"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

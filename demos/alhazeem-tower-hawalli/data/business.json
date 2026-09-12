@@ -1,0 +1,50 @@
+{
+    "business_name": "- Alhazeem Tower",
+    "source_business_name": "- Alhazeem Tower",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "96598591449",
+    "whatsapp": "96598591449",
+    "email": "",
+    "website_url": "",
+    "address": "\nTunis St, Hawally, Kuwait",
+    "city": "Hawalli",
+    "state": "",
+    "country": "Kuwait",
+    "currency_symbol": "KWD ",
+    "currency_code": "KWD",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "37",
+    "google_maps_url": "https://www.google.com/maps/place/%D8%A8%D8%B1%D8%AC+%D8%B9%D8%A8%D8%A7%D8%B3+%D8%B9%D9%84%D9%8A+%D8%A7%D9%84%D9%87%D8%B2%D9%8A%D9%85+-+Alhazeem+Tower%E2%80%AD/data=!4m7!3m6!1s0x3fcf9c93a2892cfb:0x51d8f32bdbc33833!8m2!3d29.34235!4d48.017887!16s%2Fg%2F1w0j2p7h!19sChIJ-yyJopOczz8RMzjD2yvz2FE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Hawalli"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
