@@ -1,0 +1,50 @@
+{
+    "business_name": "Remax Real Estate",
+    "source_business_name": "Remax Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "96569674445",
+    "whatsapp": "96569674445",
+    "email": "",
+    "website_url": "",
+    "address": "\n83Q9+JM4, 135 St, Salmiya, Kuwait",
+    "city": "Salmiya",
+    "state": "",
+    "country": "Kuwait",
+    "currency_symbol": "KWD ",
+    "currency_code": "KWD",
+    "opening_hours": "",
+    "rating": "1",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Remax+Real+Estate+-+%D8%B4%D8%B1%D9%83%D8%A9+%D8%B1%D9%8A%D9%85%D8%A7%D9%83%D8%B3+%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x3fcf9db1e8179b8d:0x3c13c2233b5cdea3!8m2!3d29.3390231!4d48.0692186!16s%2Fg%2F11h3mw9jk8!19sChIJjZsX6LGdzz8Ro95cOyPCEzw?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Salmiya"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

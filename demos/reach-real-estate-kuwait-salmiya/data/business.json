@@ -1,0 +1,50 @@
+{
+    "business_name": "Reach Real Estate",
+    "source_business_name": "Reach Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "96599781074",
+    "whatsapp": "96599781074",
+    "email": "",
+    "website_url": "https://reachrealestate.com/",
+    "address": "\nOffice No. 43, 15th Floor, Salwa Tower, Abdul Aziz Al Saqr St, Kuwait City, Kuwait",
+    "city": "Salmiya",
+    "state": "",
+    "country": "Kuwait",
+    "currency_symbol": "KWD ",
+    "currency_code": "KWD",
+    "opening_hours": "",
+    "rating": "3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Reach+Real+Estate+Kuwait/data=!4m7!3m6!1s0x3fcf7772eede6995:0x3910da13fe638429!8m2!3d29.3674481!4d47.9764412!16s%2Fg%2F11vwdmylpg!19sChIJlWne7nJ3zz8RKYRj_hPaEDk?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Salmiya"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
