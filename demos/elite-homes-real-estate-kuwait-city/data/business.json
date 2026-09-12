@@ -1,0 +1,50 @@
+{
+    "business_name": "Elite Homes Real Estate",
+    "source_business_name": "Elite Homes Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "96595516178",
+    "whatsapp": "96595516178",
+    "email": "",
+    "website_url": "",
+    "address": "\nDar Alawadi Complex– Floor M1 Office M12 Ahmed Al-Jaber Street – Sharq Kuwait City Sharq, Kuwait City Sharq, 15300, Kuwait",
+    "city": "Kuwait City",
+    "state": "",
+    "country": "Kuwait",
+    "currency_symbol": "KWD ",
+    "currency_code": "KWD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Elite+Homes+Real+Estate/data=!4m7!3m6!1s0x3fcf857b9f8b5a19:0xcdf296f382177a5e!8m2!3d29.3817116!4d47.9868643!16s%2Fg%2F11qq9l6xzl!19sChIJGVqLn3uFzz8RXnoXgvOW8s0?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Kuwait City"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
