@@ -1,0 +1,50 @@
+{
+    "business_name": "Hr General Trading And Contracting Est",
+    "source_business_name": "Hr General Trading And Contracting Est",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "96569017710",
+    "whatsapp": "96569017710",
+    "email": "",
+    "website_url": "",
+    "address": "\nMangaf, Kuwait",
+    "city": "Al Ahmadi",
+    "state": "",
+    "country": "Kuwait",
+    "currency_symbol": "KWD ",
+    "currency_code": "KWD",
+    "opening_hours": "",
+    "rating": "4.3",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/HR+General+Trading+and+Contracting+Est./data=!4m7!3m6!1s0x3fcf063b5858f483:0x5a52668236e4d493!8m2!3d29.0967391!4d48.1348533!16s%2Fg%2F11d_8l_hmx!19sChIJg_RYWDsGzz8Rk9TkNoJmUlo?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Al Ahmadi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
