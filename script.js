@@ -131,12 +131,24 @@ async function loadRealEstateData() {
     const res = await fetch("./data/business.json");
     if (!res.ok) throw new Error("Could not load data/business.json");
     realEstateData = await res.json();
-    currentCurrency = realEstateData.currency_symbol || (realEstateData.country === "India" ? "₹" : "$");
-    applyDataToDOM(realEstateData);
   } catch (err) {
     console.warn("Using fallback real estate state:", err);
-    applyDataToDOM({});
+    realEstateData = {};
   }
+
+  const urlParams = new URLSearchParams(window.location.search);
+  if (urlParams.get("name") || urlParams.get("business_name")) {
+    realEstateData.business_name = urlParams.get("name") || urlParams.get("business_name");
+  }
+  if (urlParams.get("city")) {
+    realEstateData.city = urlParams.get("city");
+  }
+  if (urlParams.get("phone")) {
+    realEstateData.phone = urlParams.get("phone");
+  }
+
+  currentCurrency = realEstateData.currency_symbol || (realEstateData.country === "India" ? "₹" : "$");
+  applyDataToDOM(realEstateData);
 }
 
 function cleanBusinessName(raw, city = "") {
@@ -152,16 +164,17 @@ function cleanBusinessName(raw, city = "") {
 }
 
 function applyDataToDOM(data) {
-  const city = data.city || "Chennai";
+  const city = data.city || "Miami";
   const bName = cleanBusinessName(data.business_name || "Apex Premier Realty", city);
   document.title = `${bName} | Verified Properties & Real Estate Advisory`;
 
   document.querySelectorAll("[data-bind='business_name']").forEach(el => el.textContent = bName);
   
-  const defaultTagline = `Your trusted local property consultants for buying, selling, and investing in verified residential homes, luxury villas, commercial spaces, and plots across ${city}.`;
-  document.querySelectorAll("[data-bind='tagline']").forEach(el => el.textContent = data.tagline || defaultTagline);
+  document.querySelectorAll("[data-bind='tagline']").forEach(el => {
+    el.innerHTML = `Discover exceptional luxury homes, prime villas, and private estates curated by <strong style="color: #FAF6F0;">${bName}</strong> across ${city}.`;
+  });
   document.querySelectorAll("[data-bind='city']").forEach(el => el.textContent = city);
-  document.querySelectorAll("[data-bind='address']").forEach(el => el.textContent = data.address || `${city}, Tamil Nadu, India`);
+  document.querySelectorAll("[data-bind='address']").forEach(el => el.textContent = data.address || `${city}, Prime Location`);
 
   if (data.phone) {
     document.querySelectorAll("[data-phone]").forEach(el => el.href = `tel:${data.phone.replace(/\s+/g, '')}`);
