@@ -1,0 +1,51 @@
+{
+    "business_name": "Paul Neilan - Bayleys Real Estate",
+    "hero_brand_name": "Paul Neilan",
+    "source_business_name": "Paul Neilan - Bayleys Real Estate",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "6421334061",
+    "whatsapp": "6421334061",
+    "email": "",
+    "website_url": "",
+    "address": "\n288 Trafalgar Street, Nelson 7010, New Zealand",
+    "city": "Nelson",
+    "state": "",
+    "country": "New Zealand",
+    "currency_symbol": "NZ$",
+    "currency_code": "NZD",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Paul+Neilan+-+Bayleys+Real+Estate/data=!4m7!3m6!1s0x6d3bed1cbf8bdce9:0xc0ca161c95ea4ba3!8m2!3d-41.2749109!4d173.2836642!16s%2Fg%2F11j94fslxf!19sChIJ6dyLvxztO20Ro0vqlRwWysA?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Nelson"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

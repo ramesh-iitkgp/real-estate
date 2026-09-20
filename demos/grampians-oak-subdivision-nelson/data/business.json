@@ -1,0 +1,51 @@
+{
+    "business_name": "Grampians Oak Subdivision",
+    "hero_brand_name": "Grampians Oak",
+    "source_business_name": "Grampians Oak Subdivision",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "64272811007",
+    "whatsapp": "64272811007",
+    "email": "",
+    "website_url": "",
+    "address": "\nCrathie Place, Nelson, New Zealand",
+    "city": "Nelson",
+    "state": "",
+    "country": "New Zealand",
+    "currency_symbol": "NZ$",
+    "currency_code": "NZD",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "2",
+    "google_maps_url": "https://www.google.com/maps/place/Grampians+Oak+subdivision/data=!4m7!3m6!1s0x6d3bedfda313541b:0x8f93dede42e07833!8m2!3d-41.2901736!4d173.2743284!16s%2Fg%2F11fjx2nsd4!19sChIJG1QTo_3tO20RM3jgQt7ek48?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Nelson"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}

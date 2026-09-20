@@ -1,0 +1,51 @@
+{
+    "business_name": "Doug Mckee Realty",
+    "hero_brand_name": "Doug Mckee",
+    "source_business_name": "Doug Mckee Realty",
+    "tagline": "Exclusive Luxury Homes, Penthouses & Prime Investment Properties",
+    "category": "Real Estate Agency",
+    "phone": "64274426927",
+    "whatsapp": "64274426927",
+    "email": "",
+    "website_url": "",
+    "address": "\n288 Trafalgar Street, Nelson 7010, New Zealand",
+    "city": "Nelson",
+    "state": "",
+    "country": "New Zealand",
+    "currency_symbol": "NZ$",
+    "currency_code": "NZD",
+    "opening_hours": "",
+    "rating": "4.5",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Doug+McKee+Realty/data=!4m7!3m6!1s0x6d3bed0fee2d081f:0xbd922f39f13f0efa!8m2!3d-41.2749109!4d173.2835556!16s%2Fg%2F1th0bmqn!19sChIJHwgt7g_tO20R-g4_8Tkvkr0?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Nelson"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "Regular Home Cleaning",
+            "description": "Thorough room-by-room recurring cleaning and sanitization.",
+            "image": ""
+        },
+        {
+            "name": "Deep Cleaning",
+            "description": "Comprehensive top-to-bottom scrub, appliance detox, and intensive sanitation.",
+            "image": ""
+        },
+        {
+            "name": "Move-In / Move-Out Cleaning",
+            "description": "Spotless empty-home turnover cleaning guaranteed to pass inspection.",
+            "image": ""
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
